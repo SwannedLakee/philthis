@@ -31,15 +31,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-20c62560dd06c367e9529-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-20c62560dd06c367e9529-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-5b018debf7976019a67bf-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-5b018debf7976019a67bf-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-c6a38111aec507149cb3d-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-c6a38111aec507149cb3d-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-fd2acc815706e38fcfdf0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-fd2acc815706e38fcfdf0-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-f2ab9d621459adff61854-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-f2ab9d621459adff61854-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-5bb0d778d83f13205cb28-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-5bb0d778d83f13205cb28-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-85ba3ca4a31e0ce3920dd-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-85ba3ca4a31e0ce3920dd-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-8d10d1d2a182672e5c442-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-6de3ad541b606b9d9d66a-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-a9d6e2a5fc511c5f6dd74-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-c75f5ecdd041f8318c641-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-282e8f59e148b6ff0c51d-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-91e23fb14e407e3111565-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-1207a26b360ea74b4f3f0-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-08420ed654825e8a2c666-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-1e0abfbf618ec151f5ea0-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5e30d147db4c9fc99bc01-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-bcad67b69ac8726347a42-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-df911470e9b09f49f1e70-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-f7b2e999121148be21967-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b5866195793e01d164f6a-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5cf58e310826d0f6c42c8-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-b3d223013120a89f31316-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-bc8d3e393b6e471dd5206-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-638e733cac57cc09e00a5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-0d9e3874666a333663c03-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-9c28b3e79ab0c859d9def-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-edc0e09f99c7b0e2b2b17-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-a93119a6818d0f72b5806-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-0f319b7e74cf8eabeae7a-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-520fe124ce9f0190cd684-min.en-US.js"}},"pageType":1,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1669134164460,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"3":true,"2":true,"8":true,"7":true,"6":true,"1":true,"4":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["commerce_etsy_shipping_import","send_local_pickup_ready_email","campaigns_global_uc_ab","commerce_site_visitor_metrics","campaigns_asset_picker","campaigns_new_image_layout_picker","fluid_engine_filtered_catalog_endpoints","commerce_etsy_product_import","supports_versioned_template_assets","themes","marketing_landing_page","member_areas_schedule_interview","nested_categories_migration_enabled","crm_remove_subscriber","campaigns_import_discounts","asset_uploader_refactor","crm_default_newsletter_block_to_campaigns","member_areas_provisioning_service","commerce_clearpay","customer_accounts_email_verification","campaigns_new_subscriber_search","new_stacked_index","campaigns_discount_section_in_blasts","viewer-role-contributor-invites","background_art_onboarding","site_header_footer","commerce_restock_notifications","campaigns_content_editing_survey","override_block_styles","product_composer_feedback_form_on_save","scripts_defer","fluid_engine","member_areas_spanish_interviews","nested_categories","commerce_order_status_access","campaigns_thumbnail_layout","campaigns_discount_section_in_automations","block_annotations_revamp","use_customer_account_events","collection_typename_switching","fluid_engine_clean_up_grid_contextual_change","crm_retention_segment","customer_account_creation_recaptcha","is_feature_gate_refresh_enabled"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-video-block"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/62/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1337/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-fd2acc815706e38fcfdf0-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-232ea070335df80d4cbe6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-232ea070335df80d4cbe6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-aa081490e226e362278bd-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-aa081490e226e362278bd-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-0f5642c830ad27845ce87-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-0f5642c830ad27845ce87-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-3a4da96869484cea25005-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ab1a2eef5a874cfe328c9-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-a9d6e2a5fc511c5f6dd74-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-8efaaf8b14923917ef5f6-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-f2cde4acb439118b1b5af-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-91e23fb14e407e3111565-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-cc9f95c539d83b73d7383-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0c6de8a9ce88a79c1f3c2-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-97b1b51af5c8bd645bba5-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-488c663d177baa71c2beb-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f04f6a1a57083d923bb7b-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-df911470e9b09f49f1e70-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-f7b2e999121148be21967-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-9cefbbe26f708563cfd58-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-34c26d7410c3343d62e5f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c85ba5bbf15c69b0e227b-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-fe7f26cfa830169aaefdb-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-638e733cac57cc09e00a5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-ea9e2082eeb50f3ea6624-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-c6ceef76b080ace927634-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-edc0e09f99c7b0e2b2b17-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-6eb2ef014e9b8b7b9aa33-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-c52abc9ee2d32a5cfe9b2-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-938a947b85cccc12d11e2-min.en-US.js"}},"pageType":1,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1669134164460,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"2":true,"3":true,"8":true,"4":true,"7":true,"6":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["nested_categories_migration_enabled","campaigns_import_discounts","crm_remove_subscriber","new_stacked_index","override_block_styles","commerce_clearpay","fluid_engine_clean_up_grid_contextual_change","member_areas_spanish_interviews","asset_uploader_refactor","background_art_onboarding","marketing_landing_page","nested_categories","commerce_restock_notifications","viewer-role-contributor-invites","themes","collection_typename_switching","member_areas_provisioning_service","is_feature_gate_refresh_enabled","commerce_etsy_product_import","block_annotations_revamp","supports_versioned_template_assets","fluid_engine_filtered_catalog_endpoints","commerce_site_visitor_metrics","crm_default_newsletter_block_to_campaigns","campaigns_content_editing_survey","campaigns_discount_section_in_blasts","campaigns_new_subscriber_search","campaigns_thumbnail_layout","campaigns_global_uc_ab","customer_account_creation_recaptcha","commerce_etsy_shipping_import","customer_accounts_email_verification","commerce_order_status_access","campaigns_discount_section_in_automations","member_areas_schedule_interview","site_header_footer","scripts_defer","crm_retention_segment","use_customer_account_events","campaigns_asset_picker","send_local_pickup_ready_email","fluid_engine","product_composer_feedback_form_on_save","campaigns_new_image_layout_picker"],"videoAssetsFeatureFlags":["video-block-playback-settings","mux-data-video-collection","mux-data-video-block"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/62/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1340/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <script>
@@ -123,153 +123,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-                                                    &quot;layout&quot;: &quot;navRight&quot;,
-                                                    &quot;action&quot;: {
-                                                      &quot;href&quot;: &quot;/take-action&quot;,
-                                                      &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                                      &quot;newWindow&quot;: false
-                                                    },
-                                                    &quot;showSocial&quot;: true,
-                                                    &quot;socialOptions&quot;: {
-                                                      &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                      &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                      &quot;socialBorderThickness&quot;: {
-                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                        &quot;value&quot;: 1.0
-                                                      }
-                                                    },
-                                                    &quot;sectionTheme&quot;: &quot;light&quot;,
-                                                    &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                    &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                    &quot;cartText&quot;: &quot;Cart&quot;,
-                                                    &quot;showEmptyCartState&quot;: true,
-                                                    &quot;cartOptions&quot;: {
-                                                      &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                      &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                      &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                      &quot;cartBorderThickness&quot;: {
-                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                        &quot;value&quot;: 1.0
-                                                      }
-                                                    },
-                                                    &quot;showButton&quot;: false,
-                                                    &quot;showCart&quot;: false,
-                                                    &quot;showAccountLogin&quot;: true,
-                                                    &quot;headerStyle&quot;: &quot;theme&quot;,
-                                                    &quot;languagePicker&quot;: {
-                                                      &quot;enabled&quot;: false,
-                                                      &quot;iconEnabled&quot;: false,
-                                                      &quot;iconType&quot;: &quot;globe&quot;,
-                                                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                      &quot;languageFlags&quot;: [ ]
-                                                    },
-                                                    &quot;mobileOptions&quot;: {
-                                                      &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                                      &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                      &quot;menuIconOptions&quot;: {
-                                                        &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                        &quot;thickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 1.0
-                                                        }
-                                                      }
-                                                    },
-                                                    &quot;dynamicOptions&quot;: {
-                                                      &quot;border&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                        &quot;thickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 4.0
-                                                        }
-                                                      }
-                                                    },
-                                                    &quot;solidOptions&quot;: {
-                                                      &quot;headerOpacity&quot;: {
-                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                        &quot;value&quot;: 100.0
-                                                      },
-                                                      &quot;border&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                        &quot;thickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 4.0
-                                                        }
-                                                      },
-                                                      &quot;dropShadow&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;blur&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 30.0
-                                                        },
-                                                        &quot;spread&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 0.0
-                                                        },
-                                                        &quot;distance&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 0.0
-                                                        }
-                                                      },
-                                                      &quot;blurBackground&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;blurRadius&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 12.0
-                                                        }
-                                                      }
-                                                    },
-                                                    &quot;gradientOptions&quot;: {
-                                                      &quot;gradientType&quot;: &quot;faded&quot;,
-                                                      &quot;headerOpacity&quot;: {
-                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                        &quot;value&quot;: 90.0
-                                                      },
-                                                      &quot;border&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                        &quot;thickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 4.0
-                                                        }
-                                                      },
-                                                      &quot;dropShadow&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;blur&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 30.0
-                                                        },
-                                                        &quot;spread&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 0.0
-                                                        },
-                                                        &quot;distance&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 0.0
-                                                        }
-                                                      },
-                                                      &quot;blurBackground&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;blurRadius&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 12.0
-                                                        }
-                                                      }
-                                                    },
-                                                    &quot;showPromotedElement&quot;: false
-                                                  }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                                                    &quot;enabled&quot;: false,
-                                                    &quot;iconEnabled&quot;: false,
-                                                    &quot;iconType&quot;: &quot;globe&quot;,
-                                                    &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                    &quot;languageFlags&quot;: [ ]
-                                                  }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -836,142 +836,142 @@
     
     "
     data-current-styles="{
-                                                    &quot;layout&quot;: &quot;navRight&quot;,
-                                                    &quot;action&quot;: {
-                                                      &quot;href&quot;: &quot;/take-action&quot;,
-                                                      &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                                      &quot;newWindow&quot;: false
-                                                    },
-                                                    &quot;showSocial&quot;: true,
-                                                    &quot;socialOptions&quot;: {
-                                                      &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                      &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                      &quot;socialBorderThickness&quot;: {
-                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                        &quot;value&quot;: 1.0
-                                                      }
-                                                    },
-                                                    &quot;sectionTheme&quot;: &quot;light&quot;,
-                                                    &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                    &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                    &quot;cartText&quot;: &quot;Cart&quot;,
-                                                    &quot;showEmptyCartState&quot;: true,
-                                                    &quot;cartOptions&quot;: {
-                                                      &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                      &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                      &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                      &quot;cartBorderThickness&quot;: {
-                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                        &quot;value&quot;: 1.0
-                                                      }
-                                                    },
-                                                    &quot;showButton&quot;: false,
-                                                    &quot;showCart&quot;: false,
-                                                    &quot;showAccountLogin&quot;: true,
-                                                    &quot;headerStyle&quot;: &quot;theme&quot;,
-                                                    &quot;languagePicker&quot;: {
-                                                      &quot;enabled&quot;: false,
-                                                      &quot;iconEnabled&quot;: false,
-                                                      &quot;iconType&quot;: &quot;globe&quot;,
-                                                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                      &quot;languageFlags&quot;: [ ]
-                                                    },
-                                                    &quot;mobileOptions&quot;: {
-                                                      &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                                      &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                      &quot;menuIconOptions&quot;: {
-                                                        &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                        &quot;thickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 1.0
-                                                        }
-                                                      }
-                                                    },
-                                                    &quot;dynamicOptions&quot;: {
-                                                      &quot;border&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                        &quot;thickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 4.0
-                                                        }
-                                                      }
-                                                    },
-                                                    &quot;solidOptions&quot;: {
-                                                      &quot;headerOpacity&quot;: {
-                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                        &quot;value&quot;: 100.0
-                                                      },
-                                                      &quot;border&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                        &quot;thickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 4.0
-                                                        }
-                                                      },
-                                                      &quot;dropShadow&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;blur&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 30.0
-                                                        },
-                                                        &quot;spread&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 0.0
-                                                        },
-                                                        &quot;distance&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 0.0
-                                                        }
-                                                      },
-                                                      &quot;blurBackground&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;blurRadius&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 12.0
-                                                        }
-                                                      }
-                                                    },
-                                                    &quot;gradientOptions&quot;: {
-                                                      &quot;gradientType&quot;: &quot;faded&quot;,
-                                                      &quot;headerOpacity&quot;: {
-                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                        &quot;value&quot;: 90.0
-                                                      },
-                                                      &quot;border&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                        &quot;thickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 4.0
-                                                        }
-                                                      },
-                                                      &quot;dropShadow&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;blur&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 30.0
-                                                        },
-                                                        &quot;spread&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 0.0
-                                                        },
-                                                        &quot;distance&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 0.0
-                                                        }
-                                                      },
-                                                      &quot;blurBackground&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;blurRadius&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 12.0
-                                                        }
-                                                      }
-                                                    },
-                                                    &quot;showPromotedElement&quot;: false
-                                                  }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1084,13 +1084,19 @@
         
           <article class="sections" data-page-sections="6053dc3a01905600e48be239" id="sections">
   
+  
     
+    
+
+
+  
+
 
 <section
   data-test="page-section"
   
   data-section-theme=""
-  class='page-section
+  class='page-section 
     
       content-collection
       full-bleed-section
@@ -1115,30 +1121,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                    &quot;imageOverlayOpacity&quot;: 0.15,
-                                                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                    &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                                                    &quot;customSectionHeight&quot;: 10,
-                                                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                    &quot;customContentWidth&quot;: 50,
-                                                    &quot;sectionTheme&quot;: &quot;&quot;,
-                                                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                    &quot;backgroundMode&quot;: &quot;image&quot;
-                                                  }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                                    &quot;video&quot;: {
-                                                      &quot;playbackSpeed&quot;: 0.5,
-                                                      &quot;filter&quot;: 1,
-                                                      &quot;filterStrength&quot;: 0,
-                                                      &quot;zoom&quot;: 0,
-                                                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                    },
-                                                    &quot;backgroundImageId&quot;: null,
-                                                    &quot;backgroundMediaEffect&quot;: null,
-                                                    &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                                  }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1147,13 +1154,17 @@
   
   
 >
-  <div class="section-border">
+  <div
+    class="section-border" 
+    
+  >
     <div class="section-background">
     
       
     
     </div>
   </div>
+  
   <div
     class="content-wrapper"
     style='
@@ -1656,6 +1667,7 @@
   
 </article>
 
+
           
             
           
@@ -1689,11 +1701,15 @@
   
     
 
+
+  
+
+
 <section
   data-test="page-section"
   
   data-section-theme="dark"
-  class='page-section
+  class='page-section 
     
       layout-engine-section
     
@@ -1716,42 +1732,47 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                    &quot;imageOverlayOpacity&quot;: 0.15,
-                                                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                    &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                                                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                    &quot;customContentWidth&quot;: 100,
-                                                    &quot;sectionTheme&quot;: &quot;dark&quot;,
-                                                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                    &quot;backgroundMode&quot;: &quot;image&quot;
-                                                  }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                                    &quot;video&quot;: {
-                                                      &quot;playbackSpeed&quot;: 0.5,
-                                                      &quot;filter&quot;: 1,
-                                                      &quot;filterStrength&quot;: 0,
-                                                      &quot;zoom&quot;: 0,
-                                                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                    },
-                                                    &quot;backgroundImageId&quot;: null,
-                                                    &quot;backgroundMediaEffect&quot;: null,
-                                                    &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                                  }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
   
   
 >
-  <div class="section-border">
+  <div
+    class="section-border" 
+    
+  >
     <div class="section-background">
     
       
     
     </div>
   </div>
+  
   <div
     class="content-wrapper"
     style='
@@ -1839,7 +1860,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.952ed2f40644260343cf3d765cc87a11.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.beee5ab9f5fc628de9761db008bf6dbc.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

@@ -41,15 +41,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-af949235d15eedd394b42-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-af949235d15eedd394b42-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-56fdc0b6309d3f37f75e8-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-56fdc0b6309d3f37f75e8-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-dade9d616ff90ebf99b1d-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-dade9d616ff90ebf99b1d-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-4b49c51e5a53d327d3bd7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-4b49c51e5a53d327d3bd7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-b1495d1c475be529906af-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-b1495d1c475be529906af-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-33cb1bd12b5d95b2bf5ae-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-33cb1bd12b5d95b2bf5ae-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-15e25160b942ba69bd3be-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-4b71bc4da6232499a62d8-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-44ab3d6f12cddbd366f28-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-6f20ca9fe0574949433f3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-aff2d23104600df085fdd-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-8a4bd0618556454361bcc-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-f21a7cbaebe1953fe6b68-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-9c7837f8e8c7ba99a4aa2-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-c2021593a39f94630ce20-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-0b66c608c373a540dab01-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-ccf378030ccbdb6e9f20a-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-95bf63ca6dc7a85183665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-a4e9fe29fb0c5c424e870-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-892e56d3c56aa8a20a99e-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-dc03b0386a20b1aabcb76-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-13476485f63716e4af226-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-86cb9526983c4269307f0-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-152a6285d7507a88900be-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8c25e422640fd7271eda1-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-eec025f782ea0a61910bd-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-a2f5c0c402abbb48429cb-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-7d67f0a3c7d60a20f001d-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-7d9648e9e54e62521dd1f-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #049 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"2":true,"1":true,"4":true,"3":true,"6":true,"8":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #049 -  Transcript","id":"5eec1b0709afd80facd82c57","fullUrl":"/transcript/episode-49-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["crm_enable_recaptcha_v3_enterprise","campaigns_new_subscriber_search","campaigns_thumbnail_layout","accounting_orders_sync","order_status_page_checkout_landing_enabled","campaigns_content_editing_survey","member_areas_spanish_interviews","crm_retention_segment","commerce_clearpay","fluid_engine_clean_up_grid_contextual_change","customer_account_creation_recaptcha","campaigns_import_discounts","fluid_engine","crm_enforce_recaptcha_v3_enterprise","background_art_onboarding","nested_categories_migration_enabled","commerce_order_status_access","commerce_restock_notifications","member_areas_provisioning_service","supports_versioned_template_assets","crm_default_newsletter_block_to_campaigns","crm_waitlist_enforce_recaptcha_v3_enterprise","campaigns_global_uc_ab","commerce_etsy_shipping_import","scripts_defer","commerce_etsy_product_import","override_block_styles","campaigns_new_image_layout_picker","is_feature_gate_refresh_enabled","collection_typename_switching","nested_categories","block_annotations_revamp","campaigns_discount_section_in_blasts","campaigns_discount_section_in_automations","themes","site_header_footer","multilingual_transactional_emails","campaigns_show_featured_templates","marketing_landing_page","viewer-role-contributor-invites","site_user_email_change","campaigns_asset_picker","commerce_site_visitor_metrics","crm_remove_subscriber","send_local_pickup_ready_email","new_stacked_index","member_areas_schedule_interview","customer_accounts_email_verification"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #049 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-49-transcript","datePublished":"2015-01-26T23:59:00-0800","dateModified":"2022-07-08T10:57:14-0700","headline":"Episode #049 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/64/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1374/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-973c8354e6b6683cc6fbc-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-973c8354e6b6683cc6fbc-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e6fa1987df62bf405e611-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e6fa1987df62bf405e611-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-dade9d616ff90ebf99b1d-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-dade9d616ff90ebf99b1d-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-340f6d8b44e6a14672218-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-340f6d8b44e6a14672218-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-548cae8629e79158dbe24-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-548cae8629e79158dbe24-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-49e4c310da5868e6b286e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-49e4c310da5868e6b286e-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-3179d7e3be3f6ee2c2fe5-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-7685fc18b8290c10ac483-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-44ab3d6f12cddbd366f28-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-180250ec50e2d51e8011d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7dce5659503e5e8c73bb1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-838c6bbc169817fe403f0-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-e05f9e368d44d17608ecc-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-21c24bff16a0e28ef0376-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-6cfdf8fcdf7eb838b4c76-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-fb6c59849cfa1eef25a07-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-ccf378030ccbdb6e9f20a-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-95bf63ca6dc7a85183665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-5ec5cb804e2b5f852a53c-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-448355d5dff7cdc636bd6-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-4c66b9ce0674ffb7dd189-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-83c9dd6a0aa1c3e632d0b-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-86cb9526983c4269307f0-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-5bd918b93099432b8ebad-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-e9d1033b0cca17911e36d-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-eec025f782ea0a61910bd-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bf19eace11837f9aacac9-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-0c4541d17388645c0ef30-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-abae1ee39f19570870846-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #049 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"2":true,"6":true,"8":true,"1":true,"3":true,"4":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #049 -  Transcript","id":"5eec1b0709afd80facd82c57","fullUrl":"/transcript/episode-49-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["commerce_restock_notifications","customer_account_creation_recaptcha","commerce_etsy_product_import","campaigns_new_image_layout_picker","commerce_etsy_shipping_import","scripts_defer","collection_typename_switching","supports_versioned_template_assets","campaigns_show_featured_templates","fluid_engine_clean_up_grid_contextual_change","site_user_email_change","commerce_site_visitor_metrics","order_status_page_checkout_landing_enabled","accounting_orders_sync","campaigns_new_subscriber_search","campaigns_asset_picker","override_block_styles","crm_waitlist_enforce_recaptcha_v3_enterprise","commerce_clearpay","campaigns_import_discounts","member_areas_schedule_interview","campaigns_discount_section_in_blasts","site_header_footer","campaigns_global_uc_ab","commerce_order_status_access","crm_default_newsletter_block_to_campaigns","block_annotations_revamp","viewer-role-contributor-invites","new_stacked_index","fluid_engine","nested_categories","send_local_pickup_ready_email","background_art_onboarding","crm_enforce_recaptcha_v3_enterprise","campaigns_thumbnail_layout","campaigns_content_editing_survey","campaigns_discount_section_in_automations","themes","nested_categories_migration_enabled","member_areas_spanish_interviews","multilingual_transactional_emails","crm_retention_segment","crm_enable_recaptcha_v3_enterprise","crm_remove_subscriber","member_areas_provisioning_service","is_feature_gate_refresh_enabled","marketing_landing_page","customer_accounts_email_verification"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #049 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-49-transcript","datePublished":"2015-01-26T23:59:00-0800","dateModified":"2022-07-08T10:57:14-0700","headline":"Episode #049 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/64/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1378/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <script>
@@ -134,153 +134,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+                              &quot;layout&quot;: &quot;navRight&quot;,
+                              &quot;action&quot;: {
+                                &quot;href&quot;: &quot;/take-action&quot;,
+                                &quot;buttonText&quot;: &quot;Take Action&quot;,
+                                &quot;newWindow&quot;: false
+                              },
+                              &quot;showSocial&quot;: true,
+                              &quot;socialOptions&quot;: {
+                                &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                &quot;socialBorderThickness&quot;: {
+                                  &quot;unit&quot;: &quot;px&quot;,
+                                  &quot;value&quot;: 1.0
+                                }
+                              },
+                              &quot;sectionTheme&quot;: &quot;light&quot;,
+                              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                              &quot;cartStyle&quot;: &quot;cart&quot;,
+                              &quot;cartText&quot;: &quot;Cart&quot;,
+                              &quot;showEmptyCartState&quot;: true,
+                              &quot;cartOptions&quot;: {
+                                &quot;iconType&quot;: &quot;solid-7&quot;,
+                                &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                &quot;cartBorderThickness&quot;: {
+                                  &quot;unit&quot;: &quot;px&quot;,
+                                  &quot;value&quot;: 1.0
+                                }
+                              },
+                              &quot;showButton&quot;: false,
+                              &quot;showCart&quot;: false,
+                              &quot;showAccountLogin&quot;: true,
+                              &quot;headerStyle&quot;: &quot;theme&quot;,
+                              &quot;languagePicker&quot;: {
+                                &quot;enabled&quot;: false,
+                                &quot;iconEnabled&quot;: false,
+                                &quot;iconType&quot;: &quot;globe&quot;,
+                                &quot;flagShape&quot;: &quot;shiny&quot;,
+                                &quot;languageFlags&quot;: [ ]
+                              },
+                              &quot;mobileOptions&quot;: {
+                                &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                                &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                &quot;menuIconOptions&quot;: {
+                                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                  &quot;thickness&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 1.0
+                                  }
+                                }
+                              },
+                              &quot;dynamicOptions&quot;: {
+                                &quot;border&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;position&quot;: &quot;allSides&quot;,
+                                  &quot;thickness&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 4.0
+                                  }
+                                }
+                              },
+                              &quot;solidOptions&quot;: {
+                                &quot;headerOpacity&quot;: {
+                                  &quot;unit&quot;: &quot;%&quot;,
+                                  &quot;value&quot;: 100.0
+                                },
+                                &quot;border&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;position&quot;: &quot;allSides&quot;,
+                                  &quot;thickness&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 4.0
+                                  }
+                                },
+                                &quot;dropShadow&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;blur&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 30.0
+                                  },
+                                  &quot;spread&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 0.0
+                                  },
+                                  &quot;distance&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 0.0
+                                  }
+                                },
+                                &quot;blurBackground&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;blurRadius&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 12.0
+                                  }
+                                }
+                              },
+                              &quot;gradientOptions&quot;: {
+                                &quot;gradientType&quot;: &quot;faded&quot;,
+                                &quot;headerOpacity&quot;: {
+                                  &quot;unit&quot;: &quot;%&quot;,
+                                  &quot;value&quot;: 90.0
+                                },
+                                &quot;border&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;position&quot;: &quot;allSides&quot;,
+                                  &quot;thickness&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 4.0
+                                  }
+                                },
+                                &quot;dropShadow&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;blur&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 30.0
+                                  },
+                                  &quot;spread&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 0.0
+                                  },
+                                  &quot;distance&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 0.0
+                                  }
+                                },
+                                &quot;blurBackground&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;blurRadius&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 12.0
+                                  }
+                                }
+                              },
+                              &quot;showPromotedElement&quot;: false
+                            }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
+                              &quot;enabled&quot;: false,
+                              &quot;iconEnabled&quot;: false,
+                              &quot;iconType&quot;: &quot;globe&quot;,
+                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                              &quot;languageFlags&quot;: [ ]
+                            }"
   
   data-first-focusable-element
   tabindex="-1"
@@ -847,142 +847,142 @@
     
     "
     data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+                              &quot;layout&quot;: &quot;navRight&quot;,
+                              &quot;action&quot;: {
+                                &quot;href&quot;: &quot;/take-action&quot;,
+                                &quot;buttonText&quot;: &quot;Take Action&quot;,
+                                &quot;newWindow&quot;: false
+                              },
+                              &quot;showSocial&quot;: true,
+                              &quot;socialOptions&quot;: {
+                                &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                &quot;socialBorderThickness&quot;: {
+                                  &quot;unit&quot;: &quot;px&quot;,
+                                  &quot;value&quot;: 1.0
+                                }
+                              },
+                              &quot;sectionTheme&quot;: &quot;light&quot;,
+                              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                              &quot;cartStyle&quot;: &quot;cart&quot;,
+                              &quot;cartText&quot;: &quot;Cart&quot;,
+                              &quot;showEmptyCartState&quot;: true,
+                              &quot;cartOptions&quot;: {
+                                &quot;iconType&quot;: &quot;solid-7&quot;,
+                                &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                &quot;cartBorderThickness&quot;: {
+                                  &quot;unit&quot;: &quot;px&quot;,
+                                  &quot;value&quot;: 1.0
+                                }
+                              },
+                              &quot;showButton&quot;: false,
+                              &quot;showCart&quot;: false,
+                              &quot;showAccountLogin&quot;: true,
+                              &quot;headerStyle&quot;: &quot;theme&quot;,
+                              &quot;languagePicker&quot;: {
+                                &quot;enabled&quot;: false,
+                                &quot;iconEnabled&quot;: false,
+                                &quot;iconType&quot;: &quot;globe&quot;,
+                                &quot;flagShape&quot;: &quot;shiny&quot;,
+                                &quot;languageFlags&quot;: [ ]
+                              },
+                              &quot;mobileOptions&quot;: {
+                                &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                                &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                &quot;menuIconOptions&quot;: {
+                                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                  &quot;thickness&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 1.0
+                                  }
+                                }
+                              },
+                              &quot;dynamicOptions&quot;: {
+                                &quot;border&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;position&quot;: &quot;allSides&quot;,
+                                  &quot;thickness&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 4.0
+                                  }
+                                }
+                              },
+                              &quot;solidOptions&quot;: {
+                                &quot;headerOpacity&quot;: {
+                                  &quot;unit&quot;: &quot;%&quot;,
+                                  &quot;value&quot;: 100.0
+                                },
+                                &quot;border&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;position&quot;: &quot;allSides&quot;,
+                                  &quot;thickness&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 4.0
+                                  }
+                                },
+                                &quot;dropShadow&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;blur&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 30.0
+                                  },
+                                  &quot;spread&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 0.0
+                                  },
+                                  &quot;distance&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 0.0
+                                  }
+                                },
+                                &quot;blurBackground&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;blurRadius&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 12.0
+                                  }
+                                }
+                              },
+                              &quot;gradientOptions&quot;: {
+                                &quot;gradientType&quot;: &quot;faded&quot;,
+                                &quot;headerOpacity&quot;: {
+                                  &quot;unit&quot;: &quot;%&quot;,
+                                  &quot;value&quot;: 90.0
+                                },
+                                &quot;border&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;position&quot;: &quot;allSides&quot;,
+                                  &quot;thickness&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 4.0
+                                  }
+                                },
+                                &quot;dropShadow&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;blur&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 30.0
+                                  },
+                                  &quot;spread&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 0.0
+                                  },
+                                  &quot;distance&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 0.0
+                                  }
+                                },
+                                &quot;blurBackground&quot;: {
+                                  &quot;enabled&quot;: false,
+                                  &quot;blurRadius&quot;: {
+                                    &quot;unit&quot;: &quot;px&quot;,
+                                    &quot;value&quot;: 12.0
+                                  }
+                                }
+                              },
+                              &quot;showPromotedElement&quot;: false
+                            }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1133,31 +1133,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+                              &quot;imageOverlayOpacity&quot;: 0.15,
+                              &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                              &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                              &quot;customSectionHeight&quot;: 10,
+                              &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                              &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                              &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                              &quot;customContentWidth&quot;: 50,
+                              &quot;sectionTheme&quot;: &quot;&quot;,
+                              &quot;sectionAnimation&quot;: &quot;none&quot;,
+                              &quot;backgroundMode&quot;: &quot;image&quot;
+                            }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+                              &quot;video&quot;: {
+                                &quot;playbackSpeed&quot;: 0.5,
+                                &quot;filter&quot;: 1,
+                                &quot;filterStrength&quot;: 0,
+                                &quot;zoom&quot;: 0,
+                                &quot;videoSourceProvider&quot;: &quot;none&quot;
+                              },
+                              &quot;backgroundImageId&quot;: null,
+                              &quot;backgroundMediaEffect&quot;: null,
+                              &quot;divider&quot;: null,
+                              &quot;typeName&quot;: &quot;blog-masonry&quot;
+                            }"
   data-animation="none"
   
    
@@ -1221,6 +1221,7 @@
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1b0709afd80facd82c57"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1657302994945_1200"><div class="sqs-block-content">
 
 <p class="" style="white-space:pre-wrap;">Thank you for wanting to know more today than you did yesterday, and I hope you love the show.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode of <em>Philosophize This!</em> begins in a very normal city in the southern deserts of Arizona known as Nogales. If you walked through the streets of Nogales, Arizona—well, depending on which part of the city you were walking through—you wouldn’t think it looked much different than wherever you live currently. You would see families and houses and children playing. But in this otherwise unassuming city lies a question, a question that may be the most fundamental question that we as humans could ever ask about civilization. And to the citizens of Nogales, Arizona, it’s a question that stares them in the face day after day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Because what you would see if I could take you up onto the hillside of Nogales, Arizona—the topography of the area is such where there’s a hilly, mountain-like region that sort of acts like a crown around the city. You can get a good line of sight in all directions. And what you would see if you were up on that hill is over to the right the beautiful city of Nogales, Arizona in the United States. And then, as your eyes scanned over to the left, you would see about 50 feet of cleared path, a small, flimsy fence, nothing special, sort of poetically illustrating how flimsy these lines are that we draw. And then, on the left-hand side of this fence you would see the city of Nogales. But this isn’t Nogales, Arizona; this is Nogales, Sonora in the Republic of Mexico. I’m serious. There’s even a picture you can look up and see it for yourself. In fact, I’ll put it on the episode page of philosophizethis.org, because apparently that’s what you do if you’re a podcaster. It's a picture from this very hillside that I’m talking about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, physically speaking, this is the exact same town. I mean, as far as physical barriers are concerned, it’s only separated by about 50 feet and a flimsy fence. The real separation between these two geographic areas lies in the lives of the average citizens that have to live in these different areas. The average citizen of Nogales, Arizona has life really, really good by global standards. The average income is around $30,000 a year. Everyone has access to roads that lead to the neighboring towns. And those roads aren’t crumbling. They have electrical lines, phone lines, a sewer system, public education, not to mention a functioning police department where the laws of the land are actually enforced. The bottom line is, people living in Nogales, Arizona live their lives every day feeling as though the government is working for them, not the other way around. They don’t live their lives in constant fear of being assaulted or robbed or extorted or any of your other favorite pastimes.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, just a few steps away, the average citizen in the city of Nogales, Mexico is much different. The average income here is about $10,000 a year. Yeah, people have access to public education, but the quality of that education is severely worse than in Arizona. You couple that with the fact that most people living in Nogales, Mexico are forced to drop out of school early on just to earn enough money to live. Just to try to rub two pennies together, they have to drop out of school. You consider that, and what you’re left with is a city where the majority of people living there don’t have a high school diploma. Across the board, the health of the citizens in Nogales, Mexico is far worse than their Arizonian neighbors. Infant mortality is higher; instances of sickness and disease are much higher.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And let’s say you wanted to try to turn it around. Let’s say you wanted to try to start a business and try to bring a little value to the lives of the people living in this town. It would be an incredibly difficult, volatile, and corrupt process through everything that you had to do. Look, even if you just wanted to leave the city and get out, you’d still have to leave the city taking crumbling roads that are very difficult to navigate. What a massive difference just a few short steps can make.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But why is it this way? Why is it this way? Let’s just take a second to think about how enormously important this question is. Think of what’s at stake. What, the quality of life of billions of subsequent people yet to be born on planet earth? The already diminished quality of life of the billions that are living now or have already lived in history and are dead now? Are there many questions you can think of if you’re building a society—like we are on our island nation—that are more powerful than this one, that serve to benefit or hurt people as much as this question?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Look, nations aren’t born wealthy or born poor from the get-go. So, the thinking by people much smarter than I that ask this question for a living—the thinking is that if that fact is true, then there must have been some thing out there that happened over the history of a poor country, some thing that we can identify that determined whether a nation eventually became rich or poor. Can it be broken down into a single mistake that these countries made at some individual point in history? Is it a combination of things? What makes a nation look like Norway instead of looking like the Congo? What makes a nation look like Canada as opposed to looking like Bangladesh? Why are some countries so much more wealthy than other countries?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Look, forget about us starting our own fun, hypothetical island society here. If you even care a little bit about limiting human suffering in the world—like, you just have to be an evil witch flying around on a broom cackling at everyone to not care about the answer to this question. What separates Nogales, Arizona from Nogales, Mexico? And yeah, although it may ultimately be wishful thinking, hypothetically, even if there’s a possibility that there was some mistake that was made out there, if there was some mistake that the Congo made at some point in their history and we could identify exactly what that mistake was, then we’d probably want to know about it, wouldn’t we? We’re probably going to want to make sure that anyone starting a society in the future knows the answer to this question. Think of how much human suffering you stand to prevent. Not to mention, if we can identify the problem, does that mean that we can arrive at a solution to the problem? Is it too late to right the course of the ship for the people of Nogales, Mexico?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This question is a crucial one for us to explore on this show, because if one of your goals as you’re walking around in this mortal coil on this planet is to try to serve other people, I can’t think of many areas that you could focus your time on than this that with a single eureka moment you might potentially change the lives of billions of people. Anyway, it would be completely dishonest if I didn’t start out this discussion and say that there is not anywhere close to a clear answer to this question that we’re asking. We’re not going to come away from the episode today with an infallible explanation for why some countries are wealthier than other countries. But just because there’s no clear answer to the question doesn’t mean that every opinion out there on the matter is equally valid. And it certainly doesn’t mean we haven’t made significant progress when it comes to answering this question accurately.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, there are a lot of different answers thinkers have given historically to this question. But as we look at their answers, which we’re about to do, I want us to all look at the assumptions that were made by these people. I want us to all look closely at the mistake that they made in their thinking. Because it’s a mistake that, look, I’ve been guilty of in the past many times. And it’s a mistake that we could all easily be guilty of if we don’t continue to question and reassess our beliefs with vigilance. And that mistake is this: you arrive at a conclusion about something that is not entirely verifiable, but you believe it anyway because it seems to be true. Then you accept this conclusion that you’ve arrived at as a premise for future conclusions to be build upon. And then you continue to stack these conclusions that you’re making on top of that premise, you know, story after story, until you have an entire skyscraper built on top of that premise. But the problem with that is that if that premise ends up not being true, the entire building comes crumbling down. You’ll understand what I’m talking about in a second.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, over the years, people have come up with all kinds of fun answers to the question of what makes certain nations wealthier than others. Montesquieu, French political thinker—he’s the guy that came up with the idea that a government should have a separation of powers. Obviously, heavily influential on the Constitution of the United States. Well, as good as that idea may have been, they all weren’t gems in the mind of Montesquieu. His idea for why some nations are wealthier and better off than others? People from hot climates are just lazy. That’s right. Just look at them. Look at them with their sun! Let me enlighten you guys for a second. When you live in an area of intense heat, the last thing you want to do at the end of the day is invent the iPhone. No, no, no, once you catch dinner, once you catch your daily scorpion or whatever you eat for dinner, it’s time to relax now. The heat takes a lot out of you. But conversely, these people in colder climates, they just get bored with their lives if they aren’t constantly doing something. They start building castles. They start wearing chainmail. It keeps the blood moving. If you’re building a castle, it does a really good job at keeping you warm in those colder climates.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But this is just one of them. Economists throughout history have given all kinds of different reasons for why this may be the case. Some say the reason countries are rich is because they were at one point a colony of England. Some say it all comes down to luck, that some countries just initially settled in an area, luckily, that had more natural resources than other areas. The point is, there’s no shortage of arguments, and the vast majority of them have been dismantled and proven wrong long ago. This is obviously a very wide conversation that we’re having here. But if you talk to an economist in today’s world, here’s basically where we’re at. It’s usually some variation of the idea that the wealth of a nation is directly related to the quality of its labor force. Now, that’s an interesting distinction there—the quality of a labor force. How can we find out what makes the quality of one labor force better than another?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, it’d be very easy here if we were less disciplined people to get down the rabbit hole of this discussion right now. But this episode isn’t about modern economics. It’s about the father of modern economics, Adam Smith. And by the end of this episode, we’re going to come back to this discussion of the quality of a nation’s labor force. We’re going to come back to Nogales, Arizona. But for reasons you’ll understand at the end of the episode, right now I want to take you on a trip back in time, back in time, back before our modern standard of living, before Medicare and Medicaid, before the Civil War, in many cases before the Constitution of the United States was even written. I want to take you back to a time in Europe when people were a little confused about what actually made a nation wealthy or not.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, even though it’s absolutely nothing like what actually happened in the history of the world, I always picture all the rulers from Europe coming together, you know, a bunch of dudes in tights, a bunch of angry sociopaths all getting together, syphilis eating their brain. Anyway, they’re all sitting around having a chat about their respective countries. And one of these kings that’s having a particularly bad day that day pipes up and says, “Aw, yeah, mountains, mountains. Yeah, your country’s great. Uh, but my country’s richer.” Needle scratches. Everyone stops and looks at him. Wait a second, who does have the richest country? We got to figure out a way to find out who has the high score here. Go, go, go! And what emerged from that meeting was mercantilism. I honestly don’t know why I don’t keep these things in my head.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Okay, so, before the Enlightenment in Europe, some people asked the question of what makes a country wealthy. The answer they came up with was that a country was wealthy in relation to how much gold it had in its reserves. It’s the equivalent of saying that the wealthiest person in a given room is whoever has the most money in their bank account. Now, on one hand, we can kind of see where they’re coming from. I mean, I guess it makes sense in a way. But in retrospect, it’s just not that simple, guys from the 1500s. You know, if you have two people in a room, one of them has $5,000 in their bank account and a job that pays 6 figures a year, the other one has $10,000 dollars in their bank account but has some terrible condition where they can never work again—who is the wealthiest person in that room? Is it the guy with $5,000 and a job or $10,000 and no means of being gainfully employed any time in the future? Rough example, but it illustrates the point that how much money you have on hand is not all there is to it when it comes to how wealthy you are.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But these people believed it. And imagine you’re living in the 1500s, and you believe it. And now you’re assigned the task of arriving at economic policy like they were. How do you think this premise affects your decision-making? Like, if you truly believed that the wealth of a nation is determined by how much gold you guys have in the reserves at a given time and your job with this economic policy is to extend the wealth of your nation as far as possible, can you think of any way this could go wrong here? Can you think of any way this might lead to some problems down the road?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is what I was talking about before with the faulty foundation that we build a skyscraper on top of and how that might lead to problems. It's the kind of thing that applies across all forms of thinking, really. If the foundation of your beliefs in some area is based on a faulty premise, whatever it might be, you could be misattributing success to the wrong thing all along. You could be making decisions and planning for a future under the assumption that this premise that you have is true. And when you carry out these policies that you’ve arrived at with that premise in mind, you could actually be sabotaging yourself. Confirmation bias is a hell of a drug.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, I’d compare it to our body and the way that we eat. Let’s say that you’re surfing the internet, if anybody ever surfs the internet anymore. Let’s say you come across a website with a blinking banner, and it tells you a single mom has found the ultimate shortcut to healthy living. You click on it. You read it. And it convinces you beyond a shadow of a doubt that vitamin C is the way to go. You can’t live without vitamin C. It’s nature’s super-mineral. And every piece of food that you shovel into your mouth on any given day, you should think of nothing but the vitamin C content. That’s how you really get healthy. Don’t worry about the A, B, D, E, potassium, magnesium, selenium. No, vitamin C, that’s the key. That’s a good tag line.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, if that was the health premise that you believed in and you were assigned with the task of making eating policies for your body—you know, rules that you follow when you’re considering putting anything into your body—if you truly believe that the more vitamin C you ate the healthier you were, why wouldn’t you make a policy that every meal put into your gullet should be centered around getting the maximum amount of vitamin C possible? Well, this might be an okay policy for the first day or even the first couple days for that matter. But eventually, your body’s going to become deficient in other areas. Eventually, this policy of vitamin C at all costs is going to start making you feel sick, really sick. In fact, eventually, I think it would kill you, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, let’s apply this example to economic policy before the Age of Enlightenment. If you truly believed that the goal of economic policy should be to get as much gold in the reserves as possible, then you’re probably going to create policies that aren’t, in retrospect, good for the economy but ones that keep as much gold in the reserves as possible. And these policies, like the vitamin C policy with our body, eventually made these nations feel sick and deficient in other areas.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The thinking by the people at the top levels of government at the time was, if our nation’s wealth is just contingent on how much gold we have in the reserves, then why would we ever willingly send gold to another country at all? Why would we ever import anything that we didn’t absolutely have to? Buy American, right? But this is the 1500s’ version of the buy-American thing, and it’s taken to the absolute extreme. Like, if it was even possible for you to make something or buy something domestically back then, the governments didn’t want you importing it, because by importing it and buying it from another country, you’re sending our gold to that country. That was the thinking. And it’s making them wealthier. They thought, why would we ever want that? So, they decided to limit imports and encourage exports.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, the people at the top level of government knew this could only be done to a certain extent. There was no way a single country could ever be totally self-sufficient. They could never totally produce everything they ever needed. The government’s job in that case was just to make sure things never got off the rails too far, to set regulations and restrictions and prevent citizens and businesses from importing too much stuff. Oh, and by the way, as they’re doing all this, the whole time they can just frame it as something that’s ultimately good for the average person too, not just the vault of gold that the government has. They could say, look, buy domestic for the sake of job security. This whole importing business that you guys are talking about, it’s a slippery slope. If no one buys domestic goods and everybody’s just importing stuff cheaper from other places, how are we going to keep people employed domestically?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, this is where it gets interesting. It’s that part of the show again, folks. It’s time to pull out your tin foil hats because there’s something we need to consider moving forward here. In fact, I take that back. It’s actually not really tin foil hat-worthy at all. It’s incredibly plausible that this could have happened. There is a large group of people in today’s world that look back on mercantilism and this age of economic policy, and they say that none of these people at the top of government back then really believed that the policies of mercantilism were going to help. None of these people actually thought that limiting imports and encouraging exports was really going to contribute to the wealth of a nation in the long term. What these people say really happened is that the captains of industry back then in these respective countries were in cahoots with the leaders of government and that they stood to benefit greatly from the restriction of imports because it meant less competition for them in this emerging global marketplace at the time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Something else to consider—the other half of this—is that the geopolitical climate in Europe during this period in history is extremely volatile. Like, more than ever before in the history of Europe, the governments of these countries were dead set on war and territorial expansion. So much of their task at this time as a government was fundraising to accumulate enough gold to be able to fund these giant military expeditions. I mean, this is the first time in the history of many of these countries that we have navies and ground forces that aren’t temporary. Typically, it’s just been an assembly of people that come together when they’re needed. But during this period in time, we’re starting to see the emergence of fulltime professional forces funded by the citizens, not just to fend off attacks from other countries trying to expand their borders, but to expand <em>their</em> borders, conquest. The beginning of this era of competing nation-states—it’s starting to change the way we see the countries that surround us in this world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, for example, if you’re the captain of the shoe industry in the 1500s, if you’re the Mitt Romney of shoes back then, and all of a sudden, there’s this emerging global marketplace that you have to be competitive in, that’s got to suck for you. I mean, for the longest time, you’ve had the only shoe game in town. You know, I’ve had people’s feet in like a headlock. My shoes! Mine! But now I find myself in a situation where I don’t have the machines or the systems in place to compete with how all these other more efficient countries make their shoes. I’m just not as good as them. I never had to compete with them in the past. So, I’m left with a choice. How do I make sure things stay exactly the way they are right now?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Oh, well, I just walk on down to the city hall. I head into the back room. And how about this, guys? In exchange for me paying taxes and levies—lots of them. Oh, and by the way, you’re taxing my income here, so the more money I make, the more money you make—how about in exchange for me paying into this system that funds your wars and expansion plans, you guys in the government enact policies that restrict imports so that I don’t have to compete with other countries? It benefits us both. It’s a win-win.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if you think this sounds like a wack job conspiracy theory, really is it that crazy to think about this happening? I mean, think about all the other areas where progress was made during these couple hundred years that we’ve been talking about. And think about how much the old ways of thinking have always been rooted in not what people legitimately thought was best for the whole population but in terms of what makes a small collection of people at the top the best off for it. Think of the reformation of the church. Think of the lives that people lived before the reformation of the church.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I honestly can’t think of many people that would stand for the conditions that these other people had to live in having already lived in today’s world. There’s no personal relationship that you have with God back then. No, God has decreed this code of conduct in a language that you can’t read. In fact, no one can read it or interpret it accurately but this very, very small collection at the top of this church hierarchy. I mean, many of the priests that were at the head of these local congregations back then didn’t even speak Latin. They didn’t even know how to read the Bible. They just knew that nobody else around them knew how to read it either. So, they’d just get up onto the podium. They’d make some noises that sounded like Latin. And then they’d say, “Okay, there’s your lesson in morality for the day. Go ahead and put your donations in this hat right here. And I’m going to retire to my harem of concubines, because don’t forget, I am the moral authority here!” It’s not hard to imagine how this whole situation may not have been set up in the best interests of everyone, but maybe it heavily favored a small collection of people at the top of the industry.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">How about the area of government? Rousseau, Locke, and Hobbes. What conventional wisdom were they railing against with their work in government? Oh yeah, a small collection of people at the top telling the population at large that they were genetically predestined to rule over them, that there was a divine right of kings decreed by God and that their job as citizens were to obey God and serve their king. My point is, it’s not crazy to think that economic policy might have been structured the same way before the Age of Enlightenment.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This application of reason to all of these long-standing, long-held institutions—has there ever been anything that served to benefit the population on such a wide scale more than this? It’s—sorry, I’m a nerd, and I believe in the power of ideas. I’m starting to sound sanctimonious on this episode. I don’t mean to be, though. The bottom line is, the economic theory of mercantilism was a faulty premise that a skyscraper was built on. And honestly, it doesn’t matter whether it was ignorance or corruption that led to it being adopted. You can honestly take your pick. But the way that you view these decisions drastically changes the way that you interpret some of these policies that these countries put in place. Let me talk about a few of them just so you can get some context.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One of the tenants of mercantilism was to limit imports, but the policies enacted on behalf of mercantilism extended into a lot of other areas all centered around dishonestly propping up domestic business to give it an unfair advantage over competitors in the global marketplace. For example, many of these governments would use taxpayer money to financially back new industries in their countries. Then they would oftentimes make those new industries exempt from any sort of regulations or taxes, giving them a huge advantage over competing industries. Then from there they would set up monopolies, and they would prohibit anyone in their country from exporting anything that could possibly be useful to another country that was trying to compete with them—any tools, equipment, machines, and even people in many cases, people that were skilled at their professions. They didn’t want these people who were good at what they did to go to another country and contribute to them becoming wealthier.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Then you have so many examples of these broad, sweeping laws that were just crippling if you wanted to trade anything. Like, in England there was something called the Navigation Act in the year 1651. And it made it so that if you were a country in Europe and you wanted to trade with England in any way, those things that you were importing into England needed to be brought in on an English ship or, even less likely, a ship registered in the country that those goods originated from. This is the sort of strong-arm tactics that they used.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In France, Louis XIV, he famously conferred a tremendous amount of power onto his minister of finance, Jean-Baptiste Colbert. From the 1660s to the 1680s, this guy drastically increased the tax that you have to pay or the duty that you paid if you tried to bring anything into any French port for trade. So, if you were living in France at the time and you wanted to buy something from another country to try to make your life better, you had to buy it from not only people that had to pay this giant tax that Colbert put in place, but these people also had to assume all the cost of transporting it. It made it very hard to be competitive at the time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, Adam Smith comes along like superman. He takes a look at this ludicrous world that’s unfolding in front of him—and by the way we’re going to talk about all these things I’m about to mention in much more detail next time and how they apply to our island nation—but Adam Smith comes along, and he makes a lot of good observations about this flawed economic climate that exists. The first big thing he points out is that this idea of it not being good to import something because it sends gold out of the country is just flat-out wrong. In fact, he says it actually benefits us greatly to buy something from another country if they can produce it more efficiently than we can.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">If a country has the systems and technology in place that allows them to produce, say, shoes faster and cheaper than us, why would we use a giant chunk of our finite number of workers to inefficiently make shoes for us? Why not buy our shoes from them, save a bunch of money, get a better product, use the workers that would otherwise be making shoes inefficiently, and they can specialize in some other field that we can be more competitive in? And we can use all the extra money that we save to make our lives better or invest in researching new fields. Free trade benefits both parties is what Adam Smith is getting at here.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, another revolutionary concept that Adam Smith arrives at that dismantles mercantilism is the idea of economies of scale. Basically—because we’re going to talk about it more next episode, as I said—it’s the idea that there are certain fixed costs associated with any sort of production, and those costs are drastically more efficient when you’re producing more units with that production. The other major criticism that Adam Smith gives—and you could make an argument it’s the most revolutionary of all—is when he talks about this toxic relationship that exists between government and the chiefs of industry in a given country. He makes the case that, sure, it benefits people at the top greatly, but it actually hurts the country at large. Now, again, this is something we’ll talk about a lot more next time and really a lot as we head into this increasingly corporate world that’s emerging just on planet earth during this time period. Let’s go back to the beginning now.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, why is there such a giant difference between Nogales, Arizona and Nogales, Mexico when it comes to the quality of the life of the average citizen? Because when you say that it has to do with the quality of their labor force, it almost sounds like you’re blaming it on the people. It almost sounds like you’re saying that they’re just not working hard enough in Nogales, Mexico. But is the reason why people don’t work hard always out of laziness? It’s a valid question. Why aren’t the citizens of Nogales, Mexico going out there and working hard and innovating new things and trying to improve their lot in life? Well, nobody knows the answer to this question for certain, but if you take a page out of the book of Adam Smith and subsequent economists, they say it always comes down to the incentives that the government puts in place for the people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Look at how humans typically act. Why would anybody ever work harder than they absolutely have to if there was no incentive to do it? So, economists asked the question, what is one of the biggest incentives that a government could ever possibly give its citizens? And they answer that question with a strong sense of law and order. Why innovate? Why try to serve others? Why take risks when any risk that you assume to try to improve your lot in life is ultimately probably going to be stolen from you? I mean, it kind of reminds you of the inner cities in America. Why would anyone ever try to pull themselves up by their bootstraps if after they do it someone’s just going to steal their boots? And the better question is, if this is the case, why wouldn’t the government ensure this basic level of protection to the people of Nogales, Mexico?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, some of you are going to say, “Oh, Stephen West, you’re being naïve. These governments don’t actually care about the quality of life of the average citizen. All they care about is extending and sustaining their regime of power and reaping the benefits of more money.” But I would argue against these regimes. I would say, if what you want is more money to sustain your power—you know, more gold in the reserves—then doesn’t it benefit you to improve the lives of your citizens? The formula is clear. If the citizens feel that their lives are safe, then the quality of your labor force improves. If the quality of your labor force improves, they make more money which you tax and then, in turn, make more money for your giant vault of money that you dive into like you’re Scrooge McDuck every day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One thing’s for certain about the differences between Nogales, Arizona and Nogales, Mexico. It’s not the people’s fault. There’s just no incentive for them to do anything else.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+
 
 
 </div></div></div></div></div></div>
@@ -1375,30 +1376,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 100,
-&quot;sectionTheme&quot;: &quot;dark&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+                              &quot;imageOverlayOpacity&quot;: 0.15,
+                              &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                              &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+                              &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                              &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                              &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                              &quot;customContentWidth&quot;: 100,
+                              &quot;sectionTheme&quot;: &quot;dark&quot;,
+                              &quot;sectionAnimation&quot;: &quot;none&quot;,
+                              &quot;backgroundMode&quot;: &quot;image&quot;
+                            }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+                              &quot;video&quot;: {
+                                &quot;playbackSpeed&quot;: 0.5,
+                                &quot;filter&quot;: 1,
+                                &quot;filterStrength&quot;: 0,
+                                &quot;zoom&quot;: 0,
+                                &quot;videoSourceProvider&quot;: &quot;none&quot;
+                              },
+                              &quot;backgroundImageId&quot;: null,
+                              &quot;backgroundMediaEffect&quot;: null,
+                              &quot;divider&quot;: null,
+                              &quot;typeName&quot;: &quot;blog-masonry&quot;
+                            }"
   data-animation="none"
   
    
@@ -1438,9 +1439,11 @@
 <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
 
 
+
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
 <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
@@ -1448,9 +1451,11 @@
 <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
 
 
+
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
 <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+
 
 
 </div></div><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1592570846238_8463"><div class="sqs-block-content">
@@ -1504,7 +1509,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.5b5df2e848f264b616790ebc09eb722e.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b20c562772ff9c847a6278b18e7da09e.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

@@ -41,15 +41,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-af949235d15eedd394b42-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-af949235d15eedd394b42-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-56fdc0b6309d3f37f75e8-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-56fdc0b6309d3f37f75e8-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-dade9d616ff90ebf99b1d-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-dade9d616ff90ebf99b1d-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-4b49c51e5a53d327d3bd7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-4b49c51e5a53d327d3bd7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-b1495d1c475be529906af-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-b1495d1c475be529906af-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-33cb1bd12b5d95b2bf5ae-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-33cb1bd12b5d95b2bf5ae-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-15e25160b942ba69bd3be-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-4b71bc4da6232499a62d8-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-44ab3d6f12cddbd366f28-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-6f20ca9fe0574949433f3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-aff2d23104600df085fdd-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-8a4bd0618556454361bcc-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-f21a7cbaebe1953fe6b68-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-9c7837f8e8c7ba99a4aa2-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-c2021593a39f94630ce20-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-0b66c608c373a540dab01-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-ccf378030ccbdb6e9f20a-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-95bf63ca6dc7a85183665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-a4e9fe29fb0c5c424e870-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-892e56d3c56aa8a20a99e-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-dc03b0386a20b1aabcb76-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-13476485f63716e4af226-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-86cb9526983c4269307f0-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-152a6285d7507a88900be-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8c25e422640fd7271eda1-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-eec025f782ea0a61910bd-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-a2f5c0c402abbb48429cb-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-7d67f0a3c7d60a20f001d-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-7d9648e9e54e62521dd1f-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #029 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"6":true,"3":true,"2":true,"1":true,"8":true,"7":true,"4":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #029 -  Transcript","id":"5eec195909afd80facd7c566","fullUrl":"/transcript/descartes-pt-2-transcript","publicCommentCount":1,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["customer_accounts_email_verification","order_status_page_checkout_landing_enabled","accounting_orders_sync","nested_categories_migration_enabled","viewer-role-contributor-invites","marketing_landing_page","is_feature_gate_refresh_enabled","customer_account_creation_recaptcha","multilingual_transactional_emails","collection_typename_switching","fluid_engine_clean_up_grid_contextual_change","campaigns_show_featured_templates","commerce_restock_notifications","supports_versioned_template_assets","campaigns_content_editing_survey","member_areas_provisioning_service","new_stacked_index","background_art_onboarding","scripts_defer","campaigns_asset_picker","crm_default_newsletter_block_to_campaigns","override_block_styles","campaigns_discount_section_in_automations","site_user_email_change","member_areas_spanish_interviews","commerce_order_status_access","campaigns_global_uc_ab","commerce_etsy_shipping_import","campaigns_new_image_layout_picker","crm_retention_segment","block_annotations_revamp","campaigns_import_discounts","campaigns_new_subscriber_search","commerce_etsy_product_import","crm_remove_subscriber","crm_enforce_recaptcha_v3_enterprise","member_areas_schedule_interview","commerce_site_visitor_metrics","campaigns_thumbnail_layout","commerce_clearpay","crm_waitlist_enforce_recaptcha_v3_enterprise","site_header_footer","nested_categories","themes","campaigns_discount_section_in_blasts","fluid_engine","send_local_pickup_ready_email","crm_enable_recaptcha_v3_enterprise"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #029 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/descartes-pt-2-transcript","datePublished":"2014-07-15T23:59:00-0700","dateModified":"2022-07-07T11:14:22-0700","headline":"Episode #029 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/64/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1374/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4510912c3293d66b484e0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4510912c3293d66b484e0-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e6fa1987df62bf405e611-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e6fa1987df62bf405e611-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-dade9d616ff90ebf99b1d-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-dade9d616ff90ebf99b1d-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-8117710c61f2e9e3da242-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-8117710c61f2e9e3da242-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c06ccfbab6830776dfa1e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c06ccfbab6830776dfa1e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-e1fdd0686103247ddb331-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-e1fdd0686103247ddb331-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-d5f4b1a1cd3e3d94571d6-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-e8038bb7bb7a7f2dc8769-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-44ab3d6f12cddbd366f28-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-8f9c17d36e791be3c64d8-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-ffe21495bef89f5c5513c-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-a2734e7738a121ef1d33d-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-26996c2be543abb11eca0-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-013cff970bac31c787ecf-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f81153b43548d7adc2fe-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-68deb2a969fb53df466e9-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-ccf378030ccbdb6e9f20a-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-95bf63ca6dc7a85183665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-69166f1d5880f05bc514c-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-ebd94e19c48cd7f2a51e7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-553ba07db8bc8f53b7652-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-3b401c929da0ceca502c8-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-86cb9526983c4269307f0-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-19a4d8781fe6b620904ab-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-b99f4326e6262c61caf69-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-eec025f782ea0a61910bd-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-4a927fae5408fa3987d08-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-04434481e6ed6cb9b0eff-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b5fc8e147c1858bf899b1-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #029 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"1":true,"7":true,"8":true,"4":true,"6":true,"3":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #029 -  Transcript","id":"5eec195909afd80facd7c566","fullUrl":"/transcript/descartes-pt-2-transcript","publicCommentCount":1,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["override_block_styles","customer_account_creation_recaptcha","campaigns_global_uc_ab","supports_versioned_template_assets","new_stacked_index","crm_waitlist_enforce_recaptcha_v3_enterprise","order_status_page_checkout_landing_enabled","campaigns_discount_section_in_blasts","campaigns_content_editing_survey","member_areas_schedule_interview","crm_enable_recaptcha_v3_enterprise","commerce_restock_notifications","crm_enforce_recaptcha_v3_enterprise","accounting_orders_sync","member_areas_spanish_interviews","nested_categories_migration_enabled","marketing_landing_page","block_annotations_revamp","send_local_pickup_ready_email","commerce_order_status_access","multilingual_transactional_emails","scripts_defer","campaigns_discount_section_in_automations","campaigns_new_image_layout_picker","fluid_engine_clean_up_grid_contextual_change","campaigns_thumbnail_layout","customer_accounts_email_verification","site_header_footer","fluid_engine","site_user_email_change","commerce_site_visitor_metrics","collection_typename_switching","commerce_etsy_product_import","commerce_clearpay","member_areas_provisioning_service","crm_retention_segment","is_feature_gate_refresh_enabled","crm_remove_subscriber","commerce_etsy_shipping_import","campaigns_asset_picker","campaigns_show_featured_templates","nested_categories","crm_default_newsletter_block_to_campaigns","campaigns_import_discounts","background_art_onboarding","themes","viewer-role-contributor-invites","campaigns_new_subscriber_search"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-video-block","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #029 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/descartes-pt-2-transcript","datePublished":"2014-07-15T23:59:00-0700","dateModified":"2022-07-07T11:14:22-0700","headline":"Episode #029 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/64/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1378/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <script>
@@ -145,8 +145,8 @@
 &quot;socialBorderShape&quot;: &quot;none&quot;,
 &quot;socialBorderStyle&quot;: &quot;outline&quot;,
 &quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 1.0
 }
 },
 &quot;sectionTheme&quot;: &quot;light&quot;,
@@ -159,8 +159,8 @@
 &quot;cartBorderShape&quot;: &quot;none&quot;,
 &quot;cartBorderStyle&quot;: &quot;outline&quot;,
 &quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 1.0
 }
 },
 &quot;showButton&quot;: false,
@@ -178,94 +178,94 @@
 &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
 &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
 &quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
+  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+  &quot;thickness&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 1.0
+  }
 }
 },
 &quot;dynamicOptions&quot;: {
 &quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
+  &quot;enabled&quot;: false,
+  &quot;position&quot;: &quot;allSides&quot;,
+  &quot;thickness&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 4.0
+  }
 }
 },
 &quot;solidOptions&quot;: {
 &quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
+  &quot;unit&quot;: &quot;%&quot;,
+  &quot;value&quot;: 100.0
 },
 &quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
+  &quot;enabled&quot;: false,
+  &quot;position&quot;: &quot;allSides&quot;,
+  &quot;thickness&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 4.0
+  }
 },
 &quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
+  &quot;enabled&quot;: false,
+  &quot;blur&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 30.0
+  },
+  &quot;spread&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 0.0
+  },
+  &quot;distance&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 0.0
+  }
 },
 &quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
+  &quot;enabled&quot;: false,
+  &quot;blurRadius&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 12.0
+  }
 }
 },
 &quot;gradientOptions&quot;: {
 &quot;gradientType&quot;: &quot;faded&quot;,
 &quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
+  &quot;unit&quot;: &quot;%&quot;,
+  &quot;value&quot;: 90.0
 },
 &quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
+  &quot;enabled&quot;: false,
+  &quot;position&quot;: &quot;allSides&quot;,
+  &quot;thickness&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 4.0
+  }
 },
 &quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
+  &quot;enabled&quot;: false,
+  &quot;blur&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 30.0
+  },
+  &quot;spread&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 0.0
+  },
+  &quot;distance&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 0.0
+  }
 },
 &quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
+  &quot;enabled&quot;: false,
+  &quot;blurRadius&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 12.0
+  }
 }
 },
 &quot;showPromotedElement&quot;: false
@@ -858,8 +858,8 @@
 &quot;socialBorderShape&quot;: &quot;none&quot;,
 &quot;socialBorderStyle&quot;: &quot;outline&quot;,
 &quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 1.0
 }
 },
 &quot;sectionTheme&quot;: &quot;light&quot;,
@@ -872,8 +872,8 @@
 &quot;cartBorderShape&quot;: &quot;none&quot;,
 &quot;cartBorderStyle&quot;: &quot;outline&quot;,
 &quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 1.0
 }
 },
 &quot;showButton&quot;: false,
@@ -891,94 +891,94 @@
 &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
 &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
 &quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
+  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+  &quot;thickness&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 1.0
+  }
 }
 },
 &quot;dynamicOptions&quot;: {
 &quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
+  &quot;enabled&quot;: false,
+  &quot;position&quot;: &quot;allSides&quot;,
+  &quot;thickness&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 4.0
+  }
 }
 },
 &quot;solidOptions&quot;: {
 &quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
+  &quot;unit&quot;: &quot;%&quot;,
+  &quot;value&quot;: 100.0
 },
 &quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
+  &quot;enabled&quot;: false,
+  &quot;position&quot;: &quot;allSides&quot;,
+  &quot;thickness&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 4.0
+  }
 },
 &quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
+  &quot;enabled&quot;: false,
+  &quot;blur&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 30.0
+  },
+  &quot;spread&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 0.0
+  },
+  &quot;distance&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 0.0
+  }
 },
 &quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
+  &quot;enabled&quot;: false,
+  &quot;blurRadius&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 12.0
+  }
 }
 },
 &quot;gradientOptions&quot;: {
 &quot;gradientType&quot;: &quot;faded&quot;,
 &quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
+  &quot;unit&quot;: &quot;%&quot;,
+  &quot;value&quot;: 90.0
 },
 &quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
+  &quot;enabled&quot;: false,
+  &quot;position&quot;: &quot;allSides&quot;,
+  &quot;thickness&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 4.0
+  }
 },
 &quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
+  &quot;enabled&quot;: false,
+  &quot;blur&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 30.0
+  },
+  &quot;spread&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 0.0
+  },
+  &quot;distance&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 0.0
+  }
 },
 &quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
+  &quot;enabled&quot;: false,
+  &quot;blurRadius&quot;: {
+    &quot;unit&quot;: &quot;px&quot;,
+    &quot;value&quot;: 12.0
+  }
 }
 },
 &quot;showPromotedElement&quot;: false
@@ -1223,6 +1223,7 @@
 <p class="" style="white-space:pre-wrap;">Have you ever met one of those annoying people that always holds the opposite opinion of whatever the popular consensus is? No matter what it is, your life is a Shakespearean play and this guy is the contrarion to everything that everybody says. You could say I love the movie UP! by Pixar, what an incredible job they did at merging the elements of a film that both kids and adults like. This guy would go: yeah, no, I just couldn't get into it because...Balloons on a house? I just don't think that's very realistic.You could say: You know what I love? Fresh tuna. Directly from the ocean Fisherman catches it, takes it to the dock, somebody buys it and cooks it within hours. Doesn't get much better than that does it contrarian friend? Yeah, no My thing is I really like it from the can. Yeah, I really like it when it gets to sit at room temperature for 6-8 months and THEN I get to eat it. That's my thing.There are a million examples of how this conversation may go and with some of them you just want to say, "No." You're dead wrong. There's nothing you can ever say that would make you right. Some things are just inherently BETTER. There is NO POSSIBLE WAY canned tuna is better than one freshly caught out of the ocean!We're talking about the beginning of this famous divide in philosophy between the continental rationalists and the British empiricists and this argument is not that far from what these philosophers were feeling. The reason this contrarian friend of yours is so annoying is because you can't prove that you are right. It seems so obvious. What sane person chooses canned tuna over fresh tuna? But every single preference we have, from the taste of this hamburger vs that hamburger or the color of these curtains over those curtains, all of these preferences are based on our own individually flawed sense organs and their map of the world.See, if you talked to this annoying friend of yours and told them that you think 2+2=4, they couldn't argue with you. Nobody is saying, maybe 2+2=4 to YOU, but to ME it equals 17 and you need to be respectful of that. No, these are mathematical certainties; there is no room for interpretation. Now if you were living during a time when the collective goal of Europe and the task that you've dedicated your life to was trying to find a foundation on which truth can be arrived at, what gauge do you use to decide what "facts" are up to the standards? Are you content with basing all future knowledge on Disney/Pixar's UP! is a very good movie? Or would you feel more comfortable basing it on 2+2=4.This is how Descartes viewed the world. The collective goal was to find what Descartes labeled and envisioned as a Mathesis Universialis. Or a sort of universal language that relies heavily on mathematics to try to arrive at scientific truths and hopefully combine all these different areas of study into one comprehensive one. See, there was thinking at the time that all of these different areas that we're dedicating our thought to, all of these different natural sciences physics, chemistry, biology and then other things like algebra, geometry, there was a thinking that all of these things were needlessly fragmented. Maybe ALL of these different areas had a cohesiveness that has eluded us until now. Maybe there was a logic that applied to all of them. Maybe there was a single method we could apply to all of these seemingly different areas of study that could lead to progress in all of them. You know, by the time of Descartes, we had been working on geometry for quite some time, but compared to geometry we were neanderthals when it came to algebra. Descartes and others thought that maybe the universe was so well ordered that the connections that we've made in a field like geometry, the relationships between different advancements, maybe that would be compatible to other fields as well. Maybe we could find an overall outline and then put some tissue paper over it and trace it out for other fields as well.Yeah, sounds pretty straight forward doesn't it? Well, Descartes thought he could do it. If someone told you they were going to try to undergo a task like that in today's world, you would probably look at them like they were straining, red-faced trying to push their car down the road with the E-brake on. Times have changed! To even understand ONE of these fields you'd have to go to school for a decade of your life, probably more! How are you going to A) learn enough about all of these fields to be able to be considered an expert and B) actually find the similarities? Well, back in the time of Descartes and this famous divide, we didn't know as much in all of these fields. It was a perfectly reasonable ambition to think that a single man with no life and an inferiority complex could find a universal approach to these things.This is fascinating to me and if you love a good mystery, you have to be interested in this time period. Nobody knew whether science was possible, how to get there or even what sort of benefits it would bring to human life if we ever found it. But just the possibility that it was out there sparked all of these different people we've been talking about to search for it. It was like the Apollo Program for the advent of science. It was like JFK stood up there and said I believe we can have a scientific method by the end of the decade, and these were the people that blindly dedicated their life to a task that may have been impossible. What sort of person does that take? What sort of person does it take to be a visionary challenger of the status quo? To take an idea that may not even be possible from their imagination and to not only execute it, but to change the course of human history with it? I've been watching a lot of these Game changers things on Netflix about people like Steve Jobs and Mark Zuckerberg and it's really interesting to see the common personality traits that these people have with Rene Descartes.So let's make today's episode a little like one of those episodes on Netflix. The way it typically works is you learn about the life and story of one of these Game changers and then you learn how they actually changed the game, you learn a little about how they think and you typically come away with a few nuggets of wisdom. So lets learn about Descartes' life and then we can talk about how if he lived today his personality would make him a good candidate to be one of these people like Steve Jobs or Mark Zuckerberg.Descartes had one of the most meandering, oddly-employed lives I have ever read about. If you were the hiring manager for a modern day company and looked at Descartes resume and gave him an interview, by the end of the interview you might think he was the WORST employee that has ever existed. If you asked him if he could wake up at 6am and work the day shift, he would say no: he slept in until noon almost everyday of his life without exception. If you asked him what his five year plan was and if he had the ability to settle down, take one vacation a year and be a loyal servant of corporatism, he would say no: he traveled almost constantly throughout his life and wouldn't think of sitting still. But despite these personality traits that make him a horrible employee for any modern company, if you were bad enough at hiring people to give him a shot he would be the most brilliant thinker you have ever encountered.He was born on March 31, 1596 in France. He had three older siblings and his mother died very shortly after he was born while trying to give birth to what would have been his younger brother. With his mother gone, his father needed to step up and spend double time with all of his kids to try to make up for it, but he had a job as a judge which required him to be absent for many months at a time. Because of this, Descartes spent most of his childhood completely alone. But that wasn't all! He also was notoriously sick as a youth. He talks frequently about the predispositions he had to different ailments, and being left alone to wallow in his thoughts about all of the constant health problems ended up turning him into a severe hypochondriac throughout adulthood. After getting his education from the Jesuit College Royale, the only thing he really learned from it all was how inaccurate he thought it all was. He compared his education to the world of fiction, he talks about how as a rational person it is difficult for him to read fiction when he sees all of the apparent contradictions of the story and reality. But he saw the same contradictions when being taught all of these CERTAINTIES in school. This supposedly led him to ask the question, Can we know anything for certain? He didn't think he knew anything for certain, and all of these teachers yelling at people at the Jesuit College seemed to be just as confused as he was.His dad wanted him to follow in his footsteps, you know get a real job in law, like him. After studying it for a few years he decided he didn't like it and ran off to Paris. He basically sat around all day, learned about stuff and wrote treatises on that stuff. This life seems like absolute paradise for a philosopher, but he didn't know that he was a philosopher yet, so he got tired of that too. Too many people polluting his thoughts, coming around doing terrible terrible things to him, like trying to talk and hang out with him. So he moved away and lived in solitude. But then he got tired of SOLITUDE, so he did the most logical next step imaginable, he signed up for the army as a volunteer officer. Now you'd think, that when you're in the army that the last thing you are going to be allowed to do is wake up at noon and live like a transient, but apparently it wasn't a problem until one day when Descartes even got bored of the army! But then he finally found it. He finally found something that he could be passionate about and when he tells the story you can't help but think of that famous scene from the movie Good Will Hunting when the professor posts the unsolvable math equation on the wall and then Matt Damon solves it when he's taking a break from scrubbing the toilets of the university. One day Descartes was wandering down the road and came across a posting on the wall that showed a very difficult to solve math problem and challenged anyone and everyone to try to solve it. But there was one problem. Descartes was in Holland at the time and he didn't speak any Dutch, so he didn't know exactly what the instructions were for solving the problem. So he turns to his right and asks the guy next to him to translate it for him, the guy says "I'm only going to translate it for you if you try to solve it.", and then the next day Descartes shows up at the guy's house with the problem perfectly solved. This is the first time Descartes spoke to Isaac Beeckman. Beeckman was the friend and mentor that got Descartes focused. He was so turned off from mathematical pursuits from his time in school that he forgot how good he was at it. He forgot how much he loved it. Beeckman helped him rekindle this love.The next big event in Descartes life may have been facilitated by the weather. There was a historically cold winter one year where he was living. So cold, that he claims he couldn't take it anymore and decided to live in a stove. Some people think he was joking when he said "stove", some people think he was speaking figuratively and just meant a really warm, heated room; but even if he spent his days curled up inside of a stove nothing could be more bizarre than what happened to him during this cold, desolate winter.Descartes says that one of these days as he was sitting inside of his stove thinking about stuff, he had a vision. There are a lot of different interpretations of exactly what he saw or what happened, but what seems to be clear is that he saw something that made him certain that the universe was ordered in such a way that some undiscovered mathematical system could be used to fully understand it. Then, that very same night as he drifted off into his 12 hours of sleep, he had a series of vivid dreams that underscored everything that he had a vision of while sitting in the stove. In the first dream he was walking down the street trying to get to his church, but there was a MONSTROUS wind pushing him back. He was fighting against it as hard as he could, he looked like a small market weatherman trying to make a name for himself, going out standing in the middle of a hurricane being hurled around by the wind. Then somebody randomly says to him that somebody wants to give him a melon. In the second dream he is sitting in a room that is pitch black and a terrified and then a giant crashing sound happens and sparks start flying all around the room. The last dream is up for debate. Some people don't even think he had a third dream, but the important part is after this series of visions that he had, his view of the universe and his place within it was changed forever. This is the moment when he leveled up from transient genius to effective visionary genius.This is what fascinates me the most about Descartes and people like Descartes. I am absolutely convinced that Descartes is the Steve Jobs of his generation. If nothing else, he definitely represents this extraordinary type of person that is needed to progress the human species. Descartes was a sickly child and a hypochondriac as an adult. He could've accepted that he was a sick person and just spent his life trying to be as healthy as possible. Descartes didn't need to do any of what he did, so why did he? There are two very distinct approaches to adversity in life that probably are opposite ends of a giant spectrum and how many of each of these types of people exist really depends on your individual world view. On one end of the spectrum you have a type of person, we've all met somebody like this before, it is the type of person who approaches life as a tourist. Life is about enjoying yourself as much as possible. When this guy's walking down the path of his life and there is a fork in the road and a boulder drops in front of him and is blocking the path he wants to go down, well it's not immediately enjoyable to exert yourself to climb over the boulder. It's not fun to try to find a solution to the problem, so this guy meets adversity with resistance. In the metaphor he kind of shrugs his shoulders and walks down the other path saying to everyone, "Well, this obstacle was in my way, so I had to go down this path." This guy is not a bad person, but he does live his life circumventing adversity and as a victim of circumstance. Things HAPPEN to this guy, he doesn't make things happen.On the other end of the spectrum there's this person like Descartes or Steve Jobs. It's this type of person that when that boulder drops down in front of them and is blocking their path, they don't see it as an annoying obstacle. They see it as an opportunity for growth. This is the type of person that embraces adversity. This is the type of person that can visualize a future where that boulder no longer exists, where future people walking down the path can just walk by where this giant boulder used to sit and these people find a way to make it happen. Keep in mind, Descartes didn't need to adopt this approach to adversity. Like we talked about last time, the main problem that he faced, the main problem that many thinkers faced during his time, was uncertainty. Was knowledge even possible? What is science? Let's say we can find a method to understand the natural world, what benefits are we really going to gain from all that? To us in modern times, it's very easy to look back and wonder how anyone could doubt the possibility of science and the ability of science to drastically improve the lives of human beings everywhere but it wasn't clear back then. Just how Steve Jobs visualized a world where a functional, practical, all-in-one device existed that most people could afford; Descartes visualized a world where a functional, practical, all-in-one mathematical system existed that could help up understand the world.Let's not just gloss over that word "system". This is a big part of who Descartes was. I think by talking about the systematic way Descartes approaches thought in general, we can learn something about ourselves. Systematic thinking is a hallmark of this type of effective person who embraces adversity and removes these obstacles from their path. You know, we talked in the episode covering Aristotelean Ethics about achieving a "mastery" of life. Whenever you master any sort of activity, really what you are doing is developing a substantive reason for WHY you are doing each and every individual thing you do. Even something as simple as cooking eggs I was doing horrendously bad. I used to just crack the eggs into a pan, keep the heat low, when it turns white you scramble it up, put a little seasoning on it and you're good to go. But after watching Gordon Ramsey cook eggs, after listening to a true master talk about all of the different considerations he makes and contingency plans I realized that I hadn't the faintest idea how to make eggs properly. I want everybody to think right now of the thing that you are the best at. If somebody compiled a world rankings for every activity in the world, which activity would you be ranked the highest in? Now think back to the first time you ever did it. You were probably doing it the same way I was cooking eggs. But through hundreds of hours of practice, conducting little personal experiments, creating decision trees in your mind, developing contingency plans, eventually by doing all of these things you developed a system for doing it.Descartes was essentially trying to create a system for the universe. The catalyst that he thought would make that possible was mathematics. This guy was not just wandering throughout life complaining about all of the bad things that happened to him. He grabbed the helm of the ship and navigated the waters. You can't help but notice when you read him talk about the way he used to go about his everyday life that he applied this systematic approach to almost every object of his thought. In fact, late in his life he worked on a philosophical treatise that he never actually finished that was titled Rules for the Direction of the Mind. He lays out 12 rules that we should use to ensure that we are thinking about things in an appropriate way for science or philosophy, and he does a fine job. But what he also does is give us a realistic and systematic way of approaching any adversity we face in our lives...ANY BOULDER that is blocking our path. The hardest part of handling adversity in our personal lives is uncertainty. Very similar to the uncertainty Descartes dedicated his life to destroying. Descartes understood that committing to a solution and moving forward with it would be much easier if we could identify with certainty what the problem actually was. Once we knew what the problem was, if we used a systematic approach and understood how the problem related to everything else in our life, we would be in a much better place to solve it.He talks about this level of efficiency throughout most of his works, and really it was what he was all about. Developing certainty.He says:"Divide each difficulty into as many parts as is feasible and necessary to resolve it."Rule nine in his Rules for the Direction of the Mind says:"We ought to give the whole of our attention to the most insignificant and most easily mastered facts, and remain a long time in contemplation of them until we are accustomed to behold the truth clearly and distinctly."What he's saying is that when you have a problem, be it scientific, philosophical or in your everyday life, if you're having trouble trying to solve it, break it down into the smallest pieces you possibly can and then behold the truth. The thinking is, these smaller pieces are much less complex, much easier for our minds to manage, so with less moving parts involved there is less opportunity for error. Much more opportunity for us to see truth clearly and distinctly.Rule number three of his Rules for the Direction of the Mind is:"As regards any subject we propose to investigate, we must inquire not what other people have thought, or what we ourselves conjecture, but what we can clearly and manifestly perceive by intuition or deduce with certainty. For there is no other way of acquiring knowledge."On that same note he said:"So blind is the curiosity by which mortals are possessed, that they often conduct their minds along unexplored routes, having no reason to hope for success, but merely being willing to risk the experiment of finding whether the truth they seek lies there."What he's warning against is the tendency for humans to have a preconceived idea in their head of what they want the truth to be and then allowing that preconceived notion to shade the way that they view reality or the way they interpret the results of experiments. This is something we see ALL THE TIME in modern "science". (and I put that in quotation marks because it is not science). You have people that conduct surveys or scientific experiments, and before they even take the first sample they already have in their minds what they want the outcome of the experiment to be. So either because of their own human biases or because they are paid to, they look for every possible thing to reinforce what they WANT the outcome to be. Just watch any presidential debate in the last few election cycles and you'll have both people citing studies and surveys that came to conclusions that were DIAMETRIC opposites of each other. So there is definitely a scientific application for this rule, but it also applies to us in our personal lives. For example, let's say that you have a strong suspicion that your wife is cheating on you. You watch her sneak out of bed late at night and have a "mysterious" phone call. You walk in the room she hangs up the phone quickly. You notice she gets needlessly dressed up one morning and then you call her work at lunch time and left work early so you race home to catch her in the act and you storm in through the front door and she's setting up a surprise party for you.Let's not conduct experiments or gather evidence with too much confidence about what the outcome is going to be. It's fine to have a hypothesis, but at a certain point you may be misreading what is actually happening. It's hard sometimes because we all think that the experiments that we've conducted up until this point in our lives is the greatest collection of scientific research ever undertaken. We all think we are looking at the world through a more accurate lens than everyone else around us, even if we acknowledge that we make more mistakes that others.Descartes said:"Common sense is the most fairly distributed thing in the world, for each one thinks he is so well-endowed with it that even those who are hardest to satisfy in all other matters are not in the habit of desiring more of it than they already have."This quote is hilarious to me, and absolutely true. People ask for a LOT of stuff. They tell other people about all kinds of stuff that they're lacking that they need, but one thing you never hear even the lowliest street beggar ask for is common sense. He thinks he's got it all figured out. There's a great quote by Abraham Lincoln: Common sense is the collection of prejudices we acquire from birth until the age of 18.Anyway, next episode we are going to be talking about Descartes' proof of God's existence. This is one of the most widely studied proofs and naturally one of the most commented on. Get ready for a spirited debate between Descartes and some of the greatest minds who ever lived. I'll talk to you guys next time.</p>
 
 
+
 </div></div></div></div></div></div>
 
         
@@ -1438,9 +1439,11 @@
 <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
 
 
+
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
 <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
@@ -1448,9 +1451,11 @@
 <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
 
 
+
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
 <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+
 
 
 </div></div><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1592570846238_8463"><div class="sqs-block-content">
@@ -1504,7 +1509,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.5b5df2e848f264b616790ebc09eb722e.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b20c562772ff9c847a6278b18e7da09e.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

@@ -41,14 +41,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #128 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"2":true,"7":true,"1":true,"3":true,"4":true,"8":true,"6":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #128 - Transcript","id":"5eec218c09afd80facd8c10d","fullUrl":"/transcript/episode-128-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["site_header_footer","campaigns_global_uc_ab","is_feature_gate_refresh_enabled","campaigns_content_editing_survey","multilingual_transactional_emails","new_stacked_index","commerce_site_visitor_metrics","supports_versioned_template_assets","crm_waitlist_enforce_recaptcha_v3_enterprise","collection_typename_switching","member_areas_schedule_interview","member_areas_provisioning_service","themes","order_status_page_checkout_landing_enabled","commerce_order_status_access","customer_accounts_email_verification","crm_retention_segment","background_art_onboarding","crm_remove_subscriber","send_local_pickup_ready_email","viewer-role-contributor-invites","campaigns_asset_picker","campaigns_new_image_layout_picker","visitor_react_forms","campaigns_import_discounts","commerce_clearpay","campaigns_thumbnail_layout","crm_enable_recaptcha_v3_enterprise","crm_enforce_recaptcha_v3_enterprise","commerce_etsy_shipping_import","accounting_orders_sync","marketing_landing_page","scripts_defer","member_areas_spanish_interviews","fluid_engine","nested_categories_migration_enabled","override_block_styles","commerce_etsy_product_import","customer_account_creation_recaptcha","campaigns_discount_section_in_automations","nested_categories","fluid_engine_clean_up_grid_contextual_change","crm_default_newsletter_block_to_campaigns","campaigns_discount_section_in_blasts","site_user_email_change","campaigns_show_featured_templates","commerce_restock_notifications"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #128 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"2":true,"1":true,"6":true,"8":true,"3":true,"7":true,"4":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #128 - Transcript","id":"5eec218c09afd80facd8c10d","fullUrl":"/transcript/episode-128-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["visitor_react_forms","crm_enforce_recaptcha_v3_enterprise","campaigns_import_discounts","send_local_pickup_ready_email","is_feature_gate_refresh_enabled","marketing_landing_page","campaigns_discount_section_in_blasts","commerce_site_visitor_metrics","customer_accounts_email_verification","member_areas_spanish_interviews","crm_default_newsletter_block_to_campaigns","member_areas_provisioning_service","override_block_styles","crm_waitlist_enforce_recaptcha_v3_enterprise","commerce_clearpay","campaigns_show_featured_templates","order_status_page_checkout_landing_enabled","nested_categories_migration_enabled","scripts_defer","fluid_engine","commerce_etsy_shipping_import","crm_enable_recaptcha_v3_enterprise","viewer-role-contributor-invites","collection_typename_switching","accounting_orders_sync","commerce_restock_notifications","campaigns_new_image_layout_picker","background_art_onboarding","campaigns_content_editing_survey","customer_account_creation_recaptcha","campaigns_global_uc_ab","campaigns_thumbnail_layout","supports_versioned_template_assets","commerce_order_status_access","new_stacked_index","member_areas_schedule_interview","multilingual_transactional_emails","commerce_etsy_product_import","campaigns_discount_section_in_automations","site_header_footer","themes","crm_remove_subscriber","nested_categories","site_user_email_change","crm_retention_segment","campaigns_asset_picker","fluid_engine_clean_up_grid_contextual_change"],"videoAssetsFeatureFlags":["mux-data-section-background-video","mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #128 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-128-transcript","datePublished":"2019-05-23T13:31:00-0700","dateModified":"2022-07-11T09:04:29-0700","headline":"Episode #128 - Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -135,153 +135,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-                  &quot;layout&quot;: &quot;navRight&quot;,
-                  &quot;action&quot;: {
-                    &quot;href&quot;: &quot;/take-action&quot;,
-                    &quot;buttonText&quot;: &quot;Take Action&quot;,
-                    &quot;newWindow&quot;: false
-                  },
-                  &quot;showSocial&quot;: true,
-                  &quot;socialOptions&quot;: {
-                    &quot;socialBorderShape&quot;: &quot;none&quot;,
-                    &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                    &quot;socialBorderThickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 1.0
-                    }
-                  },
-                  &quot;sectionTheme&quot;: &quot;light&quot;,
-                  &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                  &quot;cartStyle&quot;: &quot;cart&quot;,
-                  &quot;cartText&quot;: &quot;Cart&quot;,
-                  &quot;showEmptyCartState&quot;: true,
-                  &quot;cartOptions&quot;: {
-                    &quot;iconType&quot;: &quot;solid-7&quot;,
-                    &quot;cartBorderShape&quot;: &quot;none&quot;,
-                    &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                    &quot;cartBorderThickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 1.0
-                    }
-                  },
-                  &quot;showButton&quot;: false,
-                  &quot;showCart&quot;: false,
-                  &quot;showAccountLogin&quot;: true,
-                  &quot;headerStyle&quot;: &quot;theme&quot;,
-                  &quot;languagePicker&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;iconEnabled&quot;: false,
-                    &quot;iconType&quot;: &quot;globe&quot;,
-                    &quot;flagShape&quot;: &quot;shiny&quot;,
-                    &quot;languageFlags&quot;: [ ]
-                  },
-                  &quot;mobileOptions&quot;: {
-                    &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                    &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                    &quot;menuIconOptions&quot;: {
-                      &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                      &quot;thickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 1.0
-                      }
-                    }
-                  },
-                  &quot;dynamicOptions&quot;: {
-                    &quot;border&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;position&quot;: &quot;allSides&quot;,
-                      &quot;thickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 4.0
-                      }
-                    }
-                  },
-                  &quot;solidOptions&quot;: {
-                    &quot;headerOpacity&quot;: {
-                      &quot;unit&quot;: &quot;%&quot;,
-                      &quot;value&quot;: 100.0
-                    },
-                    &quot;border&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;position&quot;: &quot;allSides&quot;,
-                      &quot;thickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 4.0
-                      }
-                    },
-                    &quot;dropShadow&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blur&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 30.0
-                      },
-                      &quot;spread&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 0.0
-                      },
-                      &quot;distance&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 0.0
-                      }
-                    },
-                    &quot;blurBackground&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blurRadius&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 12.0
-                      }
-                    }
-                  },
-                  &quot;gradientOptions&quot;: {
-                    &quot;gradientType&quot;: &quot;faded&quot;,
-                    &quot;headerOpacity&quot;: {
-                      &quot;unit&quot;: &quot;%&quot;,
-                      &quot;value&quot;: 90.0
-                    },
-                    &quot;border&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;position&quot;: &quot;allSides&quot;,
-                      &quot;thickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 4.0
-                      }
-                    },
-                    &quot;dropShadow&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blur&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 30.0
-                      },
-                      &quot;spread&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 0.0
-                      },
-                      &quot;distance&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 0.0
-                      }
-                    },
-                    &quot;blurBackground&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blurRadius&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 12.0
-                      }
-                    }
-                  },
-                  &quot;showPromotedElement&quot;: false
-                }"
+                        &quot;layout&quot;: &quot;navRight&quot;,
+                        &quot;action&quot;: {
+                          &quot;href&quot;: &quot;/take-action&quot;,
+                          &quot;buttonText&quot;: &quot;Take Action&quot;,
+                          &quot;newWindow&quot;: false
+                        },
+                        &quot;showSocial&quot;: true,
+                        &quot;socialOptions&quot;: {
+                          &quot;socialBorderShape&quot;: &quot;none&quot;,
+                          &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                          &quot;socialBorderThickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 1.0
+                          }
+                        },
+                        &quot;sectionTheme&quot;: &quot;light&quot;,
+                        &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                        &quot;cartStyle&quot;: &quot;cart&quot;,
+                        &quot;cartText&quot;: &quot;Cart&quot;,
+                        &quot;showEmptyCartState&quot;: true,
+                        &quot;cartOptions&quot;: {
+                          &quot;iconType&quot;: &quot;solid-7&quot;,
+                          &quot;cartBorderShape&quot;: &quot;none&quot;,
+                          &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                          &quot;cartBorderThickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 1.0
+                          }
+                        },
+                        &quot;showButton&quot;: false,
+                        &quot;showCart&quot;: false,
+                        &quot;showAccountLogin&quot;: true,
+                        &quot;headerStyle&quot;: &quot;theme&quot;,
+                        &quot;languagePicker&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;iconEnabled&quot;: false,
+                          &quot;iconType&quot;: &quot;globe&quot;,
+                          &quot;flagShape&quot;: &quot;shiny&quot;,
+                          &quot;languageFlags&quot;: [ ]
+                        },
+                        &quot;mobileOptions&quot;: {
+                          &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                          &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                          &quot;menuIconOptions&quot;: {
+                            &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                            &quot;thickness&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 1.0
+                            }
+                          }
+                        },
+                        &quot;dynamicOptions&quot;: {
+                          &quot;border&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;position&quot;: &quot;allSides&quot;,
+                            &quot;thickness&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 4.0
+                            }
+                          }
+                        },
+                        &quot;solidOptions&quot;: {
+                          &quot;headerOpacity&quot;: {
+                            &quot;unit&quot;: &quot;%&quot;,
+                            &quot;value&quot;: 100.0
+                          },
+                          &quot;border&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;position&quot;: &quot;allSides&quot;,
+                            &quot;thickness&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 4.0
+                            }
+                          },
+                          &quot;dropShadow&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;blur&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 30.0
+                            },
+                            &quot;spread&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 0.0
+                            },
+                            &quot;distance&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 0.0
+                            }
+                          },
+                          &quot;blurBackground&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;blurRadius&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 12.0
+                            }
+                          }
+                        },
+                        &quot;gradientOptions&quot;: {
+                          &quot;gradientType&quot;: &quot;faded&quot;,
+                          &quot;headerOpacity&quot;: {
+                            &quot;unit&quot;: &quot;%&quot;,
+                            &quot;value&quot;: 90.0
+                          },
+                          &quot;border&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;position&quot;: &quot;allSides&quot;,
+                            &quot;thickness&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 4.0
+                            }
+                          },
+                          &quot;dropShadow&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;blur&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 30.0
+                            },
+                            &quot;spread&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 0.0
+                            },
+                            &quot;distance&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 0.0
+                            }
+                          },
+                          &quot;blurBackground&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;blurRadius&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 12.0
+                            }
+                          }
+                        },
+                        &quot;showPromotedElement&quot;: false
+                      }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                  &quot;enabled&quot;: false,
-                  &quot;iconEnabled&quot;: false,
-                  &quot;iconType&quot;: &quot;globe&quot;,
-                  &quot;flagShape&quot;: &quot;shiny&quot;,
-                  &quot;languageFlags&quot;: [ ]
-                }"
+                        &quot;enabled&quot;: false,
+                        &quot;iconEnabled&quot;: false,
+                        &quot;iconType&quot;: &quot;globe&quot;,
+                        &quot;flagShape&quot;: &quot;shiny&quot;,
+                        &quot;languageFlags&quot;: [ ]
+                      }"
   
   data-first-focusable-element
   tabindex="-1"
@@ -848,142 +848,142 @@
     
     "
     data-current-styles="{
-                  &quot;layout&quot;: &quot;navRight&quot;,
-                  &quot;action&quot;: {
-                    &quot;href&quot;: &quot;/take-action&quot;,
-                    &quot;buttonText&quot;: &quot;Take Action&quot;,
-                    &quot;newWindow&quot;: false
-                  },
-                  &quot;showSocial&quot;: true,
-                  &quot;socialOptions&quot;: {
-                    &quot;socialBorderShape&quot;: &quot;none&quot;,
-                    &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                    &quot;socialBorderThickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 1.0
-                    }
-                  },
-                  &quot;sectionTheme&quot;: &quot;light&quot;,
-                  &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                  &quot;cartStyle&quot;: &quot;cart&quot;,
-                  &quot;cartText&quot;: &quot;Cart&quot;,
-                  &quot;showEmptyCartState&quot;: true,
-                  &quot;cartOptions&quot;: {
-                    &quot;iconType&quot;: &quot;solid-7&quot;,
-                    &quot;cartBorderShape&quot;: &quot;none&quot;,
-                    &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                    &quot;cartBorderThickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 1.0
-                    }
-                  },
-                  &quot;showButton&quot;: false,
-                  &quot;showCart&quot;: false,
-                  &quot;showAccountLogin&quot;: true,
-                  &quot;headerStyle&quot;: &quot;theme&quot;,
-                  &quot;languagePicker&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;iconEnabled&quot;: false,
-                    &quot;iconType&quot;: &quot;globe&quot;,
-                    &quot;flagShape&quot;: &quot;shiny&quot;,
-                    &quot;languageFlags&quot;: [ ]
-                  },
-                  &quot;mobileOptions&quot;: {
-                    &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                    &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                    &quot;menuIconOptions&quot;: {
-                      &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                      &quot;thickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 1.0
-                      }
-                    }
-                  },
-                  &quot;dynamicOptions&quot;: {
-                    &quot;border&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;position&quot;: &quot;allSides&quot;,
-                      &quot;thickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 4.0
-                      }
-                    }
-                  },
-                  &quot;solidOptions&quot;: {
-                    &quot;headerOpacity&quot;: {
-                      &quot;unit&quot;: &quot;%&quot;,
-                      &quot;value&quot;: 100.0
-                    },
-                    &quot;border&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;position&quot;: &quot;allSides&quot;,
-                      &quot;thickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 4.0
-                      }
-                    },
-                    &quot;dropShadow&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blur&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 30.0
-                      },
-                      &quot;spread&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 0.0
-                      },
-                      &quot;distance&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 0.0
-                      }
-                    },
-                    &quot;blurBackground&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blurRadius&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 12.0
-                      }
-                    }
-                  },
-                  &quot;gradientOptions&quot;: {
-                    &quot;gradientType&quot;: &quot;faded&quot;,
-                    &quot;headerOpacity&quot;: {
-                      &quot;unit&quot;: &quot;%&quot;,
-                      &quot;value&quot;: 90.0
-                    },
-                    &quot;border&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;position&quot;: &quot;allSides&quot;,
-                      &quot;thickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 4.0
-                      }
-                    },
-                    &quot;dropShadow&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blur&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 30.0
-                      },
-                      &quot;spread&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 0.0
-                      },
-                      &quot;distance&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 0.0
-                      }
-                    },
-                    &quot;blurBackground&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blurRadius&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 12.0
-                      }
-                    }
-                  },
-                  &quot;showPromotedElement&quot;: false
-                }"
+                        &quot;layout&quot;: &quot;navRight&quot;,
+                        &quot;action&quot;: {
+                          &quot;href&quot;: &quot;/take-action&quot;,
+                          &quot;buttonText&quot;: &quot;Take Action&quot;,
+                          &quot;newWindow&quot;: false
+                        },
+                        &quot;showSocial&quot;: true,
+                        &quot;socialOptions&quot;: {
+                          &quot;socialBorderShape&quot;: &quot;none&quot;,
+                          &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                          &quot;socialBorderThickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 1.0
+                          }
+                        },
+                        &quot;sectionTheme&quot;: &quot;light&quot;,
+                        &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                        &quot;cartStyle&quot;: &quot;cart&quot;,
+                        &quot;cartText&quot;: &quot;Cart&quot;,
+                        &quot;showEmptyCartState&quot;: true,
+                        &quot;cartOptions&quot;: {
+                          &quot;iconType&quot;: &quot;solid-7&quot;,
+                          &quot;cartBorderShape&quot;: &quot;none&quot;,
+                          &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                          &quot;cartBorderThickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 1.0
+                          }
+                        },
+                        &quot;showButton&quot;: false,
+                        &quot;showCart&quot;: false,
+                        &quot;showAccountLogin&quot;: true,
+                        &quot;headerStyle&quot;: &quot;theme&quot;,
+                        &quot;languagePicker&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;iconEnabled&quot;: false,
+                          &quot;iconType&quot;: &quot;globe&quot;,
+                          &quot;flagShape&quot;: &quot;shiny&quot;,
+                          &quot;languageFlags&quot;: [ ]
+                        },
+                        &quot;mobileOptions&quot;: {
+                          &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                          &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                          &quot;menuIconOptions&quot;: {
+                            &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                            &quot;thickness&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 1.0
+                            }
+                          }
+                        },
+                        &quot;dynamicOptions&quot;: {
+                          &quot;border&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;position&quot;: &quot;allSides&quot;,
+                            &quot;thickness&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 4.0
+                            }
+                          }
+                        },
+                        &quot;solidOptions&quot;: {
+                          &quot;headerOpacity&quot;: {
+                            &quot;unit&quot;: &quot;%&quot;,
+                            &quot;value&quot;: 100.0
+                          },
+                          &quot;border&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;position&quot;: &quot;allSides&quot;,
+                            &quot;thickness&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 4.0
+                            }
+                          },
+                          &quot;dropShadow&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;blur&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 30.0
+                            },
+                            &quot;spread&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 0.0
+                            },
+                            &quot;distance&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 0.0
+                            }
+                          },
+                          &quot;blurBackground&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;blurRadius&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 12.0
+                            }
+                          }
+                        },
+                        &quot;gradientOptions&quot;: {
+                          &quot;gradientType&quot;: &quot;faded&quot;,
+                          &quot;headerOpacity&quot;: {
+                            &quot;unit&quot;: &quot;%&quot;,
+                            &quot;value&quot;: 90.0
+                          },
+                          &quot;border&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;position&quot;: &quot;allSides&quot;,
+                            &quot;thickness&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 4.0
+                            }
+                          },
+                          &quot;dropShadow&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;blur&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 30.0
+                            },
+                            &quot;spread&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 0.0
+                            },
+                            &quot;distance&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 0.0
+                            }
+                          },
+                          &quot;blurBackground&quot;: {
+                            &quot;enabled&quot;: false,
+                            &quot;blurRadius&quot;: {
+                              &quot;unit&quot;: &quot;px&quot;,
+                              &quot;value&quot;: 12.0
+                            }
+                          }
+                        },
+                        &quot;showPromotedElement&quot;: false
+                      }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1134,31 +1134,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                  &quot;imageOverlayOpacity&quot;: 0.15,
-                  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                  &quot;customSectionHeight&quot;: 10,
-                  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                  &quot;customContentWidth&quot;: 50,
-                  &quot;sectionTheme&quot;: &quot;&quot;,
-                  &quot;sectionAnimation&quot;: &quot;none&quot;,
-                  &quot;backgroundMode&quot;: &quot;image&quot;
-                }"
+                        &quot;imageOverlayOpacity&quot;: 0.15,
+                        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                        &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                        &quot;customSectionHeight&quot;: 10,
+                        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                        &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                        &quot;customContentWidth&quot;: 50,
+                        &quot;sectionTheme&quot;: &quot;&quot;,
+                        &quot;sectionAnimation&quot;: &quot;none&quot;,
+                        &quot;backgroundMode&quot;: &quot;image&quot;
+                      }"
   data-current-context="{
-                  &quot;video&quot;: {
-                    &quot;playbackSpeed&quot;: 0.5,
-                    &quot;filter&quot;: 1,
-                    &quot;filterStrength&quot;: 0,
-                    &quot;zoom&quot;: 0,
-                    &quot;videoSourceProvider&quot;: &quot;none&quot;
-                  },
-                  &quot;backgroundImageId&quot;: null,
-                  &quot;backgroundMediaEffect&quot;: null,
-                  &quot;divider&quot;: null,
-                  &quot;typeName&quot;: &quot;blog-masonry&quot;
-                }"
+                        &quot;video&quot;: {
+                          &quot;playbackSpeed&quot;: 0.5,
+                          &quot;filter&quot;: 1,
+                          &quot;filterStrength&quot;: 0,
+                          &quot;zoom&quot;: 0,
+                          &quot;videoSourceProvider&quot;: &quot;none&quot;
+                        },
+                        &quot;backgroundImageId&quot;: null,
+                        &quot;backgroundMediaEffect&quot;: null,
+                        &quot;divider&quot;: null,
+                        &quot;typeName&quot;: &quot;blog-masonry&quot;
+                      }"
   data-animation="none"
   
    
@@ -1221,7 +1221,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec218c09afd80facd8c10d"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1657555432907_1104"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today we’re releasing two new episodes of the show. Try to listen to them back to back if you can. They kind of go together. But this one is part four in our series on Gilles Deleuze. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So all throughout this series we’ve talked about different ways Deleuze and Guattari want to get us out of thinking about things in the traditional, rigid ways we’ve approached things in the past. They’ve asked us to think about ontology differently, politics differently. They’ve questioned the individual humanistic perspective we typically view everything through. They’ve even asked us to question things like the nature of time and the linear way that we typically view history as though it’s been this straightforward crescendo of progress that’s all been leading to this moment, right now.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So it’ll probably come as no surprise that in the second volume of <em>Capitalism and Schizophrenia,</em> titled <em>A Thousand Plateaus,</em> Deleuze and Guattari are going to want to do the same thing in other areas. They want to offer a completely different way to think about the questions surrounding social theory, or if you wanted to get all Webster’s Dictionary on people, social theory meaning the analytical frameworks or paradigms that are used to study and interpret social phenomena. Deleuze and Guattari want to offer a different way of thinking about all this. And, by different, what I mean is different from the four or five ways philosophers have always approached these questions in the past.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I mean, just on this show we’ve already seen tons of examples of philosophers trying their hands at social theory, and almost every time they seem to fail miserably. We’ve seen people try to actually design the entire society from the ground up. Think Plato’s <em>Republic</em>, social engineering on a massive scale to the point of carving out and actually designing social classes, even grooming and designing the minds of all future leaders from the moment they’re born. Think St. Augustine’s <em>City of God</em> in the 5th century. Think Thomas Moore’s <em>Utopia</em> in the 16th century. We’ve seen tons of examples of this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But we’ve also seen other attempts at social theory, right? I mean, when we get to the Renaissance and the Enlightenment, the focus is less on coming up with some sort of grand design and more on seeing things through the lens of the individual and subjectivity. And what this leads to is social contract theory. Through the work of Hobbes, Locke, Rousseau, and many others, basic elements of society are structured around an agreement signed at birth between the individual citizen and the sovereign. This agreement lays out the parameters for how many of the relationships between things within that society are going to function. Social theory has been talked about extensively from a variety of different angles.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But even still, Deleuze and Guattari think that we’re still missing out on a lot when it comes to other ways that elements of society connect and work together. And they’re going to ask us to instead take a look at society through the lens of what they refer to as “flows.” General theory about society, to Deleuze and Guattari, can be understood in terms of a theory of what they call “flows” and how they relate to each other. So, obviously, the first thing we got to talk about is what’s a flow. I mean, why do we need some new term to talk about the way social phenomena unfold? Well, the reason is fairly similar to what we talked about last episode in the realm of politics.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, in the same way it would be a mistake to only limit ourselves to the long tradition of looking at political change from the perspective of the individual, and how by broadening that perspective, by seeing the world as a complex laboratory of machines using other machines and making connections, actualizing the political reality -- look, one of the main points of last episode was that by seeing political change from this broader, more versatile angle, we see perspectives and potential solutions that we just can’t possibly see when we look at things solely from the perspective of the classical liberal tradition of individualism. Well, so too when it comes to social theory and the broader perspective Deleuze and Guattari want us to consider when looking at things in terms of flows.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about flows. We all already have a frame of reference to sort of understand what they mean by flows because we all already use the word flow in a bunch of everyday situations to describe the way things sort of move along in the world we live in. See, Deleuze and Guattari first developed this idea of looking at everything in terms of flows when they’re studying economics. But then, once you see flows in the context of economics, the concept of a flow just kind of expands outward from there and seems to apply to all the other different areas of society as well.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Daniel Antier in his analysis of Deleuze describes a pretty good starting point for thinking about flows from this economic perspective. He says, “From the economic point of view, we can call flows the values of the quantities of goods and services or money that are transmitted from one pole to another.” Now, when it comes to these two poles that are being talked about, think of them as two bookends, where between these two bookends there is some economic flow occurring, whatever that may be, for example, the flow of economic transactions between an employer and an employee or between a store and a manufacturer. These economic flows alternatively could extend into the realm of finance. Think of the movement of transactions or the flow between a bank or an investor and some machine trying to actualize a new business venture. There are even economic flows going on internal to businesses or people’s personal finances. Think of the term cashflow. Think of the flow of material resources or inventory based on what’s being received or sold.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The larger point here to understand and the reason this is going to apply to all these other areas of society as well is that, in all of these cases, movement is occurring. And we seem to be able to see this movement or flow at all different levels of analysis, just like machines when we were talking about political change last episode. Remember, by looking at things in terms of machines, we aren’t just looking at things through the lens of the individual. Yes, individuals are machines, but again, so are groups, so are companies, organizations, spiritual movements, planets. But it goes the other way as well. We can think of parts of our bodies as machines. We can think of bodily processes as machines, the very collections of cells that make us up.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Like we talked about last time, political change can be understood by looking at this interaction between and confluence of machines at all levels. Well, in the same way, we can understand social phenomena in terms of these flows and how they interact with each other at all levels. But again, flows are not just economic, alright? This is just where Deleuze and Guattari identify them for the first time. So, probably a good idea to expand on that.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Okay, we’ve talked about economic flows, you know, the movement of money between parties, the movement of capital and finance. But in another area a flow could easily be the flow of immigration, you know, the movement of new citizens into a country. That’s a social phenomenon. Another example could be a flow of commodities, you know, the movement of oil or electricity or coffee or any commodity for that matter. That’s another aspect of society. We could look at the flow of traffic, the flow of ideas from person to person, the flow of how citizens live their lives within a particular city. We can even think of flow in terms of the raw human excrement flowing through the sewage facilities of a city. And this is not me making some sick joke here. This is actually an example they use in the book because flows, like machines, are extremely varied in terms of their definitions and exist at what seems to be all levels of a society.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, in the interest of understanding what flows are, I want to point out some similarities between all these examples of flows that we just laid out. And I think the best way to do that is through a metaphor. Let’s compare all of these flows to the flow of water in a river. Okay, so if we think of a river as a metaphor for what a flow is, we can analyze that river as philosophers have traditionally done in the past. There are, of course, ways to break down that river into a bunch of different parts, give each of those parts an identity, and then study the identities of all those different parts to try to understand the river better. But there’s a sense in which, if you were to only look at the river in this way, you’d be potentially missing out on an entire layer of understanding about that river that you’d only have access to if you were looking at the entire river as a whole process or movement or flow.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This has been one of the big mistakes of so many great philosophers of the past when looking at social theory. They pay way too much attention to prescribing identities to the things that are moving and not enough attention to lots of other important factors such as why is the river moving in the direction it is at all. What is responsible for that movement? Why is there a flow between these two poles in particular? Another thing that often gets overlooked by philosophers that are overly concerned with the identity of things is that, just like in the case of a river, human intervention often fundamentally changes the nature of the flow. And so often in the past this has distorted our ability to see things in the world clearly.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Just to clarify what Deleuze and Guattari are getting at here, let’s return back to the example of a river as a flow. And, as we talk about this, remember we’re not just talking about large-scale cultural movements here. Again, flows exist at all levels down to things that might seem completely insignificant to older, outdated ways of looking at social phenomena. But back to the river. So a river is almost never just some uninhibited stream of liquid that sort of meanders anywhere that it happens to go. No, there’s a specific reason that river is moving in the direction that it is at the speed that it is. For example, a glacier melting on the top of a mountain and gravity pulling water to its lowest point. What this means is, just like flows we can spot in society, there is always some sort of force responsible for why this flow exists between these two poles. Why is there a flow of immigration into a particular country? Why is there a flow of traffic to this part of the city at this particular time? What force is driving the flow and spreading of ideas among members of a culture or from generation to generation? What force determines which ideas have the most movement and at what speed those ideas move?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Also, picture the river again, you know, water flowing between two poles in a specific direction. Well, if at any point that flow of water becomes inconvenient to us when it comes to any activity we want to engage in as human beings, what do we do? We intervene. We fundamentally change the nature of that flow so that it corresponds with some demand we have. We put up a dam and stop the flow of the river altogether. We redirect the flow of water into a different direction. We change the grade of the riverbed to adjust the speed in certain areas. We build a bridge so we can cross the river in a particular place. So, in the case of the river, human intervention plays a vital role in determining how that flow looks and functions. And this is exactly the case when it comes to all the other flows we’ve talked about. We have immigration laws and procedures to regulate levels of citizenship. We have market regulations to govern economic flows. We have traffic laws and streetlights and signs to regulate the flow of traffic. We have sewage systems and processing facilities to carry out whatever it is we’ve decided needs to get done with the Mississippi River of human excrement that would otherwise be flowing down the street.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Market regulations to economic flows are like the dam is to the river in our metaphor. Traffic laws are to the traffic flow as redirecting the course of the river is in our metaphor. These interventions in the language of Deleuze and Guattari, as we talked about last time, are the effects of a constant process that’s going on of territorialization, deterritorialization, and then reterritorialization by machines interacting with these flows. The key to a new level of understanding about how society functions, to Deleuze, lies in understanding these flows, these forces of movements that exist between polarities, how these flows interact with each other, and how they are shaped and changed by this constant territorialization by machines.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Deleuze and Guattari give an example of this interaction that occurs between flows and the machines that are making connections and territorializing those flows. And it’s through this example that they illustrate an extremely important point if we want to view social phenomena by thinking of it in terms of flows. These machines, when seeking connections and creating this territory, they in a sense become part of the flow. The flow becomes part of their identity in that moment the same way a dam becomes part of the river, and it dictates several critical aspects about how that flow looks. In other words, the dam becomes part of the flow. Machines often become critical parts of what makes other flows of social phenomena possible. I mean, you can just imagine how complicated and rhizomatic these flows within society get when they have this many moving parts.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The example Deleuze and Guattari give is of a particular kind of wasp that plays a crucial role in the reproductive process of orchids. So the process of an orchid fertilizing and reproducing with other orchids can be thought of in its own right as a flow between those two orchids. This specific type of wasp that Deleuze and Guattari write about carries the pollen from one orchid to another, which in this context makes that wasp an absolutely crucial part of this flow of reproduction. There’s a sense in which this wasp has become a machine. The wasp doesn’t have a fixed identity. The identity of the wasp in this moment as it’s transporting the pollen is defined by the connections it has in this moment. Whatever goals or connections that wasp had a week ago or what the wasp does immediately after doesn’t really matter in this context. The wasp has become deterritorialized. There’s no sense of identity given to that wasp from the outside.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Deleuze and Guattari say that for all intents and purposes, that wasp has become a verb, something in motion. That wasp has become part of that flow of reproduction. Which is to say in some capacity, that wasp cannot be thought of as just a wasp anymore. That wasp has become part of the orchid, the wasp and orchid themselves forming a rhizome, a rhizome with countless roots connecting them with other root networks around them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You can imagine what this means when it comes to our views on society if we replace the wasp and the orchid’s reproduction with some other machine and some other flow. Say an individual in their car and their impact as part of that flow of traffic. Say a group of lobbyists and their impact as part of that flow of commodities like oil within a society. Say a cultural movement and the role it plays in the flow of ideas that dominate thought leaders and media. Just like the wasp becoming the orchid, machines are often engaged in a process of becoming, becoming part of these flows. Maybe the state or government as a machine is becoming what it is in relation to the flow of history. Maybe an individual is becoming what they are in a given moment in relation to the flows of advertising on television.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To see what’s going on in the world from the broader perspective of machines and flows is potentially revolutionary. Now, we could talk for an entire series about what exactly changes in a worldview when you see everything in terms of flows. You know, there have been several anthropologists through the end of the 20th century that have dedicated their entire lives to studying flows and have developed the concept far beyond what Deleuze and Guattari ever did. But the most important takeaway here, I think, when it comes to understanding the work of Deleuze, is that by looking at things in terms of flows, you see the world from a crucial vantage point if what you want is a comprehensive picture of the world and how it works. And that vantage point is this: the world is fundamentally a world in motion, to Deleuze. Seeing the world as a collection of static identities, objects to be studied and understood, for Deleuze, that certainly gives you one perspective, but it’s far from the full story. See, if we want to understand social phenomena, we can’t make the same mistake we’ve talked about when it comes to understanding how political change occurs, and we can’t make the same mistake philosophers have made for centuries when trying to understand ontology. There is a way of interpreting the world that is missing from our thousands of years of discourse.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is an alternative picture it’s taken four episodes to prepare the vocabulary for. The world we live in, to Deleuze, is a world of difference. It’s a world that is constantly in motion, a rhizome of different flows forming networks, connected together sometimes in chaotic ways, networks of machines and their connections with other machines that themselves create further rhizomes. These machines, when actualizing their political realities, territorialize and regulate these flows, which are themselves always changing. This picture of a massive, ever-changing, enormously complex rhizome is only available to us when we get out of the business of identity and instead adopt the broader Deleuzian perspective of machines, flows, and an ontology of immanence.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And, by the way, you can see here how tempting it would be, in the interest of trying to understand the complexity of this rhizome, to try to break it down into a thousand smaller rhizomes or to try to break each of those down into a hundred different trees of hierarchical systems. Maybe you spend an entire lifetime as a philosopher playing this game of trying to find static identities for things, and at the end all you have to show for it is the identity of a single hierarchical system of thought. That seems to be the fate of many of the philosophers that have existed throughout history with this worldview.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But the concept of identity is nowhere near this simple. You know, we started this whole arc of the show on post-structuralism by talking about how thinkers wanted to get away from what they saw as naïve, Enlightenment-era ideas about a lot of different topics including identity. Well, this is a perfect example of how one post-structuralist named Deleuze tries to move past that and show how these outdated ways of looking at identity often have real negative effects on people’s lives, not to mention the opportunity cost of thinking in the same rigid ways for hundreds of years.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, the general thinking has always been among philosophers that identity must exist prior to difference. The logic’s always been that if you’re talking about two different things, say a table and a chair, well, if there’s a difference between a table and a chair, that must mean that they have an identity as a thing before a difference between their identities could ever be pointed out. That’s a table. That’s a chair. They’re clearly different. They must have two separate identities that inform that distinction. So what this has led to is a long tradition of philosophers trying to get to the bottom of these identities that seem to exist. But Deleuze is going to come along and turn this entire thing on its head. What he’s going to say is that there’s no reason we have to assume that identity must be prior to difference. There’s no ultimate form of a chair sitting up in a world of forms, actually. There’s no static identity of chairs in the universe. There’s no scientific category that really spells out the identity of a chair.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What we have thought of as identity, to Deleuze, is not us touching something written into the fabric of the universe about chairs. Identity is always derived from difference. To truly grasp identity is to understand that fact. No two things are exactly the same. And if we want to stay honest when identifying things, we have to understand that what we’ve traditionally thought of as identity is, in reality, the contrast between some thing and all the things that it’s not. In other words, difference is prior to identity, for Deleuze, not the other way around. Once again, this is another example of how this is fundamentally a world of difference.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What Deleuze is also calling into question here is the long-standing dichotomy that’s existed in Western philosophy of being versus becoming. And the origins of this criticism go all the way back to the work of Nietzsche and Deleuze’s own unique interpretation of one of his most famous ideas, the eternal recurrence. Deleuze thinks that when you read Nietzsche one way, his concept of the eternal recurrence is actually making a very similar point to what Deleuze tried to say following the work of Spinoza and Bergson that we talked about earlier in the series. So, if you remember, we mentioned the eternal recurrence very briefly back in our episodes on Nietzsche. We sort of referenced the most popular or practically useful side of it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The idea is that you should think of your life, every living situation, every relationship, every job, every single choice that you make, you should do so with the policy that the moment you die, your life will restart and you’ll have to live the exact same life precisely as you did the first time over and over again for all eternity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Nietzsche describes it here,</p><p class="" style="white-space:pre-wrap;">“What if some day or night a demon were to steal after you into your loneliest loneliness and say to you: ‘This life as you now live it and have lived it, you will have to live once more and innumerable times more; and there will be nothing new in it, but every pain and every joy and every thought and sigh and everything unutterably small or great in your life will have to return to you, all in the same succession and sequence -- even this spider and this moonlight between the trees, and even this moment and I myself. The eternal hourglass of existence is turned upside down again and again and you with it, speck of dust.’ Would you not throw yourself down and gnash your teeth and curse the demon who spoke thus? Or would you have once experienced a tremendous moment when you would have answered him, ‘You are a god, and never have I heard anything more divine.’”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So the idea is that we often do things that are self-destructive or stay in situations that are clearly causing us a lot more pain than the benefit we’re getting from it. And it’s easy when you’re in one of those situations to say, “Ah, the suffering’s only temporary. It’s going to be over soon.” But how different would we look at things if we knew that the complacency we had in that moment was going to cause us to suffer for the rest of time and that the level of suffering you’re going to endure is only limited by your willingness to take action right now? This idea from Nietzsche just raises the stakes, I think, and puts things in perspective.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But this isn’t the only takeaway from Nietzsche and his work on the eternal recurrence. And Deleuze thinks that what this idea leads to is an entirely new perspective about a long tradition throughout the history of philosophy of dividing the world up in terms of being versus becoming. And we’re going to talk about it first thing next episode, which, by the way, is out for you to listen to right now.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I’ll talk to you next time.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today we’re releasing two new episodes of the show. Try to listen to them back to back if you can. They kind of go together. But this one is part four in our series on Gilles Deleuze. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So all throughout this series we’ve talked about different ways Deleuze and Guattari want to get us out of thinking about things in the traditional, rigid ways we’ve approached things in the past. They’ve asked us to think about ontology differently, politics differently. They’ve questioned the individual humanistic perspective we typically view everything through. They’ve even asked us to question things like the nature of time and the linear way that we typically view history as though it’s been this straightforward crescendo of progress that’s all been leading to this moment, right now.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So it’ll probably come as no surprise that in the second volume of <em>Capitalism and Schizophrenia,</em> titled <em>A Thousand Plateaus,</em> Deleuze and Guattari are going to want to do the same thing in other areas. They want to offer a completely different way to think about the questions surrounding social theory, or if you wanted to get all Webster’s Dictionary on people, social theory meaning the analytical frameworks or paradigms that are used to study and interpret social phenomena. Deleuze and Guattari want to offer a different way of thinking about all this. And, by different, what I mean is different from the four or five ways philosophers have always approached these questions in the past.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I mean, just on this show we’ve already seen tons of examples of philosophers trying their hands at social theory, and almost every time they seem to fail miserably. We’ve seen people try to actually design the entire society from the ground up. Think Plato’s <em>Republic</em>, social engineering on a massive scale to the point of carving out and actually designing social classes, even grooming and designing the minds of all future leaders from the moment they’re born. Think St. Augustine’s <em>City of God</em> in the 5th century. Think Thomas Moore’s <em>Utopia</em> in the 16th century. We’ve seen tons of examples of this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But we’ve also seen other attempts at social theory, right? I mean, when we get to the Renaissance and the Enlightenment, the focus is less on coming up with some sort of grand design and more on seeing things through the lens of the individual and subjectivity. And what this leads to is social contract theory. Through the work of Hobbes, Locke, Rousseau, and many others, basic elements of society are structured around an agreement signed at birth between the individual citizen and the sovereign. This agreement lays out the parameters for how many of the relationships between things within that society are going to function. Social theory has been talked about extensively from a variety of different angles.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But even still, Deleuze and Guattari think that we’re still missing out on a lot when it comes to other ways that elements of society connect and work together. And they’re going to ask us to instead take a look at society through the lens of what they refer to as “flows.” General theory about society, to Deleuze and Guattari, can be understood in terms of a theory of what they call “flows” and how they relate to each other. So, obviously, the first thing we got to talk about is what’s a flow. I mean, why do we need some new term to talk about the way social phenomena unfold? Well, the reason is fairly similar to what we talked about last episode in the realm of politics.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, in the same way it would be a mistake to only limit ourselves to the long tradition of looking at political change from the perspective of the individual, and how by broadening that perspective, by seeing the world as a complex laboratory of machines using other machines and making connections, actualizing the political reality -- look, one of the main points of last episode was that by seeing political change from this broader, more versatile angle, we see perspectives and potential solutions that we just can’t possibly see when we look at things solely from the perspective of the classical liberal tradition of individualism. Well, so too when it comes to social theory and the broader perspective Deleuze and Guattari want us to consider when looking at things in terms of flows.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about flows. We all already have a frame of reference to sort of understand what they mean by flows because we all already use the word flow in a bunch of everyday situations to describe the way things sort of move along in the world we live in. See, Deleuze and Guattari first developed this idea of looking at everything in terms of flows when they’re studying economics. But then, once you see flows in the context of economics, the concept of a flow just kind of expands outward from there and seems to apply to all the other different areas of society as well.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Daniel Antier in his analysis of Deleuze describes a pretty good starting point for thinking about flows from this economic perspective. He says, “From the economic point of view, we can call flows the values of the quantities of goods and services or money that are transmitted from one pole to another.” Now, when it comes to these two poles that are being talked about, think of them as two bookends, where between these two bookends there is some economic flow occurring, whatever that may be, for example, the flow of economic transactions between an employer and an employee or between a store and a manufacturer. These economic flows alternatively could extend into the realm of finance. Think of the movement of transactions or the flow between a bank or an investor and some machine trying to actualize a new business venture. There are even economic flows going on internal to businesses or people’s personal finances. Think of the term cashflow. Think of the flow of material resources or inventory based on what’s being received or sold.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The larger point here to understand and the reason this is going to apply to all these other areas of society as well is that, in all of these cases, movement is occurring. And we seem to be able to see this movement or flow at all different levels of analysis, just like machines when we were talking about political change last episode. Remember, by looking at things in terms of machines, we aren’t just looking at things through the lens of the individual. Yes, individuals are machines, but again, so are groups, so are companies, organizations, spiritual movements, planets. But it goes the other way as well. We can think of parts of our bodies as machines. We can think of bodily processes as machines, the very collections of cells that make us up.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Like we talked about last time, political change can be understood by looking at this interaction between and confluence of machines at all levels. Well, in the same way, we can understand social phenomena in terms of these flows and how they interact with each other at all levels. But again, flows are not just economic, alright? This is just where Deleuze and Guattari identify them for the first time. So, probably a good idea to expand on that.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Okay, we’ve talked about economic flows, you know, the movement of money between parties, the movement of capital and finance. But in another area a flow could easily be the flow of immigration, you know, the movement of new citizens into a country. That’s a social phenomenon. Another example could be a flow of commodities, you know, the movement of oil or electricity or coffee or any commodity for that matter. That’s another aspect of society. We could look at the flow of traffic, the flow of ideas from person to person, the flow of how citizens live their lives within a particular city. We can even think of flow in terms of the raw human excrement flowing through the sewage facilities of a city. And this is not me making some sick joke here. This is actually an example they use in the book because flows, like machines, are extremely varied in terms of their definitions and exist at what seems to be all levels of a society.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, in the interest of understanding what flows are, I want to point out some similarities between all these examples of flows that we just laid out. And I think the best way to do that is through a metaphor. Let’s compare all of these flows to the flow of water in a river. Okay, so if we think of a river as a metaphor for what a flow is, we can analyze that river as philosophers have traditionally done in the past. There are, of course, ways to break down that river into a bunch of different parts, give each of those parts an identity, and then study the identities of all those different parts to try to understand the river better. But there’s a sense in which, if you were to only look at the river in this way, you’d be potentially missing out on an entire layer of understanding about that river that you’d only have access to if you were looking at the entire river as a whole process or movement or flow.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This has been one of the big mistakes of so many great philosophers of the past when looking at social theory. They pay way too much attention to prescribing identities to the things that are moving and not enough attention to lots of other important factors such as why is the river moving in the direction it is at all. What is responsible for that movement? Why is there a flow between these two poles in particular? Another thing that often gets overlooked by philosophers that are overly concerned with the identity of things is that, just like in the case of a river, human intervention often fundamentally changes the nature of the flow. And so often in the past this has distorted our ability to see things in the world clearly.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Just to clarify what Deleuze and Guattari are getting at here, let’s return back to the example of a river as a flow. And, as we talk about this, remember we’re not just talking about large-scale cultural movements here. Again, flows exist at all levels down to things that might seem completely insignificant to older, outdated ways of looking at social phenomena. But back to the river. So a river is almost never just some uninhibited stream of liquid that sort of meanders anywhere that it happens to go. No, there’s a specific reason that river is moving in the direction that it is at the speed that it is. For example, a glacier melting on the top of a mountain and gravity pulling water to its lowest point. What this means is, just like flows we can spot in society, there is always some sort of force responsible for why this flow exists between these two poles. Why is there a flow of immigration into a particular country? Why is there a flow of traffic to this part of the city at this particular time? What force is driving the flow and spreading of ideas among members of a culture or from generation to generation? What force determines which ideas have the most movement and at what speed those ideas move?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Also, picture the river again, you know, water flowing between two poles in a specific direction. Well, if at any point that flow of water becomes inconvenient to us when it comes to any activity we want to engage in as human beings, what do we do? We intervene. We fundamentally change the nature of that flow so that it corresponds with some demand we have. We put up a dam and stop the flow of the river altogether. We redirect the flow of water into a different direction. We change the grade of the riverbed to adjust the speed in certain areas. We build a bridge so we can cross the river in a particular place. So, in the case of the river, human intervention plays a vital role in determining how that flow looks and functions. And this is exactly the case when it comes to all the other flows we’ve talked about. We have immigration laws and procedures to regulate levels of citizenship. We have market regulations to govern economic flows. We have traffic laws and streetlights and signs to regulate the flow of traffic. We have sewage systems and processing facilities to carry out whatever it is we’ve decided needs to get done with the Mississippi River of human excrement that would otherwise be flowing down the street.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Market regulations to economic flows are like the dam is to the river in our metaphor. Traffic laws are to the traffic flow as redirecting the course of the river is in our metaphor. These interventions in the language of Deleuze and Guattari, as we talked about last time, are the effects of a constant process that’s going on of territorialization, deterritorialization, and then reterritorialization by machines interacting with these flows. The key to a new level of understanding about how society functions, to Deleuze, lies in understanding these flows, these forces of movements that exist between polarities, how these flows interact with each other, and how they are shaped and changed by this constant territorialization by machines.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Deleuze and Guattari give an example of this interaction that occurs between flows and the machines that are making connections and territorializing those flows. And it’s through this example that they illustrate an extremely important point if we want to view social phenomena by thinking of it in terms of flows. These machines, when seeking connections and creating this territory, they in a sense become part of the flow. The flow becomes part of their identity in that moment the same way a dam becomes part of the river, and it dictates several critical aspects about how that flow looks. In other words, the dam becomes part of the flow. Machines often become critical parts of what makes other flows of social phenomena possible. I mean, you can just imagine how complicated and rhizomatic these flows within society get when they have this many moving parts.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The example Deleuze and Guattari give is of a particular kind of wasp that plays a crucial role in the reproductive process of orchids. So the process of an orchid fertilizing and reproducing with other orchids can be thought of in its own right as a flow between those two orchids. This specific type of wasp that Deleuze and Guattari write about carries the pollen from one orchid to another, which in this context makes that wasp an absolutely crucial part of this flow of reproduction. There’s a sense in which this wasp has become a machine. The wasp doesn’t have a fixed identity. The identity of the wasp in this moment as it’s transporting the pollen is defined by the connections it has in this moment. Whatever goals or connections that wasp had a week ago or what the wasp does immediately after doesn’t really matter in this context. The wasp has become deterritorialized. There’s no sense of identity given to that wasp from the outside.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Deleuze and Guattari say that for all intents and purposes, that wasp has become a verb, something in motion. That wasp has become part of that flow of reproduction. Which is to say in some capacity, that wasp cannot be thought of as just a wasp anymore. That wasp has become part of the orchid, the wasp and orchid themselves forming a rhizome, a rhizome with countless roots connecting them with other root networks around them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You can imagine what this means when it comes to our views on society if we replace the wasp and the orchid’s reproduction with some other machine and some other flow. Say an individual in their car and their impact as part of that flow of traffic. Say a group of lobbyists and their impact as part of that flow of commodities like oil within a society. Say a cultural movement and the role it plays in the flow of ideas that dominate thought leaders and media. Just like the wasp becoming the orchid, machines are often engaged in a process of becoming, becoming part of these flows. Maybe the state or government as a machine is becoming what it is in relation to the flow of history. Maybe an individual is becoming what they are in a given moment in relation to the flows of advertising on television.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To see what’s going on in the world from the broader perspective of machines and flows is potentially revolutionary. Now, we could talk for an entire series about what exactly changes in a worldview when you see everything in terms of flows. You know, there have been several anthropologists through the end of the 20th century that have dedicated their entire lives to studying flows and have developed the concept far beyond what Deleuze and Guattari ever did. But the most important takeaway here, I think, when it comes to understanding the work of Deleuze, is that by looking at things in terms of flows, you see the world from a crucial vantage point if what you want is a comprehensive picture of the world and how it works. And that vantage point is this: the world is fundamentally a world in motion, to Deleuze. Seeing the world as a collection of static identities, objects to be studied and understood, for Deleuze, that certainly gives you one perspective, but it’s far from the full story. See, if we want to understand social phenomena, we can’t make the same mistake we’ve talked about when it comes to understanding how political change occurs, and we can’t make the same mistake philosophers have made for centuries when trying to understand ontology. There is a way of interpreting the world that is missing from our thousands of years of discourse.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is an alternative picture it’s taken four episodes to prepare the vocabulary for. The world we live in, to Deleuze, is a world of difference. It’s a world that is constantly in motion, a rhizome of different flows forming networks, connected together sometimes in chaotic ways, networks of machines and their connections with other machines that themselves create further rhizomes. These machines, when actualizing their political realities, territorialize and regulate these flows, which are themselves always changing. This picture of a massive, ever-changing, enormously complex rhizome is only available to us when we get out of the business of identity and instead adopt the broader Deleuzian perspective of machines, flows, and an ontology of immanence.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And, by the way, you can see here how tempting it would be, in the interest of trying to understand the complexity of this rhizome, to try to break it down into a thousand smaller rhizomes or to try to break each of those down into a hundred different trees of hierarchical systems. Maybe you spend an entire lifetime as a philosopher playing this game of trying to find static identities for things, and at the end all you have to show for it is the identity of a single hierarchical system of thought. That seems to be the fate of many of the philosophers that have existed throughout history with this worldview.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But the concept of identity is nowhere near this simple. You know, we started this whole arc of the show on post-structuralism by talking about how thinkers wanted to get away from what they saw as naïve, Enlightenment-era ideas about a lot of different topics including identity. Well, this is a perfect example of how one post-structuralist named Deleuze tries to move past that and show how these outdated ways of looking at identity often have real negative effects on people’s lives, not to mention the opportunity cost of thinking in the same rigid ways for hundreds of years.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, the general thinking has always been among philosophers that identity must exist prior to difference. The logic’s always been that if you’re talking about two different things, say a table and a chair, well, if there’s a difference between a table and a chair, that must mean that they have an identity as a thing before a difference between their identities could ever be pointed out. That’s a table. That’s a chair. They’re clearly different. They must have two separate identities that inform that distinction. So what this has led to is a long tradition of philosophers trying to get to the bottom of these identities that seem to exist. But Deleuze is going to come along and turn this entire thing on its head. What he’s going to say is that there’s no reason we have to assume that identity must be prior to difference. There’s no ultimate form of a chair sitting up in a world of forms, actually. There’s no static identity of chairs in the universe. There’s no scientific category that really spells out the identity of a chair.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What we have thought of as identity, to Deleuze, is not us touching something written into the fabric of the universe about chairs. Identity is always derived from difference. To truly grasp identity is to understand that fact. No two things are exactly the same. And if we want to stay honest when identifying things, we have to understand that what we’ve traditionally thought of as identity is, in reality, the contrast between some thing and all the things that it’s not. In other words, difference is prior to identity, for Deleuze, not the other way around. Once again, this is another example of how this is fundamentally a world of difference.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What Deleuze is also calling into question here is the long-standing dichotomy that’s existed in Western philosophy of being versus becoming. And the origins of this criticism go all the way back to the work of Nietzsche and Deleuze’s own unique interpretation of one of his most famous ideas, the eternal recurrence. Deleuze thinks that when you read Nietzsche one way, his concept of the eternal recurrence is actually making a very similar point to what Deleuze tried to say following the work of Spinoza and Bergson that we talked about earlier in the series. So, if you remember, we mentioned the eternal recurrence very briefly back in our episodes on Nietzsche. We sort of referenced the most popular or practically useful side of it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The idea is that you should think of your life, every living situation, every relationship, every job, every single choice that you make, you should do so with the policy that the moment you die, your life will restart and you’ll have to live the exact same life precisely as you did the first time over and over again for all eternity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Nietzsche describes it here,</p><p class="" style="white-space:pre-wrap;">“What if some day or night a demon were to steal after you into your loneliest loneliness and say to you: ‘This life as you now live it and have lived it, you will have to live once more and innumerable times more; and there will be nothing new in it, but every pain and every joy and every thought and sigh and everything unutterably small or great in your life will have to return to you, all in the same succession and sequence -- even this spider and this moonlight between the trees, and even this moment and I myself. The eternal hourglass of existence is turned upside down again and again and you with it, speck of dust.’ Would you not throw yourself down and gnash your teeth and curse the demon who spoke thus? Or would you have once experienced a tremendous moment when you would have answered him, ‘You are a god, and never have I heard anything more divine.’”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So the idea is that we often do things that are self-destructive or stay in situations that are clearly causing us a lot more pain than the benefit we’re getting from it. And it’s easy when you’re in one of those situations to say, “Ah, the suffering’s only temporary. It’s going to be over soon.” But how different would we look at things if we knew that the complacency we had in that moment was going to cause us to suffer for the rest of time and that the level of suffering you’re going to endure is only limited by your willingness to take action right now? This idea from Nietzsche just raises the stakes, I think, and puts things in perspective.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But this isn’t the only takeaway from Nietzsche and his work on the eternal recurrence. And Deleuze thinks that what this idea leads to is an entirely new perspective about a long tradition throughout the history of philosophy of dividing the world up in terms of being versus becoming. And we’re going to talk about it first thing next episode, which, by the way, is out for you to listen to right now.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I’ll talk to you next time.</p>
+</div>
 
 
 
@@ -1377,30 +1379,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                  &quot;imageOverlayOpacity&quot;: 0.15,
-                  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                  &quot;customContentWidth&quot;: 100,
-                  &quot;sectionTheme&quot;: &quot;dark&quot;,
-                  &quot;sectionAnimation&quot;: &quot;none&quot;,
-                  &quot;backgroundMode&quot;: &quot;image&quot;
-                }"
+                        &quot;imageOverlayOpacity&quot;: 0.15,
+                        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                        &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+                        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                        &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                        &quot;customContentWidth&quot;: 100,
+                        &quot;sectionTheme&quot;: &quot;dark&quot;,
+                        &quot;sectionAnimation&quot;: &quot;none&quot;,
+                        &quot;backgroundMode&quot;: &quot;image&quot;
+                      }"
   data-current-context="{
-                  &quot;video&quot;: {
-                    &quot;playbackSpeed&quot;: 0.5,
-                    &quot;filter&quot;: 1,
-                    &quot;filterStrength&quot;: 0,
-                    &quot;zoom&quot;: 0,
-                    &quot;videoSourceProvider&quot;: &quot;none&quot;
-                  },
-                  &quot;backgroundImageId&quot;: null,
-                  &quot;backgroundMediaEffect&quot;: null,
-                  &quot;divider&quot;: null,
-                  &quot;typeName&quot;: &quot;blog-masonry&quot;
-                }"
+                        &quot;video&quot;: {
+                          &quot;playbackSpeed&quot;: 0.5,
+                          &quot;filter&quot;: 1,
+                          &quot;filterStrength&quot;: 0,
+                          &quot;zoom&quot;: 0,
+                          &quot;videoSourceProvider&quot;: &quot;none&quot;
+                        },
+                        &quot;backgroundImageId&quot;: null,
+                        &quot;backgroundMediaEffect&quot;: null,
+                        &quot;divider&quot;: null,
+                        &quot;typeName&quot;: &quot;blog-masonry&quot;
+                      }"
   data-animation="none"
   
    
@@ -1437,25 +1439,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

@@ -42,14 +42,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #080 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"6":true,"2":true,"7":true,"4":true,"1":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #080 - Transcript","id":"62cb3763bdd6671627071635","fullUrl":"/transcript/episode-080-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["crm_remove_subscriber","commerce_etsy_product_import","is_feature_gate_refresh_enabled","site_header_footer","new_stacked_index","override_block_styles","collection_typename_switching","accounting_orders_sync","nested_categories","campaigns_import_discounts","commerce_order_status_access","commerce_restock_notifications","crm_enforce_recaptcha_v3_enterprise","order_status_page_checkout_landing_enabled","crm_enable_recaptcha_v3_enterprise","send_local_pickup_ready_email","fluid_engine","campaigns_global_uc_ab","background_art_onboarding","crm_retention_segment","visitor_react_forms","customer_accounts_email_verification","campaigns_discount_section_in_blasts","customer_account_creation_recaptcha","crm_default_newsletter_block_to_campaigns","campaigns_new_image_layout_picker","marketing_landing_page","themes","commerce_clearpay","member_areas_spanish_interviews","campaigns_content_editing_survey","crm_waitlist_enforce_recaptcha_v3_enterprise","member_areas_schedule_interview","viewer-role-contributor-invites","campaigns_discount_section_in_automations","multilingual_transactional_emails","member_areas_provisioning_service","nested_categories_migration_enabled","supports_versioned_template_assets","commerce_site_visitor_metrics","site_user_email_change","fluid_engine_clean_up_grid_contextual_change","scripts_defer","campaigns_show_featured_templates","campaigns_thumbnail_layout","campaigns_asset_picker","commerce_etsy_shipping_import"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-video-block","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #080 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"4":true,"7":true,"1":true,"6":true,"8":true,"2":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #080 - Transcript","id":"62cb3763bdd6671627071635","fullUrl":"/transcript/episode-080-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["commerce_restock_notifications","campaigns_global_uc_ab","crm_enable_recaptcha_v3_enterprise","member_areas_schedule_interview","scripts_defer","campaigns_thumbnail_layout","campaigns_import_discounts","customer_account_creation_recaptcha","member_areas_spanish_interviews","new_stacked_index","crm_enforce_recaptcha_v3_enterprise","campaigns_asset_picker","commerce_order_status_access","campaigns_new_image_layout_picker","commerce_etsy_product_import","crm_remove_subscriber","commerce_clearpay","fluid_engine","member_areas_provisioning_service","themes","fluid_engine_clean_up_grid_contextual_change","multilingual_transactional_emails","collection_typename_switching","is_feature_gate_refresh_enabled","nested_categories_migration_enabled","campaigns_discount_section_in_automations","nested_categories","send_local_pickup_ready_email","marketing_landing_page","commerce_etsy_shipping_import","accounting_orders_sync","site_user_email_change","supports_versioned_template_assets","background_art_onboarding","override_block_styles","site_header_footer","crm_waitlist_enforce_recaptcha_v3_enterprise","viewer-role-contributor-invites","commerce_site_visitor_metrics","campaigns_content_editing_survey","customer_accounts_email_verification","campaigns_discount_section_in_blasts","crm_retention_segment","crm_default_newsletter_block_to_campaigns","order_status_page_checkout_landing_enabled","campaigns_show_featured_templates","visitor_react_forms"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #080 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-080-transcript","datePublished":"2016-05-03T13:33:00-0700","dateModified":"2022-07-10T13:34:40-0700","headline":"Episode #080 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -136,153 +136,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+                &quot;layout&quot;: &quot;navRight&quot;,
+                &quot;action&quot;: {
+                  &quot;href&quot;: &quot;/take-action&quot;,
+                  &quot;buttonText&quot;: &quot;Take Action&quot;,
+                  &quot;newWindow&quot;: false
+                },
+                &quot;showSocial&quot;: true,
+                &quot;socialOptions&quot;: {
+                  &quot;socialBorderShape&quot;: &quot;none&quot;,
+                  &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                  &quot;socialBorderThickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 1.0
+                  }
+                },
+                &quot;sectionTheme&quot;: &quot;light&quot;,
+                &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                &quot;cartStyle&quot;: &quot;cart&quot;,
+                &quot;cartText&quot;: &quot;Cart&quot;,
+                &quot;showEmptyCartState&quot;: true,
+                &quot;cartOptions&quot;: {
+                  &quot;iconType&quot;: &quot;solid-7&quot;,
+                  &quot;cartBorderShape&quot;: &quot;none&quot;,
+                  &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                  &quot;cartBorderThickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 1.0
+                  }
+                },
+                &quot;showButton&quot;: false,
+                &quot;showCart&quot;: false,
+                &quot;showAccountLogin&quot;: true,
+                &quot;headerStyle&quot;: &quot;theme&quot;,
+                &quot;languagePicker&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;iconEnabled&quot;: false,
+                  &quot;iconType&quot;: &quot;globe&quot;,
+                  &quot;flagShape&quot;: &quot;shiny&quot;,
+                  &quot;languageFlags&quot;: [ ]
+                },
+                &quot;mobileOptions&quot;: {
+                  &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                  &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                  &quot;menuIconOptions&quot;: {
+                    &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                    &quot;thickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;dynamicOptions&quot;: {
+                  &quot;border&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;position&quot;: &quot;allSides&quot;,
+                    &quot;thickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 4.0
+                    }
+                  }
+                },
+                &quot;solidOptions&quot;: {
+                  &quot;headerOpacity&quot;: {
+                    &quot;unit&quot;: &quot;%&quot;,
+                    &quot;value&quot;: 100.0
+                  },
+                  &quot;border&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;position&quot;: &quot;allSides&quot;,
+                    &quot;thickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 4.0
+                    }
+                  },
+                  &quot;dropShadow&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blur&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 30.0
+                    },
+                    &quot;spread&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    },
+                    &quot;distance&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    }
+                  },
+                  &quot;blurBackground&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blurRadius&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 12.0
+                    }
+                  }
+                },
+                &quot;gradientOptions&quot;: {
+                  &quot;gradientType&quot;: &quot;faded&quot;,
+                  &quot;headerOpacity&quot;: {
+                    &quot;unit&quot;: &quot;%&quot;,
+                    &quot;value&quot;: 90.0
+                  },
+                  &quot;border&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;position&quot;: &quot;allSides&quot;,
+                    &quot;thickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 4.0
+                    }
+                  },
+                  &quot;dropShadow&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blur&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 30.0
+                    },
+                    &quot;spread&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    },
+                    &quot;distance&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    }
+                  },
+                  &quot;blurBackground&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blurRadius&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 12.0
+                    }
+                  }
+                },
+                &quot;showPromotedElement&quot;: false
+              }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
+                &quot;enabled&quot;: false,
+                &quot;iconEnabled&quot;: false,
+                &quot;iconType&quot;: &quot;globe&quot;,
+                &quot;flagShape&quot;: &quot;shiny&quot;,
+                &quot;languageFlags&quot;: [ ]
+              }"
   
   data-first-focusable-element
   tabindex="-1"
@@ -849,142 +849,142 @@
     
     "
     data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+                &quot;layout&quot;: &quot;navRight&quot;,
+                &quot;action&quot;: {
+                  &quot;href&quot;: &quot;/take-action&quot;,
+                  &quot;buttonText&quot;: &quot;Take Action&quot;,
+                  &quot;newWindow&quot;: false
+                },
+                &quot;showSocial&quot;: true,
+                &quot;socialOptions&quot;: {
+                  &quot;socialBorderShape&quot;: &quot;none&quot;,
+                  &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                  &quot;socialBorderThickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 1.0
+                  }
+                },
+                &quot;sectionTheme&quot;: &quot;light&quot;,
+                &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                &quot;cartStyle&quot;: &quot;cart&quot;,
+                &quot;cartText&quot;: &quot;Cart&quot;,
+                &quot;showEmptyCartState&quot;: true,
+                &quot;cartOptions&quot;: {
+                  &quot;iconType&quot;: &quot;solid-7&quot;,
+                  &quot;cartBorderShape&quot;: &quot;none&quot;,
+                  &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                  &quot;cartBorderThickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 1.0
+                  }
+                },
+                &quot;showButton&quot;: false,
+                &quot;showCart&quot;: false,
+                &quot;showAccountLogin&quot;: true,
+                &quot;headerStyle&quot;: &quot;theme&quot;,
+                &quot;languagePicker&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;iconEnabled&quot;: false,
+                  &quot;iconType&quot;: &quot;globe&quot;,
+                  &quot;flagShape&quot;: &quot;shiny&quot;,
+                  &quot;languageFlags&quot;: [ ]
+                },
+                &quot;mobileOptions&quot;: {
+                  &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                  &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                  &quot;menuIconOptions&quot;: {
+                    &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                    &quot;thickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;dynamicOptions&quot;: {
+                  &quot;border&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;position&quot;: &quot;allSides&quot;,
+                    &quot;thickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 4.0
+                    }
+                  }
+                },
+                &quot;solidOptions&quot;: {
+                  &quot;headerOpacity&quot;: {
+                    &quot;unit&quot;: &quot;%&quot;,
+                    &quot;value&quot;: 100.0
+                  },
+                  &quot;border&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;position&quot;: &quot;allSides&quot;,
+                    &quot;thickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 4.0
+                    }
+                  },
+                  &quot;dropShadow&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blur&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 30.0
+                    },
+                    &quot;spread&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    },
+                    &quot;distance&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    }
+                  },
+                  &quot;blurBackground&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blurRadius&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 12.0
+                    }
+                  }
+                },
+                &quot;gradientOptions&quot;: {
+                  &quot;gradientType&quot;: &quot;faded&quot;,
+                  &quot;headerOpacity&quot;: {
+                    &quot;unit&quot;: &quot;%&quot;,
+                    &quot;value&quot;: 90.0
+                  },
+                  &quot;border&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;position&quot;: &quot;allSides&quot;,
+                    &quot;thickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 4.0
+                    }
+                  },
+                  &quot;dropShadow&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blur&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 30.0
+                    },
+                    &quot;spread&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    },
+                    &quot;distance&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    }
+                  },
+                  &quot;blurBackground&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blurRadius&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 12.0
+                    }
+                  }
+                },
+                &quot;showPromotedElement&quot;: false
+              }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1135,31 +1135,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+                &quot;imageOverlayOpacity&quot;: 0.15,
+                &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                &quot;customSectionHeight&quot;: 10,
+                &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                &quot;customContentWidth&quot;: 50,
+                &quot;sectionTheme&quot;: &quot;&quot;,
+                &quot;sectionAnimation&quot;: &quot;none&quot;,
+                &quot;backgroundMode&quot;: &quot;image&quot;
+              }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+                &quot;video&quot;: {
+                  &quot;playbackSpeed&quot;: 0.5,
+                  &quot;filter&quot;: 1,
+                  &quot;filterStrength&quot;: 0,
+                  &quot;zoom&quot;: 0,
+                  &quot;videoSourceProvider&quot;: &quot;none&quot;
+                },
+                &quot;backgroundImageId&quot;: null,
+                &quot;backgroundMediaEffect&quot;: null,
+                &quot;divider&quot;: null,
+                &quot;typeName&quot;: &quot;blog-masonry&quot;
+              }"
   data-animation="none"
   
    
@@ -1218,7 +1218,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-62cb3763bdd6671627071635"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c5c87a6e3b33a93f74da"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West, and this is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, I’ve been doing this show for a few years now. Naturally, the show attracts inquisitive people that love to learn. Naturally, from there you can expect folks are going to be sending in questions. And it makes sense that a lot of those questions are going to be the exact same question asked over and over again, not only because they’re responding to the same gaps that I leave in the episodes due to my limitations as a communicator, but also even just at the Pareto principle. It’s just the way it’s going to be: 20% of the questions are going to be asked 80% of the time. And there’s one of those questions in particular that’s been reoccurring ever since the very inception of this podcast that I think is worth talking about a little bit today at the beginning of the episode.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And the question is this: who are the philosophers of 2016? Who are the philosophers of our modern day? More specifically, people just starting out on the podcast often listen to the first few episodes of the show—you know, where we’re talking about antiquity, we’re talking about veritable superstars during their day and age, right? Socrates, Plato, Aristotle. I think people see those guys and they start to get confused. And it’s totally understandable. I asked this question a dozen times at the beginning of my philosophical inquiry. I looked at Socrates and Plato and Aristotle and their level of influence on all the people around them, and I asked myself, “Who is the Plato of our day and age? Who’s the Aristotle? Who’s the Socrates? Is it Neil deGrasse Tyson? Is it Pope Francis? Is it former host of <em>The</em> <em>Celebrity Apprentice</em> and future president of these great United States, Mr. Donald J. Trump?” Well, lucky for us, I think the answer is none of these people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And unless you wanted to cherry-pick specific details about Plato, Socrates, and Aristotle, I think the answer to this question of who is the Plato of our era is simply a philosopher. You know, people like to say things like, “Standup comedians are the philosophers of our time,” “Scientists are the philosophers of our time.” Uh, no. The philosophers are the philosophers of our time. The Plato of our time, as boring as it is, is really just whoever the most noteworthy philosopher ends up being of this era. You know, I think the assumption is that if there was a Plato or a Socrates alive today that they’d be everywhere. They’d be ubiquitous; they’d be on <em>Good Morning America</em>. They’d be on a split screen talking about the future of the country. As a species by now we would have learned to just yield to their profound genius, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But in reality, we’re far from the days of somebody like a Socrates being known as a public figure. We’re far from the days where a playwright like Aristophanes can do a cartoonish impression of him in a play and the average citizen of Athens walking into that theatre is just going to be dying laughing because they know what they’re talking about. I mean, just imagine the equivalent to that today. Imagine if in a Hollywood movie somebody did an impression of Žižek or Peter Singer. Nobody would even know who they’re talking about let alone appreciate the impression.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And I think this is for a couple reasons. Probably the most prominent reason is that there’s just so many people conducting philosophy in today’s world in comparison to the days of antiquity that many of these people that are doing amazing work out there just sort of get lost in the crowd. And this is why I think this show is heading for a renaissance, people. You know, I’ve always thought that the golden age of this show was going to be once we arrive at contemporary philosophy. Try to think of the cannon of Western philosophy as sort of a two-part thing, one part being this massive baseline of philosophical understanding—this sort of required reading from antiquity to, say, Nietzsche, right around the beginning of the 20th century. And then think of it beyond that point as a collection of philosophy that becomes progressively more relevant to us the more episodes we do where we use these tools that we’ve garnered in the first section to analyze ideas that still are persisting to this day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, there’s just a part of me—there’s a part of me that loves to unearth these ideas of the underappreciated philosophers, philosophers that usually aren’t a part of this general overview of philosophy that most people get, but they actually had some really profound ideas. Well, the person we’re going to be talking about today is one such person. His name is Ludwig Feuerbach.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, philosophers throughout the centuries get lost into the ether like I’m talking about for a lot of different reasons. Probably the biggest reason Feuerbach never gets talked about is that he’s sort of like if you built a lemonade stand in between two giant skyscrapers. And what I mean by that is that Feuerbach had the unfortunate demise of being a student of Hegel and a huge influence on Karl Marx. So, being somebody that looks at the world for most of his life through what is a very identifiable Hegelian lens to people and somebody whose work goes on to be the foundation for some of the ideas of the most influential philosopher of the century maybe ever, you can imagine how people might start to forget about him a little bit. But I’m here to tell you, his ideas are far from forgettable. And I think there’s a piece of advice that we can all take from this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Listen to me. Listen to the sheer arrogance of that. “Hey, guys, let me give you a completely unsolicited piece of advice that’s going to make you resent me a little bit more.” Sometimes the greatest lessons that we can learn in this world, I think, are ideas given to you by a highly unlikely teacher, the kind of ideas that you got to do a little bit of digging afterwards to find out what they meant. Some of the greatest epiphanies I’ve ever had haven’t come from people that look like college professors. They’ve come from unlikely sources: the guy down at the convenience store, a conversation that I had with a nice homeless gentleman. Point is, if you’re one of these inquisitive people that are truly interested in learning as much as you can, don’t relegate your teachers to only people that look like teachers.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And I think that Feuerbach’s a great example of one of these unlikely sources that have these precious, hidden gems buried just underneath the surface that we got to find. I mean, kind of like—you know, much like those old people on late night TV that go onto the beach with their metal detectors and their visors, and they gleefully laugh and clap as they find somebody’s lost wedding ring—probably destroyed their marriage. My point is, we as inquisitive people should, figuratively speaking, go out there with our metal detectors and visors and look for these lost wedding rings in philosophy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I mean, what would you say if I told you that one of the most profound points I had ever heard in my life came from reading this quote? Listen to this quote. “As God has renounced himself out of love, so we, out of love, should renounce God; for if we do not sacrifice God to love, we sacrifice love to God, and, in spite of the predicate of love, we have the God—the evil being—of religious fanaticism.” What do you think about when you hear that quote?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, if you’re anything like me when I first read it, well, first you say, “Oh, yeah, yeah, yeah. That’s a good point. I understand that,” when really you have no clue what he’s talking about. Really I thought it sounded like a 14-year-old kid got a thesaurus for Christmas. But in reality, the reason it seems so incomprehensible is because it’s out of context. This is the paragraph you’d be reading when you had an epiphany about Feuerbach, but it doesn’t make any sense on the surface because you have to understand all the arguments he makes before it over the course of his life. That’s what we’re going to talk about today. And when you understand where he’s coming from, it will broaden your horizons about God and love and human beings, and really from there just form a very useful anti-religious bridge between the thought of Hegel and Marx. And, yeah, I don't know, that just seems like a pretty good way to spend half an hour to me. So let’s do it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, so I’ve been thinking about this episode for a couple weeks now. And I’ve been sort of agonizing over where exactly the best place is to start with all this. And no matter how many times I think about it, I pretty much always circle back around and come to this concept that Feuerbach talks about ad nauseum; it’s a concept called self-consciousness. Self-consciousness. Now, I’m not talking about the way that that term is conventionally used. I’m not saying like, “Ah, I’m self-conscious about this muffin top that I got over the holidays.” I’m talking about a concept in philosophy. I’m talking about something that’s being widely discussed during this period in history, a concept that if you’re reading the source texts can become very easily convoluted and overly cerebral and really tough to relate to.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But I think a pretty good way that we as modern eyes and ears can sort of get our foot into the door of considering this philosophically loaded term of self-consciousness is by asking a question that I think we’ve all asked ourselves at some point in our life: what is it really that differentiates human beings as a species from all the other species in nature? Well, this is far from an easy answer, right? I mean, that question—we’re operating with a pretty massive assumption as a foundation of that question, see, because I think there’s two main ways people are going to be thinking about their answer to this question, one of which is there is absolutely nothing that differentiates human beings from all the other species, that in fact these things we call species are really just convenient labels that we as human beings use to help us with the really daunting task of categorizing and organizing all of these things in the natural world. Species, at least as we think of them, are really just different tabs in this giant card catalog of nature.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, the people that hold this position would say that we go out into nature and we see things like frogs and horses and cows, and we like to organize them into these little neat packages that we call species out of convenience, when in reality all of those labels that we’ve created are just an illusion. In reality, we’re all the same being, so to speak. We’re all manifestations of the same process of life that’s been imbued into us. We’re all the same species, so to speak. A frog, a horse, and a human being are at different points along the very same evolutionary continuum; we just happen to have different characteristics because of whatever environmental conditions our ancestors happened to have lived in. Now, if you think about it in that sense, we would all be the same “species” just with different characteristics that have been useful for the sake of survival over the course of billions of years.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s slow down for a second because many of you may be asking, “Okay, well, even if that was the case, how does that make the notion of a species invalid?” And the answer is, it doesn’t, but the implications change, right? Sure, the idea of a species doesn’t cease to exist in this person’s worldview. But the people that hold this position just acknowledge that us labeling a frog a species is nothing more than a pragmatic organizational tool. The frog itself is not some evolutionary end point. It’s a constantly moving and adapting target along this continuum that we all exist on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, over the course of one lifetime of looking at frogs or over the course of two, three, five lifetimes of looking at frogs, we might mistakenly conclude that the frog was some sort of final product because not much has changed about the frog in that time. But in reality, these people would say, what a frog is is always changing very slightly; they’re a moving target. And that if you lived a thousand years from now, you certainly wouldn’t read the data we’re acquiring now about frogs if you wanted to find out about what was hopping around and playing the banjo in your local swamp.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the other way people think about this question, especially historically, is that frogs are some sort of end point. They look at things like frogs and horses and cows, and they see that there are very obvious differences between these creatures, certain characteristics that distinguish them from each other. And a common place to go from here if this is the way that you’re thinking about it is that it’s a good idea for us to go out into nature and study thousands of frogs, millions of frogs to try to find out better what those distinguishing characteristics are, in other words what makes a frog a frog. So, this is antiquity in a nutshell. There is an ideal form of a frog that these frogs are all emulating, that no one frog perfectly embodies what a frog is, but that there’s some ideal, some recipe that these individual frogs are all facsimiles of.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, Feuerbach, he refers to these distinguishing characteristics of a species as powers, but to him powers extend even further beyond characteristics even into what makes it possible to have the subjective experience of that species at all. But anyway, one question naturally follows from here. Frogs have powers. Horses have powers. What are the distinguishing and requisite characteristics of being a human being? I mean, we’re a species, right? Well, for Feuerbach, the answer to that question is that we are self-conscious.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, keep in mind before I read these arguments real quick, none of these arguments are knockdown arguments. Many of them are far more nuanced than what I’m presenting here. But for the sake of time, for the sake of getting to the more interesting points that Feuerbach makes, I sort of have to give an abridged version of how he sees the human condition. So, bear with me, alright?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, uniquely as humans we are self-conscious. And what that means to Feuerbach is that we have the ability to distinguish the difference between where you end and I begin. Now, from there we have sort of a self-awareness of the fact that we’re an individual member of something much greater than ourselves known as a species and that other human beings out there around us are also members of that species. What Feuerbach’s saying is that we have a very unique ability as a creature to be a subject and encounter another subject in the world, recognize that it’s separate from ourselves, and consider all of the implications of that.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, from here, Feuerbach says that this ability to be self-conscious as far as we know is something unique to our species. And it’s no coincidence to him that human beings always feel the most alive and happy and healthy when they exercise this ability to be self-conscious. It is the distinguishing characteristic that makes us human. What he’s saying is that a frog could never experience what it’s like to be a human being. It doesn’t have the ability to be self-conscious. That puts us in a very unique place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, because of this, Feuerbach says, that whether we realize we do it or not, what we end up doing is becoming really biased towards the way that we orient ourselves to the world. We start to be very biased about our species, and we start to do two things. One is we start to see these things that make us feel most alive and happy and healthy—the exercising of our self-consciousness—as what he calls perfections or sort of virtues to strive for, right? We’re making value judgments now. And the second thing we do is that we realize that much like the individual frog or the individual horse, we as individual human beings will never be a perfect representation of what the human species is as a whole.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, unfortunately for us, unlike the frog or the horse, we’re self-conscious of that fact; we’re aware of it. And what happens is, it creates a sort of dissonance within us. We don’t like the fact that that’s true. We don’t like the fact that we’re these flawed, individual aspects of a larger whole—the species. And Feuerbach says that it’s this dissonance, this inevitable bad feeling born of self-consciousness—this is the reason why human beings created the institution of religion.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s back up for a second. I get it, Feuerbach. We’re all feeling bad about being such finite, imperfect aspects of a larger totality known as a species, but why create a religion? Why does that naturally follow? Why not create anything else? Why not create a birdhouse because you’re mad about that? And the reason why Feuerbach says is because the nature of the problem. We realize that the human species is itself a perfect entity and that we are this relegated facsimile of that perfection. And when he says the human species is perfect, he’s not saying that you can’t turn on the five-o’clock news and see people trampling each other for an Xbox on Black Friday. The point that he’s making is that the species—the species is going to continue to live on. It’s going to live on long after the people that trampled somebody at Walmart have lived and died, alright? The species itself is emblematic of what it means to be human. We’re just individuals.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And it’s right here that Feuerbach makes the most stabbing critique of religion that he would ever make in his life and probably the thing he's most famous for. Feuerbach says that what humans have done throughout history with their theology in response to this horrible feeling is take whatever virtues their culture thought were the pinnacle of what a human being is at that time and they sort of superimpose them as qualities that their god possesses, qualities that they should strive for, qualities that they hope their god will give them recognition for embodying. He’s saying, how convenient that we—you know, for example—how convenient that we make our god tolerant and loving and benevolent—human characteristics, right? How convenient that every characteristic human beings have ever assigned to a god is a virtue of their time period.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He says, “In the consciousness of the infinite, the conscious subject has for his object the infinity of his own nature.” What Feuerbach’s saying is that religion, when it comes down to it, is really just anthropology. It’s the study of human beings because by looking at the religions of the past, they’re almost like a mirror that reflets the values of the culture of whatever time period the religion was created and practiced in. Very interesting. People of certain faiths like to repeat the maxim “God created us in his image.” Here’s Feuerbach saying that maybe we created God in ours. He says, “Religion is the dream of the human mind. But even in dreams we do not find ourselves in emptiness or in heaven, but on earth, in the realm of reality; we only see real things in the entrancing splendor of the imagination and caprice, instead of the simple daylight of reality and necessity. Hence I do nothing more to religion—and to speculative philosophy and theology also—than to open its eyes, or rather to turn its gaze from the internal towards the external.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What he’s saying is, look at what we’ve done! Look at us! Here’s what we’ve done, to Feuerbach. We’ve looked around us and said, “Man, there are some really messed up people in this world. Look at them. I sure wish they didn’t act that way, by golly. That’d be really cool if they didn’t act that way.” Then we imagined a supernatural being that acts that way, and then we’ve convinced ourselves that it exists. Now, the problem with that to Feuerbach is not only that you believe in something that doesn’t exist but also, you’ve lost sight of the most important point. These are all human characteristics. These traits of benevolence and love and kindness that we’ve conferred onto this god—these belong to us, to human beings. Feuerbach says, why not focus 100% of your effort on embodying those virtues rather than getting all distracted and lost by the lore and your position in the afterlife and what circle of hell you’re going to go to for thinking about your neighbor’s domestic life partner in the wrong way. Why not focus on your behavior exclusively? This is Feuerbach’s main point.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if this is true, this is a pretty fascinating point, right? I mean, think of everything that changes if this is true. Admittedly, of course on one hand he’s pretty ruthlessly critiquing religion here. That’s just Feuerbach, sorry. He’s essentially saying that the 900+ theistic interpretations of the world that have been laid out aren’t actually appealing to some being that exists, more to whatever their particular culture saw as an ideal to strive for as a human being during their time. He’s certainly saying that. But he’s doing something else. He’s also sort of legitimizing religion in a way, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is something I never really considered until about a year and a half ago, maybe a year ago. I mean, we live in a world where critics of religion often see the lore surrounding a religion as a meaningless fairytale. Why waste your time reading all this nonsense? It’s just some story some dude in a sand dune cooked up 2,000 years ago to try to make sense of everything, right? We live in that world, but here’s Feuerbach saying that we don’t have to view these holy books in that light. Maybe they aren’t entirely useless. Maybe we can view them as historical documents, anthropological works of art that help us understand the moral progress of humanity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, by looking at the gods of Orphism and all of the recommendations they had for people’s behavior at the time, by interpreting that not hostilely as a meaningless fairy tale, a pantheon of sexually promiscuous gods, but more of a representation of what ancient Greek society viewed as the best way to live as a human being, we can potentially learn a lot about the psychology of the people living back then. And again, not to mention the fact that if you stack up every religion back-to-back that’s ever existed and look at them as anthropological records, we can potentially learn a lot about the moral progress of humanity. Point is, religion is not a useless thing to Feuerbach. It’s actually an incredible resource. It’s just not a divinely inspired resource.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And this is probably why a lot of people that are religious kind of have mixed feelings on the guy. I mean, on one hand, he’s an ardent critic of religion, but on the other hand, he’s very unique in how he approached the task of being a critic. He’s notorious for being the only critic of religion that really tries to understand the experience of the religious follower. He tries to understand a religion the way that a believer in the religion would understand it. Like, what is it like from the inside? What does it feel like when you’re actually practicing the religion? He’s doing this to try to understand, why are people doing this?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, he famously said that religion is an object of practice long before it becomes an object of theory. So, to him, yeah, the person actually practicing a religion doesn’t realize they’re projecting their own definition of an ideal human onto this god archetype. But Feuerbach would say that’s really not necessarily a bad thing. In fact, he says in many ways religion is the first step that we ever took towards arriving at self-knowledge. It’s a tablet form—it’s a convenient way that human beings can at least initially arrive at some knowledge about the ideal traits to strive for in their life. And in this sense, every advance in theology over the years as religions transcend other religions and then new ones transcend those ones—Feuerbach thinks that all of this movement can be seen as an advance towards the human species ultimately arriving at self-knowledge.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I’m sure you sense a lot of Hegel in there. It’s a very Hegelian concept. Again, he’s a student of his. But one thing’s for certain. Just by saying it like that, Feuerbach’s kind of showing his hand, right? I mean, to say that things are progressing in any sort of way is to say that there’s some sort of end goal that they’re progressing towards. Well, Feuerbach’s not a follower of religion himself, but he looks at the religions back-to-back throughout human history; he analyzes them, looks at them for some sort of data. And what he thinks is that what all of these religions have been progressing towards from the very beginning—the ultimate religion that ever existed—is Christianity. Christianity, 1. We did it, America.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, his reason for saying that this is the ultimate religion is because if you talk to the followers of Christianity more than any other religion out there you will find the sentiment being expressed that God is love. Love is a concept Feuerbach talks a lot about. God is love in Christianity. Across the board, pretty much no matter what denomination you come from, whether you think that water needs to be sprinkled on your head to get into heaven, whether you think you got to cut skin off of your genitals to get into heaven—all these minor differences aside, Feuerbach says, one constant typically remains: God is Love.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, what he’s saying is that the ultimate expression of the human species is love and that, above all else, love is the virtue that we should all endlessly strive for. Now, I’ve scoured his arguments for why he feels this way over and over again trying to find something that’s even remotely compelling as to why I should believe this too. To be honest with you, I’m fascinated by this subject. I hear people express this sentiment that love is the ultimate virtue all the time. And I don’t personally really get what it’s founded in, and I’m really interested in it. I mean, I know that I like it more when people love me than when they hate me. I know that I feel good when I love someone else. I know that if everyone loved each other it would be much more difficult to justify invading their country or dumping toxic waste into an indigenous people’s water supply. I get all that. I just don’t understand how it’s founded in philosophy at all. I mean, I just have always seen it as some subjective, biased conclusion that I’ve arrived at for the sake of pragmatism.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But I guess Feuerbach’s a little bit more ambitious. He does try to make this case. And again, I’ve combed through all of his arguments, and many of them would be really a waste of time to try to explain to you here. A lot of his arguments are old, as you’ve probably picked up throughout the episode. But I did find one that was really interesting, the most interesting of all of them. I think it’s worth talking about. It’s at least something to think about this week. But it’s also a pretty good insight into Feuerbach’s psychology. Spoiler—in four days we’re coming out with a new episode on Marx’s political philosophy and Feuerbach’s influence on that, and so I think it’s going to be good to supplement that episode.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, this argument, like anything, is much more nuanced than this, but ultimately, he harkens back to what makes us human, that self-consciousness, right? That ability for us to distinguish between a “you” and an “I” and all the implications of that. Well, Feuerbach asks, what is love? What is love? What is love other than the natural or ultimate expression of this thing that makes us human beings—self-consciousness? By fully recognizing that there is another—a member of your species—that you yourself are not tantamount to the species but merely one aspect of the species, love becomes to Feuerbach sort of like an indirect, natural extension of being truly self-conscious.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, I thought it was kind of interesting. But to bring the episode back full circle and make sense of that quote that we said at the beginning that sounded archaic and unintelligible, understand that Feuerbach saw Christianity as a very unique religion. But the most important thing that differentiates it from all the other ones to him is that in every other religion God has some sort of personality; God is this powerful entity that cares about human beings in particular. It’s not ambivalent. But in Christianity, to Feuerbach, God <em>is </em>infinite love. In Christianity, the quality of love is more important than the being of God himself because it determines it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And there’s many different readings of this part, but this is why he says, “As God has renounced himself out of love, so we, out of love, should renounce God; for if we do not sacrifice God to love, we sacrifice love to God, and, in spite of the predicate of love, we have the God—the evil being—of religious fanaticism.” Right here he’s making a case for renouncing the concept of a God and instead replacing it for what he sees as the ultimate human virtue, love. We don’t <em>need</em> God to be loving to each other. Why not focus all of our efforts on embodying it rather than just some?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Then he says in the second line, “For if we do not sacrifice God to love, we sacrifice love to God.” And he’s saying that because if God is not just tantamount to love, if God is just this powerful being that happens to be loving, then that leaves open the possibility, at least potentially as we’ve seen so many times throughout history, of a God existing or at least being interpreted that endorses religious fanaticism or loves to see people get killed that don’t believe in him. No, to Feuerbach, God <em>is</em> love. That can never happen if God is love. And there’s no other way to him. And ironically, to Feuerbach, to fully get to love, we have to leave God behind.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West, and this is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, I’ve been doing this show for a few years now. Naturally, the show attracts inquisitive people that love to learn. Naturally, from there you can expect folks are going to be sending in questions. And it makes sense that a lot of those questions are going to be the exact same question asked over and over again, not only because they’re responding to the same gaps that I leave in the episodes due to my limitations as a communicator, but also even just at the Pareto principle. It’s just the way it’s going to be: 20% of the questions are going to be asked 80% of the time. And there’s one of those questions in particular that’s been reoccurring ever since the very inception of this podcast that I think is worth talking about a little bit today at the beginning of the episode.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And the question is this: who are the philosophers of 2016? Who are the philosophers of our modern day? More specifically, people just starting out on the podcast often listen to the first few episodes of the show—you know, where we’re talking about antiquity, we’re talking about veritable superstars during their day and age, right? Socrates, Plato, Aristotle. I think people see those guys and they start to get confused. And it’s totally understandable. I asked this question a dozen times at the beginning of my philosophical inquiry. I looked at Socrates and Plato and Aristotle and their level of influence on all the people around them, and I asked myself, “Who is the Plato of our day and age? Who’s the Aristotle? Who’s the Socrates? Is it Neil deGrasse Tyson? Is it Pope Francis? Is it former host of <em>The</em> <em>Celebrity Apprentice</em> and future president of these great United States, Mr. Donald J. Trump?” Well, lucky for us, I think the answer is none of these people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And unless you wanted to cherry-pick specific details about Plato, Socrates, and Aristotle, I think the answer to this question of who is the Plato of our era is simply a philosopher. You know, people like to say things like, “Standup comedians are the philosophers of our time,” “Scientists are the philosophers of our time.” Uh, no. The philosophers are the philosophers of our time. The Plato of our time, as boring as it is, is really just whoever the most noteworthy philosopher ends up being of this era. You know, I think the assumption is that if there was a Plato or a Socrates alive today that they’d be everywhere. They’d be ubiquitous; they’d be on <em>Good Morning America</em>. They’d be on a split screen talking about the future of the country. As a species by now we would have learned to just yield to their profound genius, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But in reality, we’re far from the days of somebody like a Socrates being known as a public figure. We’re far from the days where a playwright like Aristophanes can do a cartoonish impression of him in a play and the average citizen of Athens walking into that theatre is just going to be dying laughing because they know what they’re talking about. I mean, just imagine the equivalent to that today. Imagine if in a Hollywood movie somebody did an impression of Žižek or Peter Singer. Nobody would even know who they’re talking about let alone appreciate the impression.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And I think this is for a couple reasons. Probably the most prominent reason is that there’s just so many people conducting philosophy in today’s world in comparison to the days of antiquity that many of these people that are doing amazing work out there just sort of get lost in the crowd. And this is why I think this show is heading for a renaissance, people. You know, I’ve always thought that the golden age of this show was going to be once we arrive at contemporary philosophy. Try to think of the cannon of Western philosophy as sort of a two-part thing, one part being this massive baseline of philosophical understanding—this sort of required reading from antiquity to, say, Nietzsche, right around the beginning of the 20th century. And then think of it beyond that point as a collection of philosophy that becomes progressively more relevant to us the more episodes we do where we use these tools that we’ve garnered in the first section to analyze ideas that still are persisting to this day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, there’s just a part of me—there’s a part of me that loves to unearth these ideas of the underappreciated philosophers, philosophers that usually aren’t a part of this general overview of philosophy that most people get, but they actually had some really profound ideas. Well, the person we’re going to be talking about today is one such person. His name is Ludwig Feuerbach.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, philosophers throughout the centuries get lost into the ether like I’m talking about for a lot of different reasons. Probably the biggest reason Feuerbach never gets talked about is that he’s sort of like if you built a lemonade stand in between two giant skyscrapers. And what I mean by that is that Feuerbach had the unfortunate demise of being a student of Hegel and a huge influence on Karl Marx. So, being somebody that looks at the world for most of his life through what is a very identifiable Hegelian lens to people and somebody whose work goes on to be the foundation for some of the ideas of the most influential philosopher of the century maybe ever, you can imagine how people might start to forget about him a little bit. But I’m here to tell you, his ideas are far from forgettable. And I think there’s a piece of advice that we can all take from this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Listen to me. Listen to the sheer arrogance of that. “Hey, guys, let me give you a completely unsolicited piece of advice that’s going to make you resent me a little bit more.” Sometimes the greatest lessons that we can learn in this world, I think, are ideas given to you by a highly unlikely teacher, the kind of ideas that you got to do a little bit of digging afterwards to find out what they meant. Some of the greatest epiphanies I’ve ever had haven’t come from people that look like college professors. They’ve come from unlikely sources: the guy down at the convenience store, a conversation that I had with a nice homeless gentleman. Point is, if you’re one of these inquisitive people that are truly interested in learning as much as you can, don’t relegate your teachers to only people that look like teachers.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And I think that Feuerbach’s a great example of one of these unlikely sources that have these precious, hidden gems buried just underneath the surface that we got to find. I mean, kind of like—you know, much like those old people on late night TV that go onto the beach with their metal detectors and their visors, and they gleefully laugh and clap as they find somebody’s lost wedding ring—probably destroyed their marriage. My point is, we as inquisitive people should, figuratively speaking, go out there with our metal detectors and visors and look for these lost wedding rings in philosophy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I mean, what would you say if I told you that one of the most profound points I had ever heard in my life came from reading this quote? Listen to this quote. “As God has renounced himself out of love, so we, out of love, should renounce God; for if we do not sacrifice God to love, we sacrifice love to God, and, in spite of the predicate of love, we have the God—the evil being—of religious fanaticism.” What do you think about when you hear that quote?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, if you’re anything like me when I first read it, well, first you say, “Oh, yeah, yeah, yeah. That’s a good point. I understand that,” when really you have no clue what he’s talking about. Really I thought it sounded like a 14-year-old kid got a thesaurus for Christmas. But in reality, the reason it seems so incomprehensible is because it’s out of context. This is the paragraph you’d be reading when you had an epiphany about Feuerbach, but it doesn’t make any sense on the surface because you have to understand all the arguments he makes before it over the course of his life. That’s what we’re going to talk about today. And when you understand where he’s coming from, it will broaden your horizons about God and love and human beings, and really from there just form a very useful anti-religious bridge between the thought of Hegel and Marx. And, yeah, I don't know, that just seems like a pretty good way to spend half an hour to me. So let’s do it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, so I’ve been thinking about this episode for a couple weeks now. And I’ve been sort of agonizing over where exactly the best place is to start with all this. And no matter how many times I think about it, I pretty much always circle back around and come to this concept that Feuerbach talks about ad nauseum; it’s a concept called self-consciousness. Self-consciousness. Now, I’m not talking about the way that that term is conventionally used. I’m not saying like, “Ah, I’m self-conscious about this muffin top that I got over the holidays.” I’m talking about a concept in philosophy. I’m talking about something that’s being widely discussed during this period in history, a concept that if you’re reading the source texts can become very easily convoluted and overly cerebral and really tough to relate to.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But I think a pretty good way that we as modern eyes and ears can sort of get our foot into the door of considering this philosophically loaded term of self-consciousness is by asking a question that I think we’ve all asked ourselves at some point in our life: what is it really that differentiates human beings as a species from all the other species in nature? Well, this is far from an easy answer, right? I mean, that question—we’re operating with a pretty massive assumption as a foundation of that question, see, because I think there’s two main ways people are going to be thinking about their answer to this question, one of which is there is absolutely nothing that differentiates human beings from all the other species, that in fact these things we call species are really just convenient labels that we as human beings use to help us with the really daunting task of categorizing and organizing all of these things in the natural world. Species, at least as we think of them, are really just different tabs in this giant card catalog of nature.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, the people that hold this position would say that we go out into nature and we see things like frogs and horses and cows, and we like to organize them into these little neat packages that we call species out of convenience, when in reality all of those labels that we’ve created are just an illusion. In reality, we’re all the same being, so to speak. We’re all manifestations of the same process of life that’s been imbued into us. We’re all the same species, so to speak. A frog, a horse, and a human being are at different points along the very same evolutionary continuum; we just happen to have different characteristics because of whatever environmental conditions our ancestors happened to have lived in. Now, if you think about it in that sense, we would all be the same “species” just with different characteristics that have been useful for the sake of survival over the course of billions of years.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s slow down for a second because many of you may be asking, “Okay, well, even if that was the case, how does that make the notion of a species invalid?” And the answer is, it doesn’t, but the implications change, right? Sure, the idea of a species doesn’t cease to exist in this person’s worldview. But the people that hold this position just acknowledge that us labeling a frog a species is nothing more than a pragmatic organizational tool. The frog itself is not some evolutionary end point. It’s a constantly moving and adapting target along this continuum that we all exist on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, over the course of one lifetime of looking at frogs or over the course of two, three, five lifetimes of looking at frogs, we might mistakenly conclude that the frog was some sort of final product because not much has changed about the frog in that time. But in reality, these people would say, what a frog is is always changing very slightly; they’re a moving target. And that if you lived a thousand years from now, you certainly wouldn’t read the data we’re acquiring now about frogs if you wanted to find out about what was hopping around and playing the banjo in your local swamp.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the other way people think about this question, especially historically, is that frogs are some sort of end point. They look at things like frogs and horses and cows, and they see that there are very obvious differences between these creatures, certain characteristics that distinguish them from each other. And a common place to go from here if this is the way that you’re thinking about it is that it’s a good idea for us to go out into nature and study thousands of frogs, millions of frogs to try to find out better what those distinguishing characteristics are, in other words what makes a frog a frog. So, this is antiquity in a nutshell. There is an ideal form of a frog that these frogs are all emulating, that no one frog perfectly embodies what a frog is, but that there’s some ideal, some recipe that these individual frogs are all facsimiles of.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, Feuerbach, he refers to these distinguishing characteristics of a species as powers, but to him powers extend even further beyond characteristics even into what makes it possible to have the subjective experience of that species at all. But anyway, one question naturally follows from here. Frogs have powers. Horses have powers. What are the distinguishing and requisite characteristics of being a human being? I mean, we’re a species, right? Well, for Feuerbach, the answer to that question is that we are self-conscious.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, keep in mind before I read these arguments real quick, none of these arguments are knockdown arguments. Many of them are far more nuanced than what I’m presenting here. But for the sake of time, for the sake of getting to the more interesting points that Feuerbach makes, I sort of have to give an abridged version of how he sees the human condition. So, bear with me, alright?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, uniquely as humans we are self-conscious. And what that means to Feuerbach is that we have the ability to distinguish the difference between where you end and I begin. Now, from there we have sort of a self-awareness of the fact that we’re an individual member of something much greater than ourselves known as a species and that other human beings out there around us are also members of that species. What Feuerbach’s saying is that we have a very unique ability as a creature to be a subject and encounter another subject in the world, recognize that it’s separate from ourselves, and consider all of the implications of that.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, from here, Feuerbach says that this ability to be self-conscious as far as we know is something unique to our species. And it’s no coincidence to him that human beings always feel the most alive and happy and healthy when they exercise this ability to be self-conscious. It is the distinguishing characteristic that makes us human. What he’s saying is that a frog could never experience what it’s like to be a human being. It doesn’t have the ability to be self-conscious. That puts us in a very unique place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, because of this, Feuerbach says, that whether we realize we do it or not, what we end up doing is becoming really biased towards the way that we orient ourselves to the world. We start to be very biased about our species, and we start to do two things. One is we start to see these things that make us feel most alive and happy and healthy—the exercising of our self-consciousness—as what he calls perfections or sort of virtues to strive for, right? We’re making value judgments now. And the second thing we do is that we realize that much like the individual frog or the individual horse, we as individual human beings will never be a perfect representation of what the human species is as a whole.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, unfortunately for us, unlike the frog or the horse, we’re self-conscious of that fact; we’re aware of it. And what happens is, it creates a sort of dissonance within us. We don’t like the fact that that’s true. We don’t like the fact that we’re these flawed, individual aspects of a larger whole—the species. And Feuerbach says that it’s this dissonance, this inevitable bad feeling born of self-consciousness—this is the reason why human beings created the institution of religion.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s back up for a second. I get it, Feuerbach. We’re all feeling bad about being such finite, imperfect aspects of a larger totality known as a species, but why create a religion? Why does that naturally follow? Why not create anything else? Why not create a birdhouse because you’re mad about that? And the reason why Feuerbach says is because the nature of the problem. We realize that the human species is itself a perfect entity and that we are this relegated facsimile of that perfection. And when he says the human species is perfect, he’s not saying that you can’t turn on the five-o’clock news and see people trampling each other for an Xbox on Black Friday. The point that he’s making is that the species—the species is going to continue to live on. It’s going to live on long after the people that trampled somebody at Walmart have lived and died, alright? The species itself is emblematic of what it means to be human. We’re just individuals.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And it’s right here that Feuerbach makes the most stabbing critique of religion that he would ever make in his life and probably the thing he's most famous for. Feuerbach says that what humans have done throughout history with their theology in response to this horrible feeling is take whatever virtues their culture thought were the pinnacle of what a human being is at that time and they sort of superimpose them as qualities that their god possesses, qualities that they should strive for, qualities that they hope their god will give them recognition for embodying. He’s saying, how convenient that we—you know, for example—how convenient that we make our god tolerant and loving and benevolent—human characteristics, right? How convenient that every characteristic human beings have ever assigned to a god is a virtue of their time period.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He says, “In the consciousness of the infinite, the conscious subject has for his object the infinity of his own nature.” What Feuerbach’s saying is that religion, when it comes down to it, is really just anthropology. It’s the study of human beings because by looking at the religions of the past, they’re almost like a mirror that reflets the values of the culture of whatever time period the religion was created and practiced in. Very interesting. People of certain faiths like to repeat the maxim “God created us in his image.” Here’s Feuerbach saying that maybe we created God in ours. He says, “Religion is the dream of the human mind. But even in dreams we do not find ourselves in emptiness or in heaven, but on earth, in the realm of reality; we only see real things in the entrancing splendor of the imagination and caprice, instead of the simple daylight of reality and necessity. Hence I do nothing more to religion—and to speculative philosophy and theology also—than to open its eyes, or rather to turn its gaze from the internal towards the external.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What he’s saying is, look at what we’ve done! Look at us! Here’s what we’ve done, to Feuerbach. We’ve looked around us and said, “Man, there are some really messed up people in this world. Look at them. I sure wish they didn’t act that way, by golly. That’d be really cool if they didn’t act that way.” Then we imagined a supernatural being that acts that way, and then we’ve convinced ourselves that it exists. Now, the problem with that to Feuerbach is not only that you believe in something that doesn’t exist but also, you’ve lost sight of the most important point. These are all human characteristics. These traits of benevolence and love and kindness that we’ve conferred onto this god—these belong to us, to human beings. Feuerbach says, why not focus 100% of your effort on embodying those virtues rather than getting all distracted and lost by the lore and your position in the afterlife and what circle of hell you’re going to go to for thinking about your neighbor’s domestic life partner in the wrong way. Why not focus on your behavior exclusively? This is Feuerbach’s main point.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if this is true, this is a pretty fascinating point, right? I mean, think of everything that changes if this is true. Admittedly, of course on one hand he’s pretty ruthlessly critiquing religion here. That’s just Feuerbach, sorry. He’s essentially saying that the 900+ theistic interpretations of the world that have been laid out aren’t actually appealing to some being that exists, more to whatever their particular culture saw as an ideal to strive for as a human being during their time. He’s certainly saying that. But he’s doing something else. He’s also sort of legitimizing religion in a way, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is something I never really considered until about a year and a half ago, maybe a year ago. I mean, we live in a world where critics of religion often see the lore surrounding a religion as a meaningless fairytale. Why waste your time reading all this nonsense? It’s just some story some dude in a sand dune cooked up 2,000 years ago to try to make sense of everything, right? We live in that world, but here’s Feuerbach saying that we don’t have to view these holy books in that light. Maybe they aren’t entirely useless. Maybe we can view them as historical documents, anthropological works of art that help us understand the moral progress of humanity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, by looking at the gods of Orphism and all of the recommendations they had for people’s behavior at the time, by interpreting that not hostilely as a meaningless fairy tale, a pantheon of sexually promiscuous gods, but more of a representation of what ancient Greek society viewed as the best way to live as a human being, we can potentially learn a lot about the psychology of the people living back then. And again, not to mention the fact that if you stack up every religion back-to-back that’s ever existed and look at them as anthropological records, we can potentially learn a lot about the moral progress of humanity. Point is, religion is not a useless thing to Feuerbach. It’s actually an incredible resource. It’s just not a divinely inspired resource.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And this is probably why a lot of people that are religious kind of have mixed feelings on the guy. I mean, on one hand, he’s an ardent critic of religion, but on the other hand, he’s very unique in how he approached the task of being a critic. He’s notorious for being the only critic of religion that really tries to understand the experience of the religious follower. He tries to understand a religion the way that a believer in the religion would understand it. Like, what is it like from the inside? What does it feel like when you’re actually practicing the religion? He’s doing this to try to understand, why are people doing this?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, he famously said that religion is an object of practice long before it becomes an object of theory. So, to him, yeah, the person actually practicing a religion doesn’t realize they’re projecting their own definition of an ideal human onto this god archetype. But Feuerbach would say that’s really not necessarily a bad thing. In fact, he says in many ways religion is the first step that we ever took towards arriving at self-knowledge. It’s a tablet form—it’s a convenient way that human beings can at least initially arrive at some knowledge about the ideal traits to strive for in their life. And in this sense, every advance in theology over the years as religions transcend other religions and then new ones transcend those ones—Feuerbach thinks that all of this movement can be seen as an advance towards the human species ultimately arriving at self-knowledge.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I’m sure you sense a lot of Hegel in there. It’s a very Hegelian concept. Again, he’s a student of his. But one thing’s for certain. Just by saying it like that, Feuerbach’s kind of showing his hand, right? I mean, to say that things are progressing in any sort of way is to say that there’s some sort of end goal that they’re progressing towards. Well, Feuerbach’s not a follower of religion himself, but he looks at the religions back-to-back throughout human history; he analyzes them, looks at them for some sort of data. And what he thinks is that what all of these religions have been progressing towards from the very beginning—the ultimate religion that ever existed—is Christianity. Christianity, 1. We did it, America.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, his reason for saying that this is the ultimate religion is because if you talk to the followers of Christianity more than any other religion out there you will find the sentiment being expressed that God is love. Love is a concept Feuerbach talks a lot about. God is love in Christianity. Across the board, pretty much no matter what denomination you come from, whether you think that water needs to be sprinkled on your head to get into heaven, whether you think you got to cut skin off of your genitals to get into heaven—all these minor differences aside, Feuerbach says, one constant typically remains: God is Love.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, what he’s saying is that the ultimate expression of the human species is love and that, above all else, love is the virtue that we should all endlessly strive for. Now, I’ve scoured his arguments for why he feels this way over and over again trying to find something that’s even remotely compelling as to why I should believe this too. To be honest with you, I’m fascinated by this subject. I hear people express this sentiment that love is the ultimate virtue all the time. And I don’t personally really get what it’s founded in, and I’m really interested in it. I mean, I know that I like it more when people love me than when they hate me. I know that I feel good when I love someone else. I know that if everyone loved each other it would be much more difficult to justify invading their country or dumping toxic waste into an indigenous people’s water supply. I get all that. I just don’t understand how it’s founded in philosophy at all. I mean, I just have always seen it as some subjective, biased conclusion that I’ve arrived at for the sake of pragmatism.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But I guess Feuerbach’s a little bit more ambitious. He does try to make this case. And again, I’ve combed through all of his arguments, and many of them would be really a waste of time to try to explain to you here. A lot of his arguments are old, as you’ve probably picked up throughout the episode. But I did find one that was really interesting, the most interesting of all of them. I think it’s worth talking about. It’s at least something to think about this week. But it’s also a pretty good insight into Feuerbach’s psychology. Spoiler—in four days we’re coming out with a new episode on Marx’s political philosophy and Feuerbach’s influence on that, and so I think it’s going to be good to supplement that episode.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, this argument, like anything, is much more nuanced than this, but ultimately, he harkens back to what makes us human, that self-consciousness, right? That ability for us to distinguish between a “you” and an “I” and all the implications of that. Well, Feuerbach asks, what is love? What is love? What is love other than the natural or ultimate expression of this thing that makes us human beings—self-consciousness? By fully recognizing that there is another—a member of your species—that you yourself are not tantamount to the species but merely one aspect of the species, love becomes to Feuerbach sort of like an indirect, natural extension of being truly self-conscious.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, I thought it was kind of interesting. But to bring the episode back full circle and make sense of that quote that we said at the beginning that sounded archaic and unintelligible, understand that Feuerbach saw Christianity as a very unique religion. But the most important thing that differentiates it from all the other ones to him is that in every other religion God has some sort of personality; God is this powerful entity that cares about human beings in particular. It’s not ambivalent. But in Christianity, to Feuerbach, God <em>is </em>infinite love. In Christianity, the quality of love is more important than the being of God himself because it determines it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And there’s many different readings of this part, but this is why he says, “As God has renounced himself out of love, so we, out of love, should renounce God; for if we do not sacrifice God to love, we sacrifice love to God, and, in spite of the predicate of love, we have the God—the evil being—of religious fanaticism.” Right here he’s making a case for renouncing the concept of a God and instead replacing it for what he sees as the ultimate human virtue, love. We don’t <em>need</em> God to be loving to each other. Why not focus all of our efforts on embodying it rather than just some?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Then he says in the second line, “For if we do not sacrifice God to love, we sacrifice love to God.” And he’s saying that because if God is not just tantamount to love, if God is just this powerful being that happens to be loving, then that leaves open the possibility, at least potentially as we’ve seen so many times throughout history, of a God existing or at least being interpreted that endorses religious fanaticism or loves to see people get killed that don’t believe in him. No, to Feuerbach, God <em>is</em> love. That can never happen if God is love. And there’s no other way to him. And ironically, to Feuerbach, to fully get to love, we have to leave God behind.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+</div>
 
 
 
@@ -1378,30 +1380,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 100,
-&quot;sectionTheme&quot;: &quot;dark&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+                &quot;imageOverlayOpacity&quot;: 0.15,
+                &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+                &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                &quot;customContentWidth&quot;: 100,
+                &quot;sectionTheme&quot;: &quot;dark&quot;,
+                &quot;sectionAnimation&quot;: &quot;none&quot;,
+                &quot;backgroundMode&quot;: &quot;image&quot;
+              }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+                &quot;video&quot;: {
+                  &quot;playbackSpeed&quot;: 0.5,
+                  &quot;filter&quot;: 1,
+                  &quot;filterStrength&quot;: 0,
+                  &quot;zoom&quot;: 0,
+                  &quot;videoSourceProvider&quot;: &quot;none&quot;
+                },
+                &quot;backgroundImageId&quot;: null,
+                &quot;backgroundMediaEffect&quot;: null,
+                &quot;divider&quot;: null,
+                &quot;typeName&quot;: &quot;blog-masonry&quot;
+              }"
   data-animation="none"
   
    
@@ -1438,25 +1440,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

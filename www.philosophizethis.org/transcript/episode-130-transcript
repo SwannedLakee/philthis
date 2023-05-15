@@ -41,14 +41,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #130 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"3":true,"7":true,"2":true,"4":true,"1":true,"6":true,"8":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #130 - Transcript","id":"5eec21b509afd80facd8c2af","fullUrl":"/transcript/episode-130-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["crm_retention_segment","commerce_site_visitor_metrics","themes","scripts_defer","viewer-role-contributor-invites","order_status_page_checkout_landing_enabled","campaigns_thumbnail_layout","campaigns_discount_section_in_automations","site_header_footer","commerce_restock_notifications","member_areas_spanish_interviews","commerce_etsy_shipping_import","override_block_styles","background_art_onboarding","nested_categories_migration_enabled","crm_enable_recaptcha_v3_enterprise","crm_remove_subscriber","member_areas_schedule_interview","visitor_react_forms","campaigns_show_featured_templates","crm_default_newsletter_block_to_campaigns","campaigns_global_uc_ab","campaigns_content_editing_survey","campaigns_import_discounts","customer_accounts_email_verification","collection_typename_switching","marketing_landing_page","commerce_order_status_access","site_user_email_change","crm_waitlist_enforce_recaptcha_v3_enterprise","is_feature_gate_refresh_enabled","crm_enforce_recaptcha_v3_enterprise","nested_categories","campaigns_discount_section_in_blasts","new_stacked_index","campaigns_asset_picker","supports_versioned_template_assets","commerce_clearpay","fluid_engine_clean_up_grid_contextual_change","send_local_pickup_ready_email","fluid_engine","accounting_orders_sync","customer_account_creation_recaptcha","multilingual_transactional_emails","campaigns_new_image_layout_picker","member_areas_provisioning_service","commerce_etsy_product_import"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #130 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"4":true,"2":true,"7":true,"6":true,"1":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #130 - Transcript","id":"5eec21b509afd80facd8c2af","fullUrl":"/transcript/episode-130-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["collection_typename_switching","campaigns_content_editing_survey","commerce_site_visitor_metrics","commerce_restock_notifications","supports_versioned_template_assets","commerce_etsy_shipping_import","nested_categories","nested_categories_migration_enabled","themes","campaigns_show_featured_templates","commerce_etsy_product_import","fluid_engine_clean_up_grid_contextual_change","campaigns_asset_picker","campaigns_discount_section_in_blasts","crm_enforce_recaptcha_v3_enterprise","commerce_order_status_access","multilingual_transactional_emails","accounting_orders_sync","crm_retention_segment","customer_accounts_email_verification","campaigns_thumbnail_layout","viewer-role-contributor-invites","campaigns_import_discounts","crm_default_newsletter_block_to_campaigns","crm_enable_recaptcha_v3_enterprise","site_header_footer","override_block_styles","member_areas_schedule_interview","marketing_landing_page","visitor_react_forms","crm_remove_subscriber","campaigns_global_uc_ab","member_areas_provisioning_service","member_areas_spanish_interviews","order_status_page_checkout_landing_enabled","new_stacked_index","is_feature_gate_refresh_enabled","commerce_clearpay","customer_account_creation_recaptcha","campaigns_discount_section_in_automations","crm_waitlist_enforce_recaptcha_v3_enterprise","send_local_pickup_ready_email","scripts_defer","fluid_engine","campaigns_new_image_layout_picker","background_art_onboarding","site_user_email_change"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #130 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-130-transcript","datePublished":"2019-05-23T13:40:00-0700","dateModified":"2022-07-11T09:06:27-0700","headline":"Episode #130 - Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -135,153 +135,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-                                                      &quot;layout&quot;: &quot;navRight&quot;,
-                                                      &quot;action&quot;: {
-                                                        &quot;href&quot;: &quot;/take-action&quot;,
-                                                        &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                                        &quot;newWindow&quot;: false
-                                                      },
-                                                      &quot;showSocial&quot;: true,
-                                                      &quot;socialOptions&quot;: {
-                                                        &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                        &quot;socialBorderThickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 1.0
-                                                        }
-                                                      },
-                                                      &quot;sectionTheme&quot;: &quot;light&quot;,
-                                                      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                      &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                      &quot;cartText&quot;: &quot;Cart&quot;,
-                                                      &quot;showEmptyCartState&quot;: true,
-                                                      &quot;cartOptions&quot;: {
-                                                        &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                        &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                        &quot;cartBorderThickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 1.0
-                                                        }
-                                                      },
-                                                      &quot;showButton&quot;: false,
-                                                      &quot;showCart&quot;: false,
-                                                      &quot;showAccountLogin&quot;: true,
-                                                      &quot;headerStyle&quot;: &quot;theme&quot;,
-                                                      &quot;languagePicker&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;iconEnabled&quot;: false,
-                                                        &quot;iconType&quot;: &quot;globe&quot;,
-                                                        &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                        &quot;languageFlags&quot;: [ ]
-                                                      },
-                                                      &quot;mobileOptions&quot;: {
-                                                        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                                        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                        &quot;menuIconOptions&quot;: {
-                                                          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                          &quot;thickness&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 1.0
-                                                          }
-                                                        }
-                                                      },
-                                                      &quot;dynamicOptions&quot;: {
-                                                        &quot;border&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;position&quot;: &quot;allSides&quot;,
-                                                          &quot;thickness&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 4.0
-                                                          }
-                                                        }
-                                                      },
-                                                      &quot;solidOptions&quot;: {
-                                                        &quot;headerOpacity&quot;: {
-                                                          &quot;unit&quot;: &quot;%&quot;,
-                                                          &quot;value&quot;: 100.0
-                                                        },
-                                                        &quot;border&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;position&quot;: &quot;allSides&quot;,
-                                                          &quot;thickness&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 4.0
-                                                          }
-                                                        },
-                                                        &quot;dropShadow&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;blur&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 30.0
-                                                          },
-                                                          &quot;spread&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 0.0
-                                                          },
-                                                          &quot;distance&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 0.0
-                                                          }
-                                                        },
-                                                        &quot;blurBackground&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;blurRadius&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 12.0
-                                                          }
-                                                        }
-                                                      },
-                                                      &quot;gradientOptions&quot;: {
-                                                        &quot;gradientType&quot;: &quot;faded&quot;,
-                                                        &quot;headerOpacity&quot;: {
-                                                          &quot;unit&quot;: &quot;%&quot;,
-                                                          &quot;value&quot;: 90.0
-                                                        },
-                                                        &quot;border&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;position&quot;: &quot;allSides&quot;,
-                                                          &quot;thickness&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 4.0
-                                                          }
-                                                        },
-                                                        &quot;dropShadow&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;blur&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 30.0
-                                                          },
-                                                          &quot;spread&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 0.0
-                                                          },
-                                                          &quot;distance&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 0.0
-                                                          }
-                                                        },
-                                                        &quot;blurBackground&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;blurRadius&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 12.0
-                                                          }
-                                                        }
-                                                      },
-                                                      &quot;showPromotedElement&quot;: false
-                                                    }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                                                      &quot;enabled&quot;: false,
-                                                      &quot;iconEnabled&quot;: false,
-                                                      &quot;iconType&quot;: &quot;globe&quot;,
-                                                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                      &quot;languageFlags&quot;: [ ]
-                                                    }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -848,142 +848,142 @@
     
     "
     data-current-styles="{
-                                                      &quot;layout&quot;: &quot;navRight&quot;,
-                                                      &quot;action&quot;: {
-                                                        &quot;href&quot;: &quot;/take-action&quot;,
-                                                        &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                                        &quot;newWindow&quot;: false
-                                                      },
-                                                      &quot;showSocial&quot;: true,
-                                                      &quot;socialOptions&quot;: {
-                                                        &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                        &quot;socialBorderThickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 1.0
-                                                        }
-                                                      },
-                                                      &quot;sectionTheme&quot;: &quot;light&quot;,
-                                                      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                      &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                      &quot;cartText&quot;: &quot;Cart&quot;,
-                                                      &quot;showEmptyCartState&quot;: true,
-                                                      &quot;cartOptions&quot;: {
-                                                        &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                        &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                        &quot;cartBorderThickness&quot;: {
-                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                          &quot;value&quot;: 1.0
-                                                        }
-                                                      },
-                                                      &quot;showButton&quot;: false,
-                                                      &quot;showCart&quot;: false,
-                                                      &quot;showAccountLogin&quot;: true,
-                                                      &quot;headerStyle&quot;: &quot;theme&quot;,
-                                                      &quot;languagePicker&quot;: {
-                                                        &quot;enabled&quot;: false,
-                                                        &quot;iconEnabled&quot;: false,
-                                                        &quot;iconType&quot;: &quot;globe&quot;,
-                                                        &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                        &quot;languageFlags&quot;: [ ]
-                                                      },
-                                                      &quot;mobileOptions&quot;: {
-                                                        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                                        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                        &quot;menuIconOptions&quot;: {
-                                                          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                          &quot;thickness&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 1.0
-                                                          }
-                                                        }
-                                                      },
-                                                      &quot;dynamicOptions&quot;: {
-                                                        &quot;border&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;position&quot;: &quot;allSides&quot;,
-                                                          &quot;thickness&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 4.0
-                                                          }
-                                                        }
-                                                      },
-                                                      &quot;solidOptions&quot;: {
-                                                        &quot;headerOpacity&quot;: {
-                                                          &quot;unit&quot;: &quot;%&quot;,
-                                                          &quot;value&quot;: 100.0
-                                                        },
-                                                        &quot;border&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;position&quot;: &quot;allSides&quot;,
-                                                          &quot;thickness&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 4.0
-                                                          }
-                                                        },
-                                                        &quot;dropShadow&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;blur&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 30.0
-                                                          },
-                                                          &quot;spread&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 0.0
-                                                          },
-                                                          &quot;distance&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 0.0
-                                                          }
-                                                        },
-                                                        &quot;blurBackground&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;blurRadius&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 12.0
-                                                          }
-                                                        }
-                                                      },
-                                                      &quot;gradientOptions&quot;: {
-                                                        &quot;gradientType&quot;: &quot;faded&quot;,
-                                                        &quot;headerOpacity&quot;: {
-                                                          &quot;unit&quot;: &quot;%&quot;,
-                                                          &quot;value&quot;: 90.0
-                                                        },
-                                                        &quot;border&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;position&quot;: &quot;allSides&quot;,
-                                                          &quot;thickness&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 4.0
-                                                          }
-                                                        },
-                                                        &quot;dropShadow&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;blur&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 30.0
-                                                          },
-                                                          &quot;spread&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 0.0
-                                                          },
-                                                          &quot;distance&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 0.0
-                                                          }
-                                                        },
-                                                        &quot;blurBackground&quot;: {
-                                                          &quot;enabled&quot;: false,
-                                                          &quot;blurRadius&quot;: {
-                                                            &quot;unit&quot;: &quot;px&quot;,
-                                                            &quot;value&quot;: 12.0
-                                                          }
-                                                        }
-                                                      },
-                                                      &quot;showPromotedElement&quot;: false
-                                                    }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1134,31 +1134,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                      &quot;imageOverlayOpacity&quot;: 0.15,
-                                                      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                      &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                                                      &quot;customSectionHeight&quot;: 10,
-                                                      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                      &quot;customContentWidth&quot;: 50,
-                                                      &quot;sectionTheme&quot;: &quot;&quot;,
-                                                      &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                      &quot;backgroundMode&quot;: &quot;image&quot;
-                                                    }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                                      &quot;video&quot;: {
-                                                        &quot;playbackSpeed&quot;: 0.5,
-                                                        &quot;filter&quot;: 1,
-                                                        &quot;filterStrength&quot;: 0,
-                                                        &quot;zoom&quot;: 0,
-                                                        &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                      },
-                                                      &quot;backgroundImageId&quot;: null,
-                                                      &quot;backgroundMediaEffect&quot;: null,
-                                                      &quot;divider&quot;: null,
-                                                      &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                                    }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1221,7 +1221,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec21b509afd80facd8c2af"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1657555524072_1114"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is about a famous debate regarding democracy that took place at the beginning of the 20th century. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, just thinking ahead, I think it’s going to be extremely valuable for us to spend a little time on 20th-century political philosophy, and that’s what we’re going to do right now. See, there’s a lot of conversation in the realm of 20th-century political philosophy that not only is going to be very useful for us and the future of this show, but the 20th century is just filled with famous political debates that end up being incredibly fruitful for the societies that they were conducted in. These debates, in many cases you could say, did more for their societies in the 20th century than any other century of political debate did for theirs, basically ever. Even though, to philosophers at the beginning of the 20th century, it really didn’t seem like it was going to be that way at first.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, there’s this conversation going on at the end of the 19th century heading into the 20th century about whether it’s a good idea to even be talking about political philosophy anymore at all. Where this is coming from are the same conversations that eventually give rise to structuralism. Remember, structuralism -- one of its main tenants is to talk about how the ideas that we’ve come up with over the years haven’t been some ongoing progression towards some ultimate truth, as we may have thought about in the past. When it comes to your subjectivity, you are not some free-acting agent just disinterestedly navigating the universe, that everything that you do think and can possibly think is ultimately dictated by the narrow historical, cultural, and biological parameters that you were born into, the ideas that you have about the world, equally narrow and subject to an arbitrary historical context.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, the problems people are having at the end of the 19th century with the idea of engaging in political philosophy stem from this. They were saying -- I mean, if the essence of political philosophy is to ask questions like “What is it to be a citizen?” “What is the role of government?” How should power be delegated and regulated?” “How do we best live together in communities of different types of people?” -- if these are the questions we’re trying to answer and the ideas you have about the right answers to those questions ultimately are products of the time and culture you were born into, then when it comes to the task of trying to find the best political philosophy out there, when we have these discussions, what are we even talking about? Because if this stuff is true, can’t we never arrive at any sort of satisfying answers to these questions? Well, then, is political philosophy something we should even be doing anymore?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Nonetheless, even if there were these reservations at the time, political philosophy still went on. And, if you were to dissect the conversation that was going on at the time, there were three major branches of the conversation going on, and we’re going to talk about all three of them eventually. But one of the branches would have been philosophers taking a much closer look at the subject of democracy. And one of the biggest, if not the biggest, conversations about democracy that’s going on during this time is going on between the famous political commentator Walter Lippmann and the American pragmatist philosopher John Dewey.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Probably the best place to try to insert ourselves into their debate and start to uncover the position that Walter Lippmann held about democracy is to talk about an old criticism of democracy, that probably stems initially from Plato’s <em>Republic</em>. The paraphrased version of this question would be something like “Is the average citizen of a society the right person to be making the decisions about who should be making the decisions for a society.” Now, the implication there is that, clearly, they are not. And, just to move us along so we can save some time, another way of putting that would be to say that we all need to be willing to consider that a fundamental flaw in the way a democracy functions is that any political action carried out by that democracy is ultimately going to rely heavily on public opinion, which is the name of Walter Lippmann’s famous 1922 critique of democracy, <em>Public Opinion</em>. This critique of democracy, John Dewey would later say, is the greatest critique of democracy that was around at the time. And John Dewey, if you don’t already know, is the poster boy for a person that’s in support of a democracy. But more on him later.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about Walter Lippmann right now. Lippmann’s main point, when it comes to the first half of his book <em>Public Opinion</em>, is that there are several fundamental problems with the structure of democracies that have existed in the past that are going to lead to a lot of serious problems for societies of the future if we don’t all get serious now and do something about them. The place a lot of these problems stem from -- democracy’s reliance on public opinion. Lippmann would say that public opinion being the driving force behind political action in a society sounds great in theory, but in practice things just don’t work out the way the founders of our modern democracies had in mind. He references the founders of the United States. He talks about how, back then, things were different. Back then, not everybody could vote. The people that could vote were relatively wealthy landowners that had a vested interest in understanding their local communities because it directly affected their land. The expectations of the founders were that, yes, things would change -- the country may grow exponentially; the lives of&nbsp; people within that democracy may change dramatically -- but, no matter what happened with the country, the primary focus for a citizen politically would be these immediate subcommunities that they were closest to.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The reason this was a check mark in favor of a democracy was that -- I mean, if the scope of the world you’re thinking about politically is limited to just your local community, and likely the place you’ve spent you entire life, it’s going to be a lot easier for you to be qualified to make intelligent decisions about the future of that community. But, as we know and Walter Lippmann knew in 1922, this just isn’t the way the world has shaken out. The scope of the world we’re expected to have thoughts on politically is global. When you really take a step back and look at all the enormously complex systems that you’re expected to have intelligent thoughts about as a modern member of a democracy -- fields with thousands of years of work done, fields people dedicate their entire lives to and don’t even come close to understanding fully -- the world is not like the subcommunities the founders thought were going to keep going. The world is, as Lippmann says, “too big, too complex, and too fleeting for direct acquaintance. We are not equipped to deal with so much subtlety, so much variety, and so many permutations and combinations. And, although we have to act in that environment, we have to reconstruct it on a simpler model before we can manage it.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What he’s talking about is that, as people, when we’re face to face with this unbridled complexity and nuance of the political world, that almost as a defense mechanism we construct a simpler alternative model of that world that’s more manageable for us. He calls these models of the world, that we construct of the actual environment, “pseudo-environments.” To construct one of these pseudo-environments, what we have to do is take a look around us at the world and create a collection of stereotypes, not just stereotypes about people or cultures. He’s speaking more broadly than that, stereotypes about the environment, stereotypes about medicine, stereotypes about the government. And whenever we’re prompted to give our intelligent thoughts about a particular subject as a member of a democracy, we look to our pseudo-environment, go into our grab bag of stereotypes, and pull one out to do battle with the stereotypes of everybody else. When you combine these pseudo-environments and stereotypes of each and every member of a particular democracy, the sum total of them, to Lippmann, “crystalize into what we call public opinion.” To Lippmann, in other words, what we refer to as public opinion and the resource we use to drive our democracies forward is nothing more than the crystalized version of everyone’s collective pseudo-takes on the world, based on stereotypes.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, if that fact wasn’t bad enough, Lippmann would want us to consider where we even get these narrow pseudo-collections of stereotypes. See, to Lippmann, if you’re somebody trying to create one of these pseudo-environments, in other words, if you’re somebody interested in having an opinion on the world or forming a political stance at all, what you necessarily have to do in order to do that is hear about events that you don’t experience, have never seen; yesterday you had no idea this thing even existed. This thing is usually happening so far away from you that you couldn’t possibly understand its proper context, and your job is to form emotional responses to these events. Not just that. These emotional responses are always based on the moral intuitions of this pseudo-environment that the person’s already created in their head. In other words, the events of the world are always filtered through this preset collection of stereotypes that the person had that helped them create a vision of the world up until that point in the first place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if that weren’t bad enough, Lippmann would want us to ask where we even get these events of the world that it’s our job to form emotional responses to. Well, the answer’s simple, in our modern world, the media and media products. We are living in a world where media products are the best tools the average citizen has to create one of these pseudo-environments, media products created by people with their own set of stereotypes they use to chop up the world, media products delivered through an extremely narrow medium, through the moving images on a TV screen, through the limitations of an existing format of a podcast, through the extremely narrow metric of what it is to “report on something,” not to mention the profit motive of media outlets which is driven by consumer decisions, not necessarily how accurate they are. Lippmann has a famous quote: “For a dollar, you may not even get an armful of candy. But for a dollar or less people expect reality/representations of truth to fall into their laps.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But even if this weren’t bad enough, consider all the other obstacles in the way of getting to even these media sources. Consider that media itself is always delivered by the vehicle of language, which is itself an extremely crude and narrow thing. Consider the socioeconomic limitations that face the average citizen when constructing this pseudo-environment. For example, most people work 40 hours a week. They have families and lives to maintain. They have recreation time to tend to, so they don’t burn out of this whole process. How much time is there really at the end of it all to educate yourself on all of these extremely complex systems, so you can become some sort of weekend warrior Rhodes Scholar?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, the prominent idea for a long time was that access to information was going to be an extremely good thing for political discourse. The more information people had, the smarter they were going to be. The smarter they were, the more complex their ideas and discussions would become. The one-dimensional political fanaticism of the past was a result, in part, of the ignorance of the populations. This is why a lot of people were extremely optimistic when the internet first came along. I mean, you want to talk about access to information; the internet is like throwing gunpowder on that fire. So why does it seem like it has simultaneously thrown gunpowder on the one-dimensional political fanaticism fire? </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Walter Lippmann saw this coming because he knew that when people seek information, they are not seeking the truth; they’re seeking to reinforce a pseudo-environment of stereotypes they already believe in. And, even if they’re not, the whole process of seeking information is filtered through their existing set of stereotypes, and it sabotages that whole process. Lippmann says that, so often, what we think of as developing our understanding of politics in the world is really just us choosing between which of the handful of existing authorities and thought leaders we’re going to entrust our entire worldview to. There’s no question as to why Lippmann would have had a problem with using public opinion as a means to directing society.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s switch sides of the argument here for a second and talk about the position of the philosopher John Dewey. You know, there’s that classic way of breaking down the two different ways that people see themselves as citizens within a society. They either see themselves as in competition with the other people around them, as in cooperation with the other people around them. The idea is, go down to the farmer’s market, and you see the dude getting the avocados. When you look at that guy, do you see it like, “Okay, I’m an individual. He’s an individual. And we are two individuals embarking on two separate journeys within the same society.” Or do you look at that guy and see him as a team member, and the two of you are part of a team that’s in cooperation towards a common goal? One certainly isn’t inherently better than the other, I don’t think. The philosophical question that’s being asked here under the surface is, do you look at your place in society through the lens of the classical liberal tradition of individualism or the progressive liberal tradition à la John Dewey.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, this contrast between competition and cooperation is going to be important when it comes to explaining Dewey’s positions on democracy. See, because John Dewey would no doubt give credit where credit’s due. I mean, he would say that Walter Lippmann makes some very strong points about democracy and public opinion, that is, if you’re looking at democracy as a system of government -- that is, if you’re looking at democracy as merely a system of government, as Plato did in the <em>Republic</em>. John Dewey tears into Plato. See, it was the ancient Greeks in their pursuit to try to uncover the best form of government in their form of political philosophy that initially included democracy in their discussion. We had the monarchy government by the one, the aristocracy government by the few, and the democracy government by the many. But here’s where the shift happens. John Dewey is going to ask, what if democracy is not just a form of government? What if what we think of as society is a complex organism, and government is merely something produced by that organism, like a bird produces a nest.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">First question first, what if democracy is not just a form of government? John Dewey thinks this really shouldn’t be that hard of an idea to wrap our heads around. I mean, democracy is something that we see across all levels of society, not just in Washington, D.C., he says. Democracy is present in corporations, families, churches, groups of friends, tons of other examples. You even see democracy present in the behavior of groups of animals in the animal kingdom. Democracy is clearly not just a form of government to John Dewey. So what would be a more accurate way to classify it? John Dewey calls democracy a lot of different things. He calls it a way of life. He sees it as tantamount to freedom. But probably the most important way that he classifies it, if you want to understand his arguments against Walter Lippmann, is that he says democracy is an ethical ideal, not just a form of government. This takes democracy as not just the result of some political discussion on the Athenian Agora about forms of government, and it reframes it as an ethical imperative. Democracy is a tool for social unification that we all have an ethical obligation to maintain, and there’s a lot of reasons why.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">First, John Dewey sees a fundamental problem when it comes to looking at society through the lens of individualism. Very short excerpt from the Stanford Encyclopedia of Philosophy that uses multiple John Dewey quotes to illustrate what he means here, “Men are not isolated, non-social atoms, but are men only when in intrinsic relations to one another. And the state, in turn, only represents them so far as they have become organically related to one another or are possessed of unity of purpose and interest.” This is why democracy is such an effective and stable form of social unification for Dewey. Society is an organism, and the individual and society are what he refers to as organically connected to each other. So, in this sense, within a true democracy the individuals are always able to contribute to and own part of that society because they’re participating in it, and the society is always able to contribute to and own part of the individuals because they’re always a person engaged in the issues of that society.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is a major shift of perspective. Instead of looking at this as a society with a government that keeps it in order, Dewey is seeing this more as an ethical community of citizens, society an organism comprised of them, that none of us would ever have been able to survive and flourish except through our participation within this organism. This is part of the reason why, to Dewey, it’s much more accurate to view others around you as team members in cooperation than to view yourself as an individual doing their own thing. In other words, yes, democracy is a form of government, but the only reason it’s a form of government is because it’s also a deeper form of social unification.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And not only is democracy the most stable form of government because of this symbiotic relationship between the two organisms of the individual and society, but it’s also the most stable because it’s the best at safeguarding against potential authoritarian systems taking control of that organism. He says in a famous passage, “that every authoritarian scheme assumes that its value may be assessed by some prior principle, if not of family and birth or race and color or possession of material wealth, then by the position and rank the person occupies in the existing social scheme. The democratic faith in equality is the faith that each individual shall have the chance and opportunity to contribute whatever he is capable of contributing and that the value of his contribution be decided by its place and function in the organized total of similar contributions, not on the basis of prior status of any kind whatever.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What he’s saying is that if you look at every brand of authoritarianism that ever rears its head, one similarity you will always find is that it tries to use some birthright, some aspect of nature, to justify its power. Now, remember that these authoritarian regimes try to use the natural order of things, because it’s going to come up later. But think about what he’s saying here: the divine right of kings, being a ruler because you’re part of the right bloodline, ruling over others because they’re the wrong race, even down to ruling over others simply because people that came before you were of high ranking in the social structure of their time. Dewey is saying that authoritarian regimes all use this same trick. They justify their ability to rule based on some prior principle, as he says. But Dewey’s going to say, this is yet another strength of democracy as a method of social unification because it’s the only system where your prior status doesn’t really matter, that every person has the ability to contribute something to society if they have something valuable to say.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To John Dewey, each and every person is unique and, thus, brings a unique perspective to the problems a society is facing. Then why would we ever limit ourselves to a panel of oligarchs or a single dictator? This is part of the reason why John Dewey’s such a huge advocate of education and its reform. When you consider that our society hinges on the ideas of the citizens that make it up, why wouldn’t we do as much as we can to ensure that people are not only as educated as possible but are also taught how to think and adapt with changing environments? True democracy shouldn’t just be a form of government, to Dewey. It shouldn’t be defined by just a bunch of people voting for what they want. Democracy is more than that, to John Dewey. See, a true democracy to him should allow every citizen within it to reach their full potential. The good news being, of course, that allowing people to realize their potential helps society immensely as well.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To Lippmann he would probably say something like, yes, certain people are going to go down rabbit holes of information; they’re going to become enraged political zealots. But that shouldn’t discourage us when it comes to democracy. To John Dewey, it should cause us to re-up on our commitment to education and teaching the citizens the skills to be able to not fall into those traps of simplified thinking. Remember, society is an organism, and government is part of what that organism produces, like bees produce a hive. This is a much more accurate way of looking at society to him, which is why he takes extreme issue with many earlier political philosophers that approach questions of government from the perspective of a social contract that’s automatically signed at birth somehow.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">First of all, the idea that you’re just born into a society and you’re automatically enrolled in some subscription to that society, is just wrong, to John Dewey. This is nothing more to him than yet another example of philosophers trying to use the “natural order of things” or “human nature” as a means of pretending they know a lot more about the way societies work than they actually do. The world is nowhere near that simple, in his view. And as we continue to talk about 20th-century political philosophy, this dichotomy between nature and culture, it’s going to become more and more relevant as we go on. Whether you attribute the behavior of human beings to some aspect of their nature or whether you think cultural influence has much more of an effect on political matters will ultimately dictate a lot of the things about which side of the political spectrum you fall on. For example, do you think that climate change is a byproduct of natural processes that we have very little control over, or do you think it is highly influenced by humans and that we should do something about it? Do you think that the prevalence of gun violence is a biproduct of a certain natural percentage of people that are mentally ill, or do you think there’s something about the way we structure our societies that’s causing this? There are tons of examples of this in our modern political landscape that you could point to. And, in many ways, these disagreements come down to this distinction, this old distinction in philosophy between nature and culture that flourished during the 20th century.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I look forward to exploring it further with you. Thank you for listening. I’ll talk to you next time.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is about a famous debate regarding democracy that took place at the beginning of the 20th century. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, just thinking ahead, I think it’s going to be extremely valuable for us to spend a little time on 20th-century political philosophy, and that’s what we’re going to do right now. See, there’s a lot of conversation in the realm of 20th-century political philosophy that not only is going to be very useful for us and the future of this show, but the 20th century is just filled with famous political debates that end up being incredibly fruitful for the societies that they were conducted in. These debates, in many cases you could say, did more for their societies in the 20th century than any other century of political debate did for theirs, basically ever. Even though, to philosophers at the beginning of the 20th century, it really didn’t seem like it was going to be that way at first.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, there’s this conversation going on at the end of the 19th century heading into the 20th century about whether it’s a good idea to even be talking about political philosophy anymore at all. Where this is coming from are the same conversations that eventually give rise to structuralism. Remember, structuralism -- one of its main tenants is to talk about how the ideas that we’ve come up with over the years haven’t been some ongoing progression towards some ultimate truth, as we may have thought about in the past. When it comes to your subjectivity, you are not some free-acting agent just disinterestedly navigating the universe, that everything that you do think and can possibly think is ultimately dictated by the narrow historical, cultural, and biological parameters that you were born into, the ideas that you have about the world, equally narrow and subject to an arbitrary historical context.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, the problems people are having at the end of the 19th century with the idea of engaging in political philosophy stem from this. They were saying -- I mean, if the essence of political philosophy is to ask questions like “What is it to be a citizen?” “What is the role of government?” How should power be delegated and regulated?” “How do we best live together in communities of different types of people?” -- if these are the questions we’re trying to answer and the ideas you have about the right answers to those questions ultimately are products of the time and culture you were born into, then when it comes to the task of trying to find the best political philosophy out there, when we have these discussions, what are we even talking about? Because if this stuff is true, can’t we never arrive at any sort of satisfying answers to these questions? Well, then, is political philosophy something we should even be doing anymore?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Nonetheless, even if there were these reservations at the time, political philosophy still went on. And, if you were to dissect the conversation that was going on at the time, there were three major branches of the conversation going on, and we’re going to talk about all three of them eventually. But one of the branches would have been philosophers taking a much closer look at the subject of democracy. And one of the biggest, if not the biggest, conversations about democracy that’s going on during this time is going on between the famous political commentator Walter Lippmann and the American pragmatist philosopher John Dewey.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Probably the best place to try to insert ourselves into their debate and start to uncover the position that Walter Lippmann held about democracy is to talk about an old criticism of democracy, that probably stems initially from Plato’s <em>Republic</em>. The paraphrased version of this question would be something like “Is the average citizen of a society the right person to be making the decisions about who should be making the decisions for a society.” Now, the implication there is that, clearly, they are not. And, just to move us along so we can save some time, another way of putting that would be to say that we all need to be willing to consider that a fundamental flaw in the way a democracy functions is that any political action carried out by that democracy is ultimately going to rely heavily on public opinion, which is the name of Walter Lippmann’s famous 1922 critique of democracy, <em>Public Opinion</em>. This critique of democracy, John Dewey would later say, is the greatest critique of democracy that was around at the time. And John Dewey, if you don’t already know, is the poster boy for a person that’s in support of a democracy. But more on him later.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about Walter Lippmann right now. Lippmann’s main point, when it comes to the first half of his book <em>Public Opinion</em>, is that there are several fundamental problems with the structure of democracies that have existed in the past that are going to lead to a lot of serious problems for societies of the future if we don’t all get serious now and do something about them. The place a lot of these problems stem from -- democracy’s reliance on public opinion. Lippmann would say that public opinion being the driving force behind political action in a society sounds great in theory, but in practice things just don’t work out the way the founders of our modern democracies had in mind. He references the founders of the United States. He talks about how, back then, things were different. Back then, not everybody could vote. The people that could vote were relatively wealthy landowners that had a vested interest in understanding their local communities because it directly affected their land. The expectations of the founders were that, yes, things would change -- the country may grow exponentially; the lives of&nbsp; people within that democracy may change dramatically -- but, no matter what happened with the country, the primary focus for a citizen politically would be these immediate subcommunities that they were closest to.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The reason this was a check mark in favor of a democracy was that -- I mean, if the scope of the world you’re thinking about politically is limited to just your local community, and likely the place you’ve spent you entire life, it’s going to be a lot easier for you to be qualified to make intelligent decisions about the future of that community. But, as we know and Walter Lippmann knew in 1922, this just isn’t the way the world has shaken out. The scope of the world we’re expected to have thoughts on politically is global. When you really take a step back and look at all the enormously complex systems that you’re expected to have intelligent thoughts about as a modern member of a democracy -- fields with thousands of years of work done, fields people dedicate their entire lives to and don’t even come close to understanding fully -- the world is not like the subcommunities the founders thought were going to keep going. The world is, as Lippmann says, “too big, too complex, and too fleeting for direct acquaintance. We are not equipped to deal with so much subtlety, so much variety, and so many permutations and combinations. And, although we have to act in that environment, we have to reconstruct it on a simpler model before we can manage it.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What he’s talking about is that, as people, when we’re face to face with this unbridled complexity and nuance of the political world, that almost as a defense mechanism we construct a simpler alternative model of that world that’s more manageable for us. He calls these models of the world, that we construct of the actual environment, “pseudo-environments.” To construct one of these pseudo-environments, what we have to do is take a look around us at the world and create a collection of stereotypes, not just stereotypes about people or cultures. He’s speaking more broadly than that, stereotypes about the environment, stereotypes about medicine, stereotypes about the government. And whenever we’re prompted to give our intelligent thoughts about a particular subject as a member of a democracy, we look to our pseudo-environment, go into our grab bag of stereotypes, and pull one out to do battle with the stereotypes of everybody else. When you combine these pseudo-environments and stereotypes of each and every member of a particular democracy, the sum total of them, to Lippmann, “crystalize into what we call public opinion.” To Lippmann, in other words, what we refer to as public opinion and the resource we use to drive our democracies forward is nothing more than the crystalized version of everyone’s collective pseudo-takes on the world, based on stereotypes.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, if that fact wasn’t bad enough, Lippmann would want us to consider where we even get these narrow pseudo-collections of stereotypes. See, to Lippmann, if you’re somebody trying to create one of these pseudo-environments, in other words, if you’re somebody interested in having an opinion on the world or forming a political stance at all, what you necessarily have to do in order to do that is hear about events that you don’t experience, have never seen; yesterday you had no idea this thing even existed. This thing is usually happening so far away from you that you couldn’t possibly understand its proper context, and your job is to form emotional responses to these events. Not just that. These emotional responses are always based on the moral intuitions of this pseudo-environment that the person’s already created in their head. In other words, the events of the world are always filtered through this preset collection of stereotypes that the person had that helped them create a vision of the world up until that point in the first place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if that weren’t bad enough, Lippmann would want us to ask where we even get these events of the world that it’s our job to form emotional responses to. Well, the answer’s simple, in our modern world, the media and media products. We are living in a world where media products are the best tools the average citizen has to create one of these pseudo-environments, media products created by people with their own set of stereotypes they use to chop up the world, media products delivered through an extremely narrow medium, through the moving images on a TV screen, through the limitations of an existing format of a podcast, through the extremely narrow metric of what it is to “report on something,” not to mention the profit motive of media outlets which is driven by consumer decisions, not necessarily how accurate they are. Lippmann has a famous quote: “For a dollar, you may not even get an armful of candy. But for a dollar or less people expect reality/representations of truth to fall into their laps.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But even if this weren’t bad enough, consider all the other obstacles in the way of getting to even these media sources. Consider that media itself is always delivered by the vehicle of language, which is itself an extremely crude and narrow thing. Consider the socioeconomic limitations that face the average citizen when constructing this pseudo-environment. For example, most people work 40 hours a week. They have families and lives to maintain. They have recreation time to tend to, so they don’t burn out of this whole process. How much time is there really at the end of it all to educate yourself on all of these extremely complex systems, so you can become some sort of weekend warrior Rhodes Scholar?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, the prominent idea for a long time was that access to information was going to be an extremely good thing for political discourse. The more information people had, the smarter they were going to be. The smarter they were, the more complex their ideas and discussions would become. The one-dimensional political fanaticism of the past was a result, in part, of the ignorance of the populations. This is why a lot of people were extremely optimistic when the internet first came along. I mean, you want to talk about access to information; the internet is like throwing gunpowder on that fire. So why does it seem like it has simultaneously thrown gunpowder on the one-dimensional political fanaticism fire? </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Walter Lippmann saw this coming because he knew that when people seek information, they are not seeking the truth; they’re seeking to reinforce a pseudo-environment of stereotypes they already believe in. And, even if they’re not, the whole process of seeking information is filtered through their existing set of stereotypes, and it sabotages that whole process. Lippmann says that, so often, what we think of as developing our understanding of politics in the world is really just us choosing between which of the handful of existing authorities and thought leaders we’re going to entrust our entire worldview to. There’s no question as to why Lippmann would have had a problem with using public opinion as a means to directing society.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s switch sides of the argument here for a second and talk about the position of the philosopher John Dewey. You know, there’s that classic way of breaking down the two different ways that people see themselves as citizens within a society. They either see themselves as in competition with the other people around them, as in cooperation with the other people around them. The idea is, go down to the farmer’s market, and you see the dude getting the avocados. When you look at that guy, do you see it like, “Okay, I’m an individual. He’s an individual. And we are two individuals embarking on two separate journeys within the same society.” Or do you look at that guy and see him as a team member, and the two of you are part of a team that’s in cooperation towards a common goal? One certainly isn’t inherently better than the other, I don’t think. The philosophical question that’s being asked here under the surface is, do you look at your place in society through the lens of the classical liberal tradition of individualism or the progressive liberal tradition à la John Dewey.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, this contrast between competition and cooperation is going to be important when it comes to explaining Dewey’s positions on democracy. See, because John Dewey would no doubt give credit where credit’s due. I mean, he would say that Walter Lippmann makes some very strong points about democracy and public opinion, that is, if you’re looking at democracy as a system of government -- that is, if you’re looking at democracy as merely a system of government, as Plato did in the <em>Republic</em>. John Dewey tears into Plato. See, it was the ancient Greeks in their pursuit to try to uncover the best form of government in their form of political philosophy that initially included democracy in their discussion. We had the monarchy government by the one, the aristocracy government by the few, and the democracy government by the many. But here’s where the shift happens. John Dewey is going to ask, what if democracy is not just a form of government? What if what we think of as society is a complex organism, and government is merely something produced by that organism, like a bird produces a nest.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">First question first, what if democracy is not just a form of government? John Dewey thinks this really shouldn’t be that hard of an idea to wrap our heads around. I mean, democracy is something that we see across all levels of society, not just in Washington, D.C., he says. Democracy is present in corporations, families, churches, groups of friends, tons of other examples. You even see democracy present in the behavior of groups of animals in the animal kingdom. Democracy is clearly not just a form of government to John Dewey. So what would be a more accurate way to classify it? John Dewey calls democracy a lot of different things. He calls it a way of life. He sees it as tantamount to freedom. But probably the most important way that he classifies it, if you want to understand his arguments against Walter Lippmann, is that he says democracy is an ethical ideal, not just a form of government. This takes democracy as not just the result of some political discussion on the Athenian Agora about forms of government, and it reframes it as an ethical imperative. Democracy is a tool for social unification that we all have an ethical obligation to maintain, and there’s a lot of reasons why.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">First, John Dewey sees a fundamental problem when it comes to looking at society through the lens of individualism. Very short excerpt from the Stanford Encyclopedia of Philosophy that uses multiple John Dewey quotes to illustrate what he means here, “Men are not isolated, non-social atoms, but are men only when in intrinsic relations to one another. And the state, in turn, only represents them so far as they have become organically related to one another or are possessed of unity of purpose and interest.” This is why democracy is such an effective and stable form of social unification for Dewey. Society is an organism, and the individual and society are what he refers to as organically connected to each other. So, in this sense, within a true democracy the individuals are always able to contribute to and own part of that society because they’re participating in it, and the society is always able to contribute to and own part of the individuals because they’re always a person engaged in the issues of that society.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is a major shift of perspective. Instead of looking at this as a society with a government that keeps it in order, Dewey is seeing this more as an ethical community of citizens, society an organism comprised of them, that none of us would ever have been able to survive and flourish except through our participation within this organism. This is part of the reason why, to Dewey, it’s much more accurate to view others around you as team members in cooperation than to view yourself as an individual doing their own thing. In other words, yes, democracy is a form of government, but the only reason it’s a form of government is because it’s also a deeper form of social unification.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And not only is democracy the most stable form of government because of this symbiotic relationship between the two organisms of the individual and society, but it’s also the most stable because it’s the best at safeguarding against potential authoritarian systems taking control of that organism. He says in a famous passage, “that every authoritarian scheme assumes that its value may be assessed by some prior principle, if not of family and birth or race and color or possession of material wealth, then by the position and rank the person occupies in the existing social scheme. The democratic faith in equality is the faith that each individual shall have the chance and opportunity to contribute whatever he is capable of contributing and that the value of his contribution be decided by its place and function in the organized total of similar contributions, not on the basis of prior status of any kind whatever.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What he’s saying is that if you look at every brand of authoritarianism that ever rears its head, one similarity you will always find is that it tries to use some birthright, some aspect of nature, to justify its power. Now, remember that these authoritarian regimes try to use the natural order of things, because it’s going to come up later. But think about what he’s saying here: the divine right of kings, being a ruler because you’re part of the right bloodline, ruling over others because they’re the wrong race, even down to ruling over others simply because people that came before you were of high ranking in the social structure of their time. Dewey is saying that authoritarian regimes all use this same trick. They justify their ability to rule based on some prior principle, as he says. But Dewey’s going to say, this is yet another strength of democracy as a method of social unification because it’s the only system where your prior status doesn’t really matter, that every person has the ability to contribute something to society if they have something valuable to say.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To John Dewey, each and every person is unique and, thus, brings a unique perspective to the problems a society is facing. Then why would we ever limit ourselves to a panel of oligarchs or a single dictator? This is part of the reason why John Dewey’s such a huge advocate of education and its reform. When you consider that our society hinges on the ideas of the citizens that make it up, why wouldn’t we do as much as we can to ensure that people are not only as educated as possible but are also taught how to think and adapt with changing environments? True democracy shouldn’t just be a form of government, to Dewey. It shouldn’t be defined by just a bunch of people voting for what they want. Democracy is more than that, to John Dewey. See, a true democracy to him should allow every citizen within it to reach their full potential. The good news being, of course, that allowing people to realize their potential helps society immensely as well.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To Lippmann he would probably say something like, yes, certain people are going to go down rabbit holes of information; they’re going to become enraged political zealots. But that shouldn’t discourage us when it comes to democracy. To John Dewey, it should cause us to re-up on our commitment to education and teaching the citizens the skills to be able to not fall into those traps of simplified thinking. Remember, society is an organism, and government is part of what that organism produces, like bees produce a hive. This is a much more accurate way of looking at society to him, which is why he takes extreme issue with many earlier political philosophers that approach questions of government from the perspective of a social contract that’s automatically signed at birth somehow.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">First of all, the idea that you’re just born into a society and you’re automatically enrolled in some subscription to that society, is just wrong, to John Dewey. This is nothing more to him than yet another example of philosophers trying to use the “natural order of things” or “human nature” as a means of pretending they know a lot more about the way societies work than they actually do. The world is nowhere near that simple, in his view. And as we continue to talk about 20th-century political philosophy, this dichotomy between nature and culture, it’s going to become more and more relevant as we go on. Whether you attribute the behavior of human beings to some aspect of their nature or whether you think cultural influence has much more of an effect on political matters will ultimately dictate a lot of the things about which side of the political spectrum you fall on. For example, do you think that climate change is a byproduct of natural processes that we have very little control over, or do you think it is highly influenced by humans and that we should do something about it? Do you think that the prevalence of gun violence is a biproduct of a certain natural percentage of people that are mentally ill, or do you think there’s something about the way we structure our societies that’s causing this? There are tons of examples of this in our modern political landscape that you could point to. And, in many ways, these disagreements come down to this distinction, this old distinction in philosophy between nature and culture that flourished during the 20th century.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I look forward to exploring it further with you. Thank you for listening. I’ll talk to you next time.</p>
+</div>
 
 
 
@@ -1377,30 +1379,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                      &quot;imageOverlayOpacity&quot;: 0.15,
-                                                      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                      &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                                                      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                      &quot;customContentWidth&quot;: 100,
-                                                      &quot;sectionTheme&quot;: &quot;dark&quot;,
-                                                      &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                      &quot;backgroundMode&quot;: &quot;image&quot;
-                                                    }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                                      &quot;video&quot;: {
-                                                        &quot;playbackSpeed&quot;: 0.5,
-                                                        &quot;filter&quot;: 1,
-                                                        &quot;filterStrength&quot;: 0,
-                                                        &quot;zoom&quot;: 0,
-                                                        &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                      },
-                                                      &quot;backgroundImageId&quot;: null,
-                                                      &quot;backgroundMediaEffect&quot;: null,
-                                                      &quot;divider&quot;: null,
-                                                      &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                                    }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1437,25 +1439,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

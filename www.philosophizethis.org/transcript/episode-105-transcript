@@ -38,14 +38,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #105 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"7":true,"3":true,"4":true,"6":true,"2":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #105 - Transcript","id":"5eec1ee709afd80facd8af76","fullUrl":"/transcript/episode-105-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["crm_remove_subscriber","commerce_etsy_product_import","is_feature_gate_refresh_enabled","site_header_footer","accounting_orders_sync","campaigns_import_discounts","supports_versioned_template_assets","commerce_order_status_access","commerce_restock_notifications","crm_enforce_recaptcha_v3_enterprise","crm_enable_recaptcha_v3_enterprise","send_local_pickup_ready_email","fluid_engine","campaigns_global_uc_ab","background_art_onboarding","crm_retention_segment","visitor_react_forms","customer_accounts_email_verification","campaigns_discount_section_in_blasts","customer_account_creation_recaptcha","crm_default_newsletter_block_to_campaigns","campaigns_new_image_layout_picker","marketing_landing_page","new_stacked_index","commerce_clearpay","member_areas_spanish_interviews","campaigns_content_editing_survey","crm_waitlist_enforce_recaptcha_v3_enterprise","member_areas_schedule_interview","viewer-role-contributor-invites","campaigns_discount_section_in_automations","nested_categories","multilingual_transactional_emails","member_areas_provisioning_service","nested_categories_migration_enabled","commerce_site_visitor_metrics","order_status_page_checkout_landing_enabled","override_block_styles","site_user_email_change","themes","fluid_engine_clean_up_grid_contextual_change","scripts_defer","campaigns_show_featured_templates","collection_typename_switching","campaigns_thumbnail_layout","campaigns_asset_picker","commerce_etsy_shipping_import"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #105 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"4":true,"2":true,"1":true,"6":true,"7":true,"8":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #105 - Transcript","id":"5eec1ee709afd80facd8af76","fullUrl":"/transcript/episode-105-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["visitor_react_forms","campaigns_content_editing_survey","fluid_engine","order_status_page_checkout_landing_enabled","viewer-role-contributor-invites","supports_versioned_template_assets","send_local_pickup_ready_email","is_feature_gate_refresh_enabled","crm_enforce_recaptcha_v3_enterprise","collection_typename_switching","campaigns_new_image_layout_picker","accounting_orders_sync","commerce_clearpay","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_shipping_import","campaigns_discount_section_in_blasts","crm_waitlist_enforce_recaptcha_v3_enterprise","customer_accounts_email_verification","commerce_restock_notifications","crm_enable_recaptcha_v3_enterprise","campaigns_discount_section_in_automations","campaigns_import_discounts","marketing_landing_page","campaigns_thumbnail_layout","campaigns_global_uc_ab","new_stacked_index","themes","member_areas_spanish_interviews","crm_retention_segment","multilingual_transactional_emails","override_block_styles","commerce_order_status_access","customer_account_creation_recaptcha","scripts_defer","nested_categories_migration_enabled","crm_remove_subscriber","site_header_footer","background_art_onboarding","crm_default_newsletter_block_to_campaigns","site_user_email_change","campaigns_show_featured_templates","commerce_etsy_product_import","member_areas_provisioning_service","nested_categories","commerce_site_visitor_metrics","campaigns_asset_picker","member_areas_schedule_interview"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #105 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-105-transcript","datePublished":"2017-07-11T13:59:11-0700","dateModified":"2022-07-10T14:24:24-0700","headline":"Episode #105 - Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -132,153 +132,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+        &quot;layout&quot;: &quot;navRight&quot;,
+        &quot;action&quot;: {
+          &quot;href&quot;: &quot;/take-action&quot;,
+          &quot;buttonText&quot;: &quot;Take Action&quot;,
+          &quot;newWindow&quot;: false
+        },
+        &quot;showSocial&quot;: true,
+        &quot;socialOptions&quot;: {
+          &quot;socialBorderShape&quot;: &quot;none&quot;,
+          &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+          &quot;socialBorderThickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 1.0
+          }
+        },
+        &quot;sectionTheme&quot;: &quot;light&quot;,
+        &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+        &quot;cartStyle&quot;: &quot;cart&quot;,
+        &quot;cartText&quot;: &quot;Cart&quot;,
+        &quot;showEmptyCartState&quot;: true,
+        &quot;cartOptions&quot;: {
+          &quot;iconType&quot;: &quot;solid-7&quot;,
+          &quot;cartBorderShape&quot;: &quot;none&quot;,
+          &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+          &quot;cartBorderThickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 1.0
+          }
+        },
+        &quot;showButton&quot;: false,
+        &quot;showCart&quot;: false,
+        &quot;showAccountLogin&quot;: true,
+        &quot;headerStyle&quot;: &quot;theme&quot;,
+        &quot;languagePicker&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;iconEnabled&quot;: false,
+          &quot;iconType&quot;: &quot;globe&quot;,
+          &quot;flagShape&quot;: &quot;shiny&quot;,
+          &quot;languageFlags&quot;: [ ]
+        },
+        &quot;mobileOptions&quot;: {
+          &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+          &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+          &quot;menuIconOptions&quot;: {
+            &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+            &quot;thickness&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 1.0
+            }
+          }
+        },
+        &quot;dynamicOptions&quot;: {
+          &quot;border&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;position&quot;: &quot;allSides&quot;,
+            &quot;thickness&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 4.0
+            }
+          }
+        },
+        &quot;solidOptions&quot;: {
+          &quot;headerOpacity&quot;: {
+            &quot;unit&quot;: &quot;%&quot;,
+            &quot;value&quot;: 100.0
+          },
+          &quot;border&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;position&quot;: &quot;allSides&quot;,
+            &quot;thickness&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 4.0
+            }
+          },
+          &quot;dropShadow&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;blur&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 30.0
+            },
+            &quot;spread&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 0.0
+            },
+            &quot;distance&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 0.0
+            }
+          },
+          &quot;blurBackground&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;blurRadius&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 12.0
+            }
+          }
+        },
+        &quot;gradientOptions&quot;: {
+          &quot;gradientType&quot;: &quot;faded&quot;,
+          &quot;headerOpacity&quot;: {
+            &quot;unit&quot;: &quot;%&quot;,
+            &quot;value&quot;: 90.0
+          },
+          &quot;border&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;position&quot;: &quot;allSides&quot;,
+            &quot;thickness&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 4.0
+            }
+          },
+          &quot;dropShadow&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;blur&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 30.0
+            },
+            &quot;spread&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 0.0
+            },
+            &quot;distance&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 0.0
+            }
+          },
+          &quot;blurBackground&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;blurRadius&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 12.0
+            }
+          }
+        },
+        &quot;showPromotedElement&quot;: false
+      }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
+        &quot;enabled&quot;: false,
+        &quot;iconEnabled&quot;: false,
+        &quot;iconType&quot;: &quot;globe&quot;,
+        &quot;flagShape&quot;: &quot;shiny&quot;,
+        &quot;languageFlags&quot;: [ ]
+      }"
   
   data-first-focusable-element
   tabindex="-1"
@@ -845,142 +845,142 @@
     
     "
     data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+        &quot;layout&quot;: &quot;navRight&quot;,
+        &quot;action&quot;: {
+          &quot;href&quot;: &quot;/take-action&quot;,
+          &quot;buttonText&quot;: &quot;Take Action&quot;,
+          &quot;newWindow&quot;: false
+        },
+        &quot;showSocial&quot;: true,
+        &quot;socialOptions&quot;: {
+          &quot;socialBorderShape&quot;: &quot;none&quot;,
+          &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+          &quot;socialBorderThickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 1.0
+          }
+        },
+        &quot;sectionTheme&quot;: &quot;light&quot;,
+        &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+        &quot;cartStyle&quot;: &quot;cart&quot;,
+        &quot;cartText&quot;: &quot;Cart&quot;,
+        &quot;showEmptyCartState&quot;: true,
+        &quot;cartOptions&quot;: {
+          &quot;iconType&quot;: &quot;solid-7&quot;,
+          &quot;cartBorderShape&quot;: &quot;none&quot;,
+          &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+          &quot;cartBorderThickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 1.0
+          }
+        },
+        &quot;showButton&quot;: false,
+        &quot;showCart&quot;: false,
+        &quot;showAccountLogin&quot;: true,
+        &quot;headerStyle&quot;: &quot;theme&quot;,
+        &quot;languagePicker&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;iconEnabled&quot;: false,
+          &quot;iconType&quot;: &quot;globe&quot;,
+          &quot;flagShape&quot;: &quot;shiny&quot;,
+          &quot;languageFlags&quot;: [ ]
+        },
+        &quot;mobileOptions&quot;: {
+          &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+          &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+          &quot;menuIconOptions&quot;: {
+            &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+            &quot;thickness&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 1.0
+            }
+          }
+        },
+        &quot;dynamicOptions&quot;: {
+          &quot;border&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;position&quot;: &quot;allSides&quot;,
+            &quot;thickness&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 4.0
+            }
+          }
+        },
+        &quot;solidOptions&quot;: {
+          &quot;headerOpacity&quot;: {
+            &quot;unit&quot;: &quot;%&quot;,
+            &quot;value&quot;: 100.0
+          },
+          &quot;border&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;position&quot;: &quot;allSides&quot;,
+            &quot;thickness&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 4.0
+            }
+          },
+          &quot;dropShadow&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;blur&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 30.0
+            },
+            &quot;spread&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 0.0
+            },
+            &quot;distance&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 0.0
+            }
+          },
+          &quot;blurBackground&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;blurRadius&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 12.0
+            }
+          }
+        },
+        &quot;gradientOptions&quot;: {
+          &quot;gradientType&quot;: &quot;faded&quot;,
+          &quot;headerOpacity&quot;: {
+            &quot;unit&quot;: &quot;%&quot;,
+            &quot;value&quot;: 90.0
+          },
+          &quot;border&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;position&quot;: &quot;allSides&quot;,
+            &quot;thickness&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 4.0
+            }
+          },
+          &quot;dropShadow&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;blur&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 30.0
+            },
+            &quot;spread&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 0.0
+            },
+            &quot;distance&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 0.0
+            }
+          },
+          &quot;blurBackground&quot;: {
+            &quot;enabled&quot;: false,
+            &quot;blurRadius&quot;: {
+              &quot;unit&quot;: &quot;px&quot;,
+              &quot;value&quot;: 12.0
+            }
+          }
+        },
+        &quot;showPromotedElement&quot;: false
+      }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1131,31 +1131,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+        &quot;imageOverlayOpacity&quot;: 0.15,
+        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+        &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+        &quot;customSectionHeight&quot;: 10,
+        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+        &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+        &quot;customContentWidth&quot;: 50,
+        &quot;sectionTheme&quot;: &quot;&quot;,
+        &quot;sectionAnimation&quot;: &quot;none&quot;,
+        &quot;backgroundMode&quot;: &quot;image&quot;
+      }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+        &quot;video&quot;: {
+          &quot;playbackSpeed&quot;: 0.5,
+          &quot;filter&quot;: 1,
+          &quot;filterStrength&quot;: 0,
+          &quot;zoom&quot;: 0,
+          &quot;videoSourceProvider&quot;: &quot;none&quot;
+        },
+        &quot;backgroundImageId&quot;: null,
+        &quot;backgroundMediaEffect&quot;: null,
+        &quot;divider&quot;: null,
+        &quot;typeName&quot;: &quot;blog-masonry&quot;
+      }"
   data-animation="none"
   
    
@@ -1218,7 +1218,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1ee709afd80facd8af76"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1657488215015_1115"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is part six in a series on Sartre and Camus. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, in a culture where there’s so much social currency connected to being a victim and having some burden that you carry around with you throughout your life, there may be some of you out there that feel a little left out of all that. Maybe you’re the kind of person -- you look at yourself; you don’t feel like a victim. Maybe you don’t sit around, poised, waiting to make other people aware of some bad thing that happened to you in the past. Well, enough of that crazy talk. Get off the bench because your Uncle Steve’s putting you in the game. I’m here to tell you: don’t worry my friend, you are a victim. You really are.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Turns out, we’re all victims just by virtue of being born. Because just think for a second about how horrible the world was for us when we were all babies. Think of what it’s like being a baby. Imagine going through something similar today. And, if you made it on the other side, tell me you wouldn’t be part of some advocacy group for the people that are currently going through it. Think about it. You didn’t choose to be born. Imagine being rounded up against your will and being rocketed off to some alien planet you know nothing about. You find yourself, once you get on that planet, absorbed into some foreign tribe. You don’t speak the language. You have no idea what anything is. You think the remote control of their TV is food. You’re completely defenseless. And who do you have as teachers on this journey? What, just some random man and woman that happen to look like you? Didn’t go to school for this stuff.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Being a baby is like going to the world’s worst community college where they don’t even have teachers. They just pull some random people off the street and say, “Hey, teach these kids about rocket science. Go.” Except it’s worse than that. We’re not just learning about rocket science. We’re learning everything about what it is to exist: how we look at other people, how we look at the world, how we look at ourselves within that world. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What I’m saying is, the struggle for us former babies out here was real. And I think it’s safe to say that, when you’re living in the middle of this chaotic world as a baby just trying to figure things out, no one’s really blaming you for just sort of going along with a lot of the ways people were doing things around you. There’s a lot to figure out. And a lot of these ways we’ve learned to make sense of stuff are totally arbitrary. A lot of the ways we think about stuff have just been sort of, almost by accident, passed down from generation to generation.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Philosophers realized this, and at the time of Sartre for over 300 years people had been pointing out how many of the ways we look at things in the Western world are largely derivative from the way Christianity describes being a human being. That’s how entrenched religion was in the lives of people back then. And that even if you’ve never been to church, even if your family’s 15 generations removed from ever having stepped foot in a church, some of these things are so foundational that generation after generation of confused baby trying to figure things out just went along with certain assumptions about existence that have their origins in Christianity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, there’s a certain revelatory way that a lot of people look at important crossroads in life, right? Like, for example, they’ll say, “Okay, so I need to choose a career path for my life. I need to declare a major. Big decision. What do I do? Well, whenever I close my eyes and think about what I want, I honestly don’t know what I want. I can’t make that big of a decision. Yeah, I’ve narrowed it down to a few things, but how can I ever know? And, while it’s not like I’m spending hours a day thinking about this stuff, I have faith it’s going to come to me some day. I have faith that I’m going to wake up one day, something’s going to happen to me; some life event is going to occur, and then I’m going to know what it is. I’m going to realize my calling in life in that moment.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">People do this same thing with relationships. They’ll say, “I have this vague idea up in my head of my one and only someone. Don’t know exactly what they look like; don’t know exactly what they’re going to be like. But I’m confident, one day I’m going to meet someone, and there’s going to be this moment when I look at them and I realize, they’re the person I want to spend the rest of my life with.” People do this with anything. They’ll do it with motivational videos on YouTube. “One day I’m going to watch the right person screaming at me to be a better person, and from then on out it’s going to be easy for me to go to the gym and eat pinecones for the rest of my life.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In other words, there’s a certain revelatory way that some people look at life choices that some thinkers believe is a long-lost relic of the revelatory way we used to think about the nature of existence, that a reasonable expectation to have when navigating your life is that one day you’re going to wake up, and there’s going to be some event, some miracle that you witness, some transcendent moment where you realize the divinity of Jesus. If you have any further questions about the nature of existence just, you know, forward them to the Pope’s inbox. That’s a reasonable thing to expect in that worldview.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, this isn’t the only example of these long-lost remnants of Christianity in our thinking. And another major one, another one that a lot of people in today’s world this use to make sense of things is the way that they look at themselves and who they are. Just like in Christianity where, yes, you have a body, but your true self is a soul -- it’s an eternal spirit hidden deep down within that body that you have an intimate access to -- just like that, a lot of people in today’s world think of their true self or the answer to the question “Who are you?” as a personality hidden deep within us that only we and our closest friends have access to.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, they’ll say things like, “Sure, when I’m out in public I do kind of put on a mask to other people for the sake of social utility. I mean, I don’t act like my 100% true self in the Starbucks drive-through. Yeah, I tell people things they want to hear. I play the game because, look, the fact is, it’s just not useful to. Not to mention, I don’t really feel comfortable giving 100% of my true self to the person in the Starbuck’s drive-through. Who am I really, though? Well, that’s something I reserve for my family and my closest friends. In fact, even some of my closest friends don’t know everything about the depths of what it is to be me.” Maybe for some of you out there there’s only one other person in this entire world that has full access to your true self hidden deep within you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Sartre would say, is this really how the self works? Is the self really like the Christian soul hidden somewhere deep within you that only you have access to? Sartre would say, it very well may be that you put on a mask when you go out in public for the sake of pragmatism. And it very well may be that you’ve reflected on yourself and you have this idea up in your head of who you are that’s only accessed by you and your closest friends. But don’t ignore the possibility that there are multiple levels of deception going on there. Maybe you’re telling yourself a story you want to hear the same way you’re telling the Starbucks barista a story.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This concept is a common one in existentialism. It’s actually one of the main themes in Dostoevsky’s book <em>Crime and Punishment</em>. It’s the idea that, you know, we often think we know a lot more about ourselves than we actually do in practice. Two examples of this. Bear with me for a second on the first one. It’s a little cartoonish. But I think it’s a really good example to pull us out of this conditioned way we often look at the self, and it gets us to honestly start asking this question: where is this self that we’re talking about really located?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">First example. Imagine a guy that thinks he’s Napoleon. You know, he spends all day every day dressing up in Parisian military garb. He builds a bunker out of couch cushions in his front room, agonizing to himself, “How am I going to conquer Moscow?” That guy. Now, this man believes beyond a shadow of a doubt that he is Napoleon. If you sat him down and you asked him candidly, “No, but who are you really, deep down inside?” He would say, “I am Napoleon Bonaparte, commander of the armies of the North, husband to a murdered wife, father to a murdered son. And I will have my vengeance.” But is this man really Napoleon? We know he’s not Napoleon. In fact, in a weird way, as outsiders, we seem to have an advantage when it comes to knowing who he really is. Interesting.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Here’s the less cartoonish example, and try to think about how this applies to you. Imagine a guy sitting on the couch watching TV with his pals. They turn on the news, and there’s a story about some mass shooting that happened at a Walmart somewhere. He hears the story, gets kind of angry, turns to his friends and says, “You know what? That guy and people like him, they better hope they never show up at my Walmart. Someone pulls out a gun when I’m there, I’m not going to be one of those people on the news-chopper camera screaming and running out of the store. I’m going to the Sporting Goods section. I mean, I’m going to go up into the rafters like I’m Tom Cruise and snap the dude’s neck. I’m going to do this because that’s just the kind of person I am. That’s me. I’d sacrifice my life for the greater good.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, he may tell his friends this. He may believe that that’s who he is deep down beyond a shadow of a doubt. But if next Saturday he’s out shopping with his family, someone pulls out a gun, and all his wife and kids see is a poof of smoke and then he’s running out the back door, who is that guy really? In other words, when we reference this thing we call our self, intuitively it can feel like, “Well, I am my self. I know who I am, so no one can tell me who I am but me.” In fact, if you just recited that statement in most public settings, people would be like, “Yeah! Yeah, you tell them! Only you know who you are deep down inside!” But is that a delusion? Is that just a narrative that we tell ourselves to simplify this concept of the self?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Sartre says that when you take a closer look at the self, it’s not a soul. It’s not a personality hidden deep within you. What we’re referencing when we talk about the self turns out to be much more complex than that with many more moving parts. And I think a good place to begin if we want to understand Sartre’s views on what the self really is, is to talk about two foundational aspects of what it means to be a human being that, to Sartre, seem to be constantly intertwined and dependent upon each other: what he calls our facticity and our transcendence.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">If you are a human being that’s alive right now, you have both facticity and transcendence. Put very simply, our facticity is the collection of facts that are true about us at any given moment, and transcendence is our ability to change or the possibilities that we have at our disposal. Let’s break it down further though. Remember last time when we talked about being-in-itself versus being-for-itself? Being-in-itself is being kind of like matter, this inert, featureless blob of existence, fully affirmative. And being-for-itself as being consciousness or the source of all negation. Well, one day when Sartre’s trying to meet his monthly quota for obscure-sounding philosophical descriptions, the way he describes the relationship between these two ontological categories is that being-in-itself “is what it is” and being-for-itself “is what it is not.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, as weird as that sounds in a vacuum, after listening to last episode we all know what he means when he says it. But then Sartre points out something very mysterious, a very strange coincidence. When you look at the relationship between these two ontological categories -- two things that are easy to write off as just these meaningless, abstract concepts that Sartre cooked up one day -- when you look at how being-in-itself and being-for-itself relate to each other, Sartre notices there seems to be a similar sort of relationship at the foundation of who we are as people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, because on one hand all of us have our facticity. And facticity is kind of like being-in-itself: it’s the fully affirmative set of facts that are true about us. You ask me who I am, and oftentimes I will state the facts about myself. “Oh, I am 117 years old.” That’s a fact. “I am a horse wrangler by profession.” That’s a fact. “I make $28,000 a year. I drive a Ford Focus. I’m scared of spiders.” Things like that, right? In other words, statements of facts that are currently true about us, that’s what makes up our facticity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But what Sartre would want us to consider is that, while these kinds of statements are no doubt useful when it comes to describing certain pieces of who I am, they never tell us the full story. And the reason why is because human beings are far more complex than that. To fully understand a human being just by default is to understand a type of being that has possibilities. None of us are pure facticity, in other words. The only time a human being is pure facticity is when they’re dead.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Yes, we have a set of facts that are true about us right now, but we always have the ability to change into something else. And, if we’re trying to describe the self, if we’re trying to look at the whole picture of who someone is, the choices we make about which of these possibilities we’re going to bring about end up being just as important as the facts about who we are right now. For example, if I’m going to school to become an IT consultant or if I’m training for a marathon or if I’m losing a bunch of weight for wedding pictures, a big part of understanding who I am is understanding the thing I’m actively trying to change into: an IT consultant, a marathon runner.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In other words, part of understanding the full picture of me is understanding what I am not yet. And you can start to hear the weird Sartre description creeping in there. Just like being-in-itself is what it is and being-for-itself is what it is not, in a sense, I am what I am -- I have a facticity -- but I also am what I am not yet when I consider my transcendence. Just like being-in-itself and being-for-itself, these two aspects of what it is to be a human being -- facticity and transcendence -- are entangled, intertwined, and in some cases reliant on each other for their very existence. Your facticity and transcendence are constantly affecting each other. And that’s because the facts of your life are oftentimes caused by what possibilities you decide to bring about, and the possibilities you’ve decided to explore are almost always limited by the facts of your life.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s stop at the hypotheticals and just give a real example, alright? Me. I’ll use me as an example. I am 6 feet tall, 172.2 pounds this morning. Now, no matter how much I want to, I am never going to become a horse jockey. It’s just not going to happen for me. As long as there’s people out there that are 4’8”, 85 pounds, the facticity that I’m a certain height and weight limits my ability to transcend. And the result of that is, I’m never winning the Kentucky Derby. It’s not happening. This is an example of how our ability to transcend is oftentimes limited by the facts about us.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Another example. I was born with a particular face and a particular ability to put on muscle. No matter how much I want to, I am never going to be an Instagram model. The facticity of my face -- my faceticity and all the other stuff going on there -- look, I will never be the kind of person that people want to voluntarily look at and then click an emoji that signifies how they’re feeling about the most recent picture of me. It’s just not going to happen. And these facts about me are the parameters I live my life and exercise my freedom within.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, because that’s the thing -- and this goes for all of you out there -- when Sartre talks about radical freedom, when any of us talk about being individuals that are free to act as they choose, we’re never talking about total freedom, right? It’s always freedom within certain limitations. You know, we often say things like, “I can do whatever I want to do.” But you can’t really do anything you want to do, right? I mean, ultimately, you’re a human being. You can’t wrap yourself in a protective cocoon and then emerge a unicorn in three days. You can’t fly to the edge of the universe and look at what’s on the other side.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">No, freedom is always freedom within certain limitations, and it’s those limitations that give a lot of what you choose to do in life its value. We see this in all the various different forms of art. You know, when someone writes a really good haiku, we see it as good not because they’re the greatest words that could have ever been possibly strung together. No, the beauty of a haiku is because we understand that we’ve given an artist total freedom within a set of limitations that we impose: five syllables, seven syllables, five syllables, go. In other words, the limitations are a big part of what makes the haiku beautiful.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And this applies to life as well. The facticity that you were born into, your own individual limitations are always going to affect the possibilities that you have and what you ultimately choose to do with your life. So, try to live your life like it’s a piece of art you’re creating.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, yeah, ultimately the point Sartre’s making here with the concepts of facticity and transcendence is not only to stop thinking about your self as though it’s this artifact hidden deep within you inside of a vault, but also stop thinking about who you are as though it’s this static, unchanging thing that you can point to. The point that he’s making is that who you are is always in a state of constant change, sometimes small changes, sometimes bigger changes, but changing and in flux.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But don’t go extreme in the other direction. Don’t start thinking of yourself as this ethereal thing that can never be defined. Again, all the way up until the day you die when you’re finally turned into total facticity, you will always have certain facts that are true about you and certain possibilities at your disposal to bring about. Unless if you’re dead, you’ve never arrived at a destination as a human being.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, at first glance this may seem like Sartre’s writing a self-help book. “No! No single fact about you sums up who you are. Release your inner transcendence!” No. No, like we touched on last time, Sartre thinks that when people are truly faced with the number of these possibilities they’re free to choose from, most of the time they don’t get excited. They’re horrified by it. In fact, most of the time once people realize this stuff, Sartre thinks that the secret, covert desire of everyone, whether they realize it or not, is to escape this duality. It’s to turn themselves into either pure facticity or pure transcendence. Or, as Sartre says, we all secretly want to become God.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about what he means by that. Think about the way followers of the Abrahamic religions have traditionally looked at God. What is it like to be God? Well, God is perfect. God is in this moment everything he will ever be. If God had a job interview and the person asked him, “What’s one thing you’d change about yourself?” God literally doesn’t have an answer to that question. But, then, on the other hand, God is all-powerful. With the snap of his fingers he can do anything he wants to do. In other words, in this old-style, traditional view of what God is, on one hand God is perfect as he is, pure facticity. But, on the other hand, God is all-powerful and capable of bringing about any possibility he wants -- in other words, pure transcendence. Sartre would say, this is no coincidence.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And it’s also no coincidence that, as people navigate their lives, they have all sorts of tactics they use to turn themselves either into somebody that ignores their possibilities and are perfect as they are right now or someone who ignores the very real, unfortunate facts about themselves, and they stay lost in these unattainable dreams their entire life. This is the context we needed to understand a concept we talked about well over a year ago on the one episode we did on Sartre. The primary tactic that people use in their lives to turn themselves into either pure facticity or pure transcendence like God is what Sartre calls “bad faith.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s take a look at the most famous example of bad faith that Sartre lays out. And, because we already talked about it in the other episode, I’ll keep it brief. Sartre talks about sitting in the middle of a café in Paris watching a waiter as he does his job. Now, you can imagine a waiter in the 1940s, right? Dressed up in his little outfit, very upright, good posture, very proper. He holds the tray in a particular way. He walks and changes direction in a very militaristic, particular way, like a good waiter does. Sartre can’t help but point out that this guy doesn’t seem to be a self with facticity and transcendence in this moment. He seems to have relegated himself to just playing the part of a waiter. He’s going through the motions trying to turn himself into pure facticity: just a waiter and nothing else.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, even though waiters don’t act like this often in today’s world, go to most restaurants and you can find some modern version of what Sartre’s talking about here. I mean, there’s so many servers out there that have fallen into bad faith and are just sort of playing the role of the same person. It seems to be a modern archetype of what it is to be a server. They all say the same stuff.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">“Hi, I’m going to be taking care of you today. Can I get you guys started with a bottomless bucket of shrimp or some drinks of something?” But it’s at every stage in the meal. “How’s everything tasting for you guys?” “Y’all save room for dessert?” “Now, there’s absolutely no rush. I’m going to leave the check here; I’m going to go over there. I’ll take a looksee back at you guys in a bit.” Ask yourself, is this the way this guy talks to his mom? Is this the way he talks to his best friends? No. He’s fallen into bad faith and is just playing the part of a server.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the point Sartre’s making is not that waiters need to be more creative. It’s not about waiters. Sartre thinks that as human beings we have a tendency to gravitate towards this trap in all aspects of our life. We make proclamations about what we are all the time. “I am a stay-at-home mom, and that’s my identity.” “I am a libertarian.” “I am a Mormon, and that’s that.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What we’re desperately trying to do with these proclamations is give ourselves an essence in a world where existence precedes essence. All these things are just us wanting to think about ourselves as some static thing set in stone and run from the possibilities that we have. No, when we take an honest look at the possibilities at our disposal, it terrifies us. And it produces a feeling called nausea. And we use bad faith to quell this feeling of nausea. We’re constantly doing this with ourselves.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if all you ever read was Sartre’s <em>Being and Nothingness</em>, you might get the read from the book that this tendency we have to gravitate towards bad faith is an inescapable condition of being a human being and that, even when we’re self-aware of the bad faith we’re engaging in, we’re still engaging in bad faith. If all you ever read was the main text of <em>Being and Nothingness</em>, you might get that impression. And it certainly sounds like a really sad picture.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But in one of the footnotes of <em>Being and Nothingness</em> Sartre alludes to a way out of all of it and perhaps to an ethics that he’d write later on in his life. Well, he never writes an ethics. And it may be because, you know, his lifelong partner and fellow existentialist, Simone de Beauvoir, produces what many consider to be the greatest existentialist approach to ethics called <em>The Ethics of Ambiguity</em>. Next episode is part two on Simone de Beauvoir, so we’re going to be talking all about it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But enough of bad faith. Let’s get back to answering this question: Who am I, really? Here’s the thing. When it comes to these concepts of facticity and transcendence we’ve been talking about, when you just think generally about the facts that are true about you and the possibilities that you have, where are those things located? Where are you looking to find those? Those things aren’t hidden somewhere deep down within you that only you have access to. You may have a particular perspective of the facts that are true about you and the possibilities that you have.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But not only do you have an incentive to slip into bad faith and tell yourself a story about them -- Sartre would say, you don’t have some privileged VIP access to the facts that are true about you and the possibilities that you have. I mean, hypothetically, any other person if they were diligent enough has access to your facticity and transcendence. In fact, just like the guy that tells himself that he’s Napoleon, sometimes other people are better at telling us who we are than we are.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But how is this possible? The reason it’s possible is because the self is not the Christian soul, to Sartre. Just like your facticity and transcendence, what we’re referencing when we talk about our selves is outside of us. It’s an abstraction. It’s the conglomeration of all the things you’ve ever actually done in your life. When you want to get a solid answer to the question “Who am I?” you don’t reference the story that you tell yourself in your head that’s clouded by all sorts of bad faith and wishful thinking like the guy that thinks he would try to take down the gunman at Walmart.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">No, we tell ourselves stories all the time. And what follows from this is that the true measure of your values, the true measure of who you are is what you actually do. It’s the collection of what you’ve actually done thus far in your life. And Sartre says that, when you stop looking at the self as though it’s this thing inside of you and you start looking at it more accurately as this abstraction that’s outside of us, what you inevitably start to realize is that it’s impossible to ever get a full picture of who you are without referencing the way that other people view you. More than that, it’s impossible to ever get a full picture of being without referencing other people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And, I mean, here’s what he’s getting at. So far, when it comes to describing being, we’ve been presented with being-in-itself and being-for-itself. But it’s right here fairly late in <em>Being and Nothingness</em> that Sartre lays out his third ontological category, what he calls being-for-others. Let’s talk about what he means.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Sartre would say that an intrinsic part of what it is to be you is existing alongside other people and all the consequences that come along with that. This is Sartre’s concept of being-for-others. Now, how does being-for-others affect my answer to the question “Who am I?” Well, again, this concept of the self is outside of us. It’s an abstraction. And what Sartre points out is that there are many aspects about who we are that are given to us by other people: for example, whether we’re trustworthy or not. Whether or not you’re a trustworthy person is an aspect of who you are that’s mediated by other people, right? Whether I’m a nice or mean person. Look, I may think of myself as a nice person but, if every single other person I encounter all throughout my life says that I’m mean, for all intents and purposes, I’m a mean person.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This concept of the self and how other people view us seem to be connected, to Sartre. But the flipside of it being that interconnected is that it leaves us in what he describes as a perpetual state of being judged by the people around us. We’re almost always being turned into pure facticity in other people’s minds. For example, have you ever walked around and you’re self-conscious about the way you look? Maybe you just got a new pair of shoes and you think they look weird. And as you’re walking around you feel like every person that passes you is looking at you and they’re thinking, “Wow, what were they thinking when they picked out those shoes? This is obviously a person that doesn’t care very much about the way that they look.” In other words, they’re looking at you, and they’re turning you into an object in their subjective view of the world, pure facticity. You will, henceforth, be known as the weird-shoes guy in that person’s mind. This is constantly going on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Sartre’s not saying it’s always bad, that being around other people is some paranoid, everybody’s-thinking-bad-things-about-me-all-the-time thing. People very well may be thinking really good things about you all the time. The point that Sartre wants to make is that this whole dynamic -- this dynamic of other people seeing you, putting you on trial, and turning you into pure facticity in their minds -- this is going on all the time simply by virtue of the fact that we exist alongside other people. And that while the insights other people give us about who we are are no doubt valuable, we have to be careful not to slip into bad faith on either side of this dynamic of being-for-others.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What I mean is, just because somebody sees you wearing weird shoes one day doesn’t mean that you are now weird-shoes guy in perpetuity. In other words, don’t slip into bad faith when it comes to what other people think about you. No matter how convenient it may be to prescribe yourself an essence and deny your transcendence, don’t turn yourself into pure facticity and just accept what other people tell you you are. Maybe you are weird-shoes guy right now. But you don’t have to be in the future.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But the other side of that is, don’t deny your facticity. Don’t tell yourself your shoes are fine. Don’t tell yourself that you don’t care what anyone else says or that what other people think doesn’t matter to you at all. Obviously, it does. That’s slipping into another kind of bad faith.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, to sum this up, I guess -- look, intuitively, it may seem to us like we have a sort of special access to knowing who we are and that we choose to share ourselves with only our closest friends who we trust dearly. But Sartre would say that the reason it seems that way is because what you actually have is a narrative about yourself that you’ve written, forged from a particularly biased perspective, and that the reason it seems like your friends reinforce this picture of who you are is because that’s the very criteria we all use to choose who our friends are going to be, is whether or not they reinforce this picture that we have of ourselves. That’s what we like about our friends, to Sartre.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, if a big part of the way that you view yourself and your identity is that you consider yourself to be a smart person, Sartre would predict that most of your friends are going to be people that are not so smart that tell you you’re smart all the time or people that ask you a lot of questions that you then answer, making you feel smart, or other smart people that commend you on being smart like them. To Sartre, we choose our friends because they reinforce the way that we view ourselves. Of course we’d give them privileged access to our biased narrative of ourselves. And of course it’s going to feel validating. Of course it would seem that you know better than anyone else who you are. But again, Sartre would say that the true measure of your values, the true answer to the question “Who are you?” is what you actually do.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I’ll talk to you next time.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is part six in a series on Sartre and Camus. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, in a culture where there’s so much social currency connected to being a victim and having some burden that you carry around with you throughout your life, there may be some of you out there that feel a little left out of all that. Maybe you’re the kind of person -- you look at yourself; you don’t feel like a victim. Maybe you don’t sit around, poised, waiting to make other people aware of some bad thing that happened to you in the past. Well, enough of that crazy talk. Get off the bench because your Uncle Steve’s putting you in the game. I’m here to tell you: don’t worry my friend, you are a victim. You really are.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Turns out, we’re all victims just by virtue of being born. Because just think for a second about how horrible the world was for us when we were all babies. Think of what it’s like being a baby. Imagine going through something similar today. And, if you made it on the other side, tell me you wouldn’t be part of some advocacy group for the people that are currently going through it. Think about it. You didn’t choose to be born. Imagine being rounded up against your will and being rocketed off to some alien planet you know nothing about. You find yourself, once you get on that planet, absorbed into some foreign tribe. You don’t speak the language. You have no idea what anything is. You think the remote control of their TV is food. You’re completely defenseless. And who do you have as teachers on this journey? What, just some random man and woman that happen to look like you? Didn’t go to school for this stuff.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Being a baby is like going to the world’s worst community college where they don’t even have teachers. They just pull some random people off the street and say, “Hey, teach these kids about rocket science. Go.” Except it’s worse than that. We’re not just learning about rocket science. We’re learning everything about what it is to exist: how we look at other people, how we look at the world, how we look at ourselves within that world. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What I’m saying is, the struggle for us former babies out here was real. And I think it’s safe to say that, when you’re living in the middle of this chaotic world as a baby just trying to figure things out, no one’s really blaming you for just sort of going along with a lot of the ways people were doing things around you. There’s a lot to figure out. And a lot of these ways we’ve learned to make sense of stuff are totally arbitrary. A lot of the ways we think about stuff have just been sort of, almost by accident, passed down from generation to generation.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Philosophers realized this, and at the time of Sartre for over 300 years people had been pointing out how many of the ways we look at things in the Western world are largely derivative from the way Christianity describes being a human being. That’s how entrenched religion was in the lives of people back then. And that even if you’ve never been to church, even if your family’s 15 generations removed from ever having stepped foot in a church, some of these things are so foundational that generation after generation of confused baby trying to figure things out just went along with certain assumptions about existence that have their origins in Christianity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, there’s a certain revelatory way that a lot of people look at important crossroads in life, right? Like, for example, they’ll say, “Okay, so I need to choose a career path for my life. I need to declare a major. Big decision. What do I do? Well, whenever I close my eyes and think about what I want, I honestly don’t know what I want. I can’t make that big of a decision. Yeah, I’ve narrowed it down to a few things, but how can I ever know? And, while it’s not like I’m spending hours a day thinking about this stuff, I have faith it’s going to come to me some day. I have faith that I’m going to wake up one day, something’s going to happen to me; some life event is going to occur, and then I’m going to know what it is. I’m going to realize my calling in life in that moment.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">People do this same thing with relationships. They’ll say, “I have this vague idea up in my head of my one and only someone. Don’t know exactly what they look like; don’t know exactly what they’re going to be like. But I’m confident, one day I’m going to meet someone, and there’s going to be this moment when I look at them and I realize, they’re the person I want to spend the rest of my life with.” People do this with anything. They’ll do it with motivational videos on YouTube. “One day I’m going to watch the right person screaming at me to be a better person, and from then on out it’s going to be easy for me to go to the gym and eat pinecones for the rest of my life.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In other words, there’s a certain revelatory way that some people look at life choices that some thinkers believe is a long-lost relic of the revelatory way we used to think about the nature of existence, that a reasonable expectation to have when navigating your life is that one day you’re going to wake up, and there’s going to be some event, some miracle that you witness, some transcendent moment where you realize the divinity of Jesus. If you have any further questions about the nature of existence just, you know, forward them to the Pope’s inbox. That’s a reasonable thing to expect in that worldview.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, this isn’t the only example of these long-lost remnants of Christianity in our thinking. And another major one, another one that a lot of people in today’s world this use to make sense of things is the way that they look at themselves and who they are. Just like in Christianity where, yes, you have a body, but your true self is a soul -- it’s an eternal spirit hidden deep down within that body that you have an intimate access to -- just like that, a lot of people in today’s world think of their true self or the answer to the question “Who are you?” as a personality hidden deep within us that only we and our closest friends have access to.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, they’ll say things like, “Sure, when I’m out in public I do kind of put on a mask to other people for the sake of social utility. I mean, I don’t act like my 100% true self in the Starbucks drive-through. Yeah, I tell people things they want to hear. I play the game because, look, the fact is, it’s just not useful to. Not to mention, I don’t really feel comfortable giving 100% of my true self to the person in the Starbuck’s drive-through. Who am I really, though? Well, that’s something I reserve for my family and my closest friends. In fact, even some of my closest friends don’t know everything about the depths of what it is to be me.” Maybe for some of you out there there’s only one other person in this entire world that has full access to your true self hidden deep within you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Sartre would say, is this really how the self works? Is the self really like the Christian soul hidden somewhere deep within you that only you have access to? Sartre would say, it very well may be that you put on a mask when you go out in public for the sake of pragmatism. And it very well may be that you’ve reflected on yourself and you have this idea up in your head of who you are that’s only accessed by you and your closest friends. But don’t ignore the possibility that there are multiple levels of deception going on there. Maybe you’re telling yourself a story you want to hear the same way you’re telling the Starbucks barista a story.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This concept is a common one in existentialism. It’s actually one of the main themes in Dostoevsky’s book <em>Crime and Punishment</em>. It’s the idea that, you know, we often think we know a lot more about ourselves than we actually do in practice. Two examples of this. Bear with me for a second on the first one. It’s a little cartoonish. But I think it’s a really good example to pull us out of this conditioned way we often look at the self, and it gets us to honestly start asking this question: where is this self that we’re talking about really located?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">First example. Imagine a guy that thinks he’s Napoleon. You know, he spends all day every day dressing up in Parisian military garb. He builds a bunker out of couch cushions in his front room, agonizing to himself, “How am I going to conquer Moscow?” That guy. Now, this man believes beyond a shadow of a doubt that he is Napoleon. If you sat him down and you asked him candidly, “No, but who are you really, deep down inside?” He would say, “I am Napoleon Bonaparte, commander of the armies of the North, husband to a murdered wife, father to a murdered son. And I will have my vengeance.” But is this man really Napoleon? We know he’s not Napoleon. In fact, in a weird way, as outsiders, we seem to have an advantage when it comes to knowing who he really is. Interesting.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Here’s the less cartoonish example, and try to think about how this applies to you. Imagine a guy sitting on the couch watching TV with his pals. They turn on the news, and there’s a story about some mass shooting that happened at a Walmart somewhere. He hears the story, gets kind of angry, turns to his friends and says, “You know what? That guy and people like him, they better hope they never show up at my Walmart. Someone pulls out a gun when I’m there, I’m not going to be one of those people on the news-chopper camera screaming and running out of the store. I’m going to the Sporting Goods section. I mean, I’m going to go up into the rafters like I’m Tom Cruise and snap the dude’s neck. I’m going to do this because that’s just the kind of person I am. That’s me. I’d sacrifice my life for the greater good.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, he may tell his friends this. He may believe that that’s who he is deep down beyond a shadow of a doubt. But if next Saturday he’s out shopping with his family, someone pulls out a gun, and all his wife and kids see is a poof of smoke and then he’s running out the back door, who is that guy really? In other words, when we reference this thing we call our self, intuitively it can feel like, “Well, I am my self. I know who I am, so no one can tell me who I am but me.” In fact, if you just recited that statement in most public settings, people would be like, “Yeah! Yeah, you tell them! Only you know who you are deep down inside!” But is that a delusion? Is that just a narrative that we tell ourselves to simplify this concept of the self?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Sartre says that when you take a closer look at the self, it’s not a soul. It’s not a personality hidden deep within you. What we’re referencing when we talk about the self turns out to be much more complex than that with many more moving parts. And I think a good place to begin if we want to understand Sartre’s views on what the self really is, is to talk about two foundational aspects of what it means to be a human being that, to Sartre, seem to be constantly intertwined and dependent upon each other: what he calls our facticity and our transcendence.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">If you are a human being that’s alive right now, you have both facticity and transcendence. Put very simply, our facticity is the collection of facts that are true about us at any given moment, and transcendence is our ability to change or the possibilities that we have at our disposal. Let’s break it down further though. Remember last time when we talked about being-in-itself versus being-for-itself? Being-in-itself is being kind of like matter, this inert, featureless blob of existence, fully affirmative. And being-for-itself as being consciousness or the source of all negation. Well, one day when Sartre’s trying to meet his monthly quota for obscure-sounding philosophical descriptions, the way he describes the relationship between these two ontological categories is that being-in-itself “is what it is” and being-for-itself “is what it is not.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, as weird as that sounds in a vacuum, after listening to last episode we all know what he means when he says it. But then Sartre points out something very mysterious, a very strange coincidence. When you look at the relationship between these two ontological categories -- two things that are easy to write off as just these meaningless, abstract concepts that Sartre cooked up one day -- when you look at how being-in-itself and being-for-itself relate to each other, Sartre notices there seems to be a similar sort of relationship at the foundation of who we are as people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, because on one hand all of us have our facticity. And facticity is kind of like being-in-itself: it’s the fully affirmative set of facts that are true about us. You ask me who I am, and oftentimes I will state the facts about myself. “Oh, I am 117 years old.” That’s a fact. “I am a horse wrangler by profession.” That’s a fact. “I make $28,000 a year. I drive a Ford Focus. I’m scared of spiders.” Things like that, right? In other words, statements of facts that are currently true about us, that’s what makes up our facticity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But what Sartre would want us to consider is that, while these kinds of statements are no doubt useful when it comes to describing certain pieces of who I am, they never tell us the full story. And the reason why is because human beings are far more complex than that. To fully understand a human being just by default is to understand a type of being that has possibilities. None of us are pure facticity, in other words. The only time a human being is pure facticity is when they’re dead.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Yes, we have a set of facts that are true about us right now, but we always have the ability to change into something else. And, if we’re trying to describe the self, if we’re trying to look at the whole picture of who someone is, the choices we make about which of these possibilities we’re going to bring about end up being just as important as the facts about who we are right now. For example, if I’m going to school to become an IT consultant or if I’m training for a marathon or if I’m losing a bunch of weight for wedding pictures, a big part of understanding who I am is understanding the thing I’m actively trying to change into: an IT consultant, a marathon runner.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In other words, part of understanding the full picture of me is understanding what I am not yet. And you can start to hear the weird Sartre description creeping in there. Just like being-in-itself is what it is and being-for-itself is what it is not, in a sense, I am what I am -- I have a facticity -- but I also am what I am not yet when I consider my transcendence. Just like being-in-itself and being-for-itself, these two aspects of what it is to be a human being -- facticity and transcendence -- are entangled, intertwined, and in some cases reliant on each other for their very existence. Your facticity and transcendence are constantly affecting each other. And that’s because the facts of your life are oftentimes caused by what possibilities you decide to bring about, and the possibilities you’ve decided to explore are almost always limited by the facts of your life.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s stop at the hypotheticals and just give a real example, alright? Me. I’ll use me as an example. I am 6 feet tall, 172.2 pounds this morning. Now, no matter how much I want to, I am never going to become a horse jockey. It’s just not going to happen for me. As long as there’s people out there that are 4’8”, 85 pounds, the facticity that I’m a certain height and weight limits my ability to transcend. And the result of that is, I’m never winning the Kentucky Derby. It’s not happening. This is an example of how our ability to transcend is oftentimes limited by the facts about us.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Another example. I was born with a particular face and a particular ability to put on muscle. No matter how much I want to, I am never going to be an Instagram model. The facticity of my face -- my faceticity and all the other stuff going on there -- look, I will never be the kind of person that people want to voluntarily look at and then click an emoji that signifies how they’re feeling about the most recent picture of me. It’s just not going to happen. And these facts about me are the parameters I live my life and exercise my freedom within.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, because that’s the thing -- and this goes for all of you out there -- when Sartre talks about radical freedom, when any of us talk about being individuals that are free to act as they choose, we’re never talking about total freedom, right? It’s always freedom within certain limitations. You know, we often say things like, “I can do whatever I want to do.” But you can’t really do anything you want to do, right? I mean, ultimately, you’re a human being. You can’t wrap yourself in a protective cocoon and then emerge a unicorn in three days. You can’t fly to the edge of the universe and look at what’s on the other side.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">No, freedom is always freedom within certain limitations, and it’s those limitations that give a lot of what you choose to do in life its value. We see this in all the various different forms of art. You know, when someone writes a really good haiku, we see it as good not because they’re the greatest words that could have ever been possibly strung together. No, the beauty of a haiku is because we understand that we’ve given an artist total freedom within a set of limitations that we impose: five syllables, seven syllables, five syllables, go. In other words, the limitations are a big part of what makes the haiku beautiful.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And this applies to life as well. The facticity that you were born into, your own individual limitations are always going to affect the possibilities that you have and what you ultimately choose to do with your life. So, try to live your life like it’s a piece of art you’re creating.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, yeah, ultimately the point Sartre’s making here with the concepts of facticity and transcendence is not only to stop thinking about your self as though it’s this artifact hidden deep within you inside of a vault, but also stop thinking about who you are as though it’s this static, unchanging thing that you can point to. The point that he’s making is that who you are is always in a state of constant change, sometimes small changes, sometimes bigger changes, but changing and in flux.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But don’t go extreme in the other direction. Don’t start thinking of yourself as this ethereal thing that can never be defined. Again, all the way up until the day you die when you’re finally turned into total facticity, you will always have certain facts that are true about you and certain possibilities at your disposal to bring about. Unless if you’re dead, you’ve never arrived at a destination as a human being.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, at first glance this may seem like Sartre’s writing a self-help book. “No! No single fact about you sums up who you are. Release your inner transcendence!” No. No, like we touched on last time, Sartre thinks that when people are truly faced with the number of these possibilities they’re free to choose from, most of the time they don’t get excited. They’re horrified by it. In fact, most of the time once people realize this stuff, Sartre thinks that the secret, covert desire of everyone, whether they realize it or not, is to escape this duality. It’s to turn themselves into either pure facticity or pure transcendence. Or, as Sartre says, we all secretly want to become God.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about what he means by that. Think about the way followers of the Abrahamic religions have traditionally looked at God. What is it like to be God? Well, God is perfect. God is in this moment everything he will ever be. If God had a job interview and the person asked him, “What’s one thing you’d change about yourself?” God literally doesn’t have an answer to that question. But, then, on the other hand, God is all-powerful. With the snap of his fingers he can do anything he wants to do. In other words, in this old-style, traditional view of what God is, on one hand God is perfect as he is, pure facticity. But, on the other hand, God is all-powerful and capable of bringing about any possibility he wants -- in other words, pure transcendence. Sartre would say, this is no coincidence.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And it’s also no coincidence that, as people navigate their lives, they have all sorts of tactics they use to turn themselves either into somebody that ignores their possibilities and are perfect as they are right now or someone who ignores the very real, unfortunate facts about themselves, and they stay lost in these unattainable dreams their entire life. This is the context we needed to understand a concept we talked about well over a year ago on the one episode we did on Sartre. The primary tactic that people use in their lives to turn themselves into either pure facticity or pure transcendence like God is what Sartre calls “bad faith.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s take a look at the most famous example of bad faith that Sartre lays out. And, because we already talked about it in the other episode, I’ll keep it brief. Sartre talks about sitting in the middle of a café in Paris watching a waiter as he does his job. Now, you can imagine a waiter in the 1940s, right? Dressed up in his little outfit, very upright, good posture, very proper. He holds the tray in a particular way. He walks and changes direction in a very militaristic, particular way, like a good waiter does. Sartre can’t help but point out that this guy doesn’t seem to be a self with facticity and transcendence in this moment. He seems to have relegated himself to just playing the part of a waiter. He’s going through the motions trying to turn himself into pure facticity: just a waiter and nothing else.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, even though waiters don’t act like this often in today’s world, go to most restaurants and you can find some modern version of what Sartre’s talking about here. I mean, there’s so many servers out there that have fallen into bad faith and are just sort of playing the role of the same person. It seems to be a modern archetype of what it is to be a server. They all say the same stuff.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">“Hi, I’m going to be taking care of you today. Can I get you guys started with a bottomless bucket of shrimp or some drinks of something?” But it’s at every stage in the meal. “How’s everything tasting for you guys?” “Y’all save room for dessert?” “Now, there’s absolutely no rush. I’m going to leave the check here; I’m going to go over there. I’ll take a looksee back at you guys in a bit.” Ask yourself, is this the way this guy talks to his mom? Is this the way he talks to his best friends? No. He’s fallen into bad faith and is just playing the part of a server.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the point Sartre’s making is not that waiters need to be more creative. It’s not about waiters. Sartre thinks that as human beings we have a tendency to gravitate towards this trap in all aspects of our life. We make proclamations about what we are all the time. “I am a stay-at-home mom, and that’s my identity.” “I am a libertarian.” “I am a Mormon, and that’s that.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What we’re desperately trying to do with these proclamations is give ourselves an essence in a world where existence precedes essence. All these things are just us wanting to think about ourselves as some static thing set in stone and run from the possibilities that we have. No, when we take an honest look at the possibilities at our disposal, it terrifies us. And it produces a feeling called nausea. And we use bad faith to quell this feeling of nausea. We’re constantly doing this with ourselves.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if all you ever read was Sartre’s <em>Being and Nothingness</em>, you might get the read from the book that this tendency we have to gravitate towards bad faith is an inescapable condition of being a human being and that, even when we’re self-aware of the bad faith we’re engaging in, we’re still engaging in bad faith. If all you ever read was the main text of <em>Being and Nothingness</em>, you might get that impression. And it certainly sounds like a really sad picture.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But in one of the footnotes of <em>Being and Nothingness</em> Sartre alludes to a way out of all of it and perhaps to an ethics that he’d write later on in his life. Well, he never writes an ethics. And it may be because, you know, his lifelong partner and fellow existentialist, Simone de Beauvoir, produces what many consider to be the greatest existentialist approach to ethics called <em>The Ethics of Ambiguity</em>. Next episode is part two on Simone de Beauvoir, so we’re going to be talking all about it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But enough of bad faith. Let’s get back to answering this question: Who am I, really? Here’s the thing. When it comes to these concepts of facticity and transcendence we’ve been talking about, when you just think generally about the facts that are true about you and the possibilities that you have, where are those things located? Where are you looking to find those? Those things aren’t hidden somewhere deep down within you that only you have access to. You may have a particular perspective of the facts that are true about you and the possibilities that you have.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But not only do you have an incentive to slip into bad faith and tell yourself a story about them -- Sartre would say, you don’t have some privileged VIP access to the facts that are true about you and the possibilities that you have. I mean, hypothetically, any other person if they were diligent enough has access to your facticity and transcendence. In fact, just like the guy that tells himself that he’s Napoleon, sometimes other people are better at telling us who we are than we are.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But how is this possible? The reason it’s possible is because the self is not the Christian soul, to Sartre. Just like your facticity and transcendence, what we’re referencing when we talk about our selves is outside of us. It’s an abstraction. It’s the conglomeration of all the things you’ve ever actually done in your life. When you want to get a solid answer to the question “Who am I?” you don’t reference the story that you tell yourself in your head that’s clouded by all sorts of bad faith and wishful thinking like the guy that thinks he would try to take down the gunman at Walmart.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">No, we tell ourselves stories all the time. And what follows from this is that the true measure of your values, the true measure of who you are is what you actually do. It’s the collection of what you’ve actually done thus far in your life. And Sartre says that, when you stop looking at the self as though it’s this thing inside of you and you start looking at it more accurately as this abstraction that’s outside of us, what you inevitably start to realize is that it’s impossible to ever get a full picture of who you are without referencing the way that other people view you. More than that, it’s impossible to ever get a full picture of being without referencing other people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And, I mean, here’s what he’s getting at. So far, when it comes to describing being, we’ve been presented with being-in-itself and being-for-itself. But it’s right here fairly late in <em>Being and Nothingness</em> that Sartre lays out his third ontological category, what he calls being-for-others. Let’s talk about what he means.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Sartre would say that an intrinsic part of what it is to be you is existing alongside other people and all the consequences that come along with that. This is Sartre’s concept of being-for-others. Now, how does being-for-others affect my answer to the question “Who am I?” Well, again, this concept of the self is outside of us. It’s an abstraction. And what Sartre points out is that there are many aspects about who we are that are given to us by other people: for example, whether we’re trustworthy or not. Whether or not you’re a trustworthy person is an aspect of who you are that’s mediated by other people, right? Whether I’m a nice or mean person. Look, I may think of myself as a nice person but, if every single other person I encounter all throughout my life says that I’m mean, for all intents and purposes, I’m a mean person.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This concept of the self and how other people view us seem to be connected, to Sartre. But the flipside of it being that interconnected is that it leaves us in what he describes as a perpetual state of being judged by the people around us. We’re almost always being turned into pure facticity in other people’s minds. For example, have you ever walked around and you’re self-conscious about the way you look? Maybe you just got a new pair of shoes and you think they look weird. And as you’re walking around you feel like every person that passes you is looking at you and they’re thinking, “Wow, what were they thinking when they picked out those shoes? This is obviously a person that doesn’t care very much about the way that they look.” In other words, they’re looking at you, and they’re turning you into an object in their subjective view of the world, pure facticity. You will, henceforth, be known as the weird-shoes guy in that person’s mind. This is constantly going on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Sartre’s not saying it’s always bad, that being around other people is some paranoid, everybody’s-thinking-bad-things-about-me-all-the-time thing. People very well may be thinking really good things about you all the time. The point that Sartre wants to make is that this whole dynamic -- this dynamic of other people seeing you, putting you on trial, and turning you into pure facticity in their minds -- this is going on all the time simply by virtue of the fact that we exist alongside other people. And that while the insights other people give us about who we are are no doubt valuable, we have to be careful not to slip into bad faith on either side of this dynamic of being-for-others.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What I mean is, just because somebody sees you wearing weird shoes one day doesn’t mean that you are now weird-shoes guy in perpetuity. In other words, don’t slip into bad faith when it comes to what other people think about you. No matter how convenient it may be to prescribe yourself an essence and deny your transcendence, don’t turn yourself into pure facticity and just accept what other people tell you you are. Maybe you are weird-shoes guy right now. But you don’t have to be in the future.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But the other side of that is, don’t deny your facticity. Don’t tell yourself your shoes are fine. Don’t tell yourself that you don’t care what anyone else says or that what other people think doesn’t matter to you at all. Obviously, it does. That’s slipping into another kind of bad faith.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, to sum this up, I guess -- look, intuitively, it may seem to us like we have a sort of special access to knowing who we are and that we choose to share ourselves with only our closest friends who we trust dearly. But Sartre would say that the reason it seems that way is because what you actually have is a narrative about yourself that you’ve written, forged from a particularly biased perspective, and that the reason it seems like your friends reinforce this picture of who you are is because that’s the very criteria we all use to choose who our friends are going to be, is whether or not they reinforce this picture that we have of ourselves. That’s what we like about our friends, to Sartre.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, if a big part of the way that you view yourself and your identity is that you consider yourself to be a smart person, Sartre would predict that most of your friends are going to be people that are not so smart that tell you you’re smart all the time or people that ask you a lot of questions that you then answer, making you feel smart, or other smart people that commend you on being smart like them. To Sartre, we choose our friends because they reinforce the way that we view ourselves. Of course we’d give them privileged access to our biased narrative of ourselves. And of course it’s going to feel validating. Of course it would seem that you know better than anyone else who you are. But again, Sartre would say that the true measure of your values, the true answer to the question “Who are you?” is what you actually do.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I’ll talk to you next time.</p>
+</div>
 
 
 
@@ -1374,30 +1376,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 100,
-&quot;sectionTheme&quot;: &quot;dark&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+        &quot;imageOverlayOpacity&quot;: 0.15,
+        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+        &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+        &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+        &quot;customContentWidth&quot;: 100,
+        &quot;sectionTheme&quot;: &quot;dark&quot;,
+        &quot;sectionAnimation&quot;: &quot;none&quot;,
+        &quot;backgroundMode&quot;: &quot;image&quot;
+      }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+        &quot;video&quot;: {
+          &quot;playbackSpeed&quot;: 0.5,
+          &quot;filter&quot;: 1,
+          &quot;filterStrength&quot;: 0,
+          &quot;zoom&quot;: 0,
+          &quot;videoSourceProvider&quot;: &quot;none&quot;
+        },
+        &quot;backgroundImageId&quot;: null,
+        &quot;backgroundMediaEffect&quot;: null,
+        &quot;divider&quot;: null,
+        &quot;typeName&quot;: &quot;blog-masonry&quot;
+      }"
   data-animation="none"
   
    
@@ -1434,25 +1436,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

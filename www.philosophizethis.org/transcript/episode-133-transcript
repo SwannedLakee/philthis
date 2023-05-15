@@ -38,14 +38,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #133 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"7":true,"8":true,"6":true,"3":true,"2":true,"4":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #133 - Transcript","id":"5eec220209afd80facd8d7ed","fullUrl":"/transcript/episode-133-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["crm_waitlist_enforce_recaptcha_v3_enterprise","crm_default_newsletter_block_to_campaigns","marketing_landing_page","campaigns_thumbnail_layout","fluid_engine","supports_versioned_template_assets","commerce_clearpay","member_areas_spanish_interviews","crm_enforce_recaptcha_v3_enterprise","background_art_onboarding","member_areas_provisioning_service","scripts_defer","campaigns_content_editing_survey","campaigns_show_featured_templates","site_user_email_change","is_feature_gate_refresh_enabled","campaigns_discount_section_in_blasts","commerce_site_visitor_metrics","customer_accounts_email_verification","override_block_styles","campaigns_import_discounts","multilingual_transactional_emails","commerce_restock_notifications","crm_retention_segment","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_shipping_import","viewer-role-contributor-invites","nested_categories","order_status_page_checkout_landing_enabled","campaigns_global_uc_ab","member_areas_schedule_interview","campaigns_asset_picker","themes","nested_categories_migration_enabled","site_header_footer","crm_remove_subscriber","customer_account_creation_recaptcha","send_local_pickup_ready_email","visitor_react_forms","collection_typename_switching","commerce_etsy_product_import","accounting_orders_sync","crm_enable_recaptcha_v3_enterprise","campaigns_new_image_layout_picker","campaigns_discount_section_in_automations","commerce_order_status_access","new_stacked_index"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #133 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"3":true,"4":true,"7":true,"2":true,"1":true,"6":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #133 - Transcript","id":"5eec220209afd80facd8d7ed","fullUrl":"/transcript/episode-133-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["site_user_email_change","commerce_etsy_product_import","marketing_landing_page","commerce_restock_notifications","customer_accounts_email_verification","viewer-role-contributor-invites","customer_account_creation_recaptcha","commerce_clearpay","commerce_order_status_access","send_local_pickup_ready_email","fluid_engine_clean_up_grid_contextual_change","accounting_orders_sync","member_areas_schedule_interview","commerce_etsy_shipping_import","nested_categories_migration_enabled","new_stacked_index","campaigns_asset_picker","campaigns_discount_section_in_automations","crm_waitlist_enforce_recaptcha_v3_enterprise","fluid_engine","campaigns_content_editing_survey","visitor_react_forms","scripts_defer","crm_remove_subscriber","crm_default_newsletter_block_to_campaigns","campaigns_discount_section_in_blasts","crm_retention_segment","crm_enforce_recaptcha_v3_enterprise","member_areas_provisioning_service","campaigns_new_image_layout_picker","override_block_styles","crm_enable_recaptcha_v3_enterprise","background_art_onboarding","collection_typename_switching","campaigns_import_discounts","multilingual_transactional_emails","order_status_page_checkout_landing_enabled","themes","commerce_site_visitor_metrics","supports_versioned_template_assets","campaigns_thumbnail_layout","is_feature_gate_refresh_enabled","site_header_footer","campaigns_show_featured_templates","nested_categories","member_areas_spanish_interviews","campaigns_global_uc_ab"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #133 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-133-transcript","datePublished":"2019-07-01T11:11:06-0700","dateModified":"2022-07-11T09:09:18-0700","headline":"Episode #133 - Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -132,153 +132,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-                                                                    &quot;layout&quot;: &quot;navRight&quot;,
-                                                                    &quot;action&quot;: {
-                                                                      &quot;href&quot;: &quot;/take-action&quot;,
-                                                                      &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                                                      &quot;newWindow&quot;: false
-                                                                    },
-                                                                    &quot;showSocial&quot;: true,
-                                                                    &quot;socialOptions&quot;: {
-                                                                      &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                                      &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                                      &quot;socialBorderThickness&quot;: {
-                                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                                        &quot;value&quot;: 1.0
-                                                                      }
-                                                                    },
-                                                                    &quot;sectionTheme&quot;: &quot;light&quot;,
-                                                                    &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                                    &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                                    &quot;cartText&quot;: &quot;Cart&quot;,
-                                                                    &quot;showEmptyCartState&quot;: true,
-                                                                    &quot;cartOptions&quot;: {
-                                                                      &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                                      &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                                      &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                                      &quot;cartBorderThickness&quot;: {
-                                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                                        &quot;value&quot;: 1.0
-                                                                      }
-                                                                    },
-                                                                    &quot;showButton&quot;: false,
-                                                                    &quot;showCart&quot;: false,
-                                                                    &quot;showAccountLogin&quot;: true,
-                                                                    &quot;headerStyle&quot;: &quot;theme&quot;,
-                                                                    &quot;languagePicker&quot;: {
-                                                                      &quot;enabled&quot;: false,
-                                                                      &quot;iconEnabled&quot;: false,
-                                                                      &quot;iconType&quot;: &quot;globe&quot;,
-                                                                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                                      &quot;languageFlags&quot;: [ ]
-                                                                    },
-                                                                    &quot;mobileOptions&quot;: {
-                                                                      &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                                                      &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                                      &quot;menuIconOptions&quot;: {
-                                                                        &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 1.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;dynamicOptions&quot;: {
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;solidOptions&quot;: {
-                                                                      &quot;headerOpacity&quot;: {
-                                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                                        &quot;value&quot;: 100.0
-                                                                      },
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      },
-                                                                      &quot;dropShadow&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blur&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 30.0
-                                                                        },
-                                                                        &quot;spread&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        },
-                                                                        &quot;distance&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        }
-                                                                      },
-                                                                      &quot;blurBackground&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blurRadius&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 12.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;gradientOptions&quot;: {
-                                                                      &quot;gradientType&quot;: &quot;faded&quot;,
-                                                                      &quot;headerOpacity&quot;: {
-                                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                                        &quot;value&quot;: 90.0
-                                                                      },
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      },
-                                                                      &quot;dropShadow&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blur&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 30.0
-                                                                        },
-                                                                        &quot;spread&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        },
-                                                                        &quot;distance&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        }
-                                                                      },
-                                                                      &quot;blurBackground&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blurRadius&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 12.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;showPromotedElement&quot;: false
-                                                                  }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                                                                    &quot;enabled&quot;: false,
-                                                                    &quot;iconEnabled&quot;: false,
-                                                                    &quot;iconType&quot;: &quot;globe&quot;,
-                                                                    &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                                    &quot;languageFlags&quot;: [ ]
-                                                                  }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -845,142 +845,142 @@
     
     "
     data-current-styles="{
-                                                                    &quot;layout&quot;: &quot;navRight&quot;,
-                                                                    &quot;action&quot;: {
-                                                                      &quot;href&quot;: &quot;/take-action&quot;,
-                                                                      &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                                                      &quot;newWindow&quot;: false
-                                                                    },
-                                                                    &quot;showSocial&quot;: true,
-                                                                    &quot;socialOptions&quot;: {
-                                                                      &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                                      &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                                      &quot;socialBorderThickness&quot;: {
-                                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                                        &quot;value&quot;: 1.0
-                                                                      }
-                                                                    },
-                                                                    &quot;sectionTheme&quot;: &quot;light&quot;,
-                                                                    &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                                    &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                                    &quot;cartText&quot;: &quot;Cart&quot;,
-                                                                    &quot;showEmptyCartState&quot;: true,
-                                                                    &quot;cartOptions&quot;: {
-                                                                      &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                                      &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                                      &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                                      &quot;cartBorderThickness&quot;: {
-                                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                                        &quot;value&quot;: 1.0
-                                                                      }
-                                                                    },
-                                                                    &quot;showButton&quot;: false,
-                                                                    &quot;showCart&quot;: false,
-                                                                    &quot;showAccountLogin&quot;: true,
-                                                                    &quot;headerStyle&quot;: &quot;theme&quot;,
-                                                                    &quot;languagePicker&quot;: {
-                                                                      &quot;enabled&quot;: false,
-                                                                      &quot;iconEnabled&quot;: false,
-                                                                      &quot;iconType&quot;: &quot;globe&quot;,
-                                                                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                                      &quot;languageFlags&quot;: [ ]
-                                                                    },
-                                                                    &quot;mobileOptions&quot;: {
-                                                                      &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                                                      &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                                      &quot;menuIconOptions&quot;: {
-                                                                        &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 1.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;dynamicOptions&quot;: {
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;solidOptions&quot;: {
-                                                                      &quot;headerOpacity&quot;: {
-                                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                                        &quot;value&quot;: 100.0
-                                                                      },
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      },
-                                                                      &quot;dropShadow&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blur&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 30.0
-                                                                        },
-                                                                        &quot;spread&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        },
-                                                                        &quot;distance&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        }
-                                                                      },
-                                                                      &quot;blurBackground&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blurRadius&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 12.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;gradientOptions&quot;: {
-                                                                      &quot;gradientType&quot;: &quot;faded&quot;,
-                                                                      &quot;headerOpacity&quot;: {
-                                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                                        &quot;value&quot;: 90.0
-                                                                      },
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      },
-                                                                      &quot;dropShadow&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blur&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 30.0
-                                                                        },
-                                                                        &quot;spread&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        },
-                                                                        &quot;distance&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        }
-                                                                      },
-                                                                      &quot;blurBackground&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blurRadius&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 12.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;showPromotedElement&quot;: false
-                                                                  }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1131,31 +1131,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                                    &quot;imageOverlayOpacity&quot;: 0.15,
-                                                                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                                    &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                                                                    &quot;customSectionHeight&quot;: 10,
-                                                                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                                    &quot;customContentWidth&quot;: 50,
-                                                                    &quot;sectionTheme&quot;: &quot;&quot;,
-                                                                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                                    &quot;backgroundMode&quot;: &quot;image&quot;
-                                                                  }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                                                    &quot;video&quot;: {
-                                                                      &quot;playbackSpeed&quot;: 0.5,
-                                                                      &quot;filter&quot;: 1,
-                                                                      &quot;filterStrength&quot;: 0,
-                                                                      &quot;zoom&quot;: 0,
-                                                                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                                    },
-                                                                    &quot;backgroundImageId&quot;: null,
-                                                                    &quot;backgroundMediaEffect&quot;: null,
-                                                                    &quot;divider&quot;: null,
-                                                                    &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                                                  }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1218,7 +1218,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec220209afd80facd8d7ed"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1657555714613_1773"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is part two on the work of Carl Schmitt. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, for anybody not listening to these two episodes back to back, I want to briefly remind everyone of the end of last episode, because the discussion on this episode jumps right in immediately where the last episode ended. Real quick, the last episode ended talking about the ambitions of normativism.</p><p class="" style="white-space:pre-wrap;">“The hope of liberalism was the get rid of the sovereign. The reality of the world is that we have long periods of normalcy where the government does almost nothing, punctuated by rare moments of extreme action whenever things actually need to get done. Liberalism hasn’t removed the sovereign from the political process, and the only time pieces of paper like the constitution prevent the sovereign from acting are during periods of normalcy, when the sovereign wouldn’t be exercising authoritarian power anyway. To Carl Schmitt, the biggest difference between our modern societies and the ones that existed in the pre-liberal world is that the pre-liberal societies were just a lot more honest about the authoritarianism that was going on. Nowadays, we got this grand illusion of liberalism that puts a bunch of window dressing on the process and pretends the world is something that it’s not.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So maybe the best place to begin our discussion today is just to say that the fact that the sovereign still exists at some level in our liberal societies shouldn’t come as an enormous surprise to people. I mean, after all, what exactly are systems of norms like the Constitution trying to normalize? Carl Schmitt would ask, if the Constitution is a regulatory document, what exactly is it regulating? He would say that what it is regulating is the more fundamental, underlying political process that’s been going on since the dawn of civilization. Liberalism’s been tacked on after the fact, certainly makes us feel good, helps us feel like the world’s a lot more peaceful and tolerant than it’s ever been. But, once again, the reality of the world to Carl Schmitt, the reason we haven’t seen a respite from dictatorships, bloodshed, and political instability is because we are still engaged in the exact same political process we have always been engaged in, one rooted in intolerance. To Carl Schmitt, the foundation of the political lies in a distinction between friend and enemy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the friend/enemy, self/other, us versus them distinction is probably nothing new to anybody listening to this. And, to be fair, it wasn’t new during the time of Carl Schmitt either. But the level to which Carl Schmitt defends this, as the forge in which political identities are cast in, makes for an extremely interesting take on what exactly is going on whenever we engage in politics. To Carl Schmitt, whenever you are engaging in politics, whether you realize it or not, you are necessarily positioning yourself on one side of a duality, which from your perspective with always look like your friends versus your enemies. Carl Schmitt famously said, “Show me who your enemies are, and I’ll show you who you are.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is actually a reference to Hegel’s views on identity. The idea is that categories of identity can’t exist unless they have an opposite that they can be contrasted with. So the way this manifests in the political realm is that you only think of your political views and your political identity in terms of how it relates to political views that are the opposite of yours, your enemies in this friend/enemy distinction. So an example just to illustrate this concept is, nobody listening to this thinks of themselves as a person that is pro-oxygen. I mean, why would you, right? You’d be an absolute weirdo to cordon off your political identity there. I mean, who thinks of themself as a person in favor of people being able to breathe? That is, until a group emerges in the political landscape that hold positions that make them anti-oxygen. Then and only then does it become a relevant piece of your political identity to think of yourself as a pro-oxygen kind of person. To hold a political position of any type implies the existence of a group that disagrees with you. To Carl Schmitt, to engage in the political at all implies this friend/enemy distinction.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The philosopher Leo Strauss summarized his views in a way that Schmitt eventually approved of. He said, “Because man is by nature evil, he therefore needs dominion. But dominion can be established, that is, men can be unified, only in a unity against other men… the political thus understood is not the constitutive principle of the state, of ‘order,’ but a condition of the state.” When you look at politics in this way, it makes the liberal political process start to seem kind of silly. And this is another hallmark of liberal thinking that Carl Schmitt thinks is a utopian fantasy world, by the way. The hope of liberalism is a world of internationalism, acceptance of the other, toleration of different cultures, shaking hands and just agreeing to disagree. Schmitt says, no. Liberalism and democracy directly contradict each other. They’re mutually exclusive because, unless you’re actually somebody that’s calling for the formation of a one-world government, you are at some level making a distinction between friend and enemy. No matter how tolerant of a person you are, look at your views closely enough, and there is some group of people whose interests, if it came down to it, matter more to you than some other group’s interests.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Carl Schmitt is saying, you can’t have a democracy grounded in this idea that the citizens are going to vote along the lines that are best for their society without at some level making a friend/enemy distinction. To Carl Schmitt, this is the essence of the political. The political realm is a violent ongoing process of friends banding together and going to war with their enemies, capturing territory, whether that war is on a physical battlefield or in the halls of parliament, whether that territory that’s captured is earth and water or control over the state. Liberalism allows for the illusion of multiculturalism and tolerance, when the reality of the world is that we’re only going to be multicultural and tolerant as long as you mostly agree with us. Because when faced with enough difference from liberal ideas, when faced with the true essence of the political, when it really comes down to it, liberalism gets thrown out the window as well.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is why Carl Schmitt thinks liberalism doesn’t do what it claims to do. Liberalism doesn’t provide an alternative, more peaceful way of engaging in the political process; liberalism allows people to avoid the political process altogether and, further, allows the political to operate covertly behind the scenes, while politicians gallivant around in their political theater of rational debate without ever really solving anything. See, this is the other side of this that we still need to talk about. Because for all the analysis of liberalism that Carl Schmitt’s offered so far, what we really haven’t talked about yet is, why is any of this stuff a bad thing. I mean, the political process is still going on in spite of liberalism. Let’s say liberalism failed at what it set out to do. Let’s say it’s not an alternative political process, but just a bunch of window dressing that makes us feel good. Well, it still makes us feel good, right? What’s so wrong about that?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To Carl Schmitt, if you were making a list of all the failures of liberalism, this may be the biggest one of all. Liberalism allows people to feel good about the political process when the world around them may actually be burning to the ground. Liberalism has created a world where, moreso than at any point in history, people can be completely apathetic about the political reality that they live in. See, at many other points in history, if there was a political situation going on that was unfavorable for you, there was at least a sense of obligation you were going to feel for finding some manner of recourse.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For Carl Schmitt, what liberalism does is give people that ability to disconnect themselves from the political and not really care about it. “Oh, politics? Aw, that’s something that goes on in that creepy building on the other side of town. I don’t really get involved in all that. You know, what I do, I just stay here and live my life and leave all that debating about politics and stuff to the politicians.” To Carl Schmitt, the grand illusion of liberalism -- that politics is a normativized, peaceful process of finding ways to compromise with each other -- that illusion gives people the luxury of being able to not pay attention to or even care about politics. When in reality, this isn’t a luxury at all, and these people are just as much at the mercy of the political as they ever have been.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Carl Schmitt would want us to consider just what type of person this level of political apathy creates. He says that, for somebody that has voluntarily removed themselves from the political process, life in one of our modern societies sort of defaults to a life of being a passive spectator that just consumes stuff. With no political cause to feel a part of, when you’re not part of the process of creating the political reality you’re living in, your life becomes that of a spectator, watching the world pass you by on TV screens, spending all day watching TV shows, movies, video games of fantasy worlds, while you live in a fantasy world of your own, watching the liberal soap opera of people in suits arguing about issues that are mostly insignificant, buying into the story that you’re being told, that this is all working really well for people, that you should feel grateful for your life as a passive spectator; that in the name of liberal multiculturalism and tolerance you should not feel so connected to a strong political identity, religious identity, or national identity, you should think of yourself more in terms of your identity as a global consumer. The reality of who you are in modern, liberal societies is actually more connected to buying stuff than doing stuff. To Carl Schmitt, the promises of liberalism often rob people of their political identity. This crisis of identity is in many ways the political equivalent of Nietzsche’s famous claim that God is dead.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, as many people listening to this already know, when Nietzsche writes those words, “God is dead,” he’s referring to an emerging world where he predicts there’s going to be a serious crisis of identity because people are no longer going to have automatic access to a strong religious identity that they can feel connected to. Now, when Nietzsche writes this, he’s saying it with a bit of an ominous tone because he realized that, when this extremely important piece of people’s identity was no longer going to be in the picture, that void within people that religious identity used to occupy was not just going to disappear. How were people going to respond to this?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Similarly, Carl Schmitt would want us to consider what it was like to be a citizen in these modern, liberal societies in the early 20th century. Liberalism, in his view, has asked people in many ways to give up their political, religious, and national identities and replace them instead with the liberal identity of multicultural globalism. Much like Nietzsche, Carl Schmitt would talk about this phenomenon with an ominous tone as well because he understood how important these types of identity can be to people. Sometimes it’s most of the way people orient themselves with the world. Part of living a fulfilling life as a human being is feeling like you’re a part of something, feeling like you have some say in the way the world’s unfolding around you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The founders of liberalism saw that it was often these points of identity that led to wars and instability. So, in the interest of making a better world, they set up a blockade to make it more difficult for people to take these traditional paths to feeling a part of something greater than themselves. But Carl Schmitt would say, this is a tragic mistake by liberalism. To deny these aspects of existence is to deny something extremely important about what it even is to be human. Just like in the time of Nietzsche, this crisis of identity is not just going to disappear. People are going to fill it in with something. The question becomes, what will that something be that people can feel like they’re a part of now?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Nietzsche actually explicitly predicts a massive increase in political and nationalist fanaticism to come onto the scene at the beginning of the 20th century, which was precisely the story that unfolded during the early 20th century. This is, in many ways, the story of Carl Schmitt. Carl Schmitt was an unapologetic anti-Semitic Nazi who supported fascism. Carl Schmitt believed fascism could be a prudent and intelligent political strategy, given the right circumstances. He felt this way for many different reasons. And understanding his rationale for supporting fascism will be necessary knowledge to have if we want to understand the philosophical underpinnings of people’s political moves all the way up to the present day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, it’s easy to assume that anyone and everyone who could possibly support a fascist approach to political strategy must have been evil beyond all comprehension, not even somebody to talk about. But the more inconvenient and unnerving reality is that there are actually reasons fascism emerged at the time that it did in the Western world. There’s a reason why early-20th-century political discussions are centered around three primary approaches: democracy, Marxism, and fascism. Why did people living during this time think that fascism was not only a viable political strategy but the future of political philosophy? The answer to this question comes only after understanding Carl Schmitt’s critiques of liberalism that have been laid out so far. For all the reasons already expressed and more, the bottom line is, Carl Schmitt believes that liberalism just produces weak societies. Liberal societies lack identity and, thus, are far weaker than societies that have a strong sense of identity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We can at least understand how Carl Schmitt thinks this is happening, right? I mean, remember, in his view, liberalism incentivizes inaction and complacency. Liberalism produces weak people, and those people generally tend to be more politically uninformed or apathetic simply because they can be, in liberal societies. Liberalism produces a world where, even for the people that want to be involved in politics, there cannot be legitimate markers of political communities because, within liberal societies, everybody’s supposed to be holding hands in a circle singing songs of acceptance with their political opposition. Remember, to be engaged in the political, for Schmitt, is to stand on one side of a friend/enemy distinction. Well, if the whole goal of your society is multiculturalism and tolerance, that makes it extremely difficult if not impossible to really ever make a substantive friend/enemy distinction.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Liberalism, in this way, undermines the formation of political communities. And this dynamic, when played out over the course of decades and centuries, eventually produces societies that, to Carl Schmitt, really don’t stand for anything. See, historically countries would have something that they stood for. The citizens of those countries, when faced with something that threatened what they believed in, they would defend themselves. They’d be willing to fight and die for whatever cause they believed in. The natural endgame for liberal societies is a population of people that are faced with a political enemy and are like, “Eh, I mean, I disagree. But, look, I’m not going to go get on a boat and die for something like this. <em>Game of Thrones</em> season 12 starts next week.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is the archetype of what a human being looks like in a modern, liberal society: devoid of any strong religious, political, or national identity; surrounded by a society that’s terrified of the reality of the political process and, so as to avoid the political, denies the existence of any political identity as it goes around, shaking hands with all the other countries, telling everyone how super-duper tolerant they are, hoping nobody sees through that thin veneer to the intolerance just under the surface. This is a weak society in the eyes of Carl Schmitt, filled with citizens who cannot be effectively emboldened towards political action. Because they’re so disconnected from what’s going on in the world, they don’t know who they are; they don’t even know who their enemies are.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is a sentiment expressed in Hobbs’s <em>Leviathan</em>. When carrying out their end of the bargain in a social contract, part of the job of the sovereign, part of what makes a state legitimate at all, is when the sovereign has the ability to protect the members of the state and their political identities. When a sovereign can no longer do that, the social contract is void. But what if the members of a state don’t have a political identity to protect? What happens? What does the sovereign protect at that point? This is what Carl Schmitt is worried about. Liberalism, for its own reasons, wants to do away with the sovereign and rob people of their political identity. What does this mean for the future of our modern, liberal societies?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, there’s the old cliché, if you don’t stand for something, you will fall for anything. To Carl Schmitt, these weak, liberal societies that lack a sovereign and lack an identity to protect are essentially just sitting on their hands, waiting for a group that has a strong sense of identity to come along and impose their will and identity onto the people with their anemic sense of purpose. This group that has a strong sense of identity could accomplish this in a number of different ways. They could insinuate themselves into the liberal political process, get elected to office, and slowly use the tools at their disposal to fundamentally change the country. They could invade militarily, though that’s probably a little old-fashioned. Think about it, if any group could manage to get elected to a high level of political office, the only thing it would really take is a state of emergency for that group to be able to assume the role of the sovereign in the name of protecting the constitution. Well, imagine you’re one of these groups; you want to go full authoritarian on everybody. What if you could just convince the population that there was an emergency going on? To assume the role of the sovereign, there really doesn’t even need to be an emergency if you’re persuasive enough.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Carl Schmitt thought that people living in liberal societies are sitting ducks just waiting around for things like this to occur. Carl Schmitt thought an extremely underdeveloped portion of political philosophy was who gets to decide one of these states of exception and why. Who gets to decide when a leader gets to make an exception when it comes to the rule of law and the constitution, and on what grounds do they get to make that decision? This is a question that political philosophy has been oddly silent about since the formation of liberalism, probably because we didn’t even want to entertain the possibility that a dictator would ever be able to transcend these norms and rules we’re trying to hold them to. But, look, taboo towards the idea of a dictator or not, Carl Schmitt thinks they’re all around us in hiding, some in plain sight. And we should be having a lot more serious of a discussion in our modern world about who or what gets to decide what goes on in a state of exception.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, anyway, the possibility of an authoritarian group coopting a weakened liberal society and imposing their will was practically an inevitability to Carl Schmitt. Societies that refused to acknowledge the essence of the political as friend/enemy distinctions will never know who their friends or their enemies are and are destined to get taken over politically. This is the set of assumptions that serve as a foundation when political philosophers start making a case for fascism. So, if you’re a political philosopher willing to reject liberal values, the things that might otherwise bother you about fascism don’t really seem like that far of a stretch.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I mean, the idea is that, whether we want to admit it or not, societies always have an authoritarian element to them, or else they’re too weak to handle any real problems. Societies need a strong sense of identity that they can rally around, and societies that don’t avoid the political process and know who their friends and enemies are don’t end up wasting a lot of time in gridlock debating the issues. When you’re willing to reject liberal principles, if that’s something you’re willing to do, fascism just becomes what a lot of different groups landed on, the strategy basically being that the best defense is a good offense. Because if you’re the aggressor, if you’re the group that’s imposing your will on the groups around you, then at least you know you’re not the group that’s getting imposed upon. That was their thinking.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, there are a lot of different theories for why fascism emerged during the time that it did in the early 20th century but, at least when it comes to Carl Schmitt’s brand of support, many would say that this level of skepticism towards the gospel of liberalism comes as a reaction to the litany of promises that the Enlightenment had failed to make into a reality. Liberalism becomes a mangled form of political theology, you know, with their blind faith and normative parameters like the constitution, when these parameters don’t actually remove our need for a sovereign; blind faith in the open forum of rational discussion as a solution to our problems, when in practice major decisions are almost always made by a handful of people, committees comprised of senior members of political parties.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Carl Schmitt would say that, when you take a step back, you take a second and truly consider the level of variance between the hopes and ambitions of liberalism and the reality of the political landscape, how can anyone take it seriously when liberalism promises to produce a more peaceful world for people? When it really comes down to it, how is liberalism any different than most other aggressive, alternative takes on how we should all be doing things? </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One really interesting thing that political philosophers have talked about over the years is the possibility that liberalism, if it were able to achieve a level of total global, cultural hegemony, would eventually eliminate fascism, remove the need for friend/enemy distinctions altogether, and make going to war for political or religious reasons an incredibly rare thing if not nonexistent. Then again, you could say, how would it be any different if we forcefully imposed any homogenous system of thought? Some would say, “How great would it be, the world united under a flag of liberalism, multiculturalism, tolerance? This would usher in an unprecedented era of world peace and economic prosperity.” Some people might reply to that and say, “Well, that is the very definition of fascism, to say that the path to world peace -- oh, we just got to get everybody to agree with me. Then we’ll be fine.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Whether there’s a right way or a wrong way to look at the possibility of a global hegemony of liberalism, Carl Schmitt would say that none of that really matters because you don’t want to be living in that world anyway. You know, might seem like a luxury at first to never have to engage in politics. Think of all the time you’d have. But he’d probably say, really play your life out as one of those rootless, ever-consuming spectators for a second. Really think about how it would feel to live every day of your life utterly disconnected from the creation of the world you live in, and ask yourself, is that really the kind of world you want to be living in?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I’ll talk to you next time.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is part two on the work of Carl Schmitt. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, for anybody not listening to these two episodes back to back, I want to briefly remind everyone of the end of last episode, because the discussion on this episode jumps right in immediately where the last episode ended. Real quick, the last episode ended talking about the ambitions of normativism.</p><p class="" style="white-space:pre-wrap;">“The hope of liberalism was the get rid of the sovereign. The reality of the world is that we have long periods of normalcy where the government does almost nothing, punctuated by rare moments of extreme action whenever things actually need to get done. Liberalism hasn’t removed the sovereign from the political process, and the only time pieces of paper like the constitution prevent the sovereign from acting are during periods of normalcy, when the sovereign wouldn’t be exercising authoritarian power anyway. To Carl Schmitt, the biggest difference between our modern societies and the ones that existed in the pre-liberal world is that the pre-liberal societies were just a lot more honest about the authoritarianism that was going on. Nowadays, we got this grand illusion of liberalism that puts a bunch of window dressing on the process and pretends the world is something that it’s not.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So maybe the best place to begin our discussion today is just to say that the fact that the sovereign still exists at some level in our liberal societies shouldn’t come as an enormous surprise to people. I mean, after all, what exactly are systems of norms like the Constitution trying to normalize? Carl Schmitt would ask, if the Constitution is a regulatory document, what exactly is it regulating? He would say that what it is regulating is the more fundamental, underlying political process that’s been going on since the dawn of civilization. Liberalism’s been tacked on after the fact, certainly makes us feel good, helps us feel like the world’s a lot more peaceful and tolerant than it’s ever been. But, once again, the reality of the world to Carl Schmitt, the reason we haven’t seen a respite from dictatorships, bloodshed, and political instability is because we are still engaged in the exact same political process we have always been engaged in, one rooted in intolerance. To Carl Schmitt, the foundation of the political lies in a distinction between friend and enemy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the friend/enemy, self/other, us versus them distinction is probably nothing new to anybody listening to this. And, to be fair, it wasn’t new during the time of Carl Schmitt either. But the level to which Carl Schmitt defends this, as the forge in which political identities are cast in, makes for an extremely interesting take on what exactly is going on whenever we engage in politics. To Carl Schmitt, whenever you are engaging in politics, whether you realize it or not, you are necessarily positioning yourself on one side of a duality, which from your perspective with always look like your friends versus your enemies. Carl Schmitt famously said, “Show me who your enemies are, and I’ll show you who you are.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is actually a reference to Hegel’s views on identity. The idea is that categories of identity can’t exist unless they have an opposite that they can be contrasted with. So the way this manifests in the political realm is that you only think of your political views and your political identity in terms of how it relates to political views that are the opposite of yours, your enemies in this friend/enemy distinction. So an example just to illustrate this concept is, nobody listening to this thinks of themselves as a person that is pro-oxygen. I mean, why would you, right? You’d be an absolute weirdo to cordon off your political identity there. I mean, who thinks of themself as a person in favor of people being able to breathe? That is, until a group emerges in the political landscape that hold positions that make them anti-oxygen. Then and only then does it become a relevant piece of your political identity to think of yourself as a pro-oxygen kind of person. To hold a political position of any type implies the existence of a group that disagrees with you. To Carl Schmitt, to engage in the political at all implies this friend/enemy distinction.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The philosopher Leo Strauss summarized his views in a way that Schmitt eventually approved of. He said, “Because man is by nature evil, he therefore needs dominion. But dominion can be established, that is, men can be unified, only in a unity against other men… the political thus understood is not the constitutive principle of the state, of ‘order,’ but a condition of the state.” When you look at politics in this way, it makes the liberal political process start to seem kind of silly. And this is another hallmark of liberal thinking that Carl Schmitt thinks is a utopian fantasy world, by the way. The hope of liberalism is a world of internationalism, acceptance of the other, toleration of different cultures, shaking hands and just agreeing to disagree. Schmitt says, no. Liberalism and democracy directly contradict each other. They’re mutually exclusive because, unless you’re actually somebody that’s calling for the formation of a one-world government, you are at some level making a distinction between friend and enemy. No matter how tolerant of a person you are, look at your views closely enough, and there is some group of people whose interests, if it came down to it, matter more to you than some other group’s interests.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Carl Schmitt is saying, you can’t have a democracy grounded in this idea that the citizens are going to vote along the lines that are best for their society without at some level making a friend/enemy distinction. To Carl Schmitt, this is the essence of the political. The political realm is a violent ongoing process of friends banding together and going to war with their enemies, capturing territory, whether that war is on a physical battlefield or in the halls of parliament, whether that territory that’s captured is earth and water or control over the state. Liberalism allows for the illusion of multiculturalism and tolerance, when the reality of the world is that we’re only going to be multicultural and tolerant as long as you mostly agree with us. Because when faced with enough difference from liberal ideas, when faced with the true essence of the political, when it really comes down to it, liberalism gets thrown out the window as well.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is why Carl Schmitt thinks liberalism doesn’t do what it claims to do. Liberalism doesn’t provide an alternative, more peaceful way of engaging in the political process; liberalism allows people to avoid the political process altogether and, further, allows the political to operate covertly behind the scenes, while politicians gallivant around in their political theater of rational debate without ever really solving anything. See, this is the other side of this that we still need to talk about. Because for all the analysis of liberalism that Carl Schmitt’s offered so far, what we really haven’t talked about yet is, why is any of this stuff a bad thing. I mean, the political process is still going on in spite of liberalism. Let’s say liberalism failed at what it set out to do. Let’s say it’s not an alternative political process, but just a bunch of window dressing that makes us feel good. Well, it still makes us feel good, right? What’s so wrong about that?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To Carl Schmitt, if you were making a list of all the failures of liberalism, this may be the biggest one of all. Liberalism allows people to feel good about the political process when the world around them may actually be burning to the ground. Liberalism has created a world where, moreso than at any point in history, people can be completely apathetic about the political reality that they live in. See, at many other points in history, if there was a political situation going on that was unfavorable for you, there was at least a sense of obligation you were going to feel for finding some manner of recourse.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For Carl Schmitt, what liberalism does is give people that ability to disconnect themselves from the political and not really care about it. “Oh, politics? Aw, that’s something that goes on in that creepy building on the other side of town. I don’t really get involved in all that. You know, what I do, I just stay here and live my life and leave all that debating about politics and stuff to the politicians.” To Carl Schmitt, the grand illusion of liberalism -- that politics is a normativized, peaceful process of finding ways to compromise with each other -- that illusion gives people the luxury of being able to not pay attention to or even care about politics. When in reality, this isn’t a luxury at all, and these people are just as much at the mercy of the political as they ever have been.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Carl Schmitt would want us to consider just what type of person this level of political apathy creates. He says that, for somebody that has voluntarily removed themselves from the political process, life in one of our modern societies sort of defaults to a life of being a passive spectator that just consumes stuff. With no political cause to feel a part of, when you’re not part of the process of creating the political reality you’re living in, your life becomes that of a spectator, watching the world pass you by on TV screens, spending all day watching TV shows, movies, video games of fantasy worlds, while you live in a fantasy world of your own, watching the liberal soap opera of people in suits arguing about issues that are mostly insignificant, buying into the story that you’re being told, that this is all working really well for people, that you should feel grateful for your life as a passive spectator; that in the name of liberal multiculturalism and tolerance you should not feel so connected to a strong political identity, religious identity, or national identity, you should think of yourself more in terms of your identity as a global consumer. The reality of who you are in modern, liberal societies is actually more connected to buying stuff than doing stuff. To Carl Schmitt, the promises of liberalism often rob people of their political identity. This crisis of identity is in many ways the political equivalent of Nietzsche’s famous claim that God is dead.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, as many people listening to this already know, when Nietzsche writes those words, “God is dead,” he’s referring to an emerging world where he predicts there’s going to be a serious crisis of identity because people are no longer going to have automatic access to a strong religious identity that they can feel connected to. Now, when Nietzsche writes this, he’s saying it with a bit of an ominous tone because he realized that, when this extremely important piece of people’s identity was no longer going to be in the picture, that void within people that religious identity used to occupy was not just going to disappear. How were people going to respond to this?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Similarly, Carl Schmitt would want us to consider what it was like to be a citizen in these modern, liberal societies in the early 20th century. Liberalism, in his view, has asked people in many ways to give up their political, religious, and national identities and replace them instead with the liberal identity of multicultural globalism. Much like Nietzsche, Carl Schmitt would talk about this phenomenon with an ominous tone as well because he understood how important these types of identity can be to people. Sometimes it’s most of the way people orient themselves with the world. Part of living a fulfilling life as a human being is feeling like you’re a part of something, feeling like you have some say in the way the world’s unfolding around you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The founders of liberalism saw that it was often these points of identity that led to wars and instability. So, in the interest of making a better world, they set up a blockade to make it more difficult for people to take these traditional paths to feeling a part of something greater than themselves. But Carl Schmitt would say, this is a tragic mistake by liberalism. To deny these aspects of existence is to deny something extremely important about what it even is to be human. Just like in the time of Nietzsche, this crisis of identity is not just going to disappear. People are going to fill it in with something. The question becomes, what will that something be that people can feel like they’re a part of now?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Nietzsche actually explicitly predicts a massive increase in political and nationalist fanaticism to come onto the scene at the beginning of the 20th century, which was precisely the story that unfolded during the early 20th century. This is, in many ways, the story of Carl Schmitt. Carl Schmitt was an unapologetic anti-Semitic Nazi who supported fascism. Carl Schmitt believed fascism could be a prudent and intelligent political strategy, given the right circumstances. He felt this way for many different reasons. And understanding his rationale for supporting fascism will be necessary knowledge to have if we want to understand the philosophical underpinnings of people’s political moves all the way up to the present day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, it’s easy to assume that anyone and everyone who could possibly support a fascist approach to political strategy must have been evil beyond all comprehension, not even somebody to talk about. But the more inconvenient and unnerving reality is that there are actually reasons fascism emerged at the time that it did in the Western world. There’s a reason why early-20th-century political discussions are centered around three primary approaches: democracy, Marxism, and fascism. Why did people living during this time think that fascism was not only a viable political strategy but the future of political philosophy? The answer to this question comes only after understanding Carl Schmitt’s critiques of liberalism that have been laid out so far. For all the reasons already expressed and more, the bottom line is, Carl Schmitt believes that liberalism just produces weak societies. Liberal societies lack identity and, thus, are far weaker than societies that have a strong sense of identity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We can at least understand how Carl Schmitt thinks this is happening, right? I mean, remember, in his view, liberalism incentivizes inaction and complacency. Liberalism produces weak people, and those people generally tend to be more politically uninformed or apathetic simply because they can be, in liberal societies. Liberalism produces a world where, even for the people that want to be involved in politics, there cannot be legitimate markers of political communities because, within liberal societies, everybody’s supposed to be holding hands in a circle singing songs of acceptance with their political opposition. Remember, to be engaged in the political, for Schmitt, is to stand on one side of a friend/enemy distinction. Well, if the whole goal of your society is multiculturalism and tolerance, that makes it extremely difficult if not impossible to really ever make a substantive friend/enemy distinction.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Liberalism, in this way, undermines the formation of political communities. And this dynamic, when played out over the course of decades and centuries, eventually produces societies that, to Carl Schmitt, really don’t stand for anything. See, historically countries would have something that they stood for. The citizens of those countries, when faced with something that threatened what they believed in, they would defend themselves. They’d be willing to fight and die for whatever cause they believed in. The natural endgame for liberal societies is a population of people that are faced with a political enemy and are like, “Eh, I mean, I disagree. But, look, I’m not going to go get on a boat and die for something like this. <em>Game of Thrones</em> season 12 starts next week.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is the archetype of what a human being looks like in a modern, liberal society: devoid of any strong religious, political, or national identity; surrounded by a society that’s terrified of the reality of the political process and, so as to avoid the political, denies the existence of any political identity as it goes around, shaking hands with all the other countries, telling everyone how super-duper tolerant they are, hoping nobody sees through that thin veneer to the intolerance just under the surface. This is a weak society in the eyes of Carl Schmitt, filled with citizens who cannot be effectively emboldened towards political action. Because they’re so disconnected from what’s going on in the world, they don’t know who they are; they don’t even know who their enemies are.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is a sentiment expressed in Hobbs’s <em>Leviathan</em>. When carrying out their end of the bargain in a social contract, part of the job of the sovereign, part of what makes a state legitimate at all, is when the sovereign has the ability to protect the members of the state and their political identities. When a sovereign can no longer do that, the social contract is void. But what if the members of a state don’t have a political identity to protect? What happens? What does the sovereign protect at that point? This is what Carl Schmitt is worried about. Liberalism, for its own reasons, wants to do away with the sovereign and rob people of their political identity. What does this mean for the future of our modern, liberal societies?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, there’s the old cliché, if you don’t stand for something, you will fall for anything. To Carl Schmitt, these weak, liberal societies that lack a sovereign and lack an identity to protect are essentially just sitting on their hands, waiting for a group that has a strong sense of identity to come along and impose their will and identity onto the people with their anemic sense of purpose. This group that has a strong sense of identity could accomplish this in a number of different ways. They could insinuate themselves into the liberal political process, get elected to office, and slowly use the tools at their disposal to fundamentally change the country. They could invade militarily, though that’s probably a little old-fashioned. Think about it, if any group could manage to get elected to a high level of political office, the only thing it would really take is a state of emergency for that group to be able to assume the role of the sovereign in the name of protecting the constitution. Well, imagine you’re one of these groups; you want to go full authoritarian on everybody. What if you could just convince the population that there was an emergency going on? To assume the role of the sovereign, there really doesn’t even need to be an emergency if you’re persuasive enough.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Carl Schmitt thought that people living in liberal societies are sitting ducks just waiting around for things like this to occur. Carl Schmitt thought an extremely underdeveloped portion of political philosophy was who gets to decide one of these states of exception and why. Who gets to decide when a leader gets to make an exception when it comes to the rule of law and the constitution, and on what grounds do they get to make that decision? This is a question that political philosophy has been oddly silent about since the formation of liberalism, probably because we didn’t even want to entertain the possibility that a dictator would ever be able to transcend these norms and rules we’re trying to hold them to. But, look, taboo towards the idea of a dictator or not, Carl Schmitt thinks they’re all around us in hiding, some in plain sight. And we should be having a lot more serious of a discussion in our modern world about who or what gets to decide what goes on in a state of exception.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, anyway, the possibility of an authoritarian group coopting a weakened liberal society and imposing their will was practically an inevitability to Carl Schmitt. Societies that refused to acknowledge the essence of the political as friend/enemy distinctions will never know who their friends or their enemies are and are destined to get taken over politically. This is the set of assumptions that serve as a foundation when political philosophers start making a case for fascism. So, if you’re a political philosopher willing to reject liberal values, the things that might otherwise bother you about fascism don’t really seem like that far of a stretch.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I mean, the idea is that, whether we want to admit it or not, societies always have an authoritarian element to them, or else they’re too weak to handle any real problems. Societies need a strong sense of identity that they can rally around, and societies that don’t avoid the political process and know who their friends and enemies are don’t end up wasting a lot of time in gridlock debating the issues. When you’re willing to reject liberal principles, if that’s something you’re willing to do, fascism just becomes what a lot of different groups landed on, the strategy basically being that the best defense is a good offense. Because if you’re the aggressor, if you’re the group that’s imposing your will on the groups around you, then at least you know you’re not the group that’s getting imposed upon. That was their thinking.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, there are a lot of different theories for why fascism emerged during the time that it did in the early 20th century but, at least when it comes to Carl Schmitt’s brand of support, many would say that this level of skepticism towards the gospel of liberalism comes as a reaction to the litany of promises that the Enlightenment had failed to make into a reality. Liberalism becomes a mangled form of political theology, you know, with their blind faith and normative parameters like the constitution, when these parameters don’t actually remove our need for a sovereign; blind faith in the open forum of rational discussion as a solution to our problems, when in practice major decisions are almost always made by a handful of people, committees comprised of senior members of political parties.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Carl Schmitt would say that, when you take a step back, you take a second and truly consider the level of variance between the hopes and ambitions of liberalism and the reality of the political landscape, how can anyone take it seriously when liberalism promises to produce a more peaceful world for people? When it really comes down to it, how is liberalism any different than most other aggressive, alternative takes on how we should all be doing things? </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One really interesting thing that political philosophers have talked about over the years is the possibility that liberalism, if it were able to achieve a level of total global, cultural hegemony, would eventually eliminate fascism, remove the need for friend/enemy distinctions altogether, and make going to war for political or religious reasons an incredibly rare thing if not nonexistent. Then again, you could say, how would it be any different if we forcefully imposed any homogenous system of thought? Some would say, “How great would it be, the world united under a flag of liberalism, multiculturalism, tolerance? This would usher in an unprecedented era of world peace and economic prosperity.” Some people might reply to that and say, “Well, that is the very definition of fascism, to say that the path to world peace -- oh, we just got to get everybody to agree with me. Then we’ll be fine.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Whether there’s a right way or a wrong way to look at the possibility of a global hegemony of liberalism, Carl Schmitt would say that none of that really matters because you don’t want to be living in that world anyway. You know, might seem like a luxury at first to never have to engage in politics. Think of all the time you’d have. But he’d probably say, really play your life out as one of those rootless, ever-consuming spectators for a second. Really think about how it would feel to live every day of your life utterly disconnected from the creation of the world you live in, and ask yourself, is that really the kind of world you want to be living in?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I’ll talk to you next time.</p>
+</div>
 
 
 
@@ -1374,30 +1376,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                                    &quot;imageOverlayOpacity&quot;: 0.15,
-                                                                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                                    &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                                                                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                                    &quot;customContentWidth&quot;: 100,
-                                                                    &quot;sectionTheme&quot;: &quot;dark&quot;,
-                                                                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                                    &quot;backgroundMode&quot;: &quot;image&quot;
-                                                                  }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                                                    &quot;video&quot;: {
-                                                                      &quot;playbackSpeed&quot;: 0.5,
-                                                                      &quot;filter&quot;: 1,
-                                                                      &quot;filterStrength&quot;: 0,
-                                                                      &quot;zoom&quot;: 0,
-                                                                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                                    },
-                                                                    &quot;backgroundImageId&quot;: null,
-                                                                    &quot;backgroundMediaEffect&quot;: null,
-                                                                    &quot;divider&quot;: null,
-                                                                    &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                                                  }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1434,25 +1436,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

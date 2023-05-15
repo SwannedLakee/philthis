@@ -42,14 +42,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #068 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"3":true,"4":true,"6":true,"2":true,"1":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #068 - Transcript","id":"62c8775ae67af040b595e465","fullUrl":"/transcript/episode-068-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["themes","member_areas_provisioning_service","nested_categories","send_local_pickup_ready_email","collection_typename_switching","commerce_clearpay","campaigns_import_discounts","campaigns_discount_section_in_automations","commerce_site_visitor_metrics","fluid_engine_clean_up_grid_contextual_change","campaigns_discount_section_in_blasts","campaigns_show_featured_templates","crm_retention_segment","crm_default_newsletter_block_to_campaigns","crm_enforce_recaptcha_v3_enterprise","commerce_restock_notifications","customer_account_creation_recaptcha","commerce_etsy_product_import","marketing_landing_page","member_areas_spanish_interviews","order_status_page_checkout_landing_enabled","site_header_footer","campaigns_thumbnail_layout","campaigns_asset_picker","commerce_order_status_access","background_art_onboarding","is_feature_gate_refresh_enabled","crm_enable_recaptcha_v3_enterprise","viewer-role-contributor-invites","campaigns_new_image_layout_picker","campaigns_global_uc_ab","commerce_etsy_shipping_import","supports_versioned_template_assets","crm_remove_subscriber","member_areas_schedule_interview","customer_accounts_email_verification","campaigns_content_editing_survey","scripts_defer","crm_waitlist_enforce_recaptcha_v3_enterprise","fluid_engine","site_user_email_change","visitor_react_forms","new_stacked_index","nested_categories_migration_enabled","accounting_orders_sync","override_block_styles","multilingual_transactional_emails"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #068 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"3":true,"1":true,"8":true,"2":true,"7":true,"4":true,"6":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #068 - Transcript","id":"62c8775ae67af040b595e465","fullUrl":"/transcript/episode-068-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["order_status_page_checkout_landing_enabled","collection_typename_switching","background_art_onboarding","campaigns_discount_section_in_blasts","campaigns_global_uc_ab","visitor_react_forms","multilingual_transactional_emails","member_areas_spanish_interviews","campaigns_show_featured_templates","campaigns_asset_picker","crm_enforce_recaptcha_v3_enterprise","customer_account_creation_recaptcha","customer_accounts_email_verification","commerce_restock_notifications","crm_remove_subscriber","commerce_etsy_product_import","member_areas_provisioning_service","nested_categories_migration_enabled","crm_enable_recaptcha_v3_enterprise","campaigns_thumbnail_layout","is_feature_gate_refresh_enabled","scripts_defer","campaigns_discount_section_in_automations","fluid_engine_clean_up_grid_contextual_change","site_header_footer","supports_versioned_template_assets","viewer-role-contributor-invites","commerce_site_visitor_metrics","commerce_etsy_shipping_import","new_stacked_index","accounting_orders_sync","crm_retention_segment","fluid_engine","commerce_clearpay","commerce_order_status_access","nested_categories","send_local_pickup_ready_email","member_areas_schedule_interview","crm_default_newsletter_block_to_campaigns","crm_waitlist_enforce_recaptcha_v3_enterprise","site_user_email_change","override_block_styles","campaigns_new_image_layout_picker","campaigns_import_discounts","themes","campaigns_content_editing_survey","marketing_landing_page"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #068 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-068-transcript","datePublished":"2015-08-23T11:30:00-0700","dateModified":"2022-07-08T11:51:53-0700","headline":"Episode #068 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -136,153 +136,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+                      &quot;layout&quot;: &quot;navRight&quot;,
+                      &quot;action&quot;: {
+                        &quot;href&quot;: &quot;/take-action&quot;,
+                        &quot;buttonText&quot;: &quot;Take Action&quot;,
+                        &quot;newWindow&quot;: false
+                      },
+                      &quot;showSocial&quot;: true,
+                      &quot;socialOptions&quot;: {
+                        &quot;socialBorderShape&quot;: &quot;none&quot;,
+                        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                        &quot;socialBorderThickness&quot;: {
+                          &quot;unit&quot;: &quot;px&quot;,
+                          &quot;value&quot;: 1.0
+                        }
+                      },
+                      &quot;sectionTheme&quot;: &quot;light&quot;,
+                      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                      &quot;cartStyle&quot;: &quot;cart&quot;,
+                      &quot;cartText&quot;: &quot;Cart&quot;,
+                      &quot;showEmptyCartState&quot;: true,
+                      &quot;cartOptions&quot;: {
+                        &quot;iconType&quot;: &quot;solid-7&quot;,
+                        &quot;cartBorderShape&quot;: &quot;none&quot;,
+                        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                        &quot;cartBorderThickness&quot;: {
+                          &quot;unit&quot;: &quot;px&quot;,
+                          &quot;value&quot;: 1.0
+                        }
+                      },
+                      &quot;showButton&quot;: false,
+                      &quot;showCart&quot;: false,
+                      &quot;showAccountLogin&quot;: true,
+                      &quot;headerStyle&quot;: &quot;theme&quot;,
+                      &quot;languagePicker&quot;: {
+                        &quot;enabled&quot;: false,
+                        &quot;iconEnabled&quot;: false,
+                        &quot;iconType&quot;: &quot;globe&quot;,
+                        &quot;flagShape&quot;: &quot;shiny&quot;,
+                        &quot;languageFlags&quot;: [ ]
+                      },
+                      &quot;mobileOptions&quot;: {
+                        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                        &quot;menuIconOptions&quot;: {
+                          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                          &quot;thickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 1.0
+                          }
+                        }
+                      },
+                      &quot;dynamicOptions&quot;: {
+                        &quot;border&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;position&quot;: &quot;allSides&quot;,
+                          &quot;thickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 4.0
+                          }
+                        }
+                      },
+                      &quot;solidOptions&quot;: {
+                        &quot;headerOpacity&quot;: {
+                          &quot;unit&quot;: &quot;%&quot;,
+                          &quot;value&quot;: 100.0
+                        },
+                        &quot;border&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;position&quot;: &quot;allSides&quot;,
+                          &quot;thickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 4.0
+                          }
+                        },
+                        &quot;dropShadow&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;blur&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 30.0
+                          },
+                          &quot;spread&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 0.0
+                          },
+                          &quot;distance&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 0.0
+                          }
+                        },
+                        &quot;blurBackground&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;blurRadius&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 12.0
+                          }
+                        }
+                      },
+                      &quot;gradientOptions&quot;: {
+                        &quot;gradientType&quot;: &quot;faded&quot;,
+                        &quot;headerOpacity&quot;: {
+                          &quot;unit&quot;: &quot;%&quot;,
+                          &quot;value&quot;: 90.0
+                        },
+                        &quot;border&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;position&quot;: &quot;allSides&quot;,
+                          &quot;thickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 4.0
+                          }
+                        },
+                        &quot;dropShadow&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;blur&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 30.0
+                          },
+                          &quot;spread&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 0.0
+                          },
+                          &quot;distance&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 0.0
+                          }
+                        },
+                        &quot;blurBackground&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;blurRadius&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 12.0
+                          }
+                        }
+                      },
+                      &quot;showPromotedElement&quot;: false
+                    }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
+                      &quot;enabled&quot;: false,
+                      &quot;iconEnabled&quot;: false,
+                      &quot;iconType&quot;: &quot;globe&quot;,
+                      &quot;flagShape&quot;: &quot;shiny&quot;,
+                      &quot;languageFlags&quot;: [ ]
+                    }"
   
   data-first-focusable-element
   tabindex="-1"
@@ -849,142 +849,142 @@
     
     "
     data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+                      &quot;layout&quot;: &quot;navRight&quot;,
+                      &quot;action&quot;: {
+                        &quot;href&quot;: &quot;/take-action&quot;,
+                        &quot;buttonText&quot;: &quot;Take Action&quot;,
+                        &quot;newWindow&quot;: false
+                      },
+                      &quot;showSocial&quot;: true,
+                      &quot;socialOptions&quot;: {
+                        &quot;socialBorderShape&quot;: &quot;none&quot;,
+                        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                        &quot;socialBorderThickness&quot;: {
+                          &quot;unit&quot;: &quot;px&quot;,
+                          &quot;value&quot;: 1.0
+                        }
+                      },
+                      &quot;sectionTheme&quot;: &quot;light&quot;,
+                      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                      &quot;cartStyle&quot;: &quot;cart&quot;,
+                      &quot;cartText&quot;: &quot;Cart&quot;,
+                      &quot;showEmptyCartState&quot;: true,
+                      &quot;cartOptions&quot;: {
+                        &quot;iconType&quot;: &quot;solid-7&quot;,
+                        &quot;cartBorderShape&quot;: &quot;none&quot;,
+                        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                        &quot;cartBorderThickness&quot;: {
+                          &quot;unit&quot;: &quot;px&quot;,
+                          &quot;value&quot;: 1.0
+                        }
+                      },
+                      &quot;showButton&quot;: false,
+                      &quot;showCart&quot;: false,
+                      &quot;showAccountLogin&quot;: true,
+                      &quot;headerStyle&quot;: &quot;theme&quot;,
+                      &quot;languagePicker&quot;: {
+                        &quot;enabled&quot;: false,
+                        &quot;iconEnabled&quot;: false,
+                        &quot;iconType&quot;: &quot;globe&quot;,
+                        &quot;flagShape&quot;: &quot;shiny&quot;,
+                        &quot;languageFlags&quot;: [ ]
+                      },
+                      &quot;mobileOptions&quot;: {
+                        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                        &quot;menuIconOptions&quot;: {
+                          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                          &quot;thickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 1.0
+                          }
+                        }
+                      },
+                      &quot;dynamicOptions&quot;: {
+                        &quot;border&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;position&quot;: &quot;allSides&quot;,
+                          &quot;thickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 4.0
+                          }
+                        }
+                      },
+                      &quot;solidOptions&quot;: {
+                        &quot;headerOpacity&quot;: {
+                          &quot;unit&quot;: &quot;%&quot;,
+                          &quot;value&quot;: 100.0
+                        },
+                        &quot;border&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;position&quot;: &quot;allSides&quot;,
+                          &quot;thickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 4.0
+                          }
+                        },
+                        &quot;dropShadow&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;blur&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 30.0
+                          },
+                          &quot;spread&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 0.0
+                          },
+                          &quot;distance&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 0.0
+                          }
+                        },
+                        &quot;blurBackground&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;blurRadius&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 12.0
+                          }
+                        }
+                      },
+                      &quot;gradientOptions&quot;: {
+                        &quot;gradientType&quot;: &quot;faded&quot;,
+                        &quot;headerOpacity&quot;: {
+                          &quot;unit&quot;: &quot;%&quot;,
+                          &quot;value&quot;: 90.0
+                        },
+                        &quot;border&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;position&quot;: &quot;allSides&quot;,
+                          &quot;thickness&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 4.0
+                          }
+                        },
+                        &quot;dropShadow&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;blur&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 30.0
+                          },
+                          &quot;spread&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 0.0
+                          },
+                          &quot;distance&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 0.0
+                          }
+                        },
+                        &quot;blurBackground&quot;: {
+                          &quot;enabled&quot;: false,
+                          &quot;blurRadius&quot;: {
+                            &quot;unit&quot;: &quot;px&quot;,
+                            &quot;value&quot;: 12.0
+                          }
+                        }
+                      },
+                      &quot;showPromotedElement&quot;: false
+                    }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1135,31 +1135,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+                      &quot;imageOverlayOpacity&quot;: 0.15,
+                      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                      &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                      &quot;customSectionHeight&quot;: 10,
+                      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                      &quot;customContentWidth&quot;: 50,
+                      &quot;sectionTheme&quot;: &quot;&quot;,
+                      &quot;sectionAnimation&quot;: &quot;none&quot;,
+                      &quot;backgroundMode&quot;: &quot;image&quot;
+                    }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+                      &quot;video&quot;: {
+                        &quot;playbackSpeed&quot;: 0.5,
+                        &quot;filter&quot;: 1,
+                        &quot;filterStrength&quot;: 0,
+                        &quot;zoom&quot;: 0,
+                        &quot;videoSourceProvider&quot;: &quot;none&quot;
+                      },
+                      &quot;backgroundImageId&quot;: null,
+                      &quot;backgroundMediaEffect&quot;: null,
+                      &quot;divider&quot;: null,
+                      &quot;typeName&quot;: &quot;blog-masonry&quot;
+                    }"
   data-animation="none"
   
    
@@ -1218,7 +1218,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-62c8775ae67af040b595e465"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-63a7d137508ebd973e7e"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Thank you for wanting to know more today than you did yesterday, and I hope you love the show.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, 13 days ago if you’d talked to me, I would have sworn to you that this next episode of the show was going to be talking about—you know, we’ll be doing clarification of finer points of the main body of Hegel’s work. Then about 7 days ago I decided, no, there’s actually a lot of really good points that will help us understand that better if we talk about Kant and Hegel and Schleiermacher and their views on the moral order and religion. But then really soon after that I changed my mind again, and I settled on this episode that we’re about to do here. And it might immediately seem completely unrelated to everything that we’ve been talking about. But I promise you guys, bear with me, there is a deep, profound, clarifying connection to Kant, Hegel, and Schleiermacher here, one that will be incredibly useful moving forward. Well, that and also based on the feedback that I get from you guys, it seems like you really enjoy these types of episodes. I always get a lot of positivity and love from you people whenever we do an episode that literally every one of us can relate to. We all have a frame of reference to relate to it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, without any further ado, on today’s episode we’re going to be talking about moodiness. So, we’ve all met a moody person, right? What is a moody person? How do you even define what a moody person is? Well, folks, this is a philosophy podcast, as you know. And because one of philosophy’s favorite pastimes is taking words and colloquialisms that seem simple that we think we know the meaning of and making our lives a locust swarm of agony by pointing out assumptions in them, let’s figure out exactly what we’re talking about when we say the word “moodiness.” And maybe a good place to start this discussion is just to say what I think is a pretty uncontroversial statement, which is that when it comes to happiness, no matter what you think will help you attain it, no matter what you desire specifically, whether it’s a beautiful family or your dream job or a nice car, I think we can all agree that it’s not the physical car itself that you want. No, you don’t necessarily care about a bunch of metal and rubber coming together.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What you want is the positive emotional state that you think that car will bring you once you have it, right? This is evident given the fact that when your dream car inevitably just becomes your everyday car, there’s always another car that you want and then another car that you want, one that will hopefully stir up these positive emotional states again. What I’m saying is that ultimately when you’re on your deathbed and you look back on your life and you wonder about whether you had a happy life or not, all you’re really looking at there is, were you in a positive emotional state a majority of the time or not? In this way, whether we consider ourselves to be happy or unhappy really just comes down to the collection of the emotional states that we find ourselves in.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, that said, you ever heard somebody say the statement, “There’s two kinds of people in this world: X and Y.” Of course you have. I’m sorry. I’m trying to think if there’s ever been a single one of those statements ever uttered that’s actually been true. Maybe like, “There’s two types of people: people who are dead and people who are alive.” I’m sure there’s an exception to that too. Point is, I love this statement, personally, because it’s a really convenient way to break the world down into a false dichotomy, a false dichotomy that anyone with half a brain can rip apart mercilessly.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, one common false dichotomy that I’ve heard repeatedly over my tenure as a human being here on this planet is when people say, “There’s two types of people: moody people and non-moody people.” And we all know what they mean when they say that, but of course we know that this isn’t true. We were all born moody people. If your mood is just any one particular emotional state that you’re in at a given time, then someone who is moody would be somebody who is prone to having moods, just like somebody who’s sneaky is somebody prone to sneaking. Somebody who’s smelly is prone to getting kicked off of public transit.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Fact is, we all have negative and positive emotions that arise in our bodies. They’re an intrinsic part of human experience. Nobody is born Spock from <em>Star Trek</em>. We are born creatures that by default have constantly changing emotional states that are largely affected by the things happening to us. And whether you think these are imbued into us as a result of millions of years of evolution and they have some sort of survival advantage or whether you think God gifted them to us so that we could have a stark contrast to the background that is his everlasting, unconditional love—whatever you think, you have to wonder. You have to be curious why people are so different in the way that their emotions affect them. We’re all people. And I think that if we had to be relegated to that “there’s two types of people” false dichotomy, a more accurate statement isn’t moody or non-moody people, but maybe people that appear to be moody and people that appear to be not moody.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">By the way, quick aside in the interest of making sure you guys know where I’m coming from here. I realize this topic is not as simple as just saying that all things are equal with all people, and we’re starting from the same place when it comes to whether we’re moody or not. I completely reserve judgment about people’s moodiness if it’s related to some sort of genetic predisposition that they may have. I mean, as many of you guys well know, I come from a home where both of my parents were really terrible addicts and they suffered with emotional difficulties their whole life. These bodies that we have are complex mixtures of chemicals. And if one or more of these chemicals gets thrown out of whack somehow, sometimes your body can’t compensate for it fully, and you have very real emotional difficulties that arise that really have nothing to do with philosophy at all. I would never want to talk about that. What I’m saying is, trust me guys, I know how much things like diet or exercise or taking an SSRI, anything—I realize how these things can have profound effects on the lens that you experience the world through.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, that said, barring these exceptions to the rule, it’s fun to think about: what camp do you think you fall into in this false dichotomy? Are you a person that appears to be moody all the time? Or are you a person that appears not to be moody? As a point of comparison, can you think of a couple people you may know at work or in your family that fall into each of these categories? Well, let’s think about it. What makes someone a moody person? It may seem simple, but it’s actually a really tricky question the more you think about it. But something interesting to consider is that whatever it is, it probably lies somewhere inside of the person before they ever really show how they’re feeling to you at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">By the way, we can all acknowledge this, right? We’ve all done this before ourselves. How many times have you ever not been feeling that good—maybe you’re mad about something; maybe you’re anxious—and you decide in that moment, “You know what? No, I’m not going to take this negative feeling out on the people around me.” And you paint a smile on your face and some inflection in your voice even though you feel terrible. Now, lucky for us, usually there is a direct correlation between how we appear to feel and how we actually feel. But the point is, what we overtly express in our behavior has nothing to do necessarily with how we’re feeling inside. It’s not unreasonable to say that an emotional state might arise in someone, and despite them putting on a good act to everyone around them, internally they’re being rag-dolled around by negative or positive emotional states.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And it’s because of this very internal nature of how our emotions affect us that one common theory among philosophers and intellectuals alike is that what makes someone a moody person is that they lack a method of self-governance when it comes to what’s going on inside of them. A moody person would oftentimes see themselves as a passenger in a car, and their chauffeur to this car is whatever fleeting adversities or fortunes are thrown their way as they navigate their life. Now, if that all sounds very philosophical and abstract, I apologize. I’ve been rereading Boethius this week. How about we just give a real-world example of what this theory is that we’re talking about here?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What might it look like? Picture a moody person having a quintessential bad day. Maybe they’re tired; they’re hungry. Maybe their toe hurts, whatever. Well, if we’re accepting this common theory as true, because they lack a system of self-governance of these negative emotional states that arise when their toe hurts, for instance, their mood, ungoverned, rides in tandem with whatever comes up in their life. So, what ends up happening is that they are hopelessly controlled by whatever happens to come up throughout their day. And we usually experience it when it manifests them into treating other people around them poorly because they’re having a bad day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But just listen to how we typically say that: I am <em>having</em> a bad day. I <em>have</em> this day. I possess it. As though your day is this static thing that was gifted to me. I was <em>given</em> this day by something that’s entirely out of my control. The underlying plight and tagline of a moody person is that how I feel from moment to moment comes down to the thing that’s happening to me, not the way I interpret that thing that happens to me. And by the way, if you’ve ever met a moody person and asked them about it, there’s all kinds of arguments that they give to try to justify why their moodiness is out of their control. Some people will say something like, “No, it’s not that I lack some internal system of regulating emotions. I’m just more in tune with my feelings than you are. You walk around this world numb, disconnected from the world around you. You don’t feel as deeply as I feel.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Another argument is, “Well, look, I’m sorry, but everyone just has it a lot easier than I do. Look, I’m sorry if my live is not unicorns and gumdrops all the time like your life. What, you think I want to be this way? If the world wasn’t such a terrible place, and if people weren’t being so inconsiderate to me all the time, my life would be great. I wish I could just mindlessly walk around like you.” My favorite argument is, “How can you be so arrogant? Why are you so inconsiderate to me that you’d expect me to be in a good mood? How I’m feeling in this moment is not a reflection on you or the people around me. It’s just how I feel. I feel this way, and you’re just trying to make it about you right now.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, whether you think these arguments are filled with great points or brimming over the edge with fallacies, on the other side of this theory is who? Well, if the moody side are people that lack a means of regulating emotions when they arise, then the other side would be people that have that means of regulation, right? So, what does that look like? Let’s do another real-world example. For the sake of irony, let’s make our hypothetical guy angry about a moody person, getting moody about moody people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Picture somebody sitting in their office dealing with a person who’s commandeering the morale of the entire office, treating everybody poorly, because they’re mad about their football team losing last night because the refs made a horrible call. Now, the non-moody person would probably look at that and scoff. They’d probably see the moody person as really immature. I mean, I can just see them sitting in their cubicle saying something like, “Look, my toe hurts too, figuratively speaking. My team lost yesterday because of a horrible call too. In fact, everyone in this entire office has had bad calls evoke negative emotions in them. The only difference is, we all graduated the seventh grade at one point and cultivated skills to be able to deal with these things that make us upset. And this moody guy over here hasn’t for some reason.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, if you extract the snide way that this person’s talking about this, it’s actually the same exact sentiment that we’ve seen time and time again in philosophy, right? Think of the Hellenistic Age. During the really volatile and dangerous time after the death of Alexander the Great, people’s lives were filled with tragedies that they had zero control over. And it was this dynamic, as we know, that gave rise to schools of thought like stoicism, Epicureanism, cynicism, skepticism. And there are more, by the way. These are just four of literally millions of systems that people have created over the course of recorded history that have an explicit purpose of giving us these tools that frame our experiences in a more productive way to quell these emotions.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In other words, the non-moody person would say that nobody is born with these skills. We’re all born moody. These skills are learned. And like any skill, if you want to get better at it, you need practice. But it would be very, very easy to go throughout your life just using the default settings on this OS installed in your brain, to never really consider that by not regulating your emotions you’re effectively being enslaved by the people and things around you. Based on this theory that we’re looking at, things like positive thinking or Buddhism or stoicism—these would be the actionable systems that would teach you how to practice not being a slave to the world around you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And if the slave comment seems a little extreme, just think about it. If somebody can merely turn a steering wheel a little bit to the left, cut you off in traffic, or come up to you and say a couple of mean words to you, and by them doing that, you feel compelled to fly off the handle, fight them, express your disapproval, have you stewing about it for the rest of the day, you are enslaved to that person, my friend. In this way, the referees—these guys in these Foot Locker outfits—these guys are the warden, and all of us are the prison inmates. And these systems often use this very kind of language when describing this stuff that’s out of our control. Buddhism talks about attachments. Epictetus literally uses the word “slave.” But the really fascinating claim that many of these systems make is that, hypothetically speaking, if you practice this skill of being able to regulate your emotions long enough—you know, if you became the Michael Jordan of emotional self-governance—you could theoretically have your best friend, the closest person to you, die an untimely death, a tragic death, and you wouldn’t have to grieve over the loss.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if you hear that and you start rolling your eyes, I get it. If you can’t ever imagine yourself actually getting to that point, understand that when Seneca writes his work “On the Shortness of Life”—famous stoic, as we know—he’s really laying out this idea as an ideal to strive for. Seneca or Marcus Aurelius or any believer in this theory might say that, “You know what, sure, the death of the closest one to you may be a tall order, admittedly. It probably is one of the most extreme cases imaginable, though. And even if you can’t ever see yourself getting to that point, understand that this is not an all-or-nothing endeavor. You may not ever reach that level of mastery, but does that make your pursuit of improving at the skills useless? Wouldn’t improving your skills enough where you’re even a little less affected by sadness or anxiety or anger—wouldn’t that drastically improve your life?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I’d compare it to martial arts. Just because you can never see yourself becoming an eighth-degree black belt competing at the world championships, winning the gold medal, does that make taking a class useless at teaching you self-defense? I mean, wouldn’t some training render you a lot more capable of a person than zero training? I think that’s analogous to what so many of these systems claim. Have the ideal of an eighth-degree black belt to strive for, but never stop improving and being a student, even if you never get there.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Again, I just want to clarify. All of these systems are not saying that when a negative emotion arises to just act “as if,” to put on a happy face and just be the bigger person. Don’t take it out of the people around you. No, that’s not what they’re saying. In that case, you’d still feel horrible inside, right? You’re just not showing it. You’re still taking it out on yourself. These programs are saying that even having a single, simple tool to deal with adversity—count to ten; look on the bright side of things—that tool if you have it is invaluable when it comes to maintaining positive emotional states. And as I said before, what is happiness other than the quality of the emotional states that we’re in consistently?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But here’s the interesting part and the part that’s much more difficult to answer that we should all be thinking about this week. Even if this theory is true, and even if we can say definitively that there are systems out there that if you practice them, you’re going to learn how to regulate your emotions better—that really says nothing about whether anybody should be using those methods or whether we can hold people morally accountable for not using those methods. In other words, if you’re the guy sitting in the office, the cubicle, and you think it’s annoying when the guy in the cubicle next to you takes out the mistake that a referee made on the other side of the country last night on you and the rest of the office—not managing their emotions properly—you may think that’s annoying, and you may hold yourself to a higher standard. But are you really justified in expecting one of your fellow human beings to learn how? Can you really tell the guy that he’s <em>wrong</em> for being moody or that he <em>should</em> manage his emotions better? The question is, are people wrong for being moody people?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Just based on the conversations I’ve had with people about this during my life, I have a strong suspicion that the people listening to this show are going to be pretty much split down the middle with this question. It’s a tough one to answer. But it’s a crucial one to think about moving forward with these German philosophers. Do people have a moral obligation to themselves or the people around them to put in more of an effort into not being a passenger or a slave to everything that happens to them?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There’s certainly arguments on either side. A moody person might argue, “Well, even if we grant that this is some handicap that I have—which, by the way, is condescending. And this is far from obvious, by the way, we’re assuming quite a bit by this point. But even if we can say that something is ‘wrong’ with the way that I’m acting, come on, there are plenty of other areas in life where people lack basic skills or abilities, and we don’t say they’re wrong for impeding on our day. Like, you don’t get mad at the guy in the wheelchair at Disney Land when he holds up your line. You don’t get mad at the blind guy that accidentally walks out into the middle of the street and holds up traffic.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The non-moody person may respond, “Look, those are no doubt handicaps that we should be tolerant of, but as a society, we are more accepting of those handicaps than moodiness because they’re completely out of the person’s control. I mean, it doesn’t matter how hard the blind guy practices at seeing. A blind guy could sit there staring at that eye chart on the wall six hours a day for five years. He’s never going to be able to read that giant E on the top line. It’s just not happening.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Either way, I’m an optimist. Even if we accept all these premises, I don’t think moody people are evil or something. I mean, in keeping with most patterns of human behavior, I generally think that people do things because at least at the time they think it’s going to improve their situation. It just starts to get complicated there because everyone’s idea of improvement is slightly different. We’re talking about something very subjective here is what I’m saying.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But the question remains: if these moody people are needlessly suffering at their own hands and they fully realize that just a little bit of practice might be able to considerably improve their number of positive emotional states, what’s stopping them from doing it? What stops them from doing it? That’s not an arrogant, rhetorical question. I’m not being facetious here. I’m serious. When a guy that’s married with children goes to his factory job all day and he hates his job and he’s stressed out and he’s tired, and he comes home every day and not only takes his day out on his wife and kids, but then at that point that he’s doing it, is content with doing nothing, taking no steps to even try to quell that moodiness that’s negatively affecting his life and his family’s lives; what leads him to do that? It’s interesting to think about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">A non-moody person may argue that it’s just laziness, that he just takes his wife and kids for granted; and that because the people around him allow him to act that way every day—they don’t call him on it—because he allows himself, he’s never forced to make an effort and evoke change. These people might say that this is human nature to take the path of least resistance. Like I’ve said on this show before, if you need fresh water and you have the choice between a freshwater source that’s right next to you—at the stream flowing right next to you requiring zero effort—and a stream that’s on the other side of a mountain face, which stream are you going to get your water from? Why put in more effort than is necessary?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">A non-moody person might say that if this guy working at the factory was the same exact person that he is right now, same exact stressful, tiring job, but had a different love life—well, let’s say that on that same day when he was tired and stressed, instead of coming home to his wife and kids that he takes for granted, he was going out on a first date with a girl that he met at a party last week—he was really into her, she was classy, sophisticated, witty, passionate, beautiful—would he really treat her the same way that he treated his wife and kids when he got home from work? Would he really put in zero effort there? Well, the moody person might say, that doesn’t mean he’s lazy. That’s not necessarily indicative of him having some system of self-governance that he’s hiding away and not using because he’s lazy. Maybe the prospect of going out with a girl that he’s really into got him into a better mood.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, as is typical on this show, there are a lot of unanswered questions here. By the way, this is a topic I’m absolutely fascinated in. I don’t know if you guys can tell. And admittedly, selfishly, I really want to hear your thoughts on it. I know hosts say that kind of stuff a lot. Like, “Talk to me on Twitter about this topic!” No, there’s no self-promotion here. You guys are legitimately the smartest people I have access to, smartest people I know. And I really want to know what you think about, one, moody people, two, whether it’s possible not to be moody, and three—most importantly for our discussions coming up on Hegel, Kant, and Schleiermacher—do you have a moral obligation to make an effort and not take your bad mood out on the other people around you? What do you think? Please help me.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Thank you for wanting to know more today than you did yesterday, and I hope you love the show.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, 13 days ago if you’d talked to me, I would have sworn to you that this next episode of the show was going to be talking about—you know, we’ll be doing clarification of finer points of the main body of Hegel’s work. Then about 7 days ago I decided, no, there’s actually a lot of really good points that will help us understand that better if we talk about Kant and Hegel and Schleiermacher and their views on the moral order and religion. But then really soon after that I changed my mind again, and I settled on this episode that we’re about to do here. And it might immediately seem completely unrelated to everything that we’ve been talking about. But I promise you guys, bear with me, there is a deep, profound, clarifying connection to Kant, Hegel, and Schleiermacher here, one that will be incredibly useful moving forward. Well, that and also based on the feedback that I get from you guys, it seems like you really enjoy these types of episodes. I always get a lot of positivity and love from you people whenever we do an episode that literally every one of us can relate to. We all have a frame of reference to relate to it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, without any further ado, on today’s episode we’re going to be talking about moodiness. So, we’ve all met a moody person, right? What is a moody person? How do you even define what a moody person is? Well, folks, this is a philosophy podcast, as you know. And because one of philosophy’s favorite pastimes is taking words and colloquialisms that seem simple that we think we know the meaning of and making our lives a locust swarm of agony by pointing out assumptions in them, let’s figure out exactly what we’re talking about when we say the word “moodiness.” And maybe a good place to start this discussion is just to say what I think is a pretty uncontroversial statement, which is that when it comes to happiness, no matter what you think will help you attain it, no matter what you desire specifically, whether it’s a beautiful family or your dream job or a nice car, I think we can all agree that it’s not the physical car itself that you want. No, you don’t necessarily care about a bunch of metal and rubber coming together.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What you want is the positive emotional state that you think that car will bring you once you have it, right? This is evident given the fact that when your dream car inevitably just becomes your everyday car, there’s always another car that you want and then another car that you want, one that will hopefully stir up these positive emotional states again. What I’m saying is that ultimately when you’re on your deathbed and you look back on your life and you wonder about whether you had a happy life or not, all you’re really looking at there is, were you in a positive emotional state a majority of the time or not? In this way, whether we consider ourselves to be happy or unhappy really just comes down to the collection of the emotional states that we find ourselves in.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, that said, you ever heard somebody say the statement, “There’s two kinds of people in this world: X and Y.” Of course you have. I’m sorry. I’m trying to think if there’s ever been a single one of those statements ever uttered that’s actually been true. Maybe like, “There’s two types of people: people who are dead and people who are alive.” I’m sure there’s an exception to that too. Point is, I love this statement, personally, because it’s a really convenient way to break the world down into a false dichotomy, a false dichotomy that anyone with half a brain can rip apart mercilessly.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, one common false dichotomy that I’ve heard repeatedly over my tenure as a human being here on this planet is when people say, “There’s two types of people: moody people and non-moody people.” And we all know what they mean when they say that, but of course we know that this isn’t true. We were all born moody people. If your mood is just any one particular emotional state that you’re in at a given time, then someone who is moody would be somebody who is prone to having moods, just like somebody who’s sneaky is somebody prone to sneaking. Somebody who’s smelly is prone to getting kicked off of public transit.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Fact is, we all have negative and positive emotions that arise in our bodies. They’re an intrinsic part of human experience. Nobody is born Spock from <em>Star Trek</em>. We are born creatures that by default have constantly changing emotional states that are largely affected by the things happening to us. And whether you think these are imbued into us as a result of millions of years of evolution and they have some sort of survival advantage or whether you think God gifted them to us so that we could have a stark contrast to the background that is his everlasting, unconditional love—whatever you think, you have to wonder. You have to be curious why people are so different in the way that their emotions affect them. We’re all people. And I think that if we had to be relegated to that “there’s two types of people” false dichotomy, a more accurate statement isn’t moody or non-moody people, but maybe people that appear to be moody and people that appear to be not moody.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">By the way, quick aside in the interest of making sure you guys know where I’m coming from here. I realize this topic is not as simple as just saying that all things are equal with all people, and we’re starting from the same place when it comes to whether we’re moody or not. I completely reserve judgment about people’s moodiness if it’s related to some sort of genetic predisposition that they may have. I mean, as many of you guys well know, I come from a home where both of my parents were really terrible addicts and they suffered with emotional difficulties their whole life. These bodies that we have are complex mixtures of chemicals. And if one or more of these chemicals gets thrown out of whack somehow, sometimes your body can’t compensate for it fully, and you have very real emotional difficulties that arise that really have nothing to do with philosophy at all. I would never want to talk about that. What I’m saying is, trust me guys, I know how much things like diet or exercise or taking an SSRI, anything—I realize how these things can have profound effects on the lens that you experience the world through.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, that said, barring these exceptions to the rule, it’s fun to think about: what camp do you think you fall into in this false dichotomy? Are you a person that appears to be moody all the time? Or are you a person that appears not to be moody? As a point of comparison, can you think of a couple people you may know at work or in your family that fall into each of these categories? Well, let’s think about it. What makes someone a moody person? It may seem simple, but it’s actually a really tricky question the more you think about it. But something interesting to consider is that whatever it is, it probably lies somewhere inside of the person before they ever really show how they’re feeling to you at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">By the way, we can all acknowledge this, right? We’ve all done this before ourselves. How many times have you ever not been feeling that good—maybe you’re mad about something; maybe you’re anxious—and you decide in that moment, “You know what? No, I’m not going to take this negative feeling out on the people around me.” And you paint a smile on your face and some inflection in your voice even though you feel terrible. Now, lucky for us, usually there is a direct correlation between how we appear to feel and how we actually feel. But the point is, what we overtly express in our behavior has nothing to do necessarily with how we’re feeling inside. It’s not unreasonable to say that an emotional state might arise in someone, and despite them putting on a good act to everyone around them, internally they’re being rag-dolled around by negative or positive emotional states.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And it’s because of this very internal nature of how our emotions affect us that one common theory among philosophers and intellectuals alike is that what makes someone a moody person is that they lack a method of self-governance when it comes to what’s going on inside of them. A moody person would oftentimes see themselves as a passenger in a car, and their chauffeur to this car is whatever fleeting adversities or fortunes are thrown their way as they navigate their life. Now, if that all sounds very philosophical and abstract, I apologize. I’ve been rereading Boethius this week. How about we just give a real-world example of what this theory is that we’re talking about here?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What might it look like? Picture a moody person having a quintessential bad day. Maybe they’re tired; they’re hungry. Maybe their toe hurts, whatever. Well, if we’re accepting this common theory as true, because they lack a system of self-governance of these negative emotional states that arise when their toe hurts, for instance, their mood, ungoverned, rides in tandem with whatever comes up in their life. So, what ends up happening is that they are hopelessly controlled by whatever happens to come up throughout their day. And we usually experience it when it manifests them into treating other people around them poorly because they’re having a bad day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But just listen to how we typically say that: I am <em>having</em> a bad day. I <em>have</em> this day. I possess it. As though your day is this static thing that was gifted to me. I was <em>given</em> this day by something that’s entirely out of my control. The underlying plight and tagline of a moody person is that how I feel from moment to moment comes down to the thing that’s happening to me, not the way I interpret that thing that happens to me. And by the way, if you’ve ever met a moody person and asked them about it, there’s all kinds of arguments that they give to try to justify why their moodiness is out of their control. Some people will say something like, “No, it’s not that I lack some internal system of regulating emotions. I’m just more in tune with my feelings than you are. You walk around this world numb, disconnected from the world around you. You don’t feel as deeply as I feel.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Another argument is, “Well, look, I’m sorry, but everyone just has it a lot easier than I do. Look, I’m sorry if my live is not unicorns and gumdrops all the time like your life. What, you think I want to be this way? If the world wasn’t such a terrible place, and if people weren’t being so inconsiderate to me all the time, my life would be great. I wish I could just mindlessly walk around like you.” My favorite argument is, “How can you be so arrogant? Why are you so inconsiderate to me that you’d expect me to be in a good mood? How I’m feeling in this moment is not a reflection on you or the people around me. It’s just how I feel. I feel this way, and you’re just trying to make it about you right now.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, whether you think these arguments are filled with great points or brimming over the edge with fallacies, on the other side of this theory is who? Well, if the moody side are people that lack a means of regulating emotions when they arise, then the other side would be people that have that means of regulation, right? So, what does that look like? Let’s do another real-world example. For the sake of irony, let’s make our hypothetical guy angry about a moody person, getting moody about moody people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Picture somebody sitting in their office dealing with a person who’s commandeering the morale of the entire office, treating everybody poorly, because they’re mad about their football team losing last night because the refs made a horrible call. Now, the non-moody person would probably look at that and scoff. They’d probably see the moody person as really immature. I mean, I can just see them sitting in their cubicle saying something like, “Look, my toe hurts too, figuratively speaking. My team lost yesterday because of a horrible call too. In fact, everyone in this entire office has had bad calls evoke negative emotions in them. The only difference is, we all graduated the seventh grade at one point and cultivated skills to be able to deal with these things that make us upset. And this moody guy over here hasn’t for some reason.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, if you extract the snide way that this person’s talking about this, it’s actually the same exact sentiment that we’ve seen time and time again in philosophy, right? Think of the Hellenistic Age. During the really volatile and dangerous time after the death of Alexander the Great, people’s lives were filled with tragedies that they had zero control over. And it was this dynamic, as we know, that gave rise to schools of thought like stoicism, Epicureanism, cynicism, skepticism. And there are more, by the way. These are just four of literally millions of systems that people have created over the course of recorded history that have an explicit purpose of giving us these tools that frame our experiences in a more productive way to quell these emotions.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In other words, the non-moody person would say that nobody is born with these skills. We’re all born moody. These skills are learned. And like any skill, if you want to get better at it, you need practice. But it would be very, very easy to go throughout your life just using the default settings on this OS installed in your brain, to never really consider that by not regulating your emotions you’re effectively being enslaved by the people and things around you. Based on this theory that we’re looking at, things like positive thinking or Buddhism or stoicism—these would be the actionable systems that would teach you how to practice not being a slave to the world around you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And if the slave comment seems a little extreme, just think about it. If somebody can merely turn a steering wheel a little bit to the left, cut you off in traffic, or come up to you and say a couple of mean words to you, and by them doing that, you feel compelled to fly off the handle, fight them, express your disapproval, have you stewing about it for the rest of the day, you are enslaved to that person, my friend. In this way, the referees—these guys in these Foot Locker outfits—these guys are the warden, and all of us are the prison inmates. And these systems often use this very kind of language when describing this stuff that’s out of our control. Buddhism talks about attachments. Epictetus literally uses the word “slave.” But the really fascinating claim that many of these systems make is that, hypothetically speaking, if you practice this skill of being able to regulate your emotions long enough—you know, if you became the Michael Jordan of emotional self-governance—you could theoretically have your best friend, the closest person to you, die an untimely death, a tragic death, and you wouldn’t have to grieve over the loss.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if you hear that and you start rolling your eyes, I get it. If you can’t ever imagine yourself actually getting to that point, understand that when Seneca writes his work “On the Shortness of Life”—famous stoic, as we know—he’s really laying out this idea as an ideal to strive for. Seneca or Marcus Aurelius or any believer in this theory might say that, “You know what, sure, the death of the closest one to you may be a tall order, admittedly. It probably is one of the most extreme cases imaginable, though. And even if you can’t ever see yourself getting to that point, understand that this is not an all-or-nothing endeavor. You may not ever reach that level of mastery, but does that make your pursuit of improving at the skills useless? Wouldn’t improving your skills enough where you’re even a little less affected by sadness or anxiety or anger—wouldn’t that drastically improve your life?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I’d compare it to martial arts. Just because you can never see yourself becoming an eighth-degree black belt competing at the world championships, winning the gold medal, does that make taking a class useless at teaching you self-defense? I mean, wouldn’t some training render you a lot more capable of a person than zero training? I think that’s analogous to what so many of these systems claim. Have the ideal of an eighth-degree black belt to strive for, but never stop improving and being a student, even if you never get there.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Again, I just want to clarify. All of these systems are not saying that when a negative emotion arises to just act “as if,” to put on a happy face and just be the bigger person. Don’t take it out of the people around you. No, that’s not what they’re saying. In that case, you’d still feel horrible inside, right? You’re just not showing it. You’re still taking it out on yourself. These programs are saying that even having a single, simple tool to deal with adversity—count to ten; look on the bright side of things—that tool if you have it is invaluable when it comes to maintaining positive emotional states. And as I said before, what is happiness other than the quality of the emotional states that we’re in consistently?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But here’s the interesting part and the part that’s much more difficult to answer that we should all be thinking about this week. Even if this theory is true, and even if we can say definitively that there are systems out there that if you practice them, you’re going to learn how to regulate your emotions better—that really says nothing about whether anybody should be using those methods or whether we can hold people morally accountable for not using those methods. In other words, if you’re the guy sitting in the office, the cubicle, and you think it’s annoying when the guy in the cubicle next to you takes out the mistake that a referee made on the other side of the country last night on you and the rest of the office—not managing their emotions properly—you may think that’s annoying, and you may hold yourself to a higher standard. But are you really justified in expecting one of your fellow human beings to learn how? Can you really tell the guy that he’s <em>wrong</em> for being moody or that he <em>should</em> manage his emotions better? The question is, are people wrong for being moody people?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Just based on the conversations I’ve had with people about this during my life, I have a strong suspicion that the people listening to this show are going to be pretty much split down the middle with this question. It’s a tough one to answer. But it’s a crucial one to think about moving forward with these German philosophers. Do people have a moral obligation to themselves or the people around them to put in more of an effort into not being a passenger or a slave to everything that happens to them?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There’s certainly arguments on either side. A moody person might argue, “Well, even if we grant that this is some handicap that I have—which, by the way, is condescending. And this is far from obvious, by the way, we’re assuming quite a bit by this point. But even if we can say that something is ‘wrong’ with the way that I’m acting, come on, there are plenty of other areas in life where people lack basic skills or abilities, and we don’t say they’re wrong for impeding on our day. Like, you don’t get mad at the guy in the wheelchair at Disney Land when he holds up your line. You don’t get mad at the blind guy that accidentally walks out into the middle of the street and holds up traffic.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The non-moody person may respond, “Look, those are no doubt handicaps that we should be tolerant of, but as a society, we are more accepting of those handicaps than moodiness because they’re completely out of the person’s control. I mean, it doesn’t matter how hard the blind guy practices at seeing. A blind guy could sit there staring at that eye chart on the wall six hours a day for five years. He’s never going to be able to read that giant E on the top line. It’s just not happening.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Either way, I’m an optimist. Even if we accept all these premises, I don’t think moody people are evil or something. I mean, in keeping with most patterns of human behavior, I generally think that people do things because at least at the time they think it’s going to improve their situation. It just starts to get complicated there because everyone’s idea of improvement is slightly different. We’re talking about something very subjective here is what I’m saying.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But the question remains: if these moody people are needlessly suffering at their own hands and they fully realize that just a little bit of practice might be able to considerably improve their number of positive emotional states, what’s stopping them from doing it? What stops them from doing it? That’s not an arrogant, rhetorical question. I’m not being facetious here. I’m serious. When a guy that’s married with children goes to his factory job all day and he hates his job and he’s stressed out and he’s tired, and he comes home every day and not only takes his day out on his wife and kids, but then at that point that he’s doing it, is content with doing nothing, taking no steps to even try to quell that moodiness that’s negatively affecting his life and his family’s lives; what leads him to do that? It’s interesting to think about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">A non-moody person may argue that it’s just laziness, that he just takes his wife and kids for granted; and that because the people around him allow him to act that way every day—they don’t call him on it—because he allows himself, he’s never forced to make an effort and evoke change. These people might say that this is human nature to take the path of least resistance. Like I’ve said on this show before, if you need fresh water and you have the choice between a freshwater source that’s right next to you—at the stream flowing right next to you requiring zero effort—and a stream that’s on the other side of a mountain face, which stream are you going to get your water from? Why put in more effort than is necessary?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">A non-moody person might say that if this guy working at the factory was the same exact person that he is right now, same exact stressful, tiring job, but had a different love life—well, let’s say that on that same day when he was tired and stressed, instead of coming home to his wife and kids that he takes for granted, he was going out on a first date with a girl that he met at a party last week—he was really into her, she was classy, sophisticated, witty, passionate, beautiful—would he really treat her the same way that he treated his wife and kids when he got home from work? Would he really put in zero effort there? Well, the moody person might say, that doesn’t mean he’s lazy. That’s not necessarily indicative of him having some system of self-governance that he’s hiding away and not using because he’s lazy. Maybe the prospect of going out with a girl that he’s really into got him into a better mood.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, as is typical on this show, there are a lot of unanswered questions here. By the way, this is a topic I’m absolutely fascinated in. I don’t know if you guys can tell. And admittedly, selfishly, I really want to hear your thoughts on it. I know hosts say that kind of stuff a lot. Like, “Talk to me on Twitter about this topic!” No, there’s no self-promotion here. You guys are legitimately the smartest people I have access to, smartest people I know. And I really want to know what you think about, one, moody people, two, whether it’s possible not to be moody, and three—most importantly for our discussions coming up on Hegel, Kant, and Schleiermacher—do you have a moral obligation to make an effort and not take your bad mood out on the other people around you? What do you think? Please help me.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+</div>
 
 
 
@@ -1378,30 +1380,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 100,
-&quot;sectionTheme&quot;: &quot;dark&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+                      &quot;imageOverlayOpacity&quot;: 0.15,
+                      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                      &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+                      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                      &quot;customContentWidth&quot;: 100,
+                      &quot;sectionTheme&quot;: &quot;dark&quot;,
+                      &quot;sectionAnimation&quot;: &quot;none&quot;,
+                      &quot;backgroundMode&quot;: &quot;image&quot;
+                    }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+                      &quot;video&quot;: {
+                        &quot;playbackSpeed&quot;: 0.5,
+                        &quot;filter&quot;: 1,
+                        &quot;filterStrength&quot;: 0,
+                        &quot;zoom&quot;: 0,
+                        &quot;videoSourceProvider&quot;: &quot;none&quot;
+                      },
+                      &quot;backgroundImageId&quot;: null,
+                      &quot;backgroundMediaEffect&quot;: null,
+                      &quot;divider&quot;: null,
+                      &quot;typeName&quot;: &quot;blog-masonry&quot;
+                    }"
   data-animation="none"
   
    
@@ -1438,25 +1440,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

@@ -41,14 +41,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #131 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"1":true,"6":true,"7":true,"4":true,"2":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #131 - Transcript","id":"5eec21c809afd80facd8c5cd","fullUrl":"/transcript/episode-131-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["crm_waitlist_enforce_recaptcha_v3_enterprise","campaigns_show_featured_templates","commerce_order_status_access","crm_default_newsletter_block_to_campaigns","member_areas_schedule_interview","campaigns_new_image_layout_picker","site_header_footer","crm_retention_segment","campaigns_asset_picker","themes","new_stacked_index","customer_accounts_email_verification","send_local_pickup_ready_email","viewer-role-contributor-invites","customer_account_creation_recaptcha","member_areas_spanish_interviews","crm_enforce_recaptcha_v3_enterprise","member_areas_provisioning_service","commerce_etsy_product_import","commerce_restock_notifications","fluid_engine","campaigns_content_editing_survey","campaigns_import_discounts","multilingual_transactional_emails","crm_enable_recaptcha_v3_enterprise","campaigns_thumbnail_layout","commerce_clearpay","campaigns_global_uc_ab","accounting_orders_sync","collection_typename_switching","nested_categories","marketing_landing_page","is_feature_gate_refresh_enabled","commerce_site_visitor_metrics","campaigns_discount_section_in_automations","background_art_onboarding","crm_remove_subscriber","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_shipping_import","order_status_page_checkout_landing_enabled","scripts_defer","site_user_email_change","visitor_react_forms","nested_categories_migration_enabled","campaigns_discount_section_in_blasts","override_block_styles","supports_versioned_template_assets"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection","mux-data-video-block-autoplay"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #131 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"7":true,"3":true,"1":true,"8":true,"2":true,"4":true,"6":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #131 - Transcript","id":"5eec21c809afd80facd8c5cd","fullUrl":"/transcript/episode-131-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["commerce_restock_notifications","campaigns_global_uc_ab","crm_enable_recaptcha_v3_enterprise","member_areas_schedule_interview","scripts_defer","site_header_footer","campaigns_thumbnail_layout","campaigns_import_discounts","new_stacked_index","customer_account_creation_recaptcha","member_areas_spanish_interviews","crm_enforce_recaptcha_v3_enterprise","collection_typename_switching","campaigns_asset_picker","commerce_order_status_access","campaigns_new_image_layout_picker","commerce_etsy_product_import","crm_remove_subscriber","commerce_clearpay","fluid_engine","member_areas_provisioning_service","fluid_engine_clean_up_grid_contextual_change","multilingual_transactional_emails","is_feature_gate_refresh_enabled","nested_categories_migration_enabled","campaigns_discount_section_in_automations","send_local_pickup_ready_email","marketing_landing_page","commerce_etsy_shipping_import","accounting_orders_sync","nested_categories","site_user_email_change","supports_versioned_template_assets","order_status_page_checkout_landing_enabled","background_art_onboarding","crm_waitlist_enforce_recaptcha_v3_enterprise","viewer-role-contributor-invites","commerce_site_visitor_metrics","campaigns_content_editing_survey","customer_accounts_email_verification","campaigns_discount_section_in_blasts","crm_retention_segment","themes","override_block_styles","crm_default_newsletter_block_to_campaigns","campaigns_show_featured_templates","visitor_react_forms"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #131 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-131-transcript","datePublished":"2019-05-23T19:59:00-0700","dateModified":"2022-07-11T09:07:15-0700","headline":"Episode #131 - Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -135,153 +135,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-                          &quot;layout&quot;: &quot;navRight&quot;,
-                          &quot;action&quot;: {
-                            &quot;href&quot;: &quot;/take-action&quot;,
-                            &quot;buttonText&quot;: &quot;Take Action&quot;,
-                            &quot;newWindow&quot;: false
-                          },
-                          &quot;showSocial&quot;: true,
-                          &quot;socialOptions&quot;: {
-                            &quot;socialBorderShape&quot;: &quot;none&quot;,
-                            &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                            &quot;socialBorderThickness&quot;: {
-                              &quot;unit&quot;: &quot;px&quot;,
-                              &quot;value&quot;: 1.0
-                            }
-                          },
-                          &quot;sectionTheme&quot;: &quot;light&quot;,
-                          &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                          &quot;cartStyle&quot;: &quot;cart&quot;,
-                          &quot;cartText&quot;: &quot;Cart&quot;,
-                          &quot;showEmptyCartState&quot;: true,
-                          &quot;cartOptions&quot;: {
-                            &quot;iconType&quot;: &quot;solid-7&quot;,
-                            &quot;cartBorderShape&quot;: &quot;none&quot;,
-                            &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                            &quot;cartBorderThickness&quot;: {
-                              &quot;unit&quot;: &quot;px&quot;,
-                              &quot;value&quot;: 1.0
-                            }
-                          },
-                          &quot;showButton&quot;: false,
-                          &quot;showCart&quot;: false,
-                          &quot;showAccountLogin&quot;: true,
-                          &quot;headerStyle&quot;: &quot;theme&quot;,
-                          &quot;languagePicker&quot;: {
-                            &quot;enabled&quot;: false,
-                            &quot;iconEnabled&quot;: false,
-                            &quot;iconType&quot;: &quot;globe&quot;,
-                            &quot;flagShape&quot;: &quot;shiny&quot;,
-                            &quot;languageFlags&quot;: [ ]
-                          },
-                          &quot;mobileOptions&quot;: {
-                            &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                            &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                            &quot;menuIconOptions&quot;: {
-                              &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                              &quot;thickness&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 1.0
-                              }
-                            }
-                          },
-                          &quot;dynamicOptions&quot;: {
-                            &quot;border&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;position&quot;: &quot;allSides&quot;,
-                              &quot;thickness&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 4.0
-                              }
-                            }
-                          },
-                          &quot;solidOptions&quot;: {
-                            &quot;headerOpacity&quot;: {
-                              &quot;unit&quot;: &quot;%&quot;,
-                              &quot;value&quot;: 100.0
-                            },
-                            &quot;border&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;position&quot;: &quot;allSides&quot;,
-                              &quot;thickness&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 4.0
-                              }
-                            },
-                            &quot;dropShadow&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;blur&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 30.0
-                              },
-                              &quot;spread&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 0.0
-                              },
-                              &quot;distance&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 0.0
-                              }
-                            },
-                            &quot;blurBackground&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;blurRadius&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 12.0
-                              }
-                            }
-                          },
-                          &quot;gradientOptions&quot;: {
-                            &quot;gradientType&quot;: &quot;faded&quot;,
-                            &quot;headerOpacity&quot;: {
-                              &quot;unit&quot;: &quot;%&quot;,
-                              &quot;value&quot;: 90.0
-                            },
-                            &quot;border&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;position&quot;: &quot;allSides&quot;,
-                              &quot;thickness&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 4.0
-                              }
-                            },
-                            &quot;dropShadow&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;blur&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 30.0
-                              },
-                              &quot;spread&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 0.0
-                              },
-                              &quot;distance&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 0.0
-                              }
-                            },
-                            &quot;blurBackground&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;blurRadius&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 12.0
-                              }
-                            }
-                          },
-                          &quot;showPromotedElement&quot;: false
-                        }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                          &quot;enabled&quot;: false,
-                          &quot;iconEnabled&quot;: false,
-                          &quot;iconType&quot;: &quot;globe&quot;,
-                          &quot;flagShape&quot;: &quot;shiny&quot;,
-                          &quot;languageFlags&quot;: [ ]
-                        }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -848,142 +848,142 @@
     
     "
     data-current-styles="{
-                          &quot;layout&quot;: &quot;navRight&quot;,
-                          &quot;action&quot;: {
-                            &quot;href&quot;: &quot;/take-action&quot;,
-                            &quot;buttonText&quot;: &quot;Take Action&quot;,
-                            &quot;newWindow&quot;: false
-                          },
-                          &quot;showSocial&quot;: true,
-                          &quot;socialOptions&quot;: {
-                            &quot;socialBorderShape&quot;: &quot;none&quot;,
-                            &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                            &quot;socialBorderThickness&quot;: {
-                              &quot;unit&quot;: &quot;px&quot;,
-                              &quot;value&quot;: 1.0
-                            }
-                          },
-                          &quot;sectionTheme&quot;: &quot;light&quot;,
-                          &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                          &quot;cartStyle&quot;: &quot;cart&quot;,
-                          &quot;cartText&quot;: &quot;Cart&quot;,
-                          &quot;showEmptyCartState&quot;: true,
-                          &quot;cartOptions&quot;: {
-                            &quot;iconType&quot;: &quot;solid-7&quot;,
-                            &quot;cartBorderShape&quot;: &quot;none&quot;,
-                            &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                            &quot;cartBorderThickness&quot;: {
-                              &quot;unit&quot;: &quot;px&quot;,
-                              &quot;value&quot;: 1.0
-                            }
-                          },
-                          &quot;showButton&quot;: false,
-                          &quot;showCart&quot;: false,
-                          &quot;showAccountLogin&quot;: true,
-                          &quot;headerStyle&quot;: &quot;theme&quot;,
-                          &quot;languagePicker&quot;: {
-                            &quot;enabled&quot;: false,
-                            &quot;iconEnabled&quot;: false,
-                            &quot;iconType&quot;: &quot;globe&quot;,
-                            &quot;flagShape&quot;: &quot;shiny&quot;,
-                            &quot;languageFlags&quot;: [ ]
-                          },
-                          &quot;mobileOptions&quot;: {
-                            &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                            &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                            &quot;menuIconOptions&quot;: {
-                              &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                              &quot;thickness&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 1.0
-                              }
-                            }
-                          },
-                          &quot;dynamicOptions&quot;: {
-                            &quot;border&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;position&quot;: &quot;allSides&quot;,
-                              &quot;thickness&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 4.0
-                              }
-                            }
-                          },
-                          &quot;solidOptions&quot;: {
-                            &quot;headerOpacity&quot;: {
-                              &quot;unit&quot;: &quot;%&quot;,
-                              &quot;value&quot;: 100.0
-                            },
-                            &quot;border&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;position&quot;: &quot;allSides&quot;,
-                              &quot;thickness&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 4.0
-                              }
-                            },
-                            &quot;dropShadow&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;blur&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 30.0
-                              },
-                              &quot;spread&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 0.0
-                              },
-                              &quot;distance&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 0.0
-                              }
-                            },
-                            &quot;blurBackground&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;blurRadius&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 12.0
-                              }
-                            }
-                          },
-                          &quot;gradientOptions&quot;: {
-                            &quot;gradientType&quot;: &quot;faded&quot;,
-                            &quot;headerOpacity&quot;: {
-                              &quot;unit&quot;: &quot;%&quot;,
-                              &quot;value&quot;: 90.0
-                            },
-                            &quot;border&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;position&quot;: &quot;allSides&quot;,
-                              &quot;thickness&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 4.0
-                              }
-                            },
-                            &quot;dropShadow&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;blur&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 30.0
-                              },
-                              &quot;spread&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 0.0
-                              },
-                              &quot;distance&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 0.0
-                              }
-                            },
-                            &quot;blurBackground&quot;: {
-                              &quot;enabled&quot;: false,
-                              &quot;blurRadius&quot;: {
-                                &quot;unit&quot;: &quot;px&quot;,
-                                &quot;value&quot;: 12.0
-                              }
-                            }
-                          },
-                          &quot;showPromotedElement&quot;: false
-                        }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1134,31 +1134,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                          &quot;imageOverlayOpacity&quot;: 0.15,
-                          &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                          &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                          &quot;customSectionHeight&quot;: 10,
-                          &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                          &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                          &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                          &quot;customContentWidth&quot;: 50,
-                          &quot;sectionTheme&quot;: &quot;&quot;,
-                          &quot;sectionAnimation&quot;: &quot;none&quot;,
-                          &quot;backgroundMode&quot;: &quot;image&quot;
-                        }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                          &quot;video&quot;: {
-                            &quot;playbackSpeed&quot;: 0.5,
-                            &quot;filter&quot;: 1,
-                            &quot;filterStrength&quot;: 0,
-                            &quot;zoom&quot;: 0,
-                            &quot;videoSourceProvider&quot;: &quot;none&quot;
-                          },
-                          &quot;backgroundImageId&quot;: null,
-                          &quot;backgroundMediaEffect&quot;: null,
-                          &quot;divider&quot;: null,
-                          &quot;typeName&quot;: &quot;blog-masonry&quot;
-                        }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1221,7 +1221,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec21c809afd80facd8c5cd"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1657555594301_1113"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em>  </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is about another area of discussion in the political landscape of the early 20th century, the work of Antonio Gramsci. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So imagine you’re at a dinner party. Nice enough person comes up to you, starts talking to you. Let’s say the conversation starts to go in the direction of politics. You talk for a while. At some point in the conversation you decide to ask this person, “So what are your particular feelings about politics? I mean, where do you land on the whole political spectrum?” Imagine the person replies with, “Well, actually, I’m a communist. Communism is the solution to all of our political problems.” Now, to us, being people living in the 21st century that have seen history play out the way that it has, no matter what you think about communism, we would instantly have a lot of thoughts about this person and probably a few questions we wanted to ask them. See, because the word “communism” carries with it an enormous amount of baggage to us in the 21st century, baggage, it’s important to note, that just didn’t exist when people were having political discussions at the beginning of the 20th century.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">That’s what I want us to consider here at the beginning of this episode, just how much has changed, just how much has transpired since philosophers were having these political discussions at the beginning of the 20th century. What I want to do is try to take a step outside of our 21st-century biases and try to do our best to put ourselves in the shoes of someone viewing the political landscape back when communism was first being proposed as a potential solution. See, because when you do that, you can start to see the political philosophy of the time within its proper context. You can start to see how, in many ways, the goals of the reformed democracy that we talked about last time and the goals of the communism that was being proposed back then were actually incredibly similar.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Remember, at this point in the timeline of discussion about political philosophy there were three major conversations that were going on that were all trying to solve the same general problems that existed in political philosophy of the time. One was democracy; one was communism. And the general problem they were both trying to solve was “How do we ensure that in the future society doesn’t evolve into a situation where a relative handful of people have an inordinate amount of control over the lives of the majority of the population?” This had been a serious problem in the past. Democracies of the past had produced this situation time and time again, which was why there was such a serious discussion about a reformation of democracy that would preserve the true essence of a democracy, which was a government by the many, not a handful of people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, communism was very similar in terms of what it was aiming to do at the time. Like we talked about when we did the series on the Frankfurt School, for neo-Marxist thinkers at the beginning of the 20th century, there was a short period of confusion when it came to what exactly was going on in the world. See, Marx prophesies that very soon the proletariat would realize that all they had to lose were their chains, and that, inevitably, they would rise up; they would overthrow the bourgeoisie, and they would implement a new system of economic order. Let anyone who agrees with Marx at the time cross their fingers and hope that it ends up being communism. But this communist revolution just wasn’t happening in the West in almost every case. So what exactly was going on?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Neo-Marxist thinkers went back to the drawing board. Why does it make any sense at all that people living in these abject conditions, working jobs that were in many cases completely brutal, why would those people stand for it? Why didn’t Marx’s prophecy come true? Well, very quickly the trend that emerged in neo-Marxist thought at the time was that control over a population of people extends far beyond the halls of Congress or the ballot box. Political control is almost always dictated by cultural control.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is why the Italian philosopher Antonio Gramsci spends a considerable amount of his work exploring the concept of political control and, more specifically, the very important question of “When there is a dominant social group, or a dominant class within a society, how exactly does that group ascend to power, and then beyond that, how do they maintain that power once they’ve gotten it, especially when the social order that they promote with that position of power is oftentimes completely at odds with the well-being of the average person?” The fact is that sometimes when a leader is elected, they don’t pass policy that’s necessarily good for the majority of the population. Sometimes they support policy that really only benefits them or friends of theirs that are fellow members of a dominant social class. Gramsci wants to find out, why is it that these leaders are sometimes capable of getting massive support from the people for policies that are actually hurting the average citizen more than helping them? How is it possible that the proletariat can feel so comfortable participating in a system that keeps them in chains, in the eyes of a neo-Marxist thinker?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Gramsci begins his explanation by evoking and repurposing a word that had been thrown around all throughout human history, but it was a word that he thought in recent years was starting to take on an entirely new meaning. The thing that was responsible for allowing a particular social class to ascend to power and then maintain that privileged status was what he called “cultural hegemony.” Now, this concept of hegemony is going to end up being massively important to the political conversation of the 20th and 21st centuries overall. And by the end of this arc on the show, we’re going to have looked at it from a lot of different perspectives.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But maybe the best place to start is to talk about the origins of the word. The word “hegemony” originates in ancient Greece. The root of the word comes from the Greek word meaning “to lead.” Some translators think it’s closer to the Greek work for “to rule over.” But, either way, during antiquity there were things called hegemons. Now, in the context of ancient Greece, a hegemon was typically a state that had a significant military advantage over another state, the arrangement being that if the weaker state didn’t comply with certain demands from the hegemon, they would be annexed or dominated militarily or burned to the ground. Take your pick, I guess. In other words, the term “hegemony” implied the threat of physical dominance over a population of people. And this was the case all throughout human history.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Gramsci’s going to say that in our modern world the definition of the word hegemony needs to evolve with the political reality we are living in. We are no longer living in a world where most political control is exercised by military dominance over a population of people. Since the advent of mass media, people in positions of power have realized that a much more effective way of controlling populations is by manipulating the cultural parameters that citizens have to navigate. The general idea is this: to be a human being, living a life in our modern world at all, you always have to be living that life immersed within a particular culture. But what is a culture other than an elaborate collection of norms, rules, structures, mores, taboos, rituals, values? These things are not exactly abstract concepts. They are acute. They are visible. This is the cultural custom of a handshake, to pay deference to somebody else. This is not talking with your mouth full. This is the sum total of every ritual we engage in on a daily basis that all come together to create a cohesive society.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But what Gramsci’s going to ask is, who exactly created all of these norms and taboos that we abide by? We can easily look to different cultures around the world presently and all throughout human history, for that matter, to see that a culture can function and flourish when things are completely different. The norms and taboos of a culture can be completely alien from the modern world that we’re living in and, yet, things still somehow manage to stay held together. So it makes Gramsci wonder, to what extent is the current set of norms and taboos serving to reinforce itself? To what extent are the citizens seeing the current set of norms and taboos not as a temporary instantiation of culture, but as just the way the world is. Once again, this is another example of this classic debate we talked about last time that’s going to become increasingly relevant. How much of the reality of the world can be explained by nature, and how much of the world can be explained by culture?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is extremely important because, to Gramsci, if you can control the narrative and you can convince the average citizen that the current set of cultural norms is just the way the world is, then there’s not going to be much complaining. There’s not going to be much in the way of seeking justice and trying to change things. This is similar to a point we discussed from Simone de Beauvoir and <em>The</em> <em>Ethics of Ambiguity</em>. We don’t get mad at hurricanes. When a hurricane comes along and devastates multiple cities, people die; homes are destroyed, billions of dollars in damages, thousands of families displaced. And every one of those cases is a tragedy in its own right. But, as human beings, what do we do? We accept it. Why? Because there’s no sense in getting mad at a hurricane. There’s no human intent or will behind a giant storm. Nobody can be held morally culpable, so we chalk it up as an unfortunate series of events. Hurricanes are a part of nature. There’s nothing we could really do to stop it. Sometimes the world is going to be at large, and I just got to deal with that the best way I can and try to accept it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To Gramsci, this is the old switcheroo that’s going on with cultural hegemony. Dominant social classes have the ability to dictate cultural norms. These cultural norms oftentimes serve to reinforce themselves, and people born into these cultures oftentimes view the normalized state of the world around them as nature rather than culture. Gramsci thinks this is a cultural story that’s being told. So often, citizens see it as just the way the world is and something they need to learn to accept. To Gramsci, this is why Marx’s prophecy hasn’t come true. This is why the proletariat continues to live in chains, because they’ve come to accept those chains as the natural state of the world that they need to come to terms with.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Cultural norms become to the average person what Gramsci calls the “common sense that they use to make sense of their place in the world.” When the common sense of your world serves to legitimize the dominance of a particular class of people and tells you that anything you don’t like about your socioeconomic situation, well, that’s just the natural order of things, then your very existence becomes reinforcing of cultural hegemony. You are reinforcing the political status quo simply by participating in the culture that you happen to be born into. This is why people that would otherwise never stand for being pushed around can find themselves getting worked into the ground in a factory, during the time of Gramsci, only to accept their place in the world as a necessary part of how the world works. “Parts of my life may be hard, yes. But you know what? That’s life. Life is hard sometimes.” That’s the sort of dialogue that goes on in the working class.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, look, it’s not like -- okay, it’s not like Gramsci’s saying that life should never be hard here. The more accurate question would probably be, how hard does life need to be for a person? And how many hard aspects of life have been made into a normalized part of our modern world that we just accept, that disproportionately serve to benefit a dominant group within society? Being a neo-Marxist, you can no doubt guess what his first and most commonly used target is throughout his work, capitalism. So, to Gramsci, even people that are struggling within a capitalist system have, oftentimes, lived their entire lives immersed in a culture that promotes the merits of capitalism. This, in turn, creates a sort of economic Stockholm syndrome where, despite the fact they’re struggling, the citizens identify themselves and their place in the world in relation to capitalist ideology. When the entire way that you view the world has been given to you by a culture that benefits from maintaining capitalism, Gramsci would say, don’t be surprised if that education produces a few blind spots.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">These blind spots are the point, okay? Cultural hegemony in many ways is accomplished by getting consent from the population to keep things the way that they are by making sure people are blind to other options at their disposal. Keep in mind, as we continue talking about cultural hegemony, that this isn’t always accomplished by an organized group of people that are actively trying to control things. Cultural hegemony can exist, and people can be a part of perpetuating that status quo just simply by acting out of their own self-interest. See, because their self-interest is always considered in relation to how the current system can help them, they unintentionally end up supporting things staying the same.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What Gramsci’s getting at is that for any single person or any social institution to appeal to groups that are in positions of power for the sake of your own self-interest, you must in some capacity there go along with the way that things are currently structured. So, for example, if you’re a politician or a social commentator that wants to make the world a better place, the only way you are ever going to be able to get your message across is by participating in the existing culture and using the tools at your disposal. This is an ideal situation for cultural hegemony and one of the goals of its final stages to Gramsci, to make the values of a particular culture seem so a part of nature and so in line with “common sense” that the members of that culture don’t even question them anymore; to get people completely entrenched in this world where they mistake the reality of their culture for the reality of the universe; to think the reason things are staying the way that they are is because people are weighing all their options, they’re thinking about it for a while, and then they’re making the best choice, not merely complying with the demands of a cultural hegemon that has control over them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">That said, just like the militaristic hegemon of ancient Greece, the goal of cultural hegemony is to stay in power. Now, over time, dominant social groups have realized that the most efficient way of doing this is by controlling people’s systems of values. Gramsci thinks by and large people acquire their systems of values by listening to and studying voices within a culture that he thinks are massively important, public intellectuals. Gramsci makes an important distinction here between two very different types of public intellectuals. There are “ruling intellectuals” and “organic intellectuals.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the “ruling intellectuals” are going to be the sort of foot soldiers for the dominant set of cultural norms that are currently in place. These are the people whose commentary on the world is going to reinforce the status quo. Keep in mind, again, this is in no way saying that these are bad people, necessarily. Most of them may not even realize what they’re doing. But Gramsci, nonetheless, wants to shine a light on the insular and, oftentimes, self-reinforcing world that many of these intellectuals come from. So often, it’s from academia. So often, these people are completely out of touch when it comes to what life is even like for most people in a culture.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Think about the common archetype of a philosopher throughout history. Philosopher decides they’re going to resign themselves from public life, lock themselves away in a tower, and just think about stuff really, really hard. That’s the path for creating better philosophy. You know, the last thing you’d ever want to do as a philosopher is have the basic thoughts of a normal, everyday person corrupting your unparalleled genius, right? Gramsci thinks this is completely ridiculous. Not only is this elitist and making tons of value judgements about how certain human experiences of the world are inherently better and can even be corrupted by other people’s experiences of the world, but aside from all that, Gramsci thinks this approach actually prevents you from ever being able to participate in discussions about politics at all, because political discussions always begin from the starting point of self-awareness and self-reflection, while considering how that self relates to all the other people around you. And how could anybody locking themselves away in a closet, thinking about stuff, ever hope to contribute to that conversation?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, nonetheless, these ruling intellectuals oftentimes dominate the ideas that are available to citizens of a society. I mean, so often these intellectuals are the ones that write the articles. They’re the ones published in journals. They conduct the studies. They write the textbooks. So often these intellectuals control the education of the next generation of citizens, when so much of their prominence as an intellectual was only given to them simply because their ideas corresponded with the existing social order.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Here’s what Gramsci’s saying. Cultural hegemony is established by taking control of three things: the intellectuals of a society, the education within a society, and the philosophy that drives people to political action. So, in other words, if you’re someone that came up through the education system of an advanced capitalist society, Gramsci would say, don’t be surprised if there are some pretty glaring holes in your understanding of capitalism because, just statistically, most pieces of information you’ve ever had access to have been written by people that reached that level of social influence by participating in a capitalist system that benefits them. Your high school or university wasn’t taught by unbiased monks on the top of a mountain. That most likely, once again just statistically, you have come up in a world where you are far more likely to hear about the merits of capitalism and all the good that it’s doing for people in the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">When conversations about the downsides of capitalism come up, you’re far more likely to hear them glossed over by other people. You’re less likely to have someone call you out for glossing over them. And the conversation’s likely to go in the direction of how the good of capitalism drastically outweighs the bad. When you hear people talking about socialism, when coming up in an advanced capitalist culture, you’re far more likely to run into conversations about the horrors of socialism, how it’s failed everywhere it’s been tried. And, if anyone brings up something good that socialism seems to have produced, it’s written off as a “broken clock’s right twice a day” sort of thing.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, here’s the really interesting part. This view of economics and how it plays out in the world may be absolutely true. Capitalism could just be a better economic system than socialism. But how would you ever know for sure? Because if you’re an intellectually honest person, you’d at least for a second have to consider that maybe your entire understanding of capitalism and socialism has been given to you by a handful of intellectuals you’ve entrusted your worldview to, that are intellectuals and gain their credibility simply because their view of the way the world is corresponds with the dominant cultural narrative that keeps the status quo going. Whether maintaining that status quo is good for a particular social group that’s pulling the puppet strings or whether it’s good for just keeping society stable, what if you’ve lived your entire life learning from a lot of really smart people that are all just telling the same side of the story?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, Gramsci would say that this is not just limited to capitalist societies, that it’s entirely possible to come up in a society that unfairly promotes the merits of socialism and creates the same sort of echo chamber of ideas. Gramsci’s goal was not to replace a Western world dominated by capitalist ideology with one dominated by Marxist ideology. His goal was to replace both of these narrow approaches with an ideology where the public has a general and intense level of skepticism about the status quo, no matter what the status quo looks like. The biggest mistake we can make, to Gramsci, is to see these ideologies as nature, or the way that things are. We should always be critical of the status quo. And the fact he’s so critical of capitalism is just him following his own advice about the status quo of the world he happened to live in.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To make a long story short, Gramsci thought that Marx and so many other Marxist thinkers that came after him were putting the cart before the horse, in a way. They were all so wrapped up in the possibility -- the inevitability of a communist revolution in the West. They were so wrapped up in waiting to see capitalism destroy itself that they completely missed the fact that different methods of cultural control could fragment a population to the point that a revolution could never take place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Gramsci makes another important distinction in his work directly to these people that were calling for revolution, that for any meaningful social change to ever take place, regardless of what it is, there needs to be two wars that are fought and won: first, a war of position, then a war of maneuver. These orthodox Marxists of his time were far too focused on the war of maneuver, which was the actual communist revolution that they wanted to bring about. But Gramsci says, before that can ever happen, you need to defeat the cultural hegemon in a war of position.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Remember, a cultural hegemon will have control over three things: the intellectuals, the education, and the philosophy of a society. The goal of anyone trying to bring about any kind of social change, to Gramsci, should be to provide alternatives in all three of these areas. They should create a counter-culture, an alternative set of cultural norms and taboos, reinforced by the intellectuals whose job it is to actively challenge the status quo. He called this other type of intellectuals “organic intellectuals,” and it was their job to be skeptical of the existing order of things, to provide an alternative means of education that took cues from the counter-culture that was created, and to embolden the average citizen to take political action by giving them a philosophical outlook that changes the way they see themselves and how they fit into the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is why so many attempts at revolution have failed in the past, to Gramsci. The orthodox Marxists that tried to organize it didn’t understand the “common sense” of the workers that needed to carry out the revolution. These workers saw themselves and their place in the world solely in terms of how they relate to capitalist ideology. The only way to shift their perspective enough to see the other side would be to fundamentally change the way they look at the world philosophically. See, an extremely important term in the work of Karl Marx that was used to describe the way he saw things was “historical materialism.” Gramsci was a neo-Marxist. When it came to these orthodox Marxists that we’re talking about, he distanced himself considerably from them. And a big reason why was because he thought they were paying way too much attention to the materialism part of historical materialism and not nearly enough attention to the historical part of it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Gramsci may have supported communism, and communism may have played out in a particular way all throughout the 20th century. But Gramsci hated Stalin. He would have hated Mao. He would have hated Pol Pot. He saw people like these as opportunistic dictators, that took what could otherwise have been a revolutionary political philosophy, and they used it to create dictatorships where the population was forced to deify and worship the state. When, to Gramsci, a much more accurate reading of the work of Marx would have produced the true essence of his work, the spirit of revolution among people, the spirit of revolution among common people united under the desire to never again allow a handful of people to dominate and control the population. To those living at the time of Gramsci, communism and democracy seemed to be two extremely difference approaches to trying to solve the same general problem.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, as we already know from earlier episodes, the feeling around this time in the world of philosophy is an intense skepticism towards reason. The Enlightenment gave us the hope that science was the answer. Science, when given enough time to develop, was capable of giving us answers to problems that throughout history have seemed completely unsolvable. When applied to the realm of political philosophy, for over a hundred years it seemed totally plausible that something like science, something as unbiased and without an agenda as science, could eventually study the way that people are, study their brains, study the way people work together within a society, and it didn’t seem crazy to think that science could eventually give us answers to some of these questions in political philosophy that seemed so difficult to answer.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But along came Friedrich Nietzsche, philosophizing with a hammer. Because at the end of the 19th century he asked the question, “What if the very act of conducting science at all carries with it cultural values that narrow and distort its findings?” We know there are many different ways of conducting science, depending on the specific field you’re in. We know that scientific revolutions have occurred where there have been wholesale transformations of the methods and assumptions that science is conducted through. What if these limitations and the unavoidable narrow scope that categorizing the universe must be viewed through is missing out on something crucial about what it is to be a human being? What if science, useful as it is, was never the savior that everyone thought it was? More on that next episode.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. Talk to you next time?</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em>  </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is about another area of discussion in the political landscape of the early 20th century, the work of Antonio Gramsci. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So imagine you’re at a dinner party. Nice enough person comes up to you, starts talking to you. Let’s say the conversation starts to go in the direction of politics. You talk for a while. At some point in the conversation you decide to ask this person, “So what are your particular feelings about politics? I mean, where do you land on the whole political spectrum?” Imagine the person replies with, “Well, actually, I’m a communist. Communism is the solution to all of our political problems.” Now, to us, being people living in the 21st century that have seen history play out the way that it has, no matter what you think about communism, we would instantly have a lot of thoughts about this person and probably a few questions we wanted to ask them. See, because the word “communism” carries with it an enormous amount of baggage to us in the 21st century, baggage, it’s important to note, that just didn’t exist when people were having political discussions at the beginning of the 20th century.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">That’s what I want us to consider here at the beginning of this episode, just how much has changed, just how much has transpired since philosophers were having these political discussions at the beginning of the 20th century. What I want to do is try to take a step outside of our 21st-century biases and try to do our best to put ourselves in the shoes of someone viewing the political landscape back when communism was first being proposed as a potential solution. See, because when you do that, you can start to see the political philosophy of the time within its proper context. You can start to see how, in many ways, the goals of the reformed democracy that we talked about last time and the goals of the communism that was being proposed back then were actually incredibly similar.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Remember, at this point in the timeline of discussion about political philosophy there were three major conversations that were going on that were all trying to solve the same general problems that existed in political philosophy of the time. One was democracy; one was communism. And the general problem they were both trying to solve was “How do we ensure that in the future society doesn’t evolve into a situation where a relative handful of people have an inordinate amount of control over the lives of the majority of the population?” This had been a serious problem in the past. Democracies of the past had produced this situation time and time again, which was why there was such a serious discussion about a reformation of democracy that would preserve the true essence of a democracy, which was a government by the many, not a handful of people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, communism was very similar in terms of what it was aiming to do at the time. Like we talked about when we did the series on the Frankfurt School, for neo-Marxist thinkers at the beginning of the 20th century, there was a short period of confusion when it came to what exactly was going on in the world. See, Marx prophesies that very soon the proletariat would realize that all they had to lose were their chains, and that, inevitably, they would rise up; they would overthrow the bourgeoisie, and they would implement a new system of economic order. Let anyone who agrees with Marx at the time cross their fingers and hope that it ends up being communism. But this communist revolution just wasn’t happening in the West in almost every case. So what exactly was going on?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Neo-Marxist thinkers went back to the drawing board. Why does it make any sense at all that people living in these abject conditions, working jobs that were in many cases completely brutal, why would those people stand for it? Why didn’t Marx’s prophecy come true? Well, very quickly the trend that emerged in neo-Marxist thought at the time was that control over a population of people extends far beyond the halls of Congress or the ballot box. Political control is almost always dictated by cultural control.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is why the Italian philosopher Antonio Gramsci spends a considerable amount of his work exploring the concept of political control and, more specifically, the very important question of “When there is a dominant social group, or a dominant class within a society, how exactly does that group ascend to power, and then beyond that, how do they maintain that power once they’ve gotten it, especially when the social order that they promote with that position of power is oftentimes completely at odds with the well-being of the average person?” The fact is that sometimes when a leader is elected, they don’t pass policy that’s necessarily good for the majority of the population. Sometimes they support policy that really only benefits them or friends of theirs that are fellow members of a dominant social class. Gramsci wants to find out, why is it that these leaders are sometimes capable of getting massive support from the people for policies that are actually hurting the average citizen more than helping them? How is it possible that the proletariat can feel so comfortable participating in a system that keeps them in chains, in the eyes of a neo-Marxist thinker?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Gramsci begins his explanation by evoking and repurposing a word that had been thrown around all throughout human history, but it was a word that he thought in recent years was starting to take on an entirely new meaning. The thing that was responsible for allowing a particular social class to ascend to power and then maintain that privileged status was what he called “cultural hegemony.” Now, this concept of hegemony is going to end up being massively important to the political conversation of the 20th and 21st centuries overall. And by the end of this arc on the show, we’re going to have looked at it from a lot of different perspectives.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But maybe the best place to start is to talk about the origins of the word. The word “hegemony” originates in ancient Greece. The root of the word comes from the Greek word meaning “to lead.” Some translators think it’s closer to the Greek work for “to rule over.” But, either way, during antiquity there were things called hegemons. Now, in the context of ancient Greece, a hegemon was typically a state that had a significant military advantage over another state, the arrangement being that if the weaker state didn’t comply with certain demands from the hegemon, they would be annexed or dominated militarily or burned to the ground. Take your pick, I guess. In other words, the term “hegemony” implied the threat of physical dominance over a population of people. And this was the case all throughout human history.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Gramsci’s going to say that in our modern world the definition of the word hegemony needs to evolve with the political reality we are living in. We are no longer living in a world where most political control is exercised by military dominance over a population of people. Since the advent of mass media, people in positions of power have realized that a much more effective way of controlling populations is by manipulating the cultural parameters that citizens have to navigate. The general idea is this: to be a human being, living a life in our modern world at all, you always have to be living that life immersed within a particular culture. But what is a culture other than an elaborate collection of norms, rules, structures, mores, taboos, rituals, values? These things are not exactly abstract concepts. They are acute. They are visible. This is the cultural custom of a handshake, to pay deference to somebody else. This is not talking with your mouth full. This is the sum total of every ritual we engage in on a daily basis that all come together to create a cohesive society.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But what Gramsci’s going to ask is, who exactly created all of these norms and taboos that we abide by? We can easily look to different cultures around the world presently and all throughout human history, for that matter, to see that a culture can function and flourish when things are completely different. The norms and taboos of a culture can be completely alien from the modern world that we’re living in and, yet, things still somehow manage to stay held together. So it makes Gramsci wonder, to what extent is the current set of norms and taboos serving to reinforce itself? To what extent are the citizens seeing the current set of norms and taboos not as a temporary instantiation of culture, but as just the way the world is. Once again, this is another example of this classic debate we talked about last time that’s going to become increasingly relevant. How much of the reality of the world can be explained by nature, and how much of the world can be explained by culture?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is extremely important because, to Gramsci, if you can control the narrative and you can convince the average citizen that the current set of cultural norms is just the way the world is, then there’s not going to be much complaining. There’s not going to be much in the way of seeking justice and trying to change things. This is similar to a point we discussed from Simone de Beauvoir and <em>The</em> <em>Ethics of Ambiguity</em>. We don’t get mad at hurricanes. When a hurricane comes along and devastates multiple cities, people die; homes are destroyed, billions of dollars in damages, thousands of families displaced. And every one of those cases is a tragedy in its own right. But, as human beings, what do we do? We accept it. Why? Because there’s no sense in getting mad at a hurricane. There’s no human intent or will behind a giant storm. Nobody can be held morally culpable, so we chalk it up as an unfortunate series of events. Hurricanes are a part of nature. There’s nothing we could really do to stop it. Sometimes the world is going to be at large, and I just got to deal with that the best way I can and try to accept it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To Gramsci, this is the old switcheroo that’s going on with cultural hegemony. Dominant social classes have the ability to dictate cultural norms. These cultural norms oftentimes serve to reinforce themselves, and people born into these cultures oftentimes view the normalized state of the world around them as nature rather than culture. Gramsci thinks this is a cultural story that’s being told. So often, citizens see it as just the way the world is and something they need to learn to accept. To Gramsci, this is why Marx’s prophecy hasn’t come true. This is why the proletariat continues to live in chains, because they’ve come to accept those chains as the natural state of the world that they need to come to terms with.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Cultural norms become to the average person what Gramsci calls the “common sense that they use to make sense of their place in the world.” When the common sense of your world serves to legitimize the dominance of a particular class of people and tells you that anything you don’t like about your socioeconomic situation, well, that’s just the natural order of things, then your very existence becomes reinforcing of cultural hegemony. You are reinforcing the political status quo simply by participating in the culture that you happen to be born into. This is why people that would otherwise never stand for being pushed around can find themselves getting worked into the ground in a factory, during the time of Gramsci, only to accept their place in the world as a necessary part of how the world works. “Parts of my life may be hard, yes. But you know what? That’s life. Life is hard sometimes.” That’s the sort of dialogue that goes on in the working class.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, look, it’s not like -- okay, it’s not like Gramsci’s saying that life should never be hard here. The more accurate question would probably be, how hard does life need to be for a person? And how many hard aspects of life have been made into a normalized part of our modern world that we just accept, that disproportionately serve to benefit a dominant group within society? Being a neo-Marxist, you can no doubt guess what his first and most commonly used target is throughout his work, capitalism. So, to Gramsci, even people that are struggling within a capitalist system have, oftentimes, lived their entire lives immersed in a culture that promotes the merits of capitalism. This, in turn, creates a sort of economic Stockholm syndrome where, despite the fact they’re struggling, the citizens identify themselves and their place in the world in relation to capitalist ideology. When the entire way that you view the world has been given to you by a culture that benefits from maintaining capitalism, Gramsci would say, don’t be surprised if that education produces a few blind spots.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">These blind spots are the point, okay? Cultural hegemony in many ways is accomplished by getting consent from the population to keep things the way that they are by making sure people are blind to other options at their disposal. Keep in mind, as we continue talking about cultural hegemony, that this isn’t always accomplished by an organized group of people that are actively trying to control things. Cultural hegemony can exist, and people can be a part of perpetuating that status quo just simply by acting out of their own self-interest. See, because their self-interest is always considered in relation to how the current system can help them, they unintentionally end up supporting things staying the same.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What Gramsci’s getting at is that for any single person or any social institution to appeal to groups that are in positions of power for the sake of your own self-interest, you must in some capacity there go along with the way that things are currently structured. So, for example, if you’re a politician or a social commentator that wants to make the world a better place, the only way you are ever going to be able to get your message across is by participating in the existing culture and using the tools at your disposal. This is an ideal situation for cultural hegemony and one of the goals of its final stages to Gramsci, to make the values of a particular culture seem so a part of nature and so in line with “common sense” that the members of that culture don’t even question them anymore; to get people completely entrenched in this world where they mistake the reality of their culture for the reality of the universe; to think the reason things are staying the way that they are is because people are weighing all their options, they’re thinking about it for a while, and then they’re making the best choice, not merely complying with the demands of a cultural hegemon that has control over them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">That said, just like the militaristic hegemon of ancient Greece, the goal of cultural hegemony is to stay in power. Now, over time, dominant social groups have realized that the most efficient way of doing this is by controlling people’s systems of values. Gramsci thinks by and large people acquire their systems of values by listening to and studying voices within a culture that he thinks are massively important, public intellectuals. Gramsci makes an important distinction here between two very different types of public intellectuals. There are “ruling intellectuals” and “organic intellectuals.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the “ruling intellectuals” are going to be the sort of foot soldiers for the dominant set of cultural norms that are currently in place. These are the people whose commentary on the world is going to reinforce the status quo. Keep in mind, again, this is in no way saying that these are bad people, necessarily. Most of them may not even realize what they’re doing. But Gramsci, nonetheless, wants to shine a light on the insular and, oftentimes, self-reinforcing world that many of these intellectuals come from. So often, it’s from academia. So often, these people are completely out of touch when it comes to what life is even like for most people in a culture.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Think about the common archetype of a philosopher throughout history. Philosopher decides they’re going to resign themselves from public life, lock themselves away in a tower, and just think about stuff really, really hard. That’s the path for creating better philosophy. You know, the last thing you’d ever want to do as a philosopher is have the basic thoughts of a normal, everyday person corrupting your unparalleled genius, right? Gramsci thinks this is completely ridiculous. Not only is this elitist and making tons of value judgements about how certain human experiences of the world are inherently better and can even be corrupted by other people’s experiences of the world, but aside from all that, Gramsci thinks this approach actually prevents you from ever being able to participate in discussions about politics at all, because political discussions always begin from the starting point of self-awareness and self-reflection, while considering how that self relates to all the other people around you. And how could anybody locking themselves away in a closet, thinking about stuff, ever hope to contribute to that conversation?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, nonetheless, these ruling intellectuals oftentimes dominate the ideas that are available to citizens of a society. I mean, so often these intellectuals are the ones that write the articles. They’re the ones published in journals. They conduct the studies. They write the textbooks. So often these intellectuals control the education of the next generation of citizens, when so much of their prominence as an intellectual was only given to them simply because their ideas corresponded with the existing social order.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Here’s what Gramsci’s saying. Cultural hegemony is established by taking control of three things: the intellectuals of a society, the education within a society, and the philosophy that drives people to political action. So, in other words, if you’re someone that came up through the education system of an advanced capitalist society, Gramsci would say, don’t be surprised if there are some pretty glaring holes in your understanding of capitalism because, just statistically, most pieces of information you’ve ever had access to have been written by people that reached that level of social influence by participating in a capitalist system that benefits them. Your high school or university wasn’t taught by unbiased monks on the top of a mountain. That most likely, once again just statistically, you have come up in a world where you are far more likely to hear about the merits of capitalism and all the good that it’s doing for people in the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">When conversations about the downsides of capitalism come up, you’re far more likely to hear them glossed over by other people. You’re less likely to have someone call you out for glossing over them. And the conversation’s likely to go in the direction of how the good of capitalism drastically outweighs the bad. When you hear people talking about socialism, when coming up in an advanced capitalist culture, you’re far more likely to run into conversations about the horrors of socialism, how it’s failed everywhere it’s been tried. And, if anyone brings up something good that socialism seems to have produced, it’s written off as a “broken clock’s right twice a day” sort of thing.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, here’s the really interesting part. This view of economics and how it plays out in the world may be absolutely true. Capitalism could just be a better economic system than socialism. But how would you ever know for sure? Because if you’re an intellectually honest person, you’d at least for a second have to consider that maybe your entire understanding of capitalism and socialism has been given to you by a handful of intellectuals you’ve entrusted your worldview to, that are intellectuals and gain their credibility simply because their view of the way the world is corresponds with the dominant cultural narrative that keeps the status quo going. Whether maintaining that status quo is good for a particular social group that’s pulling the puppet strings or whether it’s good for just keeping society stable, what if you’ve lived your entire life learning from a lot of really smart people that are all just telling the same side of the story?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, Gramsci would say that this is not just limited to capitalist societies, that it’s entirely possible to come up in a society that unfairly promotes the merits of socialism and creates the same sort of echo chamber of ideas. Gramsci’s goal was not to replace a Western world dominated by capitalist ideology with one dominated by Marxist ideology. His goal was to replace both of these narrow approaches with an ideology where the public has a general and intense level of skepticism about the status quo, no matter what the status quo looks like. The biggest mistake we can make, to Gramsci, is to see these ideologies as nature, or the way that things are. We should always be critical of the status quo. And the fact he’s so critical of capitalism is just him following his own advice about the status quo of the world he happened to live in.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To make a long story short, Gramsci thought that Marx and so many other Marxist thinkers that came after him were putting the cart before the horse, in a way. They were all so wrapped up in the possibility -- the inevitability of a communist revolution in the West. They were so wrapped up in waiting to see capitalism destroy itself that they completely missed the fact that different methods of cultural control could fragment a population to the point that a revolution could never take place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Gramsci makes another important distinction in his work directly to these people that were calling for revolution, that for any meaningful social change to ever take place, regardless of what it is, there needs to be two wars that are fought and won: first, a war of position, then a war of maneuver. These orthodox Marxists of his time were far too focused on the war of maneuver, which was the actual communist revolution that they wanted to bring about. But Gramsci says, before that can ever happen, you need to defeat the cultural hegemon in a war of position.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Remember, a cultural hegemon will have control over three things: the intellectuals, the education, and the philosophy of a society. The goal of anyone trying to bring about any kind of social change, to Gramsci, should be to provide alternatives in all three of these areas. They should create a counter-culture, an alternative set of cultural norms and taboos, reinforced by the intellectuals whose job it is to actively challenge the status quo. He called this other type of intellectuals “organic intellectuals,” and it was their job to be skeptical of the existing order of things, to provide an alternative means of education that took cues from the counter-culture that was created, and to embolden the average citizen to take political action by giving them a philosophical outlook that changes the way they see themselves and how they fit into the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is why so many attempts at revolution have failed in the past, to Gramsci. The orthodox Marxists that tried to organize it didn’t understand the “common sense” of the workers that needed to carry out the revolution. These workers saw themselves and their place in the world solely in terms of how they relate to capitalist ideology. The only way to shift their perspective enough to see the other side would be to fundamentally change the way they look at the world philosophically. See, an extremely important term in the work of Karl Marx that was used to describe the way he saw things was “historical materialism.” Gramsci was a neo-Marxist. When it came to these orthodox Marxists that we’re talking about, he distanced himself considerably from them. And a big reason why was because he thought they were paying way too much attention to the materialism part of historical materialism and not nearly enough attention to the historical part of it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Gramsci may have supported communism, and communism may have played out in a particular way all throughout the 20th century. But Gramsci hated Stalin. He would have hated Mao. He would have hated Pol Pot. He saw people like these as opportunistic dictators, that took what could otherwise have been a revolutionary political philosophy, and they used it to create dictatorships where the population was forced to deify and worship the state. When, to Gramsci, a much more accurate reading of the work of Marx would have produced the true essence of his work, the spirit of revolution among people, the spirit of revolution among common people united under the desire to never again allow a handful of people to dominate and control the population. To those living at the time of Gramsci, communism and democracy seemed to be two extremely difference approaches to trying to solve the same general problem.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, as we already know from earlier episodes, the feeling around this time in the world of philosophy is an intense skepticism towards reason. The Enlightenment gave us the hope that science was the answer. Science, when given enough time to develop, was capable of giving us answers to problems that throughout history have seemed completely unsolvable. When applied to the realm of political philosophy, for over a hundred years it seemed totally plausible that something like science, something as unbiased and without an agenda as science, could eventually study the way that people are, study their brains, study the way people work together within a society, and it didn’t seem crazy to think that science could eventually give us answers to some of these questions in political philosophy that seemed so difficult to answer.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But along came Friedrich Nietzsche, philosophizing with a hammer. Because at the end of the 19th century he asked the question, “What if the very act of conducting science at all carries with it cultural values that narrow and distort its findings?” We know there are many different ways of conducting science, depending on the specific field you’re in. We know that scientific revolutions have occurred where there have been wholesale transformations of the methods and assumptions that science is conducted through. What if these limitations and the unavoidable narrow scope that categorizing the universe must be viewed through is missing out on something crucial about what it is to be a human being? What if science, useful as it is, was never the savior that everyone thought it was? More on that next episode.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. Talk to you next time?</p>
+</div>
 
 
 
@@ -1377,30 +1379,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                          &quot;imageOverlayOpacity&quot;: 0.15,
-                          &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                          &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                          &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                          &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                          &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                          &quot;customContentWidth&quot;: 100,
-                          &quot;sectionTheme&quot;: &quot;dark&quot;,
-                          &quot;sectionAnimation&quot;: &quot;none&quot;,
-                          &quot;backgroundMode&quot;: &quot;image&quot;
-                        }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                          &quot;video&quot;: {
-                            &quot;playbackSpeed&quot;: 0.5,
-                            &quot;filter&quot;: 1,
-                            &quot;filterStrength&quot;: 0,
-                            &quot;zoom&quot;: 0,
-                            &quot;videoSourceProvider&quot;: &quot;none&quot;
-                          },
-                          &quot;backgroundImageId&quot;: null,
-                          &quot;backgroundMediaEffect&quot;: null,
-                          &quot;divider&quot;: null,
-                          &quot;typeName&quot;: &quot;blog-masonry&quot;
-                        }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1437,25 +1439,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

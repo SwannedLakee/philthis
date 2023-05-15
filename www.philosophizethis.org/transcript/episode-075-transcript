@@ -42,14 +42,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #075 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"6":true,"2":true,"7":true,"4":true,"1":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #075 - Transcript","id":"62cb34b27deb1074a276612b","fullUrl":"/transcript/episode-075-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["crm_remove_subscriber","commerce_etsy_product_import","is_feature_gate_refresh_enabled","site_header_footer","new_stacked_index","override_block_styles","collection_typename_switching","accounting_orders_sync","nested_categories","campaigns_import_discounts","commerce_order_status_access","commerce_restock_notifications","crm_enforce_recaptcha_v3_enterprise","order_status_page_checkout_landing_enabled","crm_enable_recaptcha_v3_enterprise","send_local_pickup_ready_email","fluid_engine","campaigns_global_uc_ab","background_art_onboarding","crm_retention_segment","visitor_react_forms","customer_accounts_email_verification","campaigns_discount_section_in_blasts","customer_account_creation_recaptcha","crm_default_newsletter_block_to_campaigns","campaigns_new_image_layout_picker","marketing_landing_page","themes","commerce_clearpay","member_areas_spanish_interviews","campaigns_content_editing_survey","crm_waitlist_enforce_recaptcha_v3_enterprise","member_areas_schedule_interview","viewer-role-contributor-invites","campaigns_discount_section_in_automations","multilingual_transactional_emails","member_areas_provisioning_service","nested_categories_migration_enabled","supports_versioned_template_assets","commerce_site_visitor_metrics","site_user_email_change","fluid_engine_clean_up_grid_contextual_change","scripts_defer","campaigns_show_featured_templates","campaigns_thumbnail_layout","campaigns_asset_picker","commerce_etsy_shipping_import"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-video-block","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #075 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"4":true,"8":true,"2":true,"6":true,"7":true,"3":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #075 - Transcript","id":"62cb34b27deb1074a276612b","fullUrl":"/transcript/episode-075-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["collection_typename_switching","visitor_react_forms","crm_enforce_recaptcha_v3_enterprise","campaigns_import_discounts","send_local_pickup_ready_email","is_feature_gate_refresh_enabled","nested_categories","marketing_landing_page","campaigns_discount_section_in_blasts","commerce_site_visitor_metrics","customer_accounts_email_verification","member_areas_spanish_interviews","crm_default_newsletter_block_to_campaigns","supports_versioned_template_assets","member_areas_provisioning_service","override_block_styles","crm_waitlist_enforce_recaptcha_v3_enterprise","commerce_clearpay","campaigns_show_featured_templates","nested_categories_migration_enabled","scripts_defer","fluid_engine","commerce_etsy_shipping_import","crm_enable_recaptcha_v3_enterprise","viewer-role-contributor-invites","accounting_orders_sync","commerce_restock_notifications","campaigns_new_image_layout_picker","background_art_onboarding","campaigns_content_editing_survey","customer_account_creation_recaptcha","campaigns_global_uc_ab","campaigns_thumbnail_layout","commerce_order_status_access","member_areas_schedule_interview","multilingual_transactional_emails","commerce_etsy_product_import","campaigns_discount_section_in_automations","order_status_page_checkout_landing_enabled","site_header_footer","crm_remove_subscriber","site_user_email_change","new_stacked_index","crm_retention_segment","campaigns_asset_picker","themes","fluid_engine_clean_up_grid_contextual_change"],"videoAssetsFeatureFlags":["mux-data-section-background-video","mux-data-video-collection","mux-data-video-block","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #075 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-075-transcript","datePublished":"2015-12-18T13:21:00-0800","dateModified":"2022-07-10T13:22:40-0700","headline":"Episode #075 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -136,153 +136,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+      &quot;layout&quot;: &quot;navRight&quot;,
+      &quot;action&quot;: {
+        &quot;href&quot;: &quot;/take-action&quot;,
+        &quot;buttonText&quot;: &quot;Take Action&quot;,
+        &quot;newWindow&quot;: false
+      },
+      &quot;showSocial&quot;: true,
+      &quot;socialOptions&quot;: {
+        &quot;socialBorderShape&quot;: &quot;none&quot;,
+        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+        &quot;socialBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;sectionTheme&quot;: &quot;light&quot;,
+      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+      &quot;cartStyle&quot;: &quot;cart&quot;,
+      &quot;cartText&quot;: &quot;Cart&quot;,
+      &quot;showEmptyCartState&quot;: true,
+      &quot;cartOptions&quot;: {
+        &quot;iconType&quot;: &quot;solid-7&quot;,
+        &quot;cartBorderShape&quot;: &quot;none&quot;,
+        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+        &quot;cartBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;showButton&quot;: false,
+      &quot;showCart&quot;: false,
+      &quot;showAccountLogin&quot;: true,
+      &quot;headerStyle&quot;: &quot;theme&quot;,
+      &quot;languagePicker&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;iconEnabled&quot;: false,
+        &quot;iconType&quot;: &quot;globe&quot;,
+        &quot;flagShape&quot;: &quot;shiny&quot;,
+        &quot;languageFlags&quot;: [ ]
+      },
+      &quot;mobileOptions&quot;: {
+        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+        &quot;menuIconOptions&quot;: {
+          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 1.0
+          }
+        }
+      },
+      &quot;dynamicOptions&quot;: {
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        }
+      },
+      &quot;solidOptions&quot;: {
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 100.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;gradientOptions&quot;: {
+        &quot;gradientType&quot;: &quot;faded&quot;,
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 90.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;showPromotedElement&quot;: false
+    }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
+      &quot;enabled&quot;: false,
+      &quot;iconEnabled&quot;: false,
+      &quot;iconType&quot;: &quot;globe&quot;,
+      &quot;flagShape&quot;: &quot;shiny&quot;,
+      &quot;languageFlags&quot;: [ ]
+    }"
   
   data-first-focusable-element
   tabindex="-1"
@@ -849,142 +849,142 @@
     
     "
     data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+      &quot;layout&quot;: &quot;navRight&quot;,
+      &quot;action&quot;: {
+        &quot;href&quot;: &quot;/take-action&quot;,
+        &quot;buttonText&quot;: &quot;Take Action&quot;,
+        &quot;newWindow&quot;: false
+      },
+      &quot;showSocial&quot;: true,
+      &quot;socialOptions&quot;: {
+        &quot;socialBorderShape&quot;: &quot;none&quot;,
+        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+        &quot;socialBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;sectionTheme&quot;: &quot;light&quot;,
+      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+      &quot;cartStyle&quot;: &quot;cart&quot;,
+      &quot;cartText&quot;: &quot;Cart&quot;,
+      &quot;showEmptyCartState&quot;: true,
+      &quot;cartOptions&quot;: {
+        &quot;iconType&quot;: &quot;solid-7&quot;,
+        &quot;cartBorderShape&quot;: &quot;none&quot;,
+        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+        &quot;cartBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;showButton&quot;: false,
+      &quot;showCart&quot;: false,
+      &quot;showAccountLogin&quot;: true,
+      &quot;headerStyle&quot;: &quot;theme&quot;,
+      &quot;languagePicker&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;iconEnabled&quot;: false,
+        &quot;iconType&quot;: &quot;globe&quot;,
+        &quot;flagShape&quot;: &quot;shiny&quot;,
+        &quot;languageFlags&quot;: [ ]
+      },
+      &quot;mobileOptions&quot;: {
+        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+        &quot;menuIconOptions&quot;: {
+          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 1.0
+          }
+        }
+      },
+      &quot;dynamicOptions&quot;: {
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        }
+      },
+      &quot;solidOptions&quot;: {
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 100.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;gradientOptions&quot;: {
+        &quot;gradientType&quot;: &quot;faded&quot;,
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 90.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;showPromotedElement&quot;: false
+    }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1135,31 +1135,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+      &quot;imageOverlayOpacity&quot;: 0.15,
+      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+      &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+      &quot;customSectionHeight&quot;: 10,
+      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+      &quot;customContentWidth&quot;: 50,
+      &quot;sectionTheme&quot;: &quot;&quot;,
+      &quot;sectionAnimation&quot;: &quot;none&quot;,
+      &quot;backgroundMode&quot;: &quot;image&quot;
+    }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+      &quot;video&quot;: {
+        &quot;playbackSpeed&quot;: 0.5,
+        &quot;filter&quot;: 1,
+        &quot;filterStrength&quot;: 0,
+        &quot;zoom&quot;: 0,
+        &quot;videoSourceProvider&quot;: &quot;none&quot;
+      },
+      &quot;backgroundImageId&quot;: null,
+      &quot;backgroundMediaEffect&quot;: null,
+      &quot;divider&quot;: null,
+      &quot;typeName&quot;: &quot;blog-masonry&quot;
+    }"
   data-animation="none"
   
    
@@ -1218,7 +1218,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-62cb34b27deb1074a276612b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-18d03f978102a7a9db4d"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Thank you for wanting to know more today than you did yesterday. And most of all, I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, I’ve been getting a lot of feedback on the first “How To Win An Argument” episode. And to be honest, I’ve been getting a lot of the same questions over and over from you guys. So, before we talk about a few more of these common logical fallacies—how to spot them, how to respond to them—I want to answer a few of those questions. Because I think—honestly, I’m impressed. These questions this week are incredibly insightful. I think that they add to the discussion a lot. They need to be discussed if these episodes are going to be useful to you guys or mean something. And I think that by discussing them, we’re all going to be just a little bit better at knowing how to win an argument or at least why we’re arguing in the first place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, one of the first emails I got in response to that episode was from a lawyer from Washington, D.C. And I think his question is a fantastic starting point for this episode. Here’s the email. “Hi Steve, Love the podcast. Enjoy listening to it… I just got done listening to your latest episode about logical fallacies. I was both intrigued and frustrated by it. Full disclosure, I’m a lawyer; I work in politics in the DC area, and I am a democrat. So, naturally, I love to argue. I was interested in this episode because I love the logical or illogical foundations between each of the fallacies. But at the same time, I was frustrated because I had the same reaction to each one. So what? So what? Maybe I’m biased because I work in politics, but logical fallacies often win an argument in politics. And I define ‘win’ as electoral success or policy achievements.” That’s reasonable. “Ad hominin attacks, slippery slope arguments, false equivalency—these often work. And presidential debates are often dominated by candidates who make the biggest logical fallacies. Ted Cruz, Carly Fiorina, Donald Trump have all thrived partially because of their reliance on logical fallacies. So, I was wondering if you have any thoughts about logical fallacies in politics. What are the limitations of winning an argument or pointing out your opponent’s logical fallacies in politics? It seems like much of what resonates with people in politics is based on emotion and not intellect. Thank you, and keep up the excellent work.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, thank you, and keep up your excellent work, good sir! Anyway, there’s no two ways to put this. This is a fantastic question. Really it is. See, what he did is he looked at the title of the episode— “How To <em>Win</em> An Argument” not how to be the most logically sound within an argument. And he rightly points out, I think, that the fact is in today’s world, just statistically speaking, most of the time you’re going to be having an argument with someone about something you’re probably not arguing with somebody that sat down and taught themselves formal logic. Most of the time what wins an argument in today’s world—whether it's in politics, at family dinner table, around the water cooler at work—most of the time it is just a kneejerk, emotional, fallacy-ridden argument that people relate to. So, of course a lawyer would ask this question, right? I mean, this is where he lives and dies. This is his home, and it's a great point.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">If you’re a lawyer—if the reason you need to win an argument is so that maybe you can sway a jury of your peers to think that you are right about something, and let’s say we exist in a world where those peers are, statistically speaking, swayed by things like strawmen, ad hominin attacks, non sequiturs—as a lawyer, fallacies are an incredible tool to have in your toolbelt. And yes, in that way to your point, they’re an incredible tool to have if you’re Donald Trump or Hillary Clinton and you’re trying to sway public opinion. This is like the sophists of ancient Athens, right? In a world where the Athenians loved a good court case—they were crazy about it, and they prided themselves on their justice system—in a world where you can be taken to trial for basically anything, and if you don’t have the ability to argue your way out of a court case, you could potentially—horrible things could happen to you. You could lose everything you’ve ever worked for. You could be banished. In that world, people paid the sophists to teach them how to argue. They paid these experts in rhetoric to at all costs, even if they were guilty, to teach them to argue their way out of anything. Even if they had to resort to fallacies, the main point was winning the argument at all costs. And when Socrates came along and famously criticized the sophists for spreading around these cheap-argument tactics, they answered back to him with the fact that, look, all we’re really doing is teaching useful information. The thing is, they’re absolutely right.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">If you live in a climate where fallacies win people over in an argument, then they’re incredibly useful, just not logically sound, right? And I guess this may be the difference between a lawyer finding use in the information and trying to make a philosophy podcast that might change a few people’s minds. But you’d have to at least acknowledge, Mr. Lawyer, that the arguments that you use to persuade people change based on the setting that you’re in. As a lawyer, in a certain situation where those fallacies would not be as useful, you might opt not to use them, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s do a thought experiment. Let’s imagine an alternative universe, one where I, Stephen West, am supreme dictator of the world. Let’s say I rounded up everybody; I put them in a room. I brain washed them. I just played the “How To Win An Argument” episode. And I said, look, you’re not leaving this table until you can recite these episodes word for word and you can instantly spot the most common fallacies that people use in arguments. Well, in that world, in the same way you adjust your arguments in certain settings in this world, in the same way politicians change theirs given the current company, these fallacies that are so useful in today’s world, they wouldn’t affect people the same way. Here’s the thing, at one point in my life, ad hominin attacks used to seem like knockdown arguments for me. If I was that age in today’s culture, I might see Donald Trump say to Ted Cruz, “Oh, he thinks he’s fit to manage the future of the US economy? Coming from a guy that can’t even manage his own finances? Oh, yeah, I’ve heard about that failed business you’ve had, the one that went down the toilet. Is that going to be the US economy now?” and I’d be like, “Yeah! You’re right, Donald. You’re right. Who are you to run the US economy, Cruz?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But by learning about logical fallacies and practicing a bit, at a certain point I just got to a point, like, if I saw that in today’s world I would just say, “Ad hominin: discrediting the source,” like a machine now. The point is, that emotional response that was evoked back then isn’t in me anymore because I instantly identify it as what it is. So, in response to your question of “Who cares about any of this stuff?” this is the reason why I would make that episode. This is the reason somebody would potentially disseminate that information. Because hypothetically, if that episode exists and it’s for free out there—you know, if you guys share these episodes with your friends and they share it with their friends—eventually, who knows? We might find ourselves living in very different world come the next political debate season.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">By the way, I love that you bring up politics, my friend, because these are the key issues, right? These are the ideas that are potentially based on fallacies that might change the world as we know it. As we talked about last episode, any war, any hatred, any subjugation that we can study throughout history really at its core was brought about because of a belief, a belief that someone had about what the right thing to do was in a given situation, a belief that was based on an idea, an idea that was validated because of some sort of argument that was had either internally or with someone else. Take a second and just look around you, alright? If you have a problem with the way that people are treating each other at any level, if you have a problem with anyone marginalizing or killing each other, understand that ultimately what is at the root of that behavior that you have a problem with is a belief. And you can punch that person in the face. You could send a destroyer there and shoot cruise missiles at them from a thousand miles away. You can waterboard them until your heart’s content. But understand that if you have a problem with what you see as a sort of intellectual cockroach infestation, all you’re doing there is taking a Louisville Slugger and smashing individual cockroaches. You’re doing nothing to affect what’s at the root of the problem, the nest if you will, which is a belief.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And throughout recorded history there’s only been one reliable way of changing beliefs and that is by winning a war of ideas. Now, in this war of ideas, winning an argument is like winning a small battle. It’s like a local militia holding off an invading force. Doesn’t decide the war. But eventually, enough of these little battles start piling up, eventually they may turn the tides of the war. So again, in answer to your question of “Who cares about this stuff?” if winning an argument is like winning a battle in this war of ideas, then knowing logical fallacies is like the artillery in the battle. It’s like calling in an air strike. It’s intel. It’s knowing the weaknesses in your enemy’s defenses. And by the way, it works the other way too. If you find yourself in an argument with somebody that sees ad hominin attacks as a totally reasonable and persuasive argument, talk about just adding firepower to your arsenal on that battlefield.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But in reality, I’m telling you this: in my experience, most people are cool. Most people are reasonable about this stuff. Most people when confronted with the fact that some belief that they hold is based on a fallacy, most of the time if you’re not militant about it, if you frame it in a positive way in the interest of us both being passionate people that care about the world that are trying to understand it better, most people aren’t so stubborn that they wouldn’t ever revise their beliefs about something. Usually what happens if they feel like they’re backed into a corner is they say, “Okay, well maybe that might not be logically sound, but how about this other fallacy that justifies what I believe?” But eventually, with enough reasonable, respectful conversation, with enough of these battles fought, most people are willing to change their beliefs, if in fact they believe they’re only based on fallacies.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, because at the root of every argument that somebody makes about something is a sort of mathematical equation. This is something Aristotle realized all the way back in 300 BC. It seems that an argument, when you break it down, has a certain formula to it. Now, in the most general sense, an argument is when you have certain premises that you lay out, and these are cited as reasons or evidence to justify a conclusion that you have. Premises; conclusion. Some arguments are premise-conclusion. Some arguments are premise-therefore premise-conclusion, etc. Well, Aristotle sat down and tried to identify these arguments using mathematical variables. First one to use the mathematical variable, by the way. And it went well. He ended up finding a lot of these. He wrote down what he thought was every “equation” that could be considered a viable argument. If the argument didn’t fit that syntax, then it had to be in some way logically unsound, to Aristotle.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It's weird to think about these things in such mathematical terms. It’s weird to think about something like arguing, which is typically seen as such an emotional thing, in such logical terms. Actually another email that I got this week a lot: “When I argue, I argue from the gut. I feel it in my gut. There’s no X, Y, and Z in my gut.” But what is that “gut?” There’s no magic gut that you’re pulling arguments from. That gut is an emotional response that’s based on the feeling that you initially get, which is based on all your previous experiences and all the analysis that you’ve done up until that point in your life. So, in a metaphorical sense, we really do argue by throwing equations at each other. You may say, “1+1 = 2.” They say, “Yeah, yeah. 1+1 = 2, but 2+3 = 6. So, therefore, 1+1+2+3 must equal 8.” Being able to spot logical fallacies is being able to see instantly that the mistake that they made in their thinking was that 2+3 = 6, being able to home in on it real quick.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And what a great skill to have if you’re trying to quickly cut through all the stuff that typically clouds an argument: rhetoric, condescension, where you’re having the conversation, when you’re having the conversation, the people standing around, cultural prejudices. By the way, here’s another answer to that question of “Who cares about this stuff?” Identifying these fallacies is not just useful when it comes to winning an argument against your grandma at Christmas dinner. When you’re able to instantly spot these logical fallacies, it’s funny, the percentage chance of you being swindled by someone or joining a cult goes down quite substantially. Knowing logical fallacies is like an iron dome around your bank account. There’s never been a single person in the history of the world that has known logical fallacies that has drunk poisonous Kool-Aid. It’s never happened. The reason is is that these people that peddle this nonsense rely on you glossing over their terrible arguments. It’s the way they make their money.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What I’m saying is, this is not just an offensive skill set; it’s a defensive one as well. That said, thanks for sending the emails this week. Fantastic questions. To be honest with you, if I had questions like this every week, I could do two episodes of this podcast a week. I could do one that’s just new content, and the other one that’s responding and clarifying the questions to that content. This is easy for me. This is like talking into a microphone. But before we run out of time, let’s talk about some more of these logical fallacies. What do you say?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The first one I want to talk about is an extremely common one. It’s called the red herring fallacy, and boy is it one of my favorites. It takes so many different forms. Typically, a red herring fallacy is when somebody in the middle of an argument changes the subject to something else that’s only tangentially related to avoid having the original argument and change it to something that they might stand a better chance at arguing. Now, real quick, as you can imagine, you should look out for this one particularly when you’re winning an argument. Usually somebody will launch all their arguments at you—pew, pew, pew, pew—and then when you point out the problems in their way of thinking, instead of conceding defeat—you know, surrender their sword to the opposing general—they’ll just change the subject entirely so now it’s a new battlefield you’re fighting on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, let’s say you’re talking to somebody who believes a teapot is orbiting between Mercury and Venus. And you say, “You know, it seems that you believe that there’s a teapot orbiting around the sun between the planets of Mercury and Venus. But it seems like all the arguments you’ve given me for why that’s the case don’t hold any water.” They might say back, “Yeah, yeah, yeah, yeah. It’s kind of like when I was at the store the other day buying tea, and this guy came up. And he could clearly see that I was looking at the last box of black tea, and he took it anyway. Why are people so inconsiderate in this world? Don’t you agree?” Wait a second, that’s not what we were talking about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But be careful. That’s just an example. Red herrings aren’t always this obvious in a conversation. You know, you might, for example, you might ask somebody, “Why haven’t you given a single raise or a single day off to your employees in over a decade?” Spokesperson of the company might say, “Well, you know what, at this company we try to focus 100% of our efforts on providing a good product and customer experience. We believe in a world where the customer comes first.” Okay, but you haven’t answered the question.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Another tactic people commonly use is they use another fallacy altogether as a red herring. Oh! That’s a masterclass in fallacies. Make sure to watch out for that. You know, let’s say they’re using an ad hominin. You may say, “So, in conclusion it seems like this new tax proposed by the mayor to reduce crime in the area is going to really help.” Somebody might respond, “Right, the mayor being the guy arrested for a DUI five years ago? Yeah, he knows a ton about how to stop crime, right? He was probably drunk when he wrote that tax proposal. How can we know he wasn’t?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, another common fallacy that we see everywhere in our society is called the argument from authority fallacy. The way I like to think of this one is that it’s kind of the opposite of an ad hominin. Instead of saying that an argument is invalid because of the terrible, uncredible source that it’s coming out of, this one uses a source, props it up, and says that this thing has to be true because it’s coming out of this source. The problem with this way of thinking is that one constant in the universe is human error. People make mistakes. No matter how great a source may be most of the time, it’s not going to be perfect. And it’s downright illogical to assume that solely because something came from a source that’s usually good that it has to be true.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We see examples of this argument from authority absolutely everywhere in advertising. Just turn on your TV. The idea that this celebrity loves this product, so it must be great. Or it adds legitimacy to that product because this football player likes it. Ashton Kutcher uses this camera; it must be a great camera. When did Ashton Kutcher become the authoritative source on what’s good in the camera world? Did this guy come from a camera family? Is he an expert on manufacturing cameras? When did Mila Kunis become the resident expert on bourbon? Did she live in a distillery as a child? Does she make moonshine in her basement? The point is, these companies know that there’s a lot of people out there that exalt these people up onto a pedestal. And that regardless of how much of an expert they actually are on a given product, they know there’s going to be a certain percentage of the population that say, “Oh, I love them! I want to be like them! If Mila Kunis drinks that bourbon, it’s got to be good.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">People do this with the news too, right? They pick a particular news station that they know they can trust to deliver a fair and balanced approach to what’s going on in the world that day. They’re not going to waste their time with other stations. They’re not going to look at news outlets that might have a closed-minded bias at the root of what they’re reporting. “If this report came out of X news outlet, it’s got to be true!”&nbsp; A pretty good way to spot this fallacy in practice is just to look very closely at the premise of the argument, not much at the conclusion. Remember, the premise is the evidence cited for why a conclusion is justified. This fallacy at its root is really just using faulty evidence. “This lab came out with a study, so it must be true.” “This celebrity said to use this credit card company; it’s got to be good.” Be sure to keep a close eye on the premise is what I’m saying.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The next fallacy we’re going to be talking about is the begging the question or the circular reasoning fallacy. This one’s an interesting one. What people are doing here is they’re basically ignoring the entire premise section of an argument. They basically only have a conclusion, a conclusion that they’re spouting off as though it’s self-evident and as though it doesn’t need justification or evidence to back it up. Someone might say, “I don’t see how anyone could ever drive a Ford. They’re horrible.” “Well, why?” “Cuz, cuz look at them, man. They just are. They’re horrible.” “Why?” “Cuz look at them!” By the way, when trying to spot this one, look for those sort of key phrases that we just heard: “It just is,” or “They just are,” or “I just do believe this.” These are the fanfares of someone trying to pretend as though something is self-evident without need of justification. See, this is a particularly dangerous fallacy because when someone has this as their criteria for believing in something, they can find themselves sort of trapped in their own little insular world. If the fact that Fords are horrible is a self-evident fact for them in their life, then what happens oftentimes is they don’t even feel the need to question it. And for somebody to come along and question why they believe that thing, it might even feel like somebody was being nitpicky or pedantic.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, let’s say you believe that scientific inquiry can arrive at truth, right? Somebody may ask you, “Why do you believe that we can conduct scientific experiments and arrive at truth? “Well, look at how repeatable everything is. Look at how far we’ve come. It’s the truth. I just believe that we can arrive at truth. Who would ever actually question that?” Or “Why do you believe in a personal God?” “I just do. He just does exist.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, the next fallacy we’re going to talk about is the black and white fallacy or the fallacy of the excluded middle. This is the fallacy that I’m probably guilty of the most. And it’s a fallacy that I’ve found, at least personally, it’s really easy to fall into. What it is is when someone pretends as though a situation is much less nuanced than it actually is. They’ll give you one option or another. “Either you believe this, or you believe that.” And the “that” is usually something that’s so extreme and ridiculous that nobody’s ever going to agree with it. So, they have to agree with you. Keep an eye out for that, by the way. If somebody’s ever giving you a dichotomy, if somebody’s ever saying, “You have two options here,” or “There’s two kinds of people in this world,” these are hallmarks of somebody committing this black or white fallacy. They’re trying to make the world a lot more simple than it actually is so that you think there’s no option but to agree with them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Example: You either agree that we should give a million dollars to every minority in this country, or you’re racist against minorities. You either agree that the Starbucks cup should be star spangled—red, white, and blue—or you’re on the side of ISIS. Now, obviously in both examples there’s tons of positions in the middle between those two extremes. What you got to do—if you’re trying to shut down the fallacy of the excluded middle—what you have to do is point out the exception to this hard-and-fast rule that they’re making and trying to shove down your throat.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the last fallacy we’re going to be talking about today is called the hasty generalization or the non-representative sample fallacy. We’ve all seen this one before. What someone’s doing here is basically conducting the world’s worst experiment and then deriving tons of conclusions from the very flawed data that they have. This is like when somebody sits down in a casino; they put their money in the machine. They pull the lever, and then their first pull they win a thousand dollars. And they think, “Wow! I found it. This is the slot machine that’s paying out. This is the magic slot machine! Let’s keep putting my money in.” Two hours later, they’re broke. They used a very small sample size to make a very big conclusion.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But this one gets used in other areas too. “Oh, I was mugged by an Armenian dude when I was 14 years old. He punched me in the face and took my lunch money. Since then, I’ve just stayed away from them because they’re all scumbags and thieves.” Or maybe, “Oh, I used to live with somebody that was on unemployment, and they were very dishonest about it. They just gamed the system the whole time. They never went to a job interview. They would lie on the piece of paper. They basically just sat home for three years collecting it dishonestly. That’s why I think we shouldn’t even have unemployment. They’re all just robbing our tax dollars anyway.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The key to spotting this one is keeping in mind that an anecdote is not a sufficient premise to an argument necessarily. Look for somebody citing, “Oh this one time…” or “I used to know this guy…” or “I saw this one documentary…” Things like that, anything anecdotal, needs to be held under scrutiny if it’s trying to validate any claim that is not itself anecdotal.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But anyway, I hope you guys loved the show. If you have any questions or requests for stuff you want to talk about on the show, please don’t hesitate to reach out to me.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Thank you for wanting to know more today than you did yesterday. And most of all, I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, I’ve been getting a lot of feedback on the first “How To Win An Argument” episode. And to be honest, I’ve been getting a lot of the same questions over and over from you guys. So, before we talk about a few more of these common logical fallacies—how to spot them, how to respond to them—I want to answer a few of those questions. Because I think—honestly, I’m impressed. These questions this week are incredibly insightful. I think that they add to the discussion a lot. They need to be discussed if these episodes are going to be useful to you guys or mean something. And I think that by discussing them, we’re all going to be just a little bit better at knowing how to win an argument or at least why we’re arguing in the first place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, one of the first emails I got in response to that episode was from a lawyer from Washington, D.C. And I think his question is a fantastic starting point for this episode. Here’s the email. “Hi Steve, Love the podcast. Enjoy listening to it… I just got done listening to your latest episode about logical fallacies. I was both intrigued and frustrated by it. Full disclosure, I’m a lawyer; I work in politics in the DC area, and I am a democrat. So, naturally, I love to argue. I was interested in this episode because I love the logical or illogical foundations between each of the fallacies. But at the same time, I was frustrated because I had the same reaction to each one. So what? So what? Maybe I’m biased because I work in politics, but logical fallacies often win an argument in politics. And I define ‘win’ as electoral success or policy achievements.” That’s reasonable. “Ad hominin attacks, slippery slope arguments, false equivalency—these often work. And presidential debates are often dominated by candidates who make the biggest logical fallacies. Ted Cruz, Carly Fiorina, Donald Trump have all thrived partially because of their reliance on logical fallacies. So, I was wondering if you have any thoughts about logical fallacies in politics. What are the limitations of winning an argument or pointing out your opponent’s logical fallacies in politics? It seems like much of what resonates with people in politics is based on emotion and not intellect. Thank you, and keep up the excellent work.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, thank you, and keep up your excellent work, good sir! Anyway, there’s no two ways to put this. This is a fantastic question. Really it is. See, what he did is he looked at the title of the episode— “How To <em>Win</em> An Argument” not how to be the most logically sound within an argument. And he rightly points out, I think, that the fact is in today’s world, just statistically speaking, most of the time you’re going to be having an argument with someone about something you’re probably not arguing with somebody that sat down and taught themselves formal logic. Most of the time what wins an argument in today’s world—whether it's in politics, at family dinner table, around the water cooler at work—most of the time it is just a kneejerk, emotional, fallacy-ridden argument that people relate to. So, of course a lawyer would ask this question, right? I mean, this is where he lives and dies. This is his home, and it's a great point.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">If you’re a lawyer—if the reason you need to win an argument is so that maybe you can sway a jury of your peers to think that you are right about something, and let’s say we exist in a world where those peers are, statistically speaking, swayed by things like strawmen, ad hominin attacks, non sequiturs—as a lawyer, fallacies are an incredible tool to have in your toolbelt. And yes, in that way to your point, they’re an incredible tool to have if you’re Donald Trump or Hillary Clinton and you’re trying to sway public opinion. This is like the sophists of ancient Athens, right? In a world where the Athenians loved a good court case—they were crazy about it, and they prided themselves on their justice system—in a world where you can be taken to trial for basically anything, and if you don’t have the ability to argue your way out of a court case, you could potentially—horrible things could happen to you. You could lose everything you’ve ever worked for. You could be banished. In that world, people paid the sophists to teach them how to argue. They paid these experts in rhetoric to at all costs, even if they were guilty, to teach them to argue their way out of anything. Even if they had to resort to fallacies, the main point was winning the argument at all costs. And when Socrates came along and famously criticized the sophists for spreading around these cheap-argument tactics, they answered back to him with the fact that, look, all we’re really doing is teaching useful information. The thing is, they’re absolutely right.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">If you live in a climate where fallacies win people over in an argument, then they’re incredibly useful, just not logically sound, right? And I guess this may be the difference between a lawyer finding use in the information and trying to make a philosophy podcast that might change a few people’s minds. But you’d have to at least acknowledge, Mr. Lawyer, that the arguments that you use to persuade people change based on the setting that you’re in. As a lawyer, in a certain situation where those fallacies would not be as useful, you might opt not to use them, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s do a thought experiment. Let’s imagine an alternative universe, one where I, Stephen West, am supreme dictator of the world. Let’s say I rounded up everybody; I put them in a room. I brain washed them. I just played the “How To Win An Argument” episode. And I said, look, you’re not leaving this table until you can recite these episodes word for word and you can instantly spot the most common fallacies that people use in arguments. Well, in that world, in the same way you adjust your arguments in certain settings in this world, in the same way politicians change theirs given the current company, these fallacies that are so useful in today’s world, they wouldn’t affect people the same way. Here’s the thing, at one point in my life, ad hominin attacks used to seem like knockdown arguments for me. If I was that age in today’s culture, I might see Donald Trump say to Ted Cruz, “Oh, he thinks he’s fit to manage the future of the US economy? Coming from a guy that can’t even manage his own finances? Oh, yeah, I’ve heard about that failed business you’ve had, the one that went down the toilet. Is that going to be the US economy now?” and I’d be like, “Yeah! You’re right, Donald. You’re right. Who are you to run the US economy, Cruz?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But by learning about logical fallacies and practicing a bit, at a certain point I just got to a point, like, if I saw that in today’s world I would just say, “Ad hominin: discrediting the source,” like a machine now. The point is, that emotional response that was evoked back then isn’t in me anymore because I instantly identify it as what it is. So, in response to your question of “Who cares about any of this stuff?” this is the reason why I would make that episode. This is the reason somebody would potentially disseminate that information. Because hypothetically, if that episode exists and it’s for free out there—you know, if you guys share these episodes with your friends and they share it with their friends—eventually, who knows? We might find ourselves living in very different world come the next political debate season.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">By the way, I love that you bring up politics, my friend, because these are the key issues, right? These are the ideas that are potentially based on fallacies that might change the world as we know it. As we talked about last episode, any war, any hatred, any subjugation that we can study throughout history really at its core was brought about because of a belief, a belief that someone had about what the right thing to do was in a given situation, a belief that was based on an idea, an idea that was validated because of some sort of argument that was had either internally or with someone else. Take a second and just look around you, alright? If you have a problem with the way that people are treating each other at any level, if you have a problem with anyone marginalizing or killing each other, understand that ultimately what is at the root of that behavior that you have a problem with is a belief. And you can punch that person in the face. You could send a destroyer there and shoot cruise missiles at them from a thousand miles away. You can waterboard them until your heart’s content. But understand that if you have a problem with what you see as a sort of intellectual cockroach infestation, all you’re doing there is taking a Louisville Slugger and smashing individual cockroaches. You’re doing nothing to affect what’s at the root of the problem, the nest if you will, which is a belief.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And throughout recorded history there’s only been one reliable way of changing beliefs and that is by winning a war of ideas. Now, in this war of ideas, winning an argument is like winning a small battle. It’s like a local militia holding off an invading force. Doesn’t decide the war. But eventually, enough of these little battles start piling up, eventually they may turn the tides of the war. So again, in answer to your question of “Who cares about this stuff?” if winning an argument is like winning a battle in this war of ideas, then knowing logical fallacies is like the artillery in the battle. It’s like calling in an air strike. It’s intel. It’s knowing the weaknesses in your enemy’s defenses. And by the way, it works the other way too. If you find yourself in an argument with somebody that sees ad hominin attacks as a totally reasonable and persuasive argument, talk about just adding firepower to your arsenal on that battlefield.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But in reality, I’m telling you this: in my experience, most people are cool. Most people are reasonable about this stuff. Most people when confronted with the fact that some belief that they hold is based on a fallacy, most of the time if you’re not militant about it, if you frame it in a positive way in the interest of us both being passionate people that care about the world that are trying to understand it better, most people aren’t so stubborn that they wouldn’t ever revise their beliefs about something. Usually what happens if they feel like they’re backed into a corner is they say, “Okay, well maybe that might not be logically sound, but how about this other fallacy that justifies what I believe?” But eventually, with enough reasonable, respectful conversation, with enough of these battles fought, most people are willing to change their beliefs, if in fact they believe they’re only based on fallacies.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, because at the root of every argument that somebody makes about something is a sort of mathematical equation. This is something Aristotle realized all the way back in 300 BC. It seems that an argument, when you break it down, has a certain formula to it. Now, in the most general sense, an argument is when you have certain premises that you lay out, and these are cited as reasons or evidence to justify a conclusion that you have. Premises; conclusion. Some arguments are premise-conclusion. Some arguments are premise-therefore premise-conclusion, etc. Well, Aristotle sat down and tried to identify these arguments using mathematical variables. First one to use the mathematical variable, by the way. And it went well. He ended up finding a lot of these. He wrote down what he thought was every “equation” that could be considered a viable argument. If the argument didn’t fit that syntax, then it had to be in some way logically unsound, to Aristotle.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It's weird to think about these things in such mathematical terms. It’s weird to think about something like arguing, which is typically seen as such an emotional thing, in such logical terms. Actually another email that I got this week a lot: “When I argue, I argue from the gut. I feel it in my gut. There’s no X, Y, and Z in my gut.” But what is that “gut?” There’s no magic gut that you’re pulling arguments from. That gut is an emotional response that’s based on the feeling that you initially get, which is based on all your previous experiences and all the analysis that you’ve done up until that point in your life. So, in a metaphorical sense, we really do argue by throwing equations at each other. You may say, “1+1 = 2.” They say, “Yeah, yeah. 1+1 = 2, but 2+3 = 6. So, therefore, 1+1+2+3 must equal 8.” Being able to spot logical fallacies is being able to see instantly that the mistake that they made in their thinking was that 2+3 = 6, being able to home in on it real quick.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And what a great skill to have if you’re trying to quickly cut through all the stuff that typically clouds an argument: rhetoric, condescension, where you’re having the conversation, when you’re having the conversation, the people standing around, cultural prejudices. By the way, here’s another answer to that question of “Who cares about this stuff?” Identifying these fallacies is not just useful when it comes to winning an argument against your grandma at Christmas dinner. When you’re able to instantly spot these logical fallacies, it’s funny, the percentage chance of you being swindled by someone or joining a cult goes down quite substantially. Knowing logical fallacies is like an iron dome around your bank account. There’s never been a single person in the history of the world that has known logical fallacies that has drunk poisonous Kool-Aid. It’s never happened. The reason is is that these people that peddle this nonsense rely on you glossing over their terrible arguments. It’s the way they make their money.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What I’m saying is, this is not just an offensive skill set; it’s a defensive one as well. That said, thanks for sending the emails this week. Fantastic questions. To be honest with you, if I had questions like this every week, I could do two episodes of this podcast a week. I could do one that’s just new content, and the other one that’s responding and clarifying the questions to that content. This is easy for me. This is like talking into a microphone. But before we run out of time, let’s talk about some more of these logical fallacies. What do you say?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The first one I want to talk about is an extremely common one. It’s called the red herring fallacy, and boy is it one of my favorites. It takes so many different forms. Typically, a red herring fallacy is when somebody in the middle of an argument changes the subject to something else that’s only tangentially related to avoid having the original argument and change it to something that they might stand a better chance at arguing. Now, real quick, as you can imagine, you should look out for this one particularly when you’re winning an argument. Usually somebody will launch all their arguments at you—pew, pew, pew, pew—and then when you point out the problems in their way of thinking, instead of conceding defeat—you know, surrender their sword to the opposing general—they’ll just change the subject entirely so now it’s a new battlefield you’re fighting on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, let’s say you’re talking to somebody who believes a teapot is orbiting between Mercury and Venus. And you say, “You know, it seems that you believe that there’s a teapot orbiting around the sun between the planets of Mercury and Venus. But it seems like all the arguments you’ve given me for why that’s the case don’t hold any water.” They might say back, “Yeah, yeah, yeah, yeah. It’s kind of like when I was at the store the other day buying tea, and this guy came up. And he could clearly see that I was looking at the last box of black tea, and he took it anyway. Why are people so inconsiderate in this world? Don’t you agree?” Wait a second, that’s not what we were talking about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But be careful. That’s just an example. Red herrings aren’t always this obvious in a conversation. You know, you might, for example, you might ask somebody, “Why haven’t you given a single raise or a single day off to your employees in over a decade?” Spokesperson of the company might say, “Well, you know what, at this company we try to focus 100% of our efforts on providing a good product and customer experience. We believe in a world where the customer comes first.” Okay, but you haven’t answered the question.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Another tactic people commonly use is they use another fallacy altogether as a red herring. Oh! That’s a masterclass in fallacies. Make sure to watch out for that. You know, let’s say they’re using an ad hominin. You may say, “So, in conclusion it seems like this new tax proposed by the mayor to reduce crime in the area is going to really help.” Somebody might respond, “Right, the mayor being the guy arrested for a DUI five years ago? Yeah, he knows a ton about how to stop crime, right? He was probably drunk when he wrote that tax proposal. How can we know he wasn’t?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, another common fallacy that we see everywhere in our society is called the argument from authority fallacy. The way I like to think of this one is that it’s kind of the opposite of an ad hominin. Instead of saying that an argument is invalid because of the terrible, uncredible source that it’s coming out of, this one uses a source, props it up, and says that this thing has to be true because it’s coming out of this source. The problem with this way of thinking is that one constant in the universe is human error. People make mistakes. No matter how great a source may be most of the time, it’s not going to be perfect. And it’s downright illogical to assume that solely because something came from a source that’s usually good that it has to be true.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We see examples of this argument from authority absolutely everywhere in advertising. Just turn on your TV. The idea that this celebrity loves this product, so it must be great. Or it adds legitimacy to that product because this football player likes it. Ashton Kutcher uses this camera; it must be a great camera. When did Ashton Kutcher become the authoritative source on what’s good in the camera world? Did this guy come from a camera family? Is he an expert on manufacturing cameras? When did Mila Kunis become the resident expert on bourbon? Did she live in a distillery as a child? Does she make moonshine in her basement? The point is, these companies know that there’s a lot of people out there that exalt these people up onto a pedestal. And that regardless of how much of an expert they actually are on a given product, they know there’s going to be a certain percentage of the population that say, “Oh, I love them! I want to be like them! If Mila Kunis drinks that bourbon, it’s got to be good.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">People do this with the news too, right? They pick a particular news station that they know they can trust to deliver a fair and balanced approach to what’s going on in the world that day. They’re not going to waste their time with other stations. They’re not going to look at news outlets that might have a closed-minded bias at the root of what they’re reporting. “If this report came out of X news outlet, it’s got to be true!”&nbsp; A pretty good way to spot this fallacy in practice is just to look very closely at the premise of the argument, not much at the conclusion. Remember, the premise is the evidence cited for why a conclusion is justified. This fallacy at its root is really just using faulty evidence. “This lab came out with a study, so it must be true.” “This celebrity said to use this credit card company; it’s got to be good.” Be sure to keep a close eye on the premise is what I’m saying.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The next fallacy we’re going to be talking about is the begging the question or the circular reasoning fallacy. This one’s an interesting one. What people are doing here is they’re basically ignoring the entire premise section of an argument. They basically only have a conclusion, a conclusion that they’re spouting off as though it’s self-evident and as though it doesn’t need justification or evidence to back it up. Someone might say, “I don’t see how anyone could ever drive a Ford. They’re horrible.” “Well, why?” “Cuz, cuz look at them, man. They just are. They’re horrible.” “Why?” “Cuz look at them!” By the way, when trying to spot this one, look for those sort of key phrases that we just heard: “It just is,” or “They just are,” or “I just do believe this.” These are the fanfares of someone trying to pretend as though something is self-evident without need of justification. See, this is a particularly dangerous fallacy because when someone has this as their criteria for believing in something, they can find themselves sort of trapped in their own little insular world. If the fact that Fords are horrible is a self-evident fact for them in their life, then what happens oftentimes is they don’t even feel the need to question it. And for somebody to come along and question why they believe that thing, it might even feel like somebody was being nitpicky or pedantic.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, let’s say you believe that scientific inquiry can arrive at truth, right? Somebody may ask you, “Why do you believe that we can conduct scientific experiments and arrive at truth? “Well, look at how repeatable everything is. Look at how far we’ve come. It’s the truth. I just believe that we can arrive at truth. Who would ever actually question that?” Or “Why do you believe in a personal God?” “I just do. He just does exist.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, the next fallacy we’re going to talk about is the black and white fallacy or the fallacy of the excluded middle. This is the fallacy that I’m probably guilty of the most. And it’s a fallacy that I’ve found, at least personally, it’s really easy to fall into. What it is is when someone pretends as though a situation is much less nuanced than it actually is. They’ll give you one option or another. “Either you believe this, or you believe that.” And the “that” is usually something that’s so extreme and ridiculous that nobody’s ever going to agree with it. So, they have to agree with you. Keep an eye out for that, by the way. If somebody’s ever giving you a dichotomy, if somebody’s ever saying, “You have two options here,” or “There’s two kinds of people in this world,” these are hallmarks of somebody committing this black or white fallacy. They’re trying to make the world a lot more simple than it actually is so that you think there’s no option but to agree with them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Example: You either agree that we should give a million dollars to every minority in this country, or you’re racist against minorities. You either agree that the Starbucks cup should be star spangled—red, white, and blue—or you’re on the side of ISIS. Now, obviously in both examples there’s tons of positions in the middle between those two extremes. What you got to do—if you’re trying to shut down the fallacy of the excluded middle—what you have to do is point out the exception to this hard-and-fast rule that they’re making and trying to shove down your throat.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the last fallacy we’re going to be talking about today is called the hasty generalization or the non-representative sample fallacy. We’ve all seen this one before. What someone’s doing here is basically conducting the world’s worst experiment and then deriving tons of conclusions from the very flawed data that they have. This is like when somebody sits down in a casino; they put their money in the machine. They pull the lever, and then their first pull they win a thousand dollars. And they think, “Wow! I found it. This is the slot machine that’s paying out. This is the magic slot machine! Let’s keep putting my money in.” Two hours later, they’re broke. They used a very small sample size to make a very big conclusion.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But this one gets used in other areas too. “Oh, I was mugged by an Armenian dude when I was 14 years old. He punched me in the face and took my lunch money. Since then, I’ve just stayed away from them because they’re all scumbags and thieves.” Or maybe, “Oh, I used to live with somebody that was on unemployment, and they were very dishonest about it. They just gamed the system the whole time. They never went to a job interview. They would lie on the piece of paper. They basically just sat home for three years collecting it dishonestly. That’s why I think we shouldn’t even have unemployment. They’re all just robbing our tax dollars anyway.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The key to spotting this one is keeping in mind that an anecdote is not a sufficient premise to an argument necessarily. Look for somebody citing, “Oh this one time…” or “I used to know this guy…” or “I saw this one documentary…” Things like that, anything anecdotal, needs to be held under scrutiny if it’s trying to validate any claim that is not itself anecdotal.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But anyway, I hope you guys loved the show. If you have any questions or requests for stuff you want to talk about on the show, please don’t hesitate to reach out to me.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+</div>
 
 
 
@@ -1378,30 +1380,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 100,
-&quot;sectionTheme&quot;: &quot;dark&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+      &quot;imageOverlayOpacity&quot;: 0.15,
+      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+      &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+      &quot;customContentWidth&quot;: 100,
+      &quot;sectionTheme&quot;: &quot;dark&quot;,
+      &quot;sectionAnimation&quot;: &quot;none&quot;,
+      &quot;backgroundMode&quot;: &quot;image&quot;
+    }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+      &quot;video&quot;: {
+        &quot;playbackSpeed&quot;: 0.5,
+        &quot;filter&quot;: 1,
+        &quot;filterStrength&quot;: 0,
+        &quot;zoom&quot;: 0,
+        &quot;videoSourceProvider&quot;: &quot;none&quot;
+      },
+      &quot;backgroundImageId&quot;: null,
+      &quot;backgroundMediaEffect&quot;: null,
+      &quot;divider&quot;: null,
+      &quot;typeName&quot;: &quot;blog-masonry&quot;
+    }"
   data-animation="none"
   
    
@@ -1438,25 +1440,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

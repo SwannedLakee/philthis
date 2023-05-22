@@ -41,14 +41,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #082 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"4":true,"2":true,"6":true,"1":true,"3":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #082 -  Transcript","id":"5eec1ce309afd80facd89fe3","fullUrl":"/transcript/episode-82-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["fluid_engine_clean_up_grid_contextual_change","customer_accounts_email_verification","campaigns_thumbnail_layout","send_local_pickup_ready_email","supports_versioned_template_assets","order_status_page_checkout_landing_enabled","viewer-role-contributor-invites","nested_categories","crm_enable_recaptcha_v3_enterprise","background_art_onboarding","site_header_footer","campaigns_discount_section_in_blasts","campaigns_show_featured_templates","themes","new_stacked_index","customer_account_creation_recaptcha","override_block_styles","multilingual_transactional_emails","accounting_orders_sync","crm_default_newsletter_block_to_campaigns","commerce_etsy_shipping_import","crm_waitlist_enforce_recaptcha_v3_enterprise","campaigns_content_editing_survey","campaigns_asset_picker","scripts_defer","commerce_order_status_access","member_areas_spanish_interviews","crm_retention_segment","crm_remove_subscriber","commerce_site_visitor_metrics","site_user_email_change","commerce_clearpay","member_areas_provisioning_service","visitor_react_forms","fluid_engine","campaigns_new_image_layout_picker","collection_typename_switching","commerce_etsy_product_import","member_areas_schedule_interview","campaigns_import_discounts","crm_enforce_recaptcha_v3_enterprise","campaigns_global_uc_ab","is_feature_gate_refresh_enabled","commerce_restock_notifications","marketing_landing_page","nested_categories_migration_enabled","campaigns_discount_section_in_automations"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #082 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"4":true,"3":true,"1":true,"6":true,"7":true,"2":true,"8":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #082 -  Transcript","id":"5eec1ce309afd80facd89fe3","fullUrl":"/transcript/episode-82-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["collection_typename_switching","nested_categories_migration_enabled","campaigns_import_discounts","campaigns_discount_section_in_blasts","commerce_site_visitor_metrics","crm_enable_recaptcha_v3_enterprise","is_feature_gate_refresh_enabled","campaigns_new_image_layout_picker","member_areas_spanish_interviews","campaigns_thumbnail_layout","campaigns_asset_picker","crm_retention_segment","customer_accounts_email_verification","order_status_page_checkout_landing_enabled","multilingual_transactional_emails","new_stacked_index","campaigns_show_featured_templates","commerce_order_status_access","marketing_landing_page","crm_default_newsletter_block_to_campaigns","campaigns_discount_section_in_automations","override_block_styles","viewer-role-contributor-invites","fluid_engine_clean_up_grid_contextual_change","site_user_email_change","commerce_clearpay","campaigns_content_editing_survey","customer_account_creation_recaptcha","site_header_footer","campaigns_global_uc_ab","supports_versioned_template_assets","nested_categories","member_areas_provisioning_service","themes","commerce_etsy_shipping_import","member_areas_schedule_interview","background_art_onboarding","crm_remove_subscriber","crm_enforce_recaptcha_v3_enterprise","fluid_engine","send_local_pickup_ready_email","visitor_react_forms","accounting_orders_sync","commerce_etsy_product_import","crm_waitlist_enforce_recaptcha_v3_enterprise","commerce_restock_notifications","scripts_defer"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-video-block","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #082 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-82-transcript","datePublished":"2016-05-26T23:16:00-0700","dateModified":"2022-07-10T13:37:06-0700","headline":"Episode #082 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -135,153 +135,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+      &quot;layout&quot;: &quot;navRight&quot;,
+      &quot;action&quot;: {
+        &quot;href&quot;: &quot;/take-action&quot;,
+        &quot;buttonText&quot;: &quot;Take Action&quot;,
+        &quot;newWindow&quot;: false
+      },
+      &quot;showSocial&quot;: true,
+      &quot;socialOptions&quot;: {
+        &quot;socialBorderShape&quot;: &quot;none&quot;,
+        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+        &quot;socialBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;sectionTheme&quot;: &quot;light&quot;,
+      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+      &quot;cartStyle&quot;: &quot;cart&quot;,
+      &quot;cartText&quot;: &quot;Cart&quot;,
+      &quot;showEmptyCartState&quot;: true,
+      &quot;cartOptions&quot;: {
+        &quot;iconType&quot;: &quot;solid-7&quot;,
+        &quot;cartBorderShape&quot;: &quot;none&quot;,
+        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+        &quot;cartBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;showButton&quot;: false,
+      &quot;showCart&quot;: false,
+      &quot;showAccountLogin&quot;: true,
+      &quot;headerStyle&quot;: &quot;theme&quot;,
+      &quot;languagePicker&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;iconEnabled&quot;: false,
+        &quot;iconType&quot;: &quot;globe&quot;,
+        &quot;flagShape&quot;: &quot;shiny&quot;,
+        &quot;languageFlags&quot;: [ ]
+      },
+      &quot;mobileOptions&quot;: {
+        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+        &quot;menuIconOptions&quot;: {
+          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 1.0
+          }
+        }
+      },
+      &quot;dynamicOptions&quot;: {
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        }
+      },
+      &quot;solidOptions&quot;: {
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 100.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;gradientOptions&quot;: {
+        &quot;gradientType&quot;: &quot;faded&quot;,
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 90.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;showPromotedElement&quot;: false
+    }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
+      &quot;enabled&quot;: false,
+      &quot;iconEnabled&quot;: false,
+      &quot;iconType&quot;: &quot;globe&quot;,
+      &quot;flagShape&quot;: &quot;shiny&quot;,
+      &quot;languageFlags&quot;: [ ]
+    }"
   
   data-first-focusable-element
   tabindex="-1"
@@ -848,142 +848,142 @@
     
     "
     data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false
-}"
+      &quot;layout&quot;: &quot;navRight&quot;,
+      &quot;action&quot;: {
+        &quot;href&quot;: &quot;/take-action&quot;,
+        &quot;buttonText&quot;: &quot;Take Action&quot;,
+        &quot;newWindow&quot;: false
+      },
+      &quot;showSocial&quot;: true,
+      &quot;socialOptions&quot;: {
+        &quot;socialBorderShape&quot;: &quot;none&quot;,
+        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+        &quot;socialBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;sectionTheme&quot;: &quot;light&quot;,
+      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+      &quot;cartStyle&quot;: &quot;cart&quot;,
+      &quot;cartText&quot;: &quot;Cart&quot;,
+      &quot;showEmptyCartState&quot;: true,
+      &quot;cartOptions&quot;: {
+        &quot;iconType&quot;: &quot;solid-7&quot;,
+        &quot;cartBorderShape&quot;: &quot;none&quot;,
+        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+        &quot;cartBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;showButton&quot;: false,
+      &quot;showCart&quot;: false,
+      &quot;showAccountLogin&quot;: true,
+      &quot;headerStyle&quot;: &quot;theme&quot;,
+      &quot;languagePicker&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;iconEnabled&quot;: false,
+        &quot;iconType&quot;: &quot;globe&quot;,
+        &quot;flagShape&quot;: &quot;shiny&quot;,
+        &quot;languageFlags&quot;: [ ]
+      },
+      &quot;mobileOptions&quot;: {
+        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+        &quot;menuIconOptions&quot;: {
+          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 1.0
+          }
+        }
+      },
+      &quot;dynamicOptions&quot;: {
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        }
+      },
+      &quot;solidOptions&quot;: {
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 100.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;gradientOptions&quot;: {
+        &quot;gradientType&quot;: &quot;faded&quot;,
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 90.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;showPromotedElement&quot;: false
+    }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1134,31 +1134,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+      &quot;imageOverlayOpacity&quot;: 0.15,
+      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+      &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+      &quot;customSectionHeight&quot;: 10,
+      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+      &quot;customContentWidth&quot;: 50,
+      &quot;sectionTheme&quot;: &quot;&quot;,
+      &quot;sectionAnimation&quot;: &quot;none&quot;,
+      &quot;backgroundMode&quot;: &quot;image&quot;
+    }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+      &quot;video&quot;: {
+        &quot;playbackSpeed&quot;: 0.5,
+        &quot;filter&quot;: 1,
+        &quot;filterStrength&quot;: 0,
+        &quot;zoom&quot;: 0,
+        &quot;videoSourceProvider&quot;: &quot;none&quot;
+      },
+      &quot;backgroundImageId&quot;: null,
+      &quot;backgroundMediaEffect&quot;: null,
+      &quot;divider&quot;: null,
+      &quot;typeName&quot;: &quot;blog-masonry&quot;
+    }"
   data-animation="none"
   
    
@@ -1221,7 +1221,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1ce309afd80facd89fe3"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1657485372800_1184"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Hello, everyone! I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Hope you love the show today! Let’s get onto the program.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Whenever somebody has a problem with something that Marx says, they can disagree with the guy on a number of different levels, but it’s usually in one of two places. They either disagree with communism as a political ideology, or they disagree with the economic inferences that Marx makes—you know, the way that he viewed markets, how they work, people within markets, etc. But one important thing to understand before we move forward throughout history and talk about all the different thinkers over the years that have spent decades of their life trying to prove to people that Marx is wrong—one important thing to understand is that a good way to organize all of these critiques of Marx that we’re going to have to cover is to understand that there is a very real connection between the beliefs that Marx held about economics and the political ideology that he created and espoused. One sort of justifies the other. And I think you know which is which.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It's actually really interesting to think about how it relates to us and the way that we think about things—how the beliefs that we have about how economic systems work are often directly related to who we’re willing to vote for in an election. Now, whether that’s true or not, just imagine, if it was true, think about how important economics becomes. Think about how crucial it is for us to have an understanding of the history of economics.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Maybe this is a little bit too vague. For example, imagine you’re a card-carrying Marxist living in the United States in the year 2016, like me. Imagine you have two presidential candidates to choose from: Bernie Sanders or Donald Trump. Well, if your economic views are that capitalism is a fundamentally immoral system based on theft and exploitation of the worker, well, you’re probably going to have a hard time going to the ballot box and voting for a capitalist like Donald Trump. I mean, no matter how many other issues you may agree with the guy on, just given the global, economically driven world that we live in, just given how much the economic climate affects the lives of the average person, how can you ever justify theft and exploitation of everyone in the name of progressing a few single issues?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What I’m saying is, you may look at the last couple episodes and think that this has turned into an economics podcast—you know, I’m changing the name to <em>Monetize This!</em> now—my point is, given the world that we live in, our views on economics are the foundation of many of the values that we hold, not the least of which might be the political ideology that we end up voting for. Understanding the economic theory of our day massively helps us in understanding the political philosophy of our day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, back to the people that disagree with Marx. Usually in two broad categories, right? Communism and his economic beliefs. Well, if we look at it in terms of these two main categories of disagreement that people have, this square of opposition starts to emerge where each type of disagreement that somebody might have represents one side of the square. One side of the square would be people that agree with Marx’s economic views but disagree with communism. They agree with the criticisms Marx is making of capitalism; it’s just that communism is not the best solution to those problems.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, another side of the square would be people that agree with the ideology of communism but disagree with Marx’s economic views. You know, they’d say, “Marx, God bless his heart, he lived and wrote all this stuff in the mid-1800s. We’ve come a long way since then in our understanding of economics. Communism is the correct solution to the problem, but we need to make some tweaks to the way he thought about economics in the 1800s.” In other words, his solution was correct; his premise was not.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, obviously another side of the square would be people that just agree with the guy. They agree with both his economics and political ideology. But the last side of the square would be the opposite of that: people that disagree with both his economics and political ideology. And the people we’re going to be talking about today fall into this last category.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But it’s interesting. Because it’s the economic inferences that Marx makes that sets the foundation for why communism needs to be implemented, one thing that comes as a byproduct of that is that, if you’re able to refute the economic theory of Marx, at that point you’re sort of able to kill two birds with one stone. It cuts the legs out from underneath communism all together. At that point communism becomes just some really interesting, abstract theory about how society might be organized if we happened to live in a completely different universe where that’s actually how economics worked. Just like Plato’s <em>Republic</em> and Augustine’s <em>City of God</em> and Sir Francis Bacon’s <em>New Atlantis</em>, let’s take all these wacky ideas and Carl Marx, and let’s put them next to Dr. Seuss in the children’s section, far away from the non-fiction section of the library. Point is, this is why this collection of people that we’re talking about today spent a lot more time trying to refute the economic philosophy of Marx as opposed to the political philosophy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if you’re one of these people commissioned with the task of finding fault in Marx’s economics, a really good place to start—one of the cornerstones of his thought that we talked about last time—is the notion that profit is theft. Profit is a euphemism for the exploitation of the worker. Capitalism’s not just wrong as an economic theory; it is a fundamentally immoral system because it allows for the worker, who’s producing a certain amount of value for that employer—just like the slaves in chattel slavery, just like the peasants of the feudal system—the worker in a capitalist society is paid less than the value they’re producing for the employer. The discrepancy between these two values being to Marx the equivalent of, well, strong-arm robbery. Why does it got to be this way, he would ask?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But therein lies an assumption, doesn’t it? Aren’t we assuming there that it’s possible to objectively and consistently estimate the true value of someone’s labor? Tons of questions start to arise. Like let’s say that we actually wanted to pay a worker exactly what they produce in value. Where do we get that number from? How do we even know what they’re worth in the first place? Is the value they’re producing always the same? Does it ever fluctuate? If it does fluctuate, should we pay them less that week and more next week? Not to mention, how do we even know where to start when it comes to what we should even be paying these people?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Just as a thought experiment for a second, think about the value a worker provides. Now think about it in terms of an increment other than dollars and cents. You know, just like a dollar bill, for example, a bag of charcoal has a certain amount of value. How many bags of charcoal should I pay you for eight hours of work? The bigger question here is, how do we even know what a bag of charcoal is worth in the first place?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, finding an answer to all these more specific questions is ultimately based on our answer to a much more simple question in economics. And because it’s such a simple question, I think intuitively to us it may seem like there must be a very simple answer to this question. But history I guess has proven otherwise. And the question is this: what determines the value of anything in this world? How do we know what to charge for something at all? I mean, how did the great philosophers Bob Barker and Drew Carey just always seem to conveniently know the exact price of a Swiffer? Well, before there was ever <em>The Price is Right</em>, there was a paradox within economics, a paradox that dates back generation after generation that practically every economic philosopher has taken a crack at in some capacity. It’s called the diamond-water paradox, and it goes like this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Water is an absolutely essential part of human life. We’re made out of the stuff. Seven days without water and you’re dead. Okay, so knowing that, why is it that water is so cheap and a diamond costs thousands and thousands of dollars? I mean, I don’t need a diamond. Personally, I like having them. I like putting them in the giant crucifix that I wear around my neck. But really that’s just to be more endearing to my hip-hop compatriots. I don’t need diamonds to survive. I need water to survive. Why is it that a diamond costs so much more than a glass of water?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, Marx thought, like many before him, probably put most articulately by David Ricardo, “The value of a commodity, or the quantity of any other commodity for which it will exchange, depends on the relative quantity of labour which is necessary for its production, and not as the greater or less compensation which is paid for that labour.” In other words, the reason why a diamond costs so much more than a glass of water is because it takes much more labor to produce one diamond than to produce one glass of water. I mean, think about it. To make a diamond, I mean, you got to fly halfway across the globe to a diamond mine. You got to put on one of those helmets with a flashlight on top. You got to risk life and limb navigating the bowels of this mine, hammer a diamond out of the wall, fly home, cut it, polish it, set it, etc. It takes a lot more labor to do that than to just go down to the nearest fresh water source and scoop up a glass of water for someone.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is what is known as the labor theory of value, or that the value of a commodity is directly related to the amount of labor that it took to produce. Now, Marx has his own nuanced brand of it. But he would say that although you can definitely find exceptions to that rule, the exceptions can largely be explained away, and that the vast majority of the time it is true. As you can imagine, this labor theory of value and how the value of something is based on someone’s labor—this becomes a pretty important part of Marx’s philosophy and a crucial part of his idea that profit is theft. So, if you’re somebody that’s trying to refute that point that profit is theft, a great place to start is by trying to refute the labor theory of value.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, right around this time in history there’s three big economic thinkers that are trying to refute this labor theory of value. There’s Walras from Switzerland, Jevons from England, and a man named Mr. Carl Menger who was from Austria who would eventually become known as the first big thinker of the Austrian school of economics. That’s who we’re talking about today, the great Austrian economists and their critiques of Marx.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, the first thing you got to do if you want to destroy the labor theory of value is you got to come up with another answer to that diamond-water paradox. I mean, if it’s not the amount of labor that determines what something’s worth, what is it? A lot of answers to this question. And I think what a lot of people do is they say, “No, no, it’s not the labor that determines something’s value. It’s the law of supply and demand. That’s it.” I’m sure you guys all know about supply and demand. You know, there’s a demand for something. When the demand increases over the supply—blah, blah, blah, blah, blah—supply and demand! That’s my expert analysis. Look, I just don’t want to waste your time. We all know what supply and demand is, right? Okay. An Austrian economist would say, supply and demand is definitely part of it, but it can’t be the whole story because we see exceptions to that rule all the time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Think about Las Vegas, Nevada—a glimmering jewel in the middle of the barren desert. The chance of fortune and great spectacles await you, my friend. Unfortunately, what also awaits you are $7 bottles of water. What’s even more shocking is that people regularly pay $7 for a bottle of water. So, is a bottle of water $7 because of some scarcity of water in Las Vegas? Tempting to say yes. But we have to consider the fact that even though Las Vegas is in the middle of the desert, is there a scarcity of bottles of water that’s causing the price to be that high? I mean, is Aquafina delivering water at maximum capacity to Las Vegas and they can’t keep it on the shelves? Or do the vendors have dozens of cases of water in the back that just aren’t on the shelves yet?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Point is, the Austrians would say that the value of something—it’s based on supply and demand, but it can’t be based solely upon supply and demand. It can’t be that simple. And to understand what they think is missing from that theory, let’s look at the diamond-water paradox again, but this time let’s do it slightly differently. Let’s not do it from the comfy sleeping bag of Las Vegas, Nevada or from modern civilization. No, now let’s do it and pretend that we’re stranded in the middle of the Sahara Desert. What changes about it? Well, I’m sure we’ve all heard the adage—you know, we’re stranded on a desert island. I have a cheeseburger; you have a million dollars. Who’s richer? This is the sentiment Austrian economists are expressing here. When you’re in the middle of the desert, severely dehydrated, and somebody asks you which you’d pay more for, a diamond or a glass of water, obviously the answer’s going to be a glass of water.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The Austrians would say that what you’re doing there is making a subjective judgment about the value of a glass of water. See, in that particular context, a glass of water is way more valuable than a diamond. However, if for some reason you could get inside of a teleport machine and instantly be transported back to the confines of your house, it wouldn’t be very long at all before you’d change your mind and say that the diamond is more valuable. What does this mean? To the Austrians it means that the value of a commodity isn’t based on something objective like the amount of time it took for somebody to produce it or the scarcity of the item, but on the conglomeration of individuals making subjective value judgments based on whatever particular set of circumstances they’re in.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The level of value of an item is the gap or margin that an individual assigns to how valuable it would be to have one more of that item in those circumstances. For example, if we’re sitting at home on the couch with the kitchen sink five feet away from us, the value of water or the <em>margin</em> that an individual assigns to having one additional glass of water is going to be really small. You’re in the middle of the desert; that gap or <em>margin</em> is massive. This is better known as the subjective theory of value. And by the way, I keep peppering in that word “margin” because that’s what this type of economics is called—marginalism.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, it’s often said by economists that this idea of a subjective margin is really appealing to the average person. And you can kind of see why. It takes economics away from theory and away from mathematical equations. And it makes it into something very human. It takes economics down from the heavens to earth as Cicero would say, right? Ultimately, it’s individuals that are making these decisions about how valuable something is. And whatever they decide the value is is based on a number of different factors: the time period or culture they live in, their level of hydration or hunger in that moment, how they feel about the brand that they’re buying from; I mean, even down to things like whether they got eight hours of sleep last night or not. It makes it all feel very human.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s slow down for a second. Let’s keep in mind what the Austrians were originally trying to refute here. Remember, it was Marx’s idea that profit is theft. Now, no question if we think of this as a war that the Austrians are launching against Marx’s idea that profit is theft, the first battle that they would fight is against the labor theory of value. But even if we’re willing to grant that the subjective theory of value is a knock-down argument to the labor theory of value, this certainly doesn’t do away entirely with the idea that profit is another word for the exploitation of workers, right? Really all the subjective theory of value accomplishes here is to make it so that we don’t have this really neat package of ideas: of the value that a worker produces is equivalent to their labor, and that we should pay workers the total value of what they produce. Again, if we accept the subjective theory of value, it certainly does away with the first part of that statement—you know, the value that a worker produces is equivalent to their labor—but it doesn’t explain why we shouldn’t pay workers the total value of what they produce. Why is profit acceptable?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">A Marxist might say, even if we accept that your newfangled theory totally refutes the labor theory of value, the question still remains: why is it okay for a capitalist that controls the means of production to pay workers less than the value they produce and take the rest for themselves? What an Austrian economist would probably say back to that question is that the problem with that question is that it assumes that the laborers aren’t already being paid for the value of their capacity to work. They’d say, who gave that worker that job in the first place? Well, it was the employer, that heartless capitalist that started the company. And what did they do initially? Well, they walked around and they found an empty plot of land that wasn’t producing anything, and they built from the ground up with their bare hands the means of production that they control. They’ve taken an empty, unproductive plot of land, and they’ve transformed it into a bustling factory where hundreds of people are able to make money and provide for themselves and their families.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s not gloss over that process. To make this factory it took that capitalist ingenuity, a tremendous amount of risk, knowledge of the marketplace, hard work, vision, perseverance, being at the right place at the right time. Through all of this sacrifice, this capitalist has created essentially a magnifying glass of value, a place where people can not only work and make a living but also, because they have access to this factory and all of the equipment inside of it and all the efficiency that comes along with it, these workers are able to produce much more value in one hour of their work than they otherwise would be able to if the factory didn’t exist. The sacrifice that the capitalist made to make this magnifying glass of a worker’s value coupled with the ceaseless struggle that they have to contend with every day of maintaining the factory, maintaining the equipment, employee morale, making sure the factory next door doesn’t put them and all the people that work at the factory out of a job. Just like the worker gets paid a wage to do their job and to produce a certain amount of value at the factory, profit is really just the wage that the capitalist is being paid to magnify and sustain all of this additional value their sacrifice is providing. Of course they get paid more. Without them everyone else would be out of work.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, a Marxist might hear this and argue back, “Well, that doesn’t really tell the whole story. That really only explains the profit of capitalists that are actively out there, actively building factories, taking risks, providing jobs to people. What about all the idle capitalists out there? What about people like Scrooge McDuck? What about people that have all their money in a bank just sitting there, earning interest?” Or actually, better yet, publicly traded companies have shareholders that own a certain percentage of the company. It’s customary at the end of the quarter to send shareholders checks in the mail known as quarterly dividends. A Marxist would ask, “Why is that guy getting a check in the mail? That guy never stepped foot in a factory. Did that money just appear out of thin air? Where is that money coming from if not the exploited labor of somebody else? And in keeping with your previous example, Mr. Capitalist, about how the capitalist sacrificed so much to earn that wage that you call profit, what did that guy sacrifice? What? Sitting around all day watching a line go up and down in his front room?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, the Austrians have a really interesting response to this question. They’d say that the shareholders actually are sacrificing something. And it all comes back to their subjective theory of marginal value. But in this case, instead of the subjective value being changed by something like, you know, being in the middle of the desert, this time the value’s altered because of the way that people look at the value of something in relation to time. We seem to value things available to us immediately more than we value things that are available to us in the future.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s give a real-world example. Let’s say you needed a pair of running shoes, alright? So you go to amazon.com through the <em>Philosophize This!</em> banner—just kidding. Don’t. In fact, don’t go through the banner, just because I said that. But anyway, you go to Amazon; you find some shoes that you like. You get to the checkout screen, and let’s say you’re left with a choice. You can pay $80 dollars for the shoes to be delivered to you in 3 days, or you can pay $80 for the shoes to be delivered to you in 3 years. Which one do you choose? Now, keep in mind, you’re not getting ripped off here. It’s the same pair of shoes. You’re still getting an $80 pair of shoes in 3 years. You just have to wait 3 years to get them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The Austrians would say, it’s not that crazy to think that your subjective value of shoes now versus shoes three years from now would be very different. You wouldn’t pay as much for the shoes in three years. And quite frankly, why should you? Think of the opportunity cost. I mean, imagine all the days you could have been smiling, running through the park with your new shoes like you’re in a commercial for Rheumatoid arthritis and they’re reading all the side effects. That could have been you!</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, take that same psychology about the purchase of the shoes on Amazon, and now apply it to the capitalists that just have their money sitting in a bank, earning interest or investing in companies. Look, companies go out of business all the time. It wasn’t 10 years ago that almost every bank in this country went out of business. And these people’s money is only federally insured up to $250,000. These people are assuming a great risk, and for what? What is their money doing? Well, companies are reinvesting it within themselves and creating more jobs. And banks are loaning it out to the people to make their dreams come true: a loan so they can buy their dream house, a loan so someone can finally open up that hotdog stand they’ve always wanted to, a loan so someone can buy a car and have reliable transportation to be able to contribute to society. Their money’s just sitting there, making the world a better place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And think of the opportunity cost on their end for a second. They’ve already made their money. They’re forgoing consumption now for consumption later. They could theoretically pull every penny out of the bank that they’ve ever made and take a party bus to Macau, China, and just consume, consume, consume until it’s all gone! Point is, just like you would have to sacrifice three years of potential running days in the park with your new shoes, these people have to sacrifice years of being able to buy something else by having that money in the bank. The Austrians would ask, why isn’t it fair that their sacrifice should be honored with a little interest?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One final point. And by the way, so much of what makes up Austrian economics is a large set of claims about how the world works. It goes much deeper than what I could ever do on this single episode. Really these are just some interesting points they make that refute Karl Marx. If you guys like the subject matter, obviously we can do more of it in the future. Let me know.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But anyway, probably one of the most interesting ideas to me that comes out of Austrian economics is the idea that prices are not only just numbers on the shelves at the supermarket. Prices are purveyors of knowledge about the state of things all over the world. And here’s what they mean by that. The great Austrian economist Friedrich Hayek has a very famous example that talks about the importance of prices of things that we buy where he talks about a tin shortage. That’s his example. Just to summarize it briefly, he says that we are human beings that understand there’s not an infinite supply of anything in this world. We have a finite amount of resources on this planet to harvest during our time here, and that because of that fact, in a perfect world if the supply of one of those resources started to run out, it stands to reason that we would want people to either use less of it or find alternatives.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s say for example that the supply of tin started to run out. Well, as a global community, we have a pretty big problem on our hands. The problem is, how do we quickly and reliably get the information to everyone in the world that “Hey! We’re running out of tin here. Can you guys slow down on all the tin stuff?” Getting this message out is a logistical nightmare. I mean, it’s not like everybody watches the same TV station or even watches TV for that matter. So how do we reliably get that message out?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, Hayek and many others say that this is one of the great things about the price system. With the price system, you don’t have to find some creative way to go door to door and keep everybody updated on this particular week’s scarcity report. No, the price system automatically sends the message to the people that matter, the consumers interested in consuming things made out of tin in this case. Tin farmers start to charge more for their tin. Tin foil companies start to charge more for their tin foil. And when a consumer goes to the supermarket and has to choose between tin foil and aluminum foil, they don’t even need to know why there’s a tin shortage. The price informs them of what’s going on in the world of tin out there.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the reason this point matters when it comes to Marx is that Hayek would argue that the only way the price system works and delivers this wealth of information to consumers is if it’s functioning in a system where private property is protected and can be freely exchanged by individuals. If nobody owns anything, if people aren’t making mutually beneficial exchanges with other people, how can price possibly reflect the true value of something? And this extends into the means of production. If the means of production aren’t privately-owned entities conducting exchanges with other entities that are privately owned, how can they ever get this encyclopedia of information that the pricing system gives us when we’re in a system that doesn’t denounce private property rights like Marx does?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Price is a purveyor of information—really interesting concept. Again, much more Austrian stuff to come. Stuff we talked about today are the things most relevant to Marx. I hope you guys loved the show and that you have some food for thought this week.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hello, everyone! I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Hope you love the show today! Let’s get onto the program.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Whenever somebody has a problem with something that Marx says, they can disagree with the guy on a number of different levels, but it’s usually in one of two places. They either disagree with communism as a political ideology, or they disagree with the economic inferences that Marx makes—you know, the way that he viewed markets, how they work, people within markets, etc. But one important thing to understand before we move forward throughout history and talk about all the different thinkers over the years that have spent decades of their life trying to prove to people that Marx is wrong—one important thing to understand is that a good way to organize all of these critiques of Marx that we’re going to have to cover is to understand that there is a very real connection between the beliefs that Marx held about economics and the political ideology that he created and espoused. One sort of justifies the other. And I think you know which is which.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It's actually really interesting to think about how it relates to us and the way that we think about things—how the beliefs that we have about how economic systems work are often directly related to who we’re willing to vote for in an election. Now, whether that’s true or not, just imagine, if it was true, think about how important economics becomes. Think about how crucial it is for us to have an understanding of the history of economics.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Maybe this is a little bit too vague. For example, imagine you’re a card-carrying Marxist living in the United States in the year 2016, like me. Imagine you have two presidential candidates to choose from: Bernie Sanders or Donald Trump. Well, if your economic views are that capitalism is a fundamentally immoral system based on theft and exploitation of the worker, well, you’re probably going to have a hard time going to the ballot box and voting for a capitalist like Donald Trump. I mean, no matter how many other issues you may agree with the guy on, just given the global, economically driven world that we live in, just given how much the economic climate affects the lives of the average person, how can you ever justify theft and exploitation of everyone in the name of progressing a few single issues?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What I’m saying is, you may look at the last couple episodes and think that this has turned into an economics podcast—you know, I’m changing the name to <em>Monetize This!</em> now—my point is, given the world that we live in, our views on economics are the foundation of many of the values that we hold, not the least of which might be the political ideology that we end up voting for. Understanding the economic theory of our day massively helps us in understanding the political philosophy of our day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, back to the people that disagree with Marx. Usually in two broad categories, right? Communism and his economic beliefs. Well, if we look at it in terms of these two main categories of disagreement that people have, this square of opposition starts to emerge where each type of disagreement that somebody might have represents one side of the square. One side of the square would be people that agree with Marx’s economic views but disagree with communism. They agree with the criticisms Marx is making of capitalism; it’s just that communism is not the best solution to those problems.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, another side of the square would be people that agree with the ideology of communism but disagree with Marx’s economic views. You know, they’d say, “Marx, God bless his heart, he lived and wrote all this stuff in the mid-1800s. We’ve come a long way since then in our understanding of economics. Communism is the correct solution to the problem, but we need to make some tweaks to the way he thought about economics in the 1800s.” In other words, his solution was correct; his premise was not.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, obviously another side of the square would be people that just agree with the guy. They agree with both his economics and political ideology. But the last side of the square would be the opposite of that: people that disagree with both his economics and political ideology. And the people we’re going to be talking about today fall into this last category.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But it’s interesting. Because it’s the economic inferences that Marx makes that sets the foundation for why communism needs to be implemented, one thing that comes as a byproduct of that is that, if you’re able to refute the economic theory of Marx, at that point you’re sort of able to kill two birds with one stone. It cuts the legs out from underneath communism all together. At that point communism becomes just some really interesting, abstract theory about how society might be organized if we happened to live in a completely different universe where that’s actually how economics worked. Just like Plato’s <em>Republic</em> and Augustine’s <em>City of God</em> and Sir Francis Bacon’s <em>New Atlantis</em>, let’s take all these wacky ideas and Carl Marx, and let’s put them next to Dr. Seuss in the children’s section, far away from the non-fiction section of the library. Point is, this is why this collection of people that we’re talking about today spent a lot more time trying to refute the economic philosophy of Marx as opposed to the political philosophy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if you’re one of these people commissioned with the task of finding fault in Marx’s economics, a really good place to start—one of the cornerstones of his thought that we talked about last time—is the notion that profit is theft. Profit is a euphemism for the exploitation of the worker. Capitalism’s not just wrong as an economic theory; it is a fundamentally immoral system because it allows for the worker, who’s producing a certain amount of value for that employer—just like the slaves in chattel slavery, just like the peasants of the feudal system—the worker in a capitalist society is paid less than the value they’re producing for the employer. The discrepancy between these two values being to Marx the equivalent of, well, strong-arm robbery. Why does it got to be this way, he would ask?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But therein lies an assumption, doesn’t it? Aren’t we assuming there that it’s possible to objectively and consistently estimate the true value of someone’s labor? Tons of questions start to arise. Like let’s say that we actually wanted to pay a worker exactly what they produce in value. Where do we get that number from? How do we even know what they’re worth in the first place? Is the value they’re producing always the same? Does it ever fluctuate? If it does fluctuate, should we pay them less that week and more next week? Not to mention, how do we even know where to start when it comes to what we should even be paying these people?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Just as a thought experiment for a second, think about the value a worker provides. Now think about it in terms of an increment other than dollars and cents. You know, just like a dollar bill, for example, a bag of charcoal has a certain amount of value. How many bags of charcoal should I pay you for eight hours of work? The bigger question here is, how do we even know what a bag of charcoal is worth in the first place?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, finding an answer to all these more specific questions is ultimately based on our answer to a much more simple question in economics. And because it’s such a simple question, I think intuitively to us it may seem like there must be a very simple answer to this question. But history I guess has proven otherwise. And the question is this: what determines the value of anything in this world? How do we know what to charge for something at all? I mean, how did the great philosophers Bob Barker and Drew Carey just always seem to conveniently know the exact price of a Swiffer? Well, before there was ever <em>The Price is Right</em>, there was a paradox within economics, a paradox that dates back generation after generation that practically every economic philosopher has taken a crack at in some capacity. It’s called the diamond-water paradox, and it goes like this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Water is an absolutely essential part of human life. We’re made out of the stuff. Seven days without water and you’re dead. Okay, so knowing that, why is it that water is so cheap and a diamond costs thousands and thousands of dollars? I mean, I don’t need a diamond. Personally, I like having them. I like putting them in the giant crucifix that I wear around my neck. But really that’s just to be more endearing to my hip-hop compatriots. I don’t need diamonds to survive. I need water to survive. Why is it that a diamond costs so much more than a glass of water?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, Marx thought, like many before him, probably put most articulately by David Ricardo, “The value of a commodity, or the quantity of any other commodity for which it will exchange, depends on the relative quantity of labour which is necessary for its production, and not as the greater or less compensation which is paid for that labour.” In other words, the reason why a diamond costs so much more than a glass of water is because it takes much more labor to produce one diamond than to produce one glass of water. I mean, think about it. To make a diamond, I mean, you got to fly halfway across the globe to a diamond mine. You got to put on one of those helmets with a flashlight on top. You got to risk life and limb navigating the bowels of this mine, hammer a diamond out of the wall, fly home, cut it, polish it, set it, etc. It takes a lot more labor to do that than to just go down to the nearest fresh water source and scoop up a glass of water for someone.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is what is known as the labor theory of value, or that the value of a commodity is directly related to the amount of labor that it took to produce. Now, Marx has his own nuanced brand of it. But he would say that although you can definitely find exceptions to that rule, the exceptions can largely be explained away, and that the vast majority of the time it is true. As you can imagine, this labor theory of value and how the value of something is based on someone’s labor—this becomes a pretty important part of Marx’s philosophy and a crucial part of his idea that profit is theft. So, if you’re somebody that’s trying to refute that point that profit is theft, a great place to start is by trying to refute the labor theory of value.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, right around this time in history there’s three big economic thinkers that are trying to refute this labor theory of value. There’s Walras from Switzerland, Jevons from England, and a man named Mr. Carl Menger who was from Austria who would eventually become known as the first big thinker of the Austrian school of economics. That’s who we’re talking about today, the great Austrian economists and their critiques of Marx.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, the first thing you got to do if you want to destroy the labor theory of value is you got to come up with another answer to that diamond-water paradox. I mean, if it’s not the amount of labor that determines what something’s worth, what is it? A lot of answers to this question. And I think what a lot of people do is they say, “No, no, it’s not the labor that determines something’s value. It’s the law of supply and demand. That’s it.” I’m sure you guys all know about supply and demand. You know, there’s a demand for something. When the demand increases over the supply—blah, blah, blah, blah, blah—supply and demand! That’s my expert analysis. Look, I just don’t want to waste your time. We all know what supply and demand is, right? Okay. An Austrian economist would say, supply and demand is definitely part of it, but it can’t be the whole story because we see exceptions to that rule all the time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Think about Las Vegas, Nevada—a glimmering jewel in the middle of the barren desert. The chance of fortune and great spectacles await you, my friend. Unfortunately, what also awaits you are $7 bottles of water. What’s even more shocking is that people regularly pay $7 for a bottle of water. So, is a bottle of water $7 because of some scarcity of water in Las Vegas? Tempting to say yes. But we have to consider the fact that even though Las Vegas is in the middle of the desert, is there a scarcity of bottles of water that’s causing the price to be that high? I mean, is Aquafina delivering water at maximum capacity to Las Vegas and they can’t keep it on the shelves? Or do the vendors have dozens of cases of water in the back that just aren’t on the shelves yet?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Point is, the Austrians would say that the value of something—it’s based on supply and demand, but it can’t be based solely upon supply and demand. It can’t be that simple. And to understand what they think is missing from that theory, let’s look at the diamond-water paradox again, but this time let’s do it slightly differently. Let’s not do it from the comfy sleeping bag of Las Vegas, Nevada or from modern civilization. No, now let’s do it and pretend that we’re stranded in the middle of the Sahara Desert. What changes about it? Well, I’m sure we’ve all heard the adage—you know, we’re stranded on a desert island. I have a cheeseburger; you have a million dollars. Who’s richer? This is the sentiment Austrian economists are expressing here. When you’re in the middle of the desert, severely dehydrated, and somebody asks you which you’d pay more for, a diamond or a glass of water, obviously the answer’s going to be a glass of water.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The Austrians would say that what you’re doing there is making a subjective judgment about the value of a glass of water. See, in that particular context, a glass of water is way more valuable than a diamond. However, if for some reason you could get inside of a teleport machine and instantly be transported back to the confines of your house, it wouldn’t be very long at all before you’d change your mind and say that the diamond is more valuable. What does this mean? To the Austrians it means that the value of a commodity isn’t based on something objective like the amount of time it took for somebody to produce it or the scarcity of the item, but on the conglomeration of individuals making subjective value judgments based on whatever particular set of circumstances they’re in.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The level of value of an item is the gap or margin that an individual assigns to how valuable it would be to have one more of that item in those circumstances. For example, if we’re sitting at home on the couch with the kitchen sink five feet away from us, the value of water or the <em>margin</em> that an individual assigns to having one additional glass of water is going to be really small. You’re in the middle of the desert; that gap or <em>margin</em> is massive. This is better known as the subjective theory of value. And by the way, I keep peppering in that word “margin” because that’s what this type of economics is called—marginalism.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, it’s often said by economists that this idea of a subjective margin is really appealing to the average person. And you can kind of see why. It takes economics away from theory and away from mathematical equations. And it makes it into something very human. It takes economics down from the heavens to earth as Cicero would say, right? Ultimately, it’s individuals that are making these decisions about how valuable something is. And whatever they decide the value is is based on a number of different factors: the time period or culture they live in, their level of hydration or hunger in that moment, how they feel about the brand that they’re buying from; I mean, even down to things like whether they got eight hours of sleep last night or not. It makes it all feel very human.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s slow down for a second. Let’s keep in mind what the Austrians were originally trying to refute here. Remember, it was Marx’s idea that profit is theft. Now, no question if we think of this as a war that the Austrians are launching against Marx’s idea that profit is theft, the first battle that they would fight is against the labor theory of value. But even if we’re willing to grant that the subjective theory of value is a knock-down argument to the labor theory of value, this certainly doesn’t do away entirely with the idea that profit is another word for the exploitation of workers, right? Really all the subjective theory of value accomplishes here is to make it so that we don’t have this really neat package of ideas: of the value that a worker produces is equivalent to their labor, and that we should pay workers the total value of what they produce. Again, if we accept the subjective theory of value, it certainly does away with the first part of that statement—you know, the value that a worker produces is equivalent to their labor—but it doesn’t explain why we shouldn’t pay workers the total value of what they produce. Why is profit acceptable?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">A Marxist might say, even if we accept that your newfangled theory totally refutes the labor theory of value, the question still remains: why is it okay for a capitalist that controls the means of production to pay workers less than the value they produce and take the rest for themselves? What an Austrian economist would probably say back to that question is that the problem with that question is that it assumes that the laborers aren’t already being paid for the value of their capacity to work. They’d say, who gave that worker that job in the first place? Well, it was the employer, that heartless capitalist that started the company. And what did they do initially? Well, they walked around and they found an empty plot of land that wasn’t producing anything, and they built from the ground up with their bare hands the means of production that they control. They’ve taken an empty, unproductive plot of land, and they’ve transformed it into a bustling factory where hundreds of people are able to make money and provide for themselves and their families.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s not gloss over that process. To make this factory it took that capitalist ingenuity, a tremendous amount of risk, knowledge of the marketplace, hard work, vision, perseverance, being at the right place at the right time. Through all of this sacrifice, this capitalist has created essentially a magnifying glass of value, a place where people can not only work and make a living but also, because they have access to this factory and all of the equipment inside of it and all the efficiency that comes along with it, these workers are able to produce much more value in one hour of their work than they otherwise would be able to if the factory didn’t exist. The sacrifice that the capitalist made to make this magnifying glass of a worker’s value coupled with the ceaseless struggle that they have to contend with every day of maintaining the factory, maintaining the equipment, employee morale, making sure the factory next door doesn’t put them and all the people that work at the factory out of a job. Just like the worker gets paid a wage to do their job and to produce a certain amount of value at the factory, profit is really just the wage that the capitalist is being paid to magnify and sustain all of this additional value their sacrifice is providing. Of course they get paid more. Without them everyone else would be out of work.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, a Marxist might hear this and argue back, “Well, that doesn’t really tell the whole story. That really only explains the profit of capitalists that are actively out there, actively building factories, taking risks, providing jobs to people. What about all the idle capitalists out there? What about people like Scrooge McDuck? What about people that have all their money in a bank just sitting there, earning interest?” Or actually, better yet, publicly traded companies have shareholders that own a certain percentage of the company. It’s customary at the end of the quarter to send shareholders checks in the mail known as quarterly dividends. A Marxist would ask, “Why is that guy getting a check in the mail? That guy never stepped foot in a factory. Did that money just appear out of thin air? Where is that money coming from if not the exploited labor of somebody else? And in keeping with your previous example, Mr. Capitalist, about how the capitalist sacrificed so much to earn that wage that you call profit, what did that guy sacrifice? What? Sitting around all day watching a line go up and down in his front room?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, the Austrians have a really interesting response to this question. They’d say that the shareholders actually are sacrificing something. And it all comes back to their subjective theory of marginal value. But in this case, instead of the subjective value being changed by something like, you know, being in the middle of the desert, this time the value’s altered because of the way that people look at the value of something in relation to time. We seem to value things available to us immediately more than we value things that are available to us in the future.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s give a real-world example. Let’s say you needed a pair of running shoes, alright? So you go to amazon.com through the <em>Philosophize This!</em> banner—just kidding. Don’t. In fact, don’t go through the banner, just because I said that. But anyway, you go to Amazon; you find some shoes that you like. You get to the checkout screen, and let’s say you’re left with a choice. You can pay $80 dollars for the shoes to be delivered to you in 3 days, or you can pay $80 for the shoes to be delivered to you in 3 years. Which one do you choose? Now, keep in mind, you’re not getting ripped off here. It’s the same pair of shoes. You’re still getting an $80 pair of shoes in 3 years. You just have to wait 3 years to get them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The Austrians would say, it’s not that crazy to think that your subjective value of shoes now versus shoes three years from now would be very different. You wouldn’t pay as much for the shoes in three years. And quite frankly, why should you? Think of the opportunity cost. I mean, imagine all the days you could have been smiling, running through the park with your new shoes like you’re in a commercial for Rheumatoid arthritis and they’re reading all the side effects. That could have been you!</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, take that same psychology about the purchase of the shoes on Amazon, and now apply it to the capitalists that just have their money sitting in a bank, earning interest or investing in companies. Look, companies go out of business all the time. It wasn’t 10 years ago that almost every bank in this country went out of business. And these people’s money is only federally insured up to $250,000. These people are assuming a great risk, and for what? What is their money doing? Well, companies are reinvesting it within themselves and creating more jobs. And banks are loaning it out to the people to make their dreams come true: a loan so they can buy their dream house, a loan so someone can finally open up that hotdog stand they’ve always wanted to, a loan so someone can buy a car and have reliable transportation to be able to contribute to society. Their money’s just sitting there, making the world a better place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And think of the opportunity cost on their end for a second. They’ve already made their money. They’re forgoing consumption now for consumption later. They could theoretically pull every penny out of the bank that they’ve ever made and take a party bus to Macau, China, and just consume, consume, consume until it’s all gone! Point is, just like you would have to sacrifice three years of potential running days in the park with your new shoes, these people have to sacrifice years of being able to buy something else by having that money in the bank. The Austrians would ask, why isn’t it fair that their sacrifice should be honored with a little interest?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One final point. And by the way, so much of what makes up Austrian economics is a large set of claims about how the world works. It goes much deeper than what I could ever do on this single episode. Really these are just some interesting points they make that refute Karl Marx. If you guys like the subject matter, obviously we can do more of it in the future. Let me know.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But anyway, probably one of the most interesting ideas to me that comes out of Austrian economics is the idea that prices are not only just numbers on the shelves at the supermarket. Prices are purveyors of knowledge about the state of things all over the world. And here’s what they mean by that. The great Austrian economist Friedrich Hayek has a very famous example that talks about the importance of prices of things that we buy where he talks about a tin shortage. That’s his example. Just to summarize it briefly, he says that we are human beings that understand there’s not an infinite supply of anything in this world. We have a finite amount of resources on this planet to harvest during our time here, and that because of that fact, in a perfect world if the supply of one of those resources started to run out, it stands to reason that we would want people to either use less of it or find alternatives.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s say for example that the supply of tin started to run out. Well, as a global community, we have a pretty big problem on our hands. The problem is, how do we quickly and reliably get the information to everyone in the world that “Hey! We’re running out of tin here. Can you guys slow down on all the tin stuff?” Getting this message out is a logistical nightmare. I mean, it’s not like everybody watches the same TV station or even watches TV for that matter. So how do we reliably get that message out?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, Hayek and many others say that this is one of the great things about the price system. With the price system, you don’t have to find some creative way to go door to door and keep everybody updated on this particular week’s scarcity report. No, the price system automatically sends the message to the people that matter, the consumers interested in consuming things made out of tin in this case. Tin farmers start to charge more for their tin. Tin foil companies start to charge more for their tin foil. And when a consumer goes to the supermarket and has to choose between tin foil and aluminum foil, they don’t even need to know why there’s a tin shortage. The price informs them of what’s going on in the world of tin out there.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the reason this point matters when it comes to Marx is that Hayek would argue that the only way the price system works and delivers this wealth of information to consumers is if it’s functioning in a system where private property is protected and can be freely exchanged by individuals. If nobody owns anything, if people aren’t making mutually beneficial exchanges with other people, how can price possibly reflect the true value of something? And this extends into the means of production. If the means of production aren’t privately-owned entities conducting exchanges with other entities that are privately owned, how can they ever get this encyclopedia of information that the pricing system gives us when we’re in a system that doesn’t denounce private property rights like Marx does?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Price is a purveyor of information—really interesting concept. Again, much more Austrian stuff to come. Stuff we talked about today are the things most relevant to Marx. I hope you guys loved the show and that you have some food for thought this week.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+</div>
 
 
 
@@ -1377,30 +1379,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 100,
-&quot;sectionTheme&quot;: &quot;dark&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+      &quot;imageOverlayOpacity&quot;: 0.15,
+      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+      &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+      &quot;customContentWidth&quot;: 100,
+      &quot;sectionTheme&quot;: &quot;dark&quot;,
+      &quot;sectionAnimation&quot;: &quot;none&quot;,
+      &quot;backgroundMode&quot;: &quot;image&quot;
+    }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+      &quot;video&quot;: {
+        &quot;playbackSpeed&quot;: 0.5,
+        &quot;filter&quot;: 1,
+        &quot;filterStrength&quot;: 0,
+        &quot;zoom&quot;: 0,
+        &quot;videoSourceProvider&quot;: &quot;none&quot;
+      },
+      &quot;backgroundImageId&quot;: null,
+      &quot;backgroundMediaEffect&quot;: null,
+      &quot;divider&quot;: null,
+      &quot;typeName&quot;: &quot;blog-masonry&quot;
+    }"
   data-animation="none"
   
    
@@ -1437,25 +1439,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

@@ -42,14 +42,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #145 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"1":true,"2":true,"8":true,"6":true,"4":true,"7":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #145 - Transcript","id":"5f67c4bd63133850a62b219e","fullUrl":"/transcript/episode-145-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["member_areas_schedule_interview","commerce_restock_notifications","crm_remove_subscriber","crm_enable_recaptcha_v3_enterprise","themes","campaigns_content_editing_survey","campaigns_asset_picker","member_areas_provisioning_service","collection_typename_switching","nested_categories_migration_enabled","campaigns_discount_section_in_blasts","crm_waitlist_enforce_recaptcha_v3_enterprise","order_status_page_checkout_landing_enabled","override_block_styles","visitor_react_forms","campaigns_new_image_layout_picker","crm_default_newsletter_block_to_campaigns","commerce_etsy_product_import","campaigns_import_discounts","accounting_orders_sync","commerce_etsy_shipping_import","supports_versioned_template_assets","campaigns_thumbnail_layout","commerce_clearpay","nested_categories","scripts_defer","crm_enforce_recaptcha_v3_enterprise","viewer-role-contributor-invites","background_art_onboarding","fluid_engine_clean_up_grid_contextual_change","new_stacked_index","send_local_pickup_ready_email","campaigns_global_uc_ab","site_user_email_change","marketing_landing_page","campaigns_discount_section_in_automations","crm_retention_segment","fluid_engine","member_areas_spanish_interviews","multilingual_transactional_emails","customer_account_creation_recaptcha","site_header_footer","commerce_site_visitor_metrics","campaigns_show_featured_templates","commerce_order_status_access","customer_accounts_email_verification","is_feature_gate_refresh_enabled"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #145 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"4":true,"1":true,"2":true,"7":true,"8":true,"6":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #145 - Transcript","id":"5f67c4bd63133850a62b219e","fullUrl":"/transcript/episode-145-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["member_areas_provisioning_service","site_user_email_change","campaigns_import_discounts","commerce_etsy_shipping_import","order_status_page_checkout_landing_enabled","supports_versioned_template_assets","member_areas_spanish_interviews","crm_remove_subscriber","nested_categories_migration_enabled","site_header_footer","crm_waitlist_enforce_recaptcha_v3_enterprise","themes","scripts_defer","campaigns_discount_section_in_automations","background_art_onboarding","campaigns_global_uc_ab","marketing_landing_page","campaigns_thumbnail_layout","is_feature_gate_refresh_enabled","crm_default_newsletter_block_to_campaigns","accounting_orders_sync","visitor_react_forms","collection_typename_switching","nested_categories","campaigns_new_image_layout_picker","campaigns_show_featured_templates","campaigns_content_editing_survey","override_block_styles","campaigns_discount_section_in_blasts","customer_accounts_email_verification","commerce_restock_notifications","fluid_engine_clean_up_grid_contextual_change","new_stacked_index","customer_account_creation_recaptcha","fluid_engine","commerce_etsy_product_import","campaigns_asset_picker","send_local_pickup_ready_email","crm_retention_segment","crm_enable_recaptcha_v3_enterprise","multilingual_transactional_emails","commerce_site_visitor_metrics","commerce_order_status_access","viewer-role-contributor-invites","crm_enforce_recaptcha_v3_enterprise","commerce_clearpay","member_areas_schedule_interview"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #145 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-145-transcript","datePublished":"2020-09-20T14:10:28-0700","dateModified":"2022-07-11T09:35:15-0700","headline":"Episode #145 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -136,153 +136,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-      &quot;layout&quot;: &quot;navRight&quot;,
-      &quot;action&quot;: {
-        &quot;href&quot;: &quot;/take-action&quot;,
-        &quot;buttonText&quot;: &quot;Take Action&quot;,
-        &quot;newWindow&quot;: false
-      },
-      &quot;showSocial&quot;: true,
-      &quot;socialOptions&quot;: {
-        &quot;socialBorderShape&quot;: &quot;none&quot;,
-        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-        &quot;socialBorderThickness&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 1.0
-        }
-      },
-      &quot;sectionTheme&quot;: &quot;light&quot;,
-      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-      &quot;cartStyle&quot;: &quot;cart&quot;,
-      &quot;cartText&quot;: &quot;Cart&quot;,
-      &quot;showEmptyCartState&quot;: true,
-      &quot;cartOptions&quot;: {
-        &quot;iconType&quot;: &quot;solid-7&quot;,
-        &quot;cartBorderShape&quot;: &quot;none&quot;,
-        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-        &quot;cartBorderThickness&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 1.0
-        }
-      },
-      &quot;showButton&quot;: false,
-      &quot;showCart&quot;: false,
-      &quot;showAccountLogin&quot;: true,
-      &quot;headerStyle&quot;: &quot;theme&quot;,
-      &quot;languagePicker&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;iconEnabled&quot;: false,
-        &quot;iconType&quot;: &quot;globe&quot;,
-        &quot;flagShape&quot;: &quot;shiny&quot;,
-        &quot;languageFlags&quot;: [ ]
-      },
-      &quot;mobileOptions&quot;: {
-        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-        &quot;menuIconOptions&quot;: {
-          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 1.0
-          }
-        }
-      },
-      &quot;dynamicOptions&quot;: {
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        }
-      },
-      &quot;solidOptions&quot;: {
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 100.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;gradientOptions&quot;: {
-        &quot;gradientType&quot;: &quot;faded&quot;,
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 90.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;showPromotedElement&quot;: false
-    }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-      &quot;enabled&quot;: false,
-      &quot;iconEnabled&quot;: false,
-      &quot;iconType&quot;: &quot;globe&quot;,
-      &quot;flagShape&quot;: &quot;shiny&quot;,
-      &quot;languageFlags&quot;: [ ]
-    }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -849,142 +849,142 @@
     
     "
     data-current-styles="{
-      &quot;layout&quot;: &quot;navRight&quot;,
-      &quot;action&quot;: {
-        &quot;href&quot;: &quot;/take-action&quot;,
-        &quot;buttonText&quot;: &quot;Take Action&quot;,
-        &quot;newWindow&quot;: false
-      },
-      &quot;showSocial&quot;: true,
-      &quot;socialOptions&quot;: {
-        &quot;socialBorderShape&quot;: &quot;none&quot;,
-        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-        &quot;socialBorderThickness&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 1.0
-        }
-      },
-      &quot;sectionTheme&quot;: &quot;light&quot;,
-      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-      &quot;cartStyle&quot;: &quot;cart&quot;,
-      &quot;cartText&quot;: &quot;Cart&quot;,
-      &quot;showEmptyCartState&quot;: true,
-      &quot;cartOptions&quot;: {
-        &quot;iconType&quot;: &quot;solid-7&quot;,
-        &quot;cartBorderShape&quot;: &quot;none&quot;,
-        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-        &quot;cartBorderThickness&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 1.0
-        }
-      },
-      &quot;showButton&quot;: false,
-      &quot;showCart&quot;: false,
-      &quot;showAccountLogin&quot;: true,
-      &quot;headerStyle&quot;: &quot;theme&quot;,
-      &quot;languagePicker&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;iconEnabled&quot;: false,
-        &quot;iconType&quot;: &quot;globe&quot;,
-        &quot;flagShape&quot;: &quot;shiny&quot;,
-        &quot;languageFlags&quot;: [ ]
-      },
-      &quot;mobileOptions&quot;: {
-        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-        &quot;menuIconOptions&quot;: {
-          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 1.0
-          }
-        }
-      },
-      &quot;dynamicOptions&quot;: {
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        }
-      },
-      &quot;solidOptions&quot;: {
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 100.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;gradientOptions&quot;: {
-        &quot;gradientType&quot;: &quot;faded&quot;,
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 90.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;showPromotedElement&quot;: false
-    }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1135,31 +1135,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-      &quot;imageOverlayOpacity&quot;: 0.15,
-      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-      &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-      &quot;customSectionHeight&quot;: 10,
-      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-      &quot;customContentWidth&quot;: 50,
-      &quot;sectionTheme&quot;: &quot;&quot;,
-      &quot;sectionAnimation&quot;: &quot;none&quot;,
-      &quot;backgroundMode&quot;: &quot;image&quot;
-    }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-      &quot;video&quot;: {
-        &quot;playbackSpeed&quot;: 0.5,
-        &quot;filter&quot;: 1,
-        &quot;filterStrength&quot;: 0,
-        &quot;zoom&quot;: 0,
-        &quot;videoSourceProvider&quot;: &quot;none&quot;
-      },
-      &quot;backgroundImageId&quot;: null,
-      &quot;backgroundMediaEffect&quot;: null,
-      &quot;divider&quot;: null,
-      &quot;typeName&quot;: &quot;blog-masonry&quot;
-    }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1222,7 +1222,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5f67c4bd63133850a62b219e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a02b6ef20fcb7da4fd27"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is on an essay written by Henri Bergson called <em>Laugher</em>. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, maybe the best place to begin this episode is to talk about laughter as a marker of happiness. Should we consider laughter to be a true marker of happiness? Like, if we see someone who laughs all the time, can we reasonably assume that that person is happy? Well, if not, can we assume that laughter is a good thing for us in and of itself? I think most people would say it is. I think most people would say we should try to laugh as much as possible. Laughter is one of the most joyful experiences you can possibly have as a human being. Don’t believe me. Look at any antidepressant commercial. I mean, when they’re reading off all the side effects, there’s always somebody frolicking through the park, laughing about something. Don’t know exactly what, but they sure look a lot happier than me. Well, what’s funny is, regardless of how much we value laughter and aim towards it in our daily lives, when philosophers throughout history have tried to take a philosophical approach towards understanding why we laugh at things, the reasons we laugh often seem to carry with them some sort of negative connotation. We’ll be looking at a few of them here today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, most historians of Western philosophy will say that the first theories offered for why we laugh at things came out of ancient Greece in the era of Socrates, Plato, and Aristotle. There almost certainly were theories before this by the pre-Socratics, but, you know, history is a set of lies we all agree upon, right? And we got to start somewhere, so let’s just get into it. There is one big plus, now that I think of it though, for trying to understand laughter by starting during the era of Socrates. That is two themes that were central to the theater of this period of Athens: comedy and tragedy. We can see why there might be some sort of negative connotation that could come along with why we laugh when you compare comedy and tragedy. Because as much as they may seem like polar opposites at first glance -- you know, something tragic happens, you cry, the ultimate expression of sadness. Something comedic happens, you laugh, the ultimate expression of joy. But when you really take a closer look at these two things, something you realize very quickly is just how similar the two are. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Consider the fact that in both comedy and tragedy there’s often a problem that arises. Both formats usually cite the reality that we live in a world of complex, competing forces, mostly out of our control. And, in both these formats, the lens is turned outward, observing the world around the characters, mostly concerning sociopolitical issues, at which point a character steps up and tries to offer a solution to a problem that faces everyone in society. While the solutions offered by these two different approaches are very different from each other, both of them ultimately aim to subvert the expectations of the viewer. There are certain patterned ways that we look at the world around us; comedy and tragedy are designed to present a different perspective. Within a tragedy, some hero may sacrifice themselves or die for some sociopolitical cause, looking to have their death evoke some change, while in comedy the goal is more to shift public consciousness by mocking how ridiculous things have gotten. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, Voltaire had strong thoughts on humor and its utility in the public realm. During his time, he would just mercilessly make a mockery of Rousseau and his thinking. And he has a famous quote describing why he did it. I’m paraphrasing a bit here, but the idea is that he thought, once you can get people to laugh at something, they never take that thing quite as seriously ever again. He didn’t want Rousseau’s work to become some sort of anointed political stone tablets. By the way, this is the same reason, if any of you out there are thinking of becoming a dictator of a small country, why if there’s somebody ruthlessly making fun of you in the public square, this is why your dictator colleagues drag that person off into an alley and they’re never seen again. You need to maintain that status of infallibility. Comedy, in other words, is not just telling knock-knock jokes that are harmless. Comedy can be one of the most powerful tools a society has to speak truth to power. And I’m sure we can all think of examples of comedians, TV shows, movies, books, etc. that serve this very purpose. More on that later.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, obviously the comedies concerned with sociopolitical commentary are far different than the comedy you watched last week starring Adam Sandler. But somebody might want to engage in a comparison between the two to try to get to the bottom of what makes us laugh at all. Why do these two very different things both make us laugh? Philosophers all throughout history have tried to figure out, what exactly do we mean when we say something is funny? And what makes it funny? Ultimately, today’s episode’s going to lead to a famous essay by Henri Bergson called <em>Laughter</em>, and in it he wants to examine the relationship between people and the comic. By comic, he’s not talking about a person who tells jokes on stage. By the comic, he more means the comedic or the funny. He wants to examine it, but he wants to do it from a different angle than has typically been done historically.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, all throughout the history of Western philosophy, thinkers have been pretty excited to use philosophy to understand things metaphysically or epistemologically. This tendency has limited them, to Bergson, because so often, when they look at something like the question “What is funny?” or “What makes us laugh?” they’ll immediately try to understand what we mean by the concept of funny. What makes something funny? In other words, they try to categorize it and nail it down into something rigid. Bergson’s more interested in examining the relationship between funny and the internal experience of human beings. This may seem like just a slight shift in perspective, but it’s emblematic of Bergson and the scope of his work. Bergson believed that our long history of looking at everything in such spatial terms made us almost completely neglect to use philosophy to look at many aspects of the internal experience of people. He actually wonders at one point in his work if, since the dawn of the scientific revolution, philosophers had taken a different course and, instead of trying to understand the external world, they endeavored to understand our internal world, how might the field of psychology look today?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, that said, I’ve thought about it a lot. And I think the best way to understand Bergson is to structure it like this. First, I want to just say why Bergson thinks we laugh at things, just get it out there, which probably won’t make much sense right now. Then I want to do a bit of a historical overview of several key philosophers and why they thought we laugh at things. And then I want to return back to Bergson and explain how these theories throughout history relate back to what we initially talked about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Bergson believes that any time we find anything funny it is because at some level we are witnessing what he famously calls “the mechanical encrusted upon the living.” Let me explain. Think of some random object out there. Let’s just talk about a tree. A tree is not funny in and of itself. You don’t just look at a tree and start laughing. The very concept of something being funny, to Bergson, is an extremely humanistic activity. Things aren’t funny to the universe. They’re not funny to gravity. They’re not funny to bacteria. Things are funny to other human beings. Funny is a human activity. And everything that we find funny, ultimately to Bergson, is us seeing something that looks mechanical within human behavior, behavior that is otherwise fluid, elastic, and constantly in flux. This hallmark of the late 19th century, to put rigid, mechanical parameters on something that’s actually fluid and constantly in flux, this causes us to laugh. Now, there’s obviously much more to this. But, to understand how Bergson arrived here, let’s look at some other theories throughout history and try to spot how these theories might relate back to what I just said.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, one of the earliest known theories when it comes to what makes something funny -- taken up by philosophers like Plato, Thomas Hobbes, and partially by the work of Aristotle, René Descartes -- is something that’s come to be known as the superiority theory. Basic point is this: when we laugh at things, it’s because at some level we feel superior to some element of the joke or situation. Laughter is a response to this feeling of superiority. It makes us feel good. A common saying is that there’s always a victim in comedy. There always has to be a butt of the joke. This theory offers an explanation for why that has to be the case.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about some examples. Maybe the most basic one is slapstick humor. You and your friends are walking through the woods. Your friend in front of you is looking back at everyone, talking to them, telling them about how they’re going to start their own vape store. And then they trip over a log, and they faceplant into some sort of shrubbery; and everyone laughs. Now, the superiority theory would say that you and your friends are laughing at that moment because you’re getting a certain amount of joy in knowing that you are superior to this person in this moment. So, if we extend this line of reasoning to other examples, this is why stand-up comedians might be prone towards self-deprecating humor, because the audience can always laugh at how pathetic they are. This could be why in comic strips in the newspaper the go-to strategy is for some character to say some wacky, really, really dumb thing. This could be why in movies funny scenes are often written to have a character in some super embarrassing situation that they can’t get out of. Common to all of these examples is that the audience feels superior to the butt of the joke.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, whether you agree with it or not, it should be said, there are certainly things you could point to that seem to verify the legitimacy of this theory. For example, how about the fact that we feel completely different when we’re being laughed with, as opposed to being laughed at. When you’re laughed at by a group, it’s almost like you’re being seen as lesser than the other members of the group. Being laughed at immediately brings up a sense of hierarchy in our heads. Now, the problem with this theory ended up being a lot of different things. Not the least of which is that, if we’re going to start with the premise that what evokes laughter is a feeling of superiority over something, then why do we have such a strong capacity for pity? Why, when we see people with health problems, relationship problems, financial problems, why are there so many cases of people being far worse off than us that don’t amuse us at all? We don’t even come close to laughing in those cases. Also, what about insects and plants? A lot of people feel superior to those. Why aren’t they walking around the botanical gardens, laughing like they’re Bozo the Clown all the time? How about the fact that people often laugh at themselves?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Superiority may be part of the formula for what makes us laugh, but philosophers were quick to point out that there has to be something else going on here. So they went back to the drawing board. Now, another theory of laughter that came later is that laughter is kind of like a pressure-release valve. This is more commonly known as the relief theory, held by people like Herbert Spencer and Sigmund Freud. Proponents of this theory might say, think of laughter as sort of a psychological tool that helps get us back to homeostasis. Let me explain. See, oftentimes within the boundaries of a single joke or group of jokes, there’s a sort of nervous tension that begins to build. During the setup of the joke, we start to feel a sense of pity for the subject of the joke. And then we start to develop expectations about their situation, only to find out on the punchline that those expectations were wrong and that all that mental energy we put into caring about them was a total waste of time, and everything’s actually completely okay.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, take the very simple joke that everyone’s heard: did you hear about the mathematician that was afraid of negative numbers? Yeah, he’d stop at nothing to get away from them. First of all, none of you judge me. I don’t want to hear it. Point is, this is a super simple example of the structure of some jokes, right? The first line, or the first part of the joke, is telling a story of somebody immersed in a career where they’re terrified of something they have to deal with every day. We might start to feel bad for this person, think of how miserable their life must be, only to realize one sentence later that any mental energy we expended in that direction was actually useless, and any expectations we had were wrong. Now, when you extend this theory to formats when you have more than two lines to work with -- TV shows, movies -- look, stand-up comedians are absolute masters of doing this over the course of paragraphs, multiple jokes, over the course of their entire set sometimes. When we’ve exerted mental energy towards caring about a character in a story, only to find out that it was a joke and that it actually didn’t matter, to some supporters of the relief theory, we laugh as a psychological tool to release that tension and bring us back to homeostasis.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But other thinkers who were still proponents of the relief theory might disagree with that idea, that the relief theory’s that narrow. They might say, just to play devil’s advocate, let’s look at this classic quote from Groucho Marx: “Outside of a dog, a book is a man’s best friend. Inside of a dog, it’s too dark to read.” Now, some people might laugh at that. But why, if we’re accepting the premises from before? There wasn’t any nervous energy being built up to set up a thwarting of someone’s expectations. He was only saying something positive before the punchline. See, arguments like this led some philosophers to think of the relief theory in more macro terms. We go about the stresses of our everyday lives. In other words, we fear things within our cultures; we suppress our desires; we create narratives and expectations of ourselves and others and our place in the world -- all of this accounting for the true source of that nervous energy that needs to be relieved by laughter. Think of somebody that goes to work all week, 50, 60 hours at their job, constantly building that pressure up, and then goes out on Friday with their friends to a comedy club to let off some steam or even goes home nightly and doesn’t want to do anything but watch a funny show they like.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This actually reminds me of a theory Adorno had, which is that, as citizens of late-stage capitalist totalitarian societies, we watch these products created by the culture industry. We watch these funny TV shows and movies and comedians, and we laugh. And it distracts us away from the economic chains we walk around in in everyday life. What might otherwise be a sort of nervous energy that would increasingly build and result in people feeling so uncomfortable it would lead to revolution, for Adorno maybe, instead we’re given bread and circuses to keep us at bay. And laughter is the steam being released from the pressure cooker.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Nonetheless, though, as interesting as this theory might be, probably everyone listening to this can think of a ton of different things people laugh at that clearly have nothing to do with a release of built-up nervous energy. But this theory was a crucial part of the history of these theories of what makes us laugh, so we have to know about it. Because even if philosophers think there has to be something else that accounts for laughter, maybe, just like in the case of the superiority theory, the relief theory is part of the answer.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The last of these big theories from history about what makes us laugh is probably the most popular theory in today’s day and age, what’s known as the incongruity theory, sometimes called the incongruous juxtaposition theory. But I like incongruity theory, for obvious reasons. Now, real quick it should be said, for all three of these -- superiority theory, relief theory, and incongruity theory -- look, I’m just covering the central theme of what these theories are trying to get across. Every one of these had several major thinkers that appropriated them, and each of those thinkers had their own unique details and terminology when it comes to how they approached them. My goal here is not for us to understand everything about these theories, just the ideas to the extent that they’re useful in understanding Bergson’s theory later on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">That said, the incongruity theory needs a little bit more explanation than the other two. The earliest citing of the incongruity theory actually is by Aristotle in his work <em>Rhetoric</em>. He says the easiest way to get an audience to laugh is to somehow establish some sort of expectation in their heads and then to violate it. Now, at first glance this may sound like the incongruity theory is saying that we laugh when our expectations are violated or simply when we’re just surprised about something. But it’s actually not that simple. Think about it. There are a lot of surprising things you could say that really aren’t that funny at all. For example, if you were an alien -- you came down to this planet, and you wanted to find out how to make humans laugh. And you went to the library, and you read about this theory. And you thought it just meant surprising people -- someone comes up to you and says, “Hello.” And you want to make them laugh, and you just say, “Welcome to Minnesota!” Like, look, certainly that’s a surprising thing to say, but it’s not funny. They’re not going to laugh; they’re going to call the police on you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, what makes this a crucial point to understand is that what makes us laugh is not in the incongruity in itself. We don’t laugh just because two things that are unrelated come together. The way it’s commonly described is that we laugh in the resolution of that incongruity. The thing that jars our expectations needs to fit within the context of whatever the story is or whatever the conversation is we’re having. This idea of the context that we view things within being important in what makes something funny, it’s going to become extremely important when we start looking at the theory of Bergson. So, keeping in mind that the context is important and that the comedy lies in the resolution of the incongruity, not in the incongruity itself, we navigate our lives. We categorize the world around us. We label things. We group similar things together. We see which context things are “supposed” to be used in. We start to see patterns in the way the world unfolds. And then we start to develop expectations of how things fit into the world. Laughter occurs when one of those expectations are violated. We feel a momentary sense of discomfort because our expectations have been violated. And then that discomfort is resolved in various ways, and it produces an affect we call laughter.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There are several philosophers that were fans of this theory: Aristotle, Schopenhauer, Kant. In fact, here’s Kant in the <em>Critique of Judgment</em> describing the theory for himself. He says, “In everything that is to excite a lively…laugh there must be something absurd (in which the Understanding, therefore, can find no satisfaction). Laughter is an affection arising from the sudden transformation of a strained expectation into nothing.” So, some examples of this. Some stand-up comedians are absolute masters at tying together two concepts that are incredibly familiar to us in an unfamiliar way, or two concepts that seem to be completely unrelated to each other in a way that actually makes total sense. TV shows and movies are very character driven. So we have expectations of the way a person’s supposed to behave in a particular social context. When one of these characters violates it in a way that, as Kant said, is absurd and ultimately resolves into nothing, we laugh when we don’t feel that strain on our expectations anymore. This can also be said of sitting around with your friends having a funny conversation.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One of the biggest problems with this theory has proven to be that there are a ton of examples of incongruity that’s absurd and resolves into nothing that doesn’t make people laugh. Picture someone who’s not a carpenter going to a seminar full of journeyman carpenters, giving the keynote speech about drywall screws. No doubt violating expectations; no doubt absurd and resolving into nothing. No one’s laughing there. So, if we want to make the claim that we’ve somehow found the formula for laughter, we have to be willing to accept that, again, maybe this theory is part of it. But maybe there’s more to it that we aren’t considering. Maybe there is no formula. Or maybe these formulas have been too fragmented in the past.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Henri Bergson’s theory is often cited as a strange variation of the incongruity theory, but a better way to think of his theory is as a hybrid theory. He synthesizes the strongest parts of the superiority, relief, and incongruity theories and then adds on a sort of pragmatic social element of the function of laughter that helps us regulate our cultures and communities. This idea, that laughter is something that’s an important tool to help regulate society, this is an idea that we’re still debating heavily to this day. There seem to be two sides to this debate. One is that comedy is an important tool used in the public realm to speak truth to power. The comedian or the comedic writer looks as the world around them, observes the way that things are. They see things that are ridiculous, and they point them out, actively trying to get other people to notice them in an attempt to change their worldview, to put someone in a position of power in check, like we’ve talked about with Voltaire, so that no one can take this person or these ideas quite as seriously ever again, avoiding the deification, avoiding the illusion of infallibility. Comedy is a powerful tool that has the ability to do this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, on the other hand, there are others that would say that comedy is also a forum for the completely absurd and disingenuous, that comedy is equally not something where you’re getting up on stage, holding a press conference about your views on the world. Quite the opposite, the goal of comedy is to get laughs. There are tons of comedians that make their living saying things that are way over the top that they clearly don’t believe, and no one in the crowd thinks they believe it, but they say it simply because it’s completely ridiculous. Consider the fact that both these very different approaches fall under the same heading of comedy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But you can see the tension that might start to arise here. The people that believe only in the truth-to-power side of comedy might look at the absurd side of comedy and think they’re saying things that are affecting people’s worldviews that are maybe dangerous. The absurd side of comedy might look at the truth-to-power people and think they’re pigeonholing comedy into these narrow parameters that excludes people that don’t want to hear a political lecture; they just want to go down to the comedy club on Friday after work and laugh with their friends about total nonsense.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Doesn’t really matter who’s right, but this tension between these very two different approaches invites people to try to come up with a theory for why we laugh at things that can explain why we laugh at both of these. They seem very different from each other. Some of you might be saying, why does it have to be one or the other? Why can’t comedy be both? We have other blanket terms. How about the blanket term “sports?” Under the heading of “sports,” we have both football and badminton. Those are very different things, but we still call them both “sports,” right? Why can’t comedy be the same way? And, look, I hear you. But we will always arrive at the same conclusion. See, just like in the Isaiah Berlin episodes, it’s not enough to just say, “Why not both?” and then wash your hands of the question. Fact is, if we’re going to say, “Why not both?” we’re making a proclamation there. We need a theory of why we laugh at things that can explain why these two seemingly different things are actually very similar.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is what Henri Bergson tries to do in his famous essay called <em>Laughter</em>. We’ll be going into it in depth next episode as well as how laughter relates to the fluidity and elasticity of human behavior, the inspiration he took from the pre-Socratic philosopher Heraclitus, we covered on episode one, how this relates to time. And we’ll start looking deeper into his view of the universe, rooted in process philosophy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Good news for you people is that that episode’s already done. In fact, the episode after that is 95% done. See, don’t let the hiatus fool you. I’ve been writing episodes in quarantine. Up in the lab with a pen and a pad, I just haven’t been feeling good enough to record them. But now I do. Also, a person much smarter than me told me that it’s horrible for the show to release two episodes right at the same time on the same day. So I’ll be releasing part two of this in four days, maybe three. We’ll see if I can stay patient. Can’t wait to release it. Check your feeds, please.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">That said, have a great three or four days. Spend time with the people you love. Thank you for listening. I’ll talk to you next time.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is on an essay written by Henri Bergson called <em>Laugher</em>. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, maybe the best place to begin this episode is to talk about laughter as a marker of happiness. Should we consider laughter to be a true marker of happiness? Like, if we see someone who laughs all the time, can we reasonably assume that that person is happy? Well, if not, can we assume that laughter is a good thing for us in and of itself? I think most people would say it is. I think most people would say we should try to laugh as much as possible. Laughter is one of the most joyful experiences you can possibly have as a human being. Don’t believe me. Look at any antidepressant commercial. I mean, when they’re reading off all the side effects, there’s always somebody frolicking through the park, laughing about something. Don’t know exactly what, but they sure look a lot happier than me. Well, what’s funny is, regardless of how much we value laughter and aim towards it in our daily lives, when philosophers throughout history have tried to take a philosophical approach towards understanding why we laugh at things, the reasons we laugh often seem to carry with them some sort of negative connotation. We’ll be looking at a few of them here today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, most historians of Western philosophy will say that the first theories offered for why we laugh at things came out of ancient Greece in the era of Socrates, Plato, and Aristotle. There almost certainly were theories before this by the pre-Socratics, but, you know, history is a set of lies we all agree upon, right? And we got to start somewhere, so let’s just get into it. There is one big plus, now that I think of it though, for trying to understand laughter by starting during the era of Socrates. That is two themes that were central to the theater of this period of Athens: comedy and tragedy. We can see why there might be some sort of negative connotation that could come along with why we laugh when you compare comedy and tragedy. Because as much as they may seem like polar opposites at first glance -- you know, something tragic happens, you cry, the ultimate expression of sadness. Something comedic happens, you laugh, the ultimate expression of joy. But when you really take a closer look at these two things, something you realize very quickly is just how similar the two are. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Consider the fact that in both comedy and tragedy there’s often a problem that arises. Both formats usually cite the reality that we live in a world of complex, competing forces, mostly out of our control. And, in both these formats, the lens is turned outward, observing the world around the characters, mostly concerning sociopolitical issues, at which point a character steps up and tries to offer a solution to a problem that faces everyone in society. While the solutions offered by these two different approaches are very different from each other, both of them ultimately aim to subvert the expectations of the viewer. There are certain patterned ways that we look at the world around us; comedy and tragedy are designed to present a different perspective. Within a tragedy, some hero may sacrifice themselves or die for some sociopolitical cause, looking to have their death evoke some change, while in comedy the goal is more to shift public consciousness by mocking how ridiculous things have gotten. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, Voltaire had strong thoughts on humor and its utility in the public realm. During his time, he would just mercilessly make a mockery of Rousseau and his thinking. And he has a famous quote describing why he did it. I’m paraphrasing a bit here, but the idea is that he thought, once you can get people to laugh at something, they never take that thing quite as seriously ever again. He didn’t want Rousseau’s work to become some sort of anointed political stone tablets. By the way, this is the same reason, if any of you out there are thinking of becoming a dictator of a small country, why if there’s somebody ruthlessly making fun of you in the public square, this is why your dictator colleagues drag that person off into an alley and they’re never seen again. You need to maintain that status of infallibility. Comedy, in other words, is not just telling knock-knock jokes that are harmless. Comedy can be one of the most powerful tools a society has to speak truth to power. And I’m sure we can all think of examples of comedians, TV shows, movies, books, etc. that serve this very purpose. More on that later.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, obviously the comedies concerned with sociopolitical commentary are far different than the comedy you watched last week starring Adam Sandler. But somebody might want to engage in a comparison between the two to try to get to the bottom of what makes us laugh at all. Why do these two very different things both make us laugh? Philosophers all throughout history have tried to figure out, what exactly do we mean when we say something is funny? And what makes it funny? Ultimately, today’s episode’s going to lead to a famous essay by Henri Bergson called <em>Laughter</em>, and in it he wants to examine the relationship between people and the comic. By comic, he’s not talking about a person who tells jokes on stage. By the comic, he more means the comedic or the funny. He wants to examine it, but he wants to do it from a different angle than has typically been done historically.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, all throughout the history of Western philosophy, thinkers have been pretty excited to use philosophy to understand things metaphysically or epistemologically. This tendency has limited them, to Bergson, because so often, when they look at something like the question “What is funny?” or “What makes us laugh?” they’ll immediately try to understand what we mean by the concept of funny. What makes something funny? In other words, they try to categorize it and nail it down into something rigid. Bergson’s more interested in examining the relationship between funny and the internal experience of human beings. This may seem like just a slight shift in perspective, but it’s emblematic of Bergson and the scope of his work. Bergson believed that our long history of looking at everything in such spatial terms made us almost completely neglect to use philosophy to look at many aspects of the internal experience of people. He actually wonders at one point in his work if, since the dawn of the scientific revolution, philosophers had taken a different course and, instead of trying to understand the external world, they endeavored to understand our internal world, how might the field of psychology look today?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, that said, I’ve thought about it a lot. And I think the best way to understand Bergson is to structure it like this. First, I want to just say why Bergson thinks we laugh at things, just get it out there, which probably won’t make much sense right now. Then I want to do a bit of a historical overview of several key philosophers and why they thought we laugh at things. And then I want to return back to Bergson and explain how these theories throughout history relate back to what we initially talked about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Bergson believes that any time we find anything funny it is because at some level we are witnessing what he famously calls “the mechanical encrusted upon the living.” Let me explain. Think of some random object out there. Let’s just talk about a tree. A tree is not funny in and of itself. You don’t just look at a tree and start laughing. The very concept of something being funny, to Bergson, is an extremely humanistic activity. Things aren’t funny to the universe. They’re not funny to gravity. They’re not funny to bacteria. Things are funny to other human beings. Funny is a human activity. And everything that we find funny, ultimately to Bergson, is us seeing something that looks mechanical within human behavior, behavior that is otherwise fluid, elastic, and constantly in flux. This hallmark of the late 19th century, to put rigid, mechanical parameters on something that’s actually fluid and constantly in flux, this causes us to laugh. Now, there’s obviously much more to this. But, to understand how Bergson arrived here, let’s look at some other theories throughout history and try to spot how these theories might relate back to what I just said.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, one of the earliest known theories when it comes to what makes something funny -- taken up by philosophers like Plato, Thomas Hobbes, and partially by the work of Aristotle, René Descartes -- is something that’s come to be known as the superiority theory. Basic point is this: when we laugh at things, it’s because at some level we feel superior to some element of the joke or situation. Laughter is a response to this feeling of superiority. It makes us feel good. A common saying is that there’s always a victim in comedy. There always has to be a butt of the joke. This theory offers an explanation for why that has to be the case.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about some examples. Maybe the most basic one is slapstick humor. You and your friends are walking through the woods. Your friend in front of you is looking back at everyone, talking to them, telling them about how they’re going to start their own vape store. And then they trip over a log, and they faceplant into some sort of shrubbery; and everyone laughs. Now, the superiority theory would say that you and your friends are laughing at that moment because you’re getting a certain amount of joy in knowing that you are superior to this person in this moment. So, if we extend this line of reasoning to other examples, this is why stand-up comedians might be prone towards self-deprecating humor, because the audience can always laugh at how pathetic they are. This could be why in comic strips in the newspaper the go-to strategy is for some character to say some wacky, really, really dumb thing. This could be why in movies funny scenes are often written to have a character in some super embarrassing situation that they can’t get out of. Common to all of these examples is that the audience feels superior to the butt of the joke.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, whether you agree with it or not, it should be said, there are certainly things you could point to that seem to verify the legitimacy of this theory. For example, how about the fact that we feel completely different when we’re being laughed with, as opposed to being laughed at. When you’re laughed at by a group, it’s almost like you’re being seen as lesser than the other members of the group. Being laughed at immediately brings up a sense of hierarchy in our heads. Now, the problem with this theory ended up being a lot of different things. Not the least of which is that, if we’re going to start with the premise that what evokes laughter is a feeling of superiority over something, then why do we have such a strong capacity for pity? Why, when we see people with health problems, relationship problems, financial problems, why are there so many cases of people being far worse off than us that don’t amuse us at all? We don’t even come close to laughing in those cases. Also, what about insects and plants? A lot of people feel superior to those. Why aren’t they walking around the botanical gardens, laughing like they’re Bozo the Clown all the time? How about the fact that people often laugh at themselves?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Superiority may be part of the formula for what makes us laugh, but philosophers were quick to point out that there has to be something else going on here. So they went back to the drawing board. Now, another theory of laughter that came later is that laughter is kind of like a pressure-release valve. This is more commonly known as the relief theory, held by people like Herbert Spencer and Sigmund Freud. Proponents of this theory might say, think of laughter as sort of a psychological tool that helps get us back to homeostasis. Let me explain. See, oftentimes within the boundaries of a single joke or group of jokes, there’s a sort of nervous tension that begins to build. During the setup of the joke, we start to feel a sense of pity for the subject of the joke. And then we start to develop expectations about their situation, only to find out on the punchline that those expectations were wrong and that all that mental energy we put into caring about them was a total waste of time, and everything’s actually completely okay.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, take the very simple joke that everyone’s heard: did you hear about the mathematician that was afraid of negative numbers? Yeah, he’d stop at nothing to get away from them. First of all, none of you judge me. I don’t want to hear it. Point is, this is a super simple example of the structure of some jokes, right? The first line, or the first part of the joke, is telling a story of somebody immersed in a career where they’re terrified of something they have to deal with every day. We might start to feel bad for this person, think of how miserable their life must be, only to realize one sentence later that any mental energy we expended in that direction was actually useless, and any expectations we had were wrong. Now, when you extend this theory to formats when you have more than two lines to work with -- TV shows, movies -- look, stand-up comedians are absolute masters of doing this over the course of paragraphs, multiple jokes, over the course of their entire set sometimes. When we’ve exerted mental energy towards caring about a character in a story, only to find out that it was a joke and that it actually didn’t matter, to some supporters of the relief theory, we laugh as a psychological tool to release that tension and bring us back to homeostasis.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But other thinkers who were still proponents of the relief theory might disagree with that idea, that the relief theory’s that narrow. They might say, just to play devil’s advocate, let’s look at this classic quote from Groucho Marx: “Outside of a dog, a book is a man’s best friend. Inside of a dog, it’s too dark to read.” Now, some people might laugh at that. But why, if we’re accepting the premises from before? There wasn’t any nervous energy being built up to set up a thwarting of someone’s expectations. He was only saying something positive before the punchline. See, arguments like this led some philosophers to think of the relief theory in more macro terms. We go about the stresses of our everyday lives. In other words, we fear things within our cultures; we suppress our desires; we create narratives and expectations of ourselves and others and our place in the world -- all of this accounting for the true source of that nervous energy that needs to be relieved by laughter. Think of somebody that goes to work all week, 50, 60 hours at their job, constantly building that pressure up, and then goes out on Friday with their friends to a comedy club to let off some steam or even goes home nightly and doesn’t want to do anything but watch a funny show they like.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This actually reminds me of a theory Adorno had, which is that, as citizens of late-stage capitalist totalitarian societies, we watch these products created by the culture industry. We watch these funny TV shows and movies and comedians, and we laugh. And it distracts us away from the economic chains we walk around in in everyday life. What might otherwise be a sort of nervous energy that would increasingly build and result in people feeling so uncomfortable it would lead to revolution, for Adorno maybe, instead we’re given bread and circuses to keep us at bay. And laughter is the steam being released from the pressure cooker.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Nonetheless, though, as interesting as this theory might be, probably everyone listening to this can think of a ton of different things people laugh at that clearly have nothing to do with a release of built-up nervous energy. But this theory was a crucial part of the history of these theories of what makes us laugh, so we have to know about it. Because even if philosophers think there has to be something else that accounts for laughter, maybe, just like in the case of the superiority theory, the relief theory is part of the answer.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The last of these big theories from history about what makes us laugh is probably the most popular theory in today’s day and age, what’s known as the incongruity theory, sometimes called the incongruous juxtaposition theory. But I like incongruity theory, for obvious reasons. Now, real quick it should be said, for all three of these -- superiority theory, relief theory, and incongruity theory -- look, I’m just covering the central theme of what these theories are trying to get across. Every one of these had several major thinkers that appropriated them, and each of those thinkers had their own unique details and terminology when it comes to how they approached them. My goal here is not for us to understand everything about these theories, just the ideas to the extent that they’re useful in understanding Bergson’s theory later on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">That said, the incongruity theory needs a little bit more explanation than the other two. The earliest citing of the incongruity theory actually is by Aristotle in his work <em>Rhetoric</em>. He says the easiest way to get an audience to laugh is to somehow establish some sort of expectation in their heads and then to violate it. Now, at first glance this may sound like the incongruity theory is saying that we laugh when our expectations are violated or simply when we’re just surprised about something. But it’s actually not that simple. Think about it. There are a lot of surprising things you could say that really aren’t that funny at all. For example, if you were an alien -- you came down to this planet, and you wanted to find out how to make humans laugh. And you went to the library, and you read about this theory. And you thought it just meant surprising people -- someone comes up to you and says, “Hello.” And you want to make them laugh, and you just say, “Welcome to Minnesota!” Like, look, certainly that’s a surprising thing to say, but it’s not funny. They’re not going to laugh; they’re going to call the police on you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, what makes this a crucial point to understand is that what makes us laugh is not in the incongruity in itself. We don’t laugh just because two things that are unrelated come together. The way it’s commonly described is that we laugh in the resolution of that incongruity. The thing that jars our expectations needs to fit within the context of whatever the story is or whatever the conversation is we’re having. This idea of the context that we view things within being important in what makes something funny, it’s going to become extremely important when we start looking at the theory of Bergson. So, keeping in mind that the context is important and that the comedy lies in the resolution of the incongruity, not in the incongruity itself, we navigate our lives. We categorize the world around us. We label things. We group similar things together. We see which context things are “supposed” to be used in. We start to see patterns in the way the world unfolds. And then we start to develop expectations of how things fit into the world. Laughter occurs when one of those expectations are violated. We feel a momentary sense of discomfort because our expectations have been violated. And then that discomfort is resolved in various ways, and it produces an affect we call laughter.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There are several philosophers that were fans of this theory: Aristotle, Schopenhauer, Kant. In fact, here’s Kant in the <em>Critique of Judgment</em> describing the theory for himself. He says, “In everything that is to excite a lively…laugh there must be something absurd (in which the Understanding, therefore, can find no satisfaction). Laughter is an affection arising from the sudden transformation of a strained expectation into nothing.” So, some examples of this. Some stand-up comedians are absolute masters at tying together two concepts that are incredibly familiar to us in an unfamiliar way, or two concepts that seem to be completely unrelated to each other in a way that actually makes total sense. TV shows and movies are very character driven. So we have expectations of the way a person’s supposed to behave in a particular social context. When one of these characters violates it in a way that, as Kant said, is absurd and ultimately resolves into nothing, we laugh when we don’t feel that strain on our expectations anymore. This can also be said of sitting around with your friends having a funny conversation.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One of the biggest problems with this theory has proven to be that there are a ton of examples of incongruity that’s absurd and resolves into nothing that doesn’t make people laugh. Picture someone who’s not a carpenter going to a seminar full of journeyman carpenters, giving the keynote speech about drywall screws. No doubt violating expectations; no doubt absurd and resolving into nothing. No one’s laughing there. So, if we want to make the claim that we’ve somehow found the formula for laughter, we have to be willing to accept that, again, maybe this theory is part of it. But maybe there’s more to it that we aren’t considering. Maybe there is no formula. Or maybe these formulas have been too fragmented in the past.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Henri Bergson’s theory is often cited as a strange variation of the incongruity theory, but a better way to think of his theory is as a hybrid theory. He synthesizes the strongest parts of the superiority, relief, and incongruity theories and then adds on a sort of pragmatic social element of the function of laughter that helps us regulate our cultures and communities. This idea, that laughter is something that’s an important tool to help regulate society, this is an idea that we’re still debating heavily to this day. There seem to be two sides to this debate. One is that comedy is an important tool used in the public realm to speak truth to power. The comedian or the comedic writer looks as the world around them, observes the way that things are. They see things that are ridiculous, and they point them out, actively trying to get other people to notice them in an attempt to change their worldview, to put someone in a position of power in check, like we’ve talked about with Voltaire, so that no one can take this person or these ideas quite as seriously ever again, avoiding the deification, avoiding the illusion of infallibility. Comedy is a powerful tool that has the ability to do this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, on the other hand, there are others that would say that comedy is also a forum for the completely absurd and disingenuous, that comedy is equally not something where you’re getting up on stage, holding a press conference about your views on the world. Quite the opposite, the goal of comedy is to get laughs. There are tons of comedians that make their living saying things that are way over the top that they clearly don’t believe, and no one in the crowd thinks they believe it, but they say it simply because it’s completely ridiculous. Consider the fact that both these very different approaches fall under the same heading of comedy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But you can see the tension that might start to arise here. The people that believe only in the truth-to-power side of comedy might look at the absurd side of comedy and think they’re saying things that are affecting people’s worldviews that are maybe dangerous. The absurd side of comedy might look at the truth-to-power people and think they’re pigeonholing comedy into these narrow parameters that excludes people that don’t want to hear a political lecture; they just want to go down to the comedy club on Friday after work and laugh with their friends about total nonsense.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Doesn’t really matter who’s right, but this tension between these very two different approaches invites people to try to come up with a theory for why we laugh at things that can explain why we laugh at both of these. They seem very different from each other. Some of you might be saying, why does it have to be one or the other? Why can’t comedy be both? We have other blanket terms. How about the blanket term “sports?” Under the heading of “sports,” we have both football and badminton. Those are very different things, but we still call them both “sports,” right? Why can’t comedy be the same way? And, look, I hear you. But we will always arrive at the same conclusion. See, just like in the Isaiah Berlin episodes, it’s not enough to just say, “Why not both?” and then wash your hands of the question. Fact is, if we’re going to say, “Why not both?” we’re making a proclamation there. We need a theory of why we laugh at things that can explain why these two seemingly different things are actually very similar.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is what Henri Bergson tries to do in his famous essay called <em>Laughter</em>. We’ll be going into it in depth next episode as well as how laughter relates to the fluidity and elasticity of human behavior, the inspiration he took from the pre-Socratic philosopher Heraclitus, we covered on episode one, how this relates to time. And we’ll start looking deeper into his view of the universe, rooted in process philosophy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Good news for you people is that that episode’s already done. In fact, the episode after that is 95% done. See, don’t let the hiatus fool you. I’ve been writing episodes in quarantine. Up in the lab with a pen and a pad, I just haven’t been feeling good enough to record them. But now I do. Also, a person much smarter than me told me that it’s horrible for the show to release two episodes right at the same time on the same day. So I’ll be releasing part two of this in four days, maybe three. We’ll see if I can stay patient. Can’t wait to release it. Check your feeds, please.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">That said, have a great three or four days. Spend time with the people you love. Thank you for listening. I’ll talk to you next time.</p>
+</div>
 
 
 
@@ -1382,30 +1384,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-      &quot;imageOverlayOpacity&quot;: 0.15,
-      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-      &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-      &quot;customContentWidth&quot;: 100,
-      &quot;sectionTheme&quot;: &quot;dark&quot;,
-      &quot;sectionAnimation&quot;: &quot;none&quot;,
-      &quot;backgroundMode&quot;: &quot;image&quot;
-    }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-      &quot;video&quot;: {
-        &quot;playbackSpeed&quot;: 0.5,
-        &quot;filter&quot;: 1,
-        &quot;filterStrength&quot;: 0,
-        &quot;zoom&quot;: 0,
-        &quot;videoSourceProvider&quot;: &quot;none&quot;
-      },
-      &quot;backgroundImageId&quot;: null,
-      &quot;backgroundMediaEffect&quot;: null,
-      &quot;divider&quot;: null,
-      &quot;typeName&quot;: &quot;blog-masonry&quot;
-    }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1442,25 +1444,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

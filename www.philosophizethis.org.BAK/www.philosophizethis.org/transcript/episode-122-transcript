@@ -38,14 +38,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #122 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"7":true,"8":true,"6":true,"3":true,"2":true,"4":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #122 - Transcript","id":"5eec213209afd80facd8beec","fullUrl":"/transcript/episode-122-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["crm_waitlist_enforce_recaptcha_v3_enterprise","crm_default_newsletter_block_to_campaigns","marketing_landing_page","campaigns_thumbnail_layout","fluid_engine","supports_versioned_template_assets","commerce_clearpay","member_areas_spanish_interviews","crm_enforce_recaptcha_v3_enterprise","background_art_onboarding","member_areas_provisioning_service","scripts_defer","campaigns_content_editing_survey","campaigns_show_featured_templates","site_user_email_change","is_feature_gate_refresh_enabled","campaigns_discount_section_in_blasts","commerce_site_visitor_metrics","customer_accounts_email_verification","override_block_styles","campaigns_import_discounts","multilingual_transactional_emails","commerce_restock_notifications","crm_retention_segment","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_shipping_import","viewer-role-contributor-invites","nested_categories","order_status_page_checkout_landing_enabled","campaigns_global_uc_ab","member_areas_schedule_interview","campaigns_asset_picker","themes","nested_categories_migration_enabled","site_header_footer","crm_remove_subscriber","customer_account_creation_recaptcha","send_local_pickup_ready_email","visitor_react_forms","collection_typename_switching","commerce_etsy_product_import","accounting_orders_sync","crm_enable_recaptcha_v3_enterprise","campaigns_new_image_layout_picker","campaigns_discount_section_in_automations","commerce_order_status_access","new_stacked_index"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #122 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"7":true,"4":true,"2":true,"6":true,"1":true,"8":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #122 - Transcript","id":"5eec213209afd80facd8beec","fullUrl":"/transcript/episode-122-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["member_areas_schedule_interview","campaigns_import_discounts","themes","visitor_react_forms","crm_remove_subscriber","multilingual_transactional_emails","campaigns_content_editing_survey","marketing_landing_page","nested_categories","customer_accounts_email_verification","crm_default_newsletter_block_to_campaigns","viewer-role-contributor-invites","campaigns_thumbnail_layout","order_status_page_checkout_landing_enabled","campaigns_discount_section_in_automations","campaigns_discount_section_in_blasts","scripts_defer","site_header_footer","nested_categories_migration_enabled","collection_typename_switching","site_user_email_change","crm_waitlist_enforce_recaptcha_v3_enterprise","campaigns_asset_picker","new_stacked_index","crm_enable_recaptcha_v3_enterprise","commerce_restock_notifications","fluid_engine","supports_versioned_template_assets","campaigns_new_image_layout_picker","crm_enforce_recaptcha_v3_enterprise","send_local_pickup_ready_email","is_feature_gate_refresh_enabled","commerce_order_status_access","customer_account_creation_recaptcha","override_block_styles","commerce_clearpay","commerce_site_visitor_metrics","background_art_onboarding","accounting_orders_sync","crm_retention_segment","commerce_etsy_product_import","fluid_engine_clean_up_grid_contextual_change","campaigns_global_uc_ab","member_areas_provisioning_service","campaigns_show_featured_templates","commerce_etsy_shipping_import","member_areas_spanish_interviews"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #122 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-122-transcript","datePublished":"2018-09-24T08:17:47-0700","dateModified":"2022-07-11T08:55:52-0700","headline":"Episode #122 - Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -132,153 +132,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-                                                                    &quot;layout&quot;: &quot;navRight&quot;,
-                                                                    &quot;action&quot;: {
-                                                                      &quot;href&quot;: &quot;/take-action&quot;,
-                                                                      &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                                                      &quot;newWindow&quot;: false
-                                                                    },
-                                                                    &quot;showSocial&quot;: true,
-                                                                    &quot;socialOptions&quot;: {
-                                                                      &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                                      &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                                      &quot;socialBorderThickness&quot;: {
-                                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                                        &quot;value&quot;: 1.0
-                                                                      }
-                                                                    },
-                                                                    &quot;sectionTheme&quot;: &quot;light&quot;,
-                                                                    &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                                    &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                                    &quot;cartText&quot;: &quot;Cart&quot;,
-                                                                    &quot;showEmptyCartState&quot;: true,
-                                                                    &quot;cartOptions&quot;: {
-                                                                      &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                                      &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                                      &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                                      &quot;cartBorderThickness&quot;: {
-                                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                                        &quot;value&quot;: 1.0
-                                                                      }
-                                                                    },
-                                                                    &quot;showButton&quot;: false,
-                                                                    &quot;showCart&quot;: false,
-                                                                    &quot;showAccountLogin&quot;: true,
-                                                                    &quot;headerStyle&quot;: &quot;theme&quot;,
-                                                                    &quot;languagePicker&quot;: {
-                                                                      &quot;enabled&quot;: false,
-                                                                      &quot;iconEnabled&quot;: false,
-                                                                      &quot;iconType&quot;: &quot;globe&quot;,
-                                                                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                                      &quot;languageFlags&quot;: [ ]
-                                                                    },
-                                                                    &quot;mobileOptions&quot;: {
-                                                                      &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                                                      &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                                      &quot;menuIconOptions&quot;: {
-                                                                        &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 1.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;dynamicOptions&quot;: {
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;solidOptions&quot;: {
-                                                                      &quot;headerOpacity&quot;: {
-                                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                                        &quot;value&quot;: 100.0
-                                                                      },
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      },
-                                                                      &quot;dropShadow&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blur&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 30.0
-                                                                        },
-                                                                        &quot;spread&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        },
-                                                                        &quot;distance&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        }
-                                                                      },
-                                                                      &quot;blurBackground&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blurRadius&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 12.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;gradientOptions&quot;: {
-                                                                      &quot;gradientType&quot;: &quot;faded&quot;,
-                                                                      &quot;headerOpacity&quot;: {
-                                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                                        &quot;value&quot;: 90.0
-                                                                      },
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      },
-                                                                      &quot;dropShadow&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blur&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 30.0
-                                                                        },
-                                                                        &quot;spread&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        },
-                                                                        &quot;distance&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        }
-                                                                      },
-                                                                      &quot;blurBackground&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blurRadius&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 12.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;showPromotedElement&quot;: false
-                                                                  }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                                                                    &quot;enabled&quot;: false,
-                                                                    &quot;iconEnabled&quot;: false,
-                                                                    &quot;iconType&quot;: &quot;globe&quot;,
-                                                                    &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                                    &quot;languageFlags&quot;: [ ]
-                                                                  }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -845,142 +845,142 @@
     
     "
     data-current-styles="{
-                                                                    &quot;layout&quot;: &quot;navRight&quot;,
-                                                                    &quot;action&quot;: {
-                                                                      &quot;href&quot;: &quot;/take-action&quot;,
-                                                                      &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                                                      &quot;newWindow&quot;: false
-                                                                    },
-                                                                    &quot;showSocial&quot;: true,
-                                                                    &quot;socialOptions&quot;: {
-                                                                      &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                                      &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                                      &quot;socialBorderThickness&quot;: {
-                                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                                        &quot;value&quot;: 1.0
-                                                                      }
-                                                                    },
-                                                                    &quot;sectionTheme&quot;: &quot;light&quot;,
-                                                                    &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                                    &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                                    &quot;cartText&quot;: &quot;Cart&quot;,
-                                                                    &quot;showEmptyCartState&quot;: true,
-                                                                    &quot;cartOptions&quot;: {
-                                                                      &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                                      &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                                      &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                                      &quot;cartBorderThickness&quot;: {
-                                                                        &quot;unit&quot;: &quot;px&quot;,
-                                                                        &quot;value&quot;: 1.0
-                                                                      }
-                                                                    },
-                                                                    &quot;showButton&quot;: false,
-                                                                    &quot;showCart&quot;: false,
-                                                                    &quot;showAccountLogin&quot;: true,
-                                                                    &quot;headerStyle&quot;: &quot;theme&quot;,
-                                                                    &quot;languagePicker&quot;: {
-                                                                      &quot;enabled&quot;: false,
-                                                                      &quot;iconEnabled&quot;: false,
-                                                                      &quot;iconType&quot;: &quot;globe&quot;,
-                                                                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                                      &quot;languageFlags&quot;: [ ]
-                                                                    },
-                                                                    &quot;mobileOptions&quot;: {
-                                                                      &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                                                      &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                                      &quot;menuIconOptions&quot;: {
-                                                                        &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 1.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;dynamicOptions&quot;: {
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;solidOptions&quot;: {
-                                                                      &quot;headerOpacity&quot;: {
-                                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                                        &quot;value&quot;: 100.0
-                                                                      },
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      },
-                                                                      &quot;dropShadow&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blur&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 30.0
-                                                                        },
-                                                                        &quot;spread&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        },
-                                                                        &quot;distance&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        }
-                                                                      },
-                                                                      &quot;blurBackground&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blurRadius&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 12.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;gradientOptions&quot;: {
-                                                                      &quot;gradientType&quot;: &quot;faded&quot;,
-                                                                      &quot;headerOpacity&quot;: {
-                                                                        &quot;unit&quot;: &quot;%&quot;,
-                                                                        &quot;value&quot;: 90.0
-                                                                      },
-                                                                      &quot;border&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;position&quot;: &quot;allSides&quot;,
-                                                                        &quot;thickness&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 4.0
-                                                                        }
-                                                                      },
-                                                                      &quot;dropShadow&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blur&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 30.0
-                                                                        },
-                                                                        &quot;spread&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        },
-                                                                        &quot;distance&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 0.0
-                                                                        }
-                                                                      },
-                                                                      &quot;blurBackground&quot;: {
-                                                                        &quot;enabled&quot;: false,
-                                                                        &quot;blurRadius&quot;: {
-                                                                          &quot;unit&quot;: &quot;px&quot;,
-                                                                          &quot;value&quot;: 12.0
-                                                                        }
-                                                                      }
-                                                                    },
-                                                                    &quot;showPromotedElement&quot;: false
-                                                                  }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1131,31 +1131,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                                    &quot;imageOverlayOpacity&quot;: 0.15,
-                                                                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                                    &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                                                                    &quot;customSectionHeight&quot;: 10,
-                                                                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                                    &quot;customContentWidth&quot;: 50,
-                                                                    &quot;sectionTheme&quot;: &quot;&quot;,
-                                                                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                                    &quot;backgroundMode&quot;: &quot;image&quot;
-                                                                  }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                                                    &quot;video&quot;: {
-                                                                      &quot;playbackSpeed&quot;: 0.5,
-                                                                      &quot;filter&quot;: 1,
-                                                                      &quot;filterStrength&quot;: 0,
-                                                                      &quot;zoom&quot;: 0,
-                                                                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                                    },
-                                                                    &quot;backgroundImageId&quot;: null,
-                                                                    &quot;backgroundMediaEffect&quot;: null,
-                                                                    &quot;divider&quot;: null,
-                                                                    &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                                                  }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1218,7 +1218,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec213209afd80facd8beec"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1657554780788_1122"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is part two in a series on Foucault. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, once upon a time, Michel Foucault found himself living in an age of almost unparalleled optimism about science. He was living in a world in the early to mid 20th century, not far removed from these huge leaps forward that we talked about in quantum mechanics, general relativity, many other things. And there were a lot of thinkers around this time that were extremely enthusiastic about science being the way that we’re finally going to figure things out for good. In fact, things looked so promising back then, there were even some scientists that were saying that it may be totally possible that every phenomenon that we observe, every cause and effect across the entire landscape of science may be reduceable to physics. This attitude’s also known as physical reductionism.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, at first this can seem like kind of a weird claim for a scientist to make. But, when you consider the size and scope of the breakthroughs that happened during their lifetimes and when you look at science the way that they did, it actually makes total sense. I mean, after all, for example, we often wonder about the psychology of an individual and what led them to think some thought or make some choice. Well, it’s not crazy to think that someone’s psychology and the decisions they make is massively influenced by their biology and the way that biology interfaces with the world around them. Psychology, in a way, depends on biology. Well, it’s not crazy to think that biology is massively influenced by a complex ecosystem of chemical reactions that are going on. Biology depends on chemistry. It’s not crazy to think that chemistry is nothing more than the interactions between atoms and molecules that ultimately adhere to the laws of physics.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What some scientists were saying during this time is that, while we’re obviously nowhere near this point yet, it’s not crazy to say that at some point in the future we may have such a deep understanding of all these fields that complex things like thoughts and behaviors may be able to be predicted by science at the level of physics. There’s a feeling at the time that things like physics, mathematics, and cosmology are more pure in terms of being a science than something like psychology. And it’s not that psychology isn’t important. The point is, these three fields are the simplest forms of science. They seem to be the most foundational forms of science. And they require the least amount of conjecture or theory to justify the conclusions they arrive at than any other science.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is why, once upon a time, Foucault finds himself in a world where practically every person that came before him that sat down and wrote a history of science looked at that history primarily in terms of the advancements in those three fields: physics, mathematics, and cosmology. Well, Foucault sees this and immediately realizes that this may be creating a huge blind spot when it comes to our understanding of the history of science. What Foucault wants to do is take a look at the very same history but instead look at it through the lens of three different fields, three neglected fields in the history of science to him: biology, linguistics, and economics. See, because Foucault’s much less concerned with the history of mathematics or physics or even the specifics of what any particular scientist had to say. What he’s more concerned with are the underlying rules that exist in the background of all scientific inquiry that make conducting science even possible and the relationship between scientific knowledge and power structures in the world around us.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let me explain over the course of the next two episodes or so. The fancy way of putting it is that Foucault would say that in our world there’s a dichotomy between discursive formations and non-discursive formations, a dichotomy between what others would later call the articulatable and the visible. The non-fancy way of putting this is that since the 1700s we’ve had on one hand the institutions that make up our societies -- hospitals, schools, prisons, social circles of many varieties, also known as non-discursive formations -- but then on the other hand we’ve always had the systems of language that we use to talk about these institutions, language that drastically changes the way we view the function of those institutions, or discursive formations. For example, in our modern world when we think of a school, the primary function of a school is educating the youth. When we think of a hospital, the primary function of a hospital is to provide care to the patients. When we think of a prison, the primary function, as we talked about last episode, is the reformation of the minds of the criminals.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In other words -- and this is a massive through line in Foucault’s fifth book in 1966 titled <em>The Order of Things: An Archaeology of the Sciences</em> -- in other words, we live in a world where Foucault says there is a clear dichotomy between seeing and saying, a dichotomy between seeing systems of representation, the visible, things like hospitals and schools, and then saying things about those systems, the articulatable, or the language we use that drastically affects the way that we see them. If there was a primary concern of this book that Foucault would want to make sure is clear so that it sets up all the other primary concerns of this book, this would be it. Discursive is just a fancy word for talking about discourse. Discourse is also just a fancy word, but it’s complicated because it’s a fancy word that Foucault uses in many different ways all throughout his work.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The meaning of the word seems to evolve for him over time. Depending on where you’re reading it could mean anything from just the language that surrounds a topic to the assumptions in the way that people think and talk about a subject all the way down to a set of concepts that relate in some way to another set of concepts that allow us to make sense of things in a particular period of time. The reason it’s so weird right here is because Foucault almost always uses the word “discourse” with the word “scientific” preceding it. And whenever he references scientific discourse, he’s usually talking about a large and complex network of meaning and baggage that gets smuggled in whenever scientists claim to have knowledge about the way that things are. See, living in a world where so many people around him are worshiping at the altar of science, Foucault wants to shine a light on the limitations of science and show how the conclusions of science oftentimes have unintended consequences that hurt people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Regardless, though, Foucault and his views on science are a perfect example of a structuralist and post-structuralist butting heads with those outdated, Enlightenment-era assumptions about science and philosophy that we’ve talked about on previous episodes. The short version, I guess, is that people may have become a little too enamored with science and logic because of all the breakthroughs that happened in the early 20th century and because they were trying to get away from that long tradition of philosophy being unverifiable speculation.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, because another thing we missed out on by going over the logical positivists so quickly is that it wasn’t just the logical positivists that were skeptical of the last couple hundred years of philosophy. There were many thinkers around the early 20th century that thought this entire period since the 17th century should be called “the metaphysical age,” the age when all kinds of thinkers decided to apply themselves to creating these massive, complicated metaphysical systems that tried to explain everything, a delusion that ran deep at the time with a lot of key players involved in the process. I mean, we had Descartes whose system was critiqued by Spinoza and Hume, who then were eclipsed by the work of Kant, who then had to concede to the system of Hegel. The problem with looking at the history of philosophy this way is that it completely ignores the fact that it’s a direct mirror of all the mistakes people were making when looking at all of history during this time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What I’m trying to say is, Foucault’s problem with lumping everything in the last couple hundred years into something called “the metaphysical age” is a culmination of several problems we’ve already talked about on this show when it comes to assumptions made in the thinking of the early 20th century. Remember the outdated way of looking at history where we hyper-focus on subjectivity and the actions of a few key players? What is history? “Oh, well, history is when Napoleon invades Russia, uh, Harun al-Rashid captures this territory, Bismarck signs this treaty.” But is this the totality of what history is? There are thousands of other angles you could view the history of the world from. And what happens when you do that? What new insights start to present themselves?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Remember Thomas Kuhn and his history of science and how he wants to move away from focusing on individuals like Copernicus and Newton and Einstein and their subjectivity, their individual achievements, and instead wants to focus on larger structural shifts that occur, to instead look at history through the lens of large-scale paradigm shifts, as he calls them, moments, moments when paradoxes and contradictions pile up and create fractures in the existing way of doing science, fractures that eventually cause the whole scientific paradigm to break; at which point an entirely new method of doing science takes over? Doesn’t viewing science from this slightly different angle give us fresh, new insights into the history of science that we would never have seen if we just looked at history through the lens of subjectivity? More than that though, is this method the end-all-be-all way of looking at the history of science? I mean, what possible reason could anyone have to privilege Thomas Kuhn’s method over any of the countless other angles we could view the history of the world from? How much are we missing by having such a rigid and narrow method of cataloging history?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, Thomas Kuhn is just one example of many that are trying to find alternative histories. Foucault’s another thinker that’s calling this stuff into question. And you can see even before 1966 in <em>The Order of Things</em> he’s already looking for alternative ways of interpreting what’s happened in the past. We talked last time about two distinct sort of epochs that exist when it comes to the way we punish criminals, the sovereign age and the disciplinary age. Well, there’s a similar sort of thing in Foucault’s book titled <em>Birth of the Clinic</em> when it comes to the way we treat patients in hospitals.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Once again, just so we’re clear, Foucault is not viewing history in terms of the achievements of individuals but instead in terms of vast periods or epochs that occur. For example, when you read <em>Birth of the Clinic</em>, same sort of thing: no individual doctors or technicians are featured prominently. No, the whole feel of the book is more like, “Well, in the 18th century when people are sick you have a building patients go to called a clinic. In the 19th century you have a building patients go to called a hospital.” In other words, the language has changed in some small way between these two periods.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Another example, 18th century when a patient’s sick, they’re seen as sort of immersed within a disease. That’s how people talked about illness in the 18th century. The patient that’s being treated is under the grip of the disease cholera, for example. Whereas in the 19th century in a hospital, the disease is seen as something that’s inside the patient that needs to be fixed. Once again, the language used to describe the patient has changed. Another example, 18th century, disease is talked about as a thing that’s almost <em>a priori</em>. Disease exists as its own thing, out there somewhere, independent of any human being contracting it. In the 19th century the collection of symptoms within the person is the disease itself. In other words, in both centuries we’re studying the same disease; you could have the exact same patient in both periods. But, when the fundamental language we use to describe the illness changes, so too does the way we see the illness and the patient and the task of the doctor and really some pretty important things about the way that we see the world. There’s even some metaphysical claims thrown in there.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, it might be tempting here to think that Foucault and Kuhn are essentially saying the same thing. Instead of looking at individuals, they’re just looking at movements and trends that have happened throughout history. But the nuances and the differences between them are actually crucial if we want to fully understand Foucault and his work. Foucault breaks down history into long periods or epochs that he calls epistemes. And maybe the best place to start explaining this is to talk for a second about the differences between the paradigm shifts of Thomas Kuhn and these epistemes that Foucault’s talking about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Paradigms are easy. All that Thomas Kuhn’s referencing when he says “paradigm” are the dominant theories, practices, instruments, methodologies of a given period of time within the sciences. The scientist using these things not only knows all about them; they know that they are the best practices of the time they’re living. If they’re going to be conducting any sort of respectable science, they better be using them. Paradigms, generally speaking, don’t last very long. I mean, they last for a while, but it’s not long before better or different science comes along and replaces them. Paradigms can quite possibly only affect one discipline. For example, there could be a dominant paradigm specific to biology that doesn’t carry over into other fields of science.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, epistemes, on the other hand, are not so easy. Here’s the definition of what Foucault means by an episteme, “The historical but non-temporal <em>a priori</em>, which grounds knowledge and its discourses and thus represents the condition of their possibility within a particular epoch.” So, let’s unpack that and try to explain it using a bit more English this time. Similar to a paradigm, an episteme is a period of time. But, unlike a paradigm, where scientists are consciously aware of all the best scientific practices of the world they’re living in, an episteme is a set of entirely unconscious assumptions that are made.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Foucault is making the case that every scientist, regardless of when they’re conducting their work, does that work proceeding from certain background epistemological assumptions that make conducting science even possible. And these assumptions, not only do the scientists not realize that they’re making them, but they’re so deeply ingrained within the culture that the scientist lives in, that they ultimately dictate everything from the experiments the scientist chooses to run to the questions the scientist thinks are worth answering all the way down to what the scientific community as a whole decides should be accepted or rejected as fact.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The best way I’ve ever seen it put is to think about it this way: you woke up this morning and chose the outfit that you were going to wear. Now, short of you being an exhibitionist or one of the chieftain nobles of a nudist colony or something, chances are there wasn’t a single second in your mind when you entertained the possibility of going to work completely naked today. In fact, let’s say you’re a complete weirdo and you actually thought about that. In the event your mind actually went to a place like that even for a second, what would happen? Well, you’d immediately dismiss it as an idea. And why? Because there is a cultural norm against nudity in public that runs so deep that to even entertain the possibility of going to work naked would not only be preposterous, but it would be a complete waste of your time to consider it as an option.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, what if this same dynamic extended to the way you think and talk about everything? What if you were a scientist in that world? The point that Foucault’s making here is that all of discourse, the entirety of the way you think and talk about things, has been filtered through a set of background assumptions given to you by the cultural and historical conditions you were born into. And these assumptions in the background are things that most people take to be just the common-sense way that the world should be chopped up if they’re even aware of these things at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But this set of background assumptions change over time much less frequently than Thomas Kuhn’s paradigms. Not only that though, when one of these epistemes changes, it has a much more transformative effect on the world than when a scientific paradigm changes. A paradigm can change, and it may only affect one or two fields. When an episteme changes, it affects all of the sciences simultaneously. To return back to our definition, these epistemes are the historical <em>a priori</em>, prior to experience in the world, that grounds knowledge and thus represents the condition of their possibility within a particular epoch, or period of time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about a couple examples of these epistemes. Foucault would say that if you could go back in time to the 17th century and talk to people like Hobbes or Francis Bacon or many others that are doing work and you could read their work from the perspective of somebody living at that time, what you would notice is that they’re always trying to make sense of things in terms of resemblances. The episteme of their time, the background epistemological assumptions that they brought to bear unconsciously whenever they tried to make sense of things, was that they were always looking for similarities between things: how one plant or animal species resembled another plant or animal species; how one disease had similar properties to another disease; how some idea from earlier theology was the same as some idea within philosophy. Resemblances and similarities between things defined the entire epoch of the Renaissance, to Foucault.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Another example. If you could go back in time give or take to the 18th century, you would witness the rise of philosophy that sees the world in terms of differences between things rather than similarities. You’d see the first abstractions about things like human nature. You’d see other ways of categorizing people and things. You’d see the period that gives rise to the taxonomy of many different fields, not just people, plants, and animals. Once again, these tendencies are a biproduct of the unconscious background epistemological assumptions that were made, the episteme that the thinkers of this time were born into. If you were in the 19th or early 20th century, the modern episteme may dictate that you’re done with things like taxonomies and are more in the business of categorizing what it means to be a human being.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The question Foucault would want us to ask ourselves is, do you think even for a second that the 21st century doesn’t have an episteme that we are all unconsciously participating in? What Foucault’s getting at is that he wants to get away from this nonsense of lumping all these periods together and referring to them collectively as “the metaphysical age.” And he wants to start breaking them up and calling them what they are: different periods, distinct from each other; each with its own unique systems of acquiring knowledge, its own systems of visibility and articulatability; its own discursive and non-discursive formations -- and here’s the kicker -- all of these systems and all of this discourse ultimately put in place and maintained by people in positions of power.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, a couple places your brain may go when I say that. You may picture a king wielding a scepter and forcing this stuff by decree. You may picture a bunch of dudes in powdered wigs banging a gavel. For a postmodern episteme, you may picture police in riot gear with their foot on the back of someone’s neck. In reality, systems of acquiring knowledge are rarely if ever enforced by this kind of power. And it’s right here that Foucault would want to draw a distinction between two different types of power that we come face to face with in our societies, a distinction between what he calls repressive power and normalizing power.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Repressive power’s the type of power I was just referencing: boots on the back of the neck, military invasion, essentially someone forcing you to do something you don’t want to do. But there’s a sense in which that type of power is inefficient and really only necessary if somebody’s actively defying you, which can raise the question, are you really in power if somebody has the ability to cross you like that. No, true power would be if you could somehow get people to believe that it was their idea to behave the way you want them to behave. True power would be if you could get people to think it was part of their personality; the very definition of what it is to be themselves is in accordance with the way you say they should be. That is the task that’s accomplished by the normalizing power of society.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Think about it. You woke up this morning, and there was probably no part of you that thought that what you want to do with your day today is you want to go down to the sketchy part of town and you want to score some black-tar heroin from the guy on the street corner. And why is that? Is it because you’re scared of being arrested? Are you scared of Hank and the DEA kicking your door down? Or is it because going to sketchy parts of town and doing hardcore drugs is just not who you are at all? In other words, not only are people willing to not do drugs, not steal, not punch their neighbor in the face, and countless other things, but they’re actually excited about filling their role as a normal person within society. That’s the power of normalization.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, if you consider all the stuff we talked about on the episode so far, you can start to see the problems that you run into as a scientist from the perspective of Foucault. Because if you’re someone born into this world, you were born into an episteme. You already have a set of unconscious background assumptions that you’re making that shade every thought you have. You already have a narrow set of tools, instruments, and methods that make up the scientific paradigm of your day. You already, by the time you’re a working scientist, have gone through the school and university system and have had twenty-plus years of influence from a society trying to normalize your thought.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Not only that though, the very field of science itself, to Foucault, is an incredibly important part of the social structures that surround us, all of which have a normalizing influence on thought. Society doesn’t work if we don’t have this stuff. We need doctors to determine who is sick and who is well. We need psychologists to determine who is sane and who is crazy. We need thought leaders within the sciences to determine who is credible and who isn’t. Science itself becomes a crucial part of the process of normalization because it becomes the standard that everything is measured up against to make sure things fit. But what is this scientific standard that we’re weighing everything up against other than a consensus arrived at by a bunch of people that were born into an episteme, working through a scientific paradigm, with twenty-plus years of normalizing influence on their thought?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Foucault would say, the social structures that make so many aspects of our world even possible are fueled by a narrow cultural discourse, a cultural discourse that’s constantly changing, a cultural discourse that offers commentary on any topic you can possibly imagine, including what it even is to be a human being. You know, if it’s not completely obvious by this point, Foucault is first and foremost in the business of questioning dominant narratives about things that most people just take to be the way that things are.<br> </p><p class="" style="white-space:pre-wrap;">It’s been said -- and this is where we’ll pick up next episode -- it’s been said that Immanuel Kant, considered by some to be the greatest philosopher to ever live, one of the primary ideas that he explores in his work is the idea that through analysis of the subjective we may be able to arrive at objectivity. Through analyzing the lens that we experience the world through -- our senses, our mental faculties, our ability to reason -- if we study these things closely enough, we may be able to arrive at properties that are necessarily true about them or the world of phenomena that we’re accessing. In other words, Kant is interested in taking the subjective and arriving at things that are necessarily true about the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, Foucault, again if it isn’t entirely obvious by this point, is turning that whole thing on its head. Foucault is interested in finding things that we think are necessarily true and showing them to be subjective, contingent, and grounded in history. We’ll pick up here next time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. Talk to you then.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s episode is part two in a series on Foucault. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, once upon a time, Michel Foucault found himself living in an age of almost unparalleled optimism about science. He was living in a world in the early to mid 20th century, not far removed from these huge leaps forward that we talked about in quantum mechanics, general relativity, many other things. And there were a lot of thinkers around this time that were extremely enthusiastic about science being the way that we’re finally going to figure things out for good. In fact, things looked so promising back then, there were even some scientists that were saying that it may be totally possible that every phenomenon that we observe, every cause and effect across the entire landscape of science may be reduceable to physics. This attitude’s also known as physical reductionism.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, at first this can seem like kind of a weird claim for a scientist to make. But, when you consider the size and scope of the breakthroughs that happened during their lifetimes and when you look at science the way that they did, it actually makes total sense. I mean, after all, for example, we often wonder about the psychology of an individual and what led them to think some thought or make some choice. Well, it’s not crazy to think that someone’s psychology and the decisions they make is massively influenced by their biology and the way that biology interfaces with the world around them. Psychology, in a way, depends on biology. Well, it’s not crazy to think that biology is massively influenced by a complex ecosystem of chemical reactions that are going on. Biology depends on chemistry. It’s not crazy to think that chemistry is nothing more than the interactions between atoms and molecules that ultimately adhere to the laws of physics.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What some scientists were saying during this time is that, while we’re obviously nowhere near this point yet, it’s not crazy to say that at some point in the future we may have such a deep understanding of all these fields that complex things like thoughts and behaviors may be able to be predicted by science at the level of physics. There’s a feeling at the time that things like physics, mathematics, and cosmology are more pure in terms of being a science than something like psychology. And it’s not that psychology isn’t important. The point is, these three fields are the simplest forms of science. They seem to be the most foundational forms of science. And they require the least amount of conjecture or theory to justify the conclusions they arrive at than any other science.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is why, once upon a time, Foucault finds himself in a world where practically every person that came before him that sat down and wrote a history of science looked at that history primarily in terms of the advancements in those three fields: physics, mathematics, and cosmology. Well, Foucault sees this and immediately realizes that this may be creating a huge blind spot when it comes to our understanding of the history of science. What Foucault wants to do is take a look at the very same history but instead look at it through the lens of three different fields, three neglected fields in the history of science to him: biology, linguistics, and economics. See, because Foucault’s much less concerned with the history of mathematics or physics or even the specifics of what any particular scientist had to say. What he’s more concerned with are the underlying rules that exist in the background of all scientific inquiry that make conducting science even possible and the relationship between scientific knowledge and power structures in the world around us.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let me explain over the course of the next two episodes or so. The fancy way of putting it is that Foucault would say that in our world there’s a dichotomy between discursive formations and non-discursive formations, a dichotomy between what others would later call the articulatable and the visible. The non-fancy way of putting this is that since the 1700s we’ve had on one hand the institutions that make up our societies -- hospitals, schools, prisons, social circles of many varieties, also known as non-discursive formations -- but then on the other hand we’ve always had the systems of language that we use to talk about these institutions, language that drastically changes the way we view the function of those institutions, or discursive formations. For example, in our modern world when we think of a school, the primary function of a school is educating the youth. When we think of a hospital, the primary function of a hospital is to provide care to the patients. When we think of a prison, the primary function, as we talked about last episode, is the reformation of the minds of the criminals.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In other words -- and this is a massive through line in Foucault’s fifth book in 1966 titled <em>The Order of Things: An Archaeology of the Sciences</em> -- in other words, we live in a world where Foucault says there is a clear dichotomy between seeing and saying, a dichotomy between seeing systems of representation, the visible, things like hospitals and schools, and then saying things about those systems, the articulatable, or the language we use that drastically affects the way that we see them. If there was a primary concern of this book that Foucault would want to make sure is clear so that it sets up all the other primary concerns of this book, this would be it. Discursive is just a fancy word for talking about discourse. Discourse is also just a fancy word, but it’s complicated because it’s a fancy word that Foucault uses in many different ways all throughout his work.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The meaning of the word seems to evolve for him over time. Depending on where you’re reading it could mean anything from just the language that surrounds a topic to the assumptions in the way that people think and talk about a subject all the way down to a set of concepts that relate in some way to another set of concepts that allow us to make sense of things in a particular period of time. The reason it’s so weird right here is because Foucault almost always uses the word “discourse” with the word “scientific” preceding it. And whenever he references scientific discourse, he’s usually talking about a large and complex network of meaning and baggage that gets smuggled in whenever scientists claim to have knowledge about the way that things are. See, living in a world where so many people around him are worshiping at the altar of science, Foucault wants to shine a light on the limitations of science and show how the conclusions of science oftentimes have unintended consequences that hurt people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Regardless, though, Foucault and his views on science are a perfect example of a structuralist and post-structuralist butting heads with those outdated, Enlightenment-era assumptions about science and philosophy that we’ve talked about on previous episodes. The short version, I guess, is that people may have become a little too enamored with science and logic because of all the breakthroughs that happened in the early 20th century and because they were trying to get away from that long tradition of philosophy being unverifiable speculation.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, because another thing we missed out on by going over the logical positivists so quickly is that it wasn’t just the logical positivists that were skeptical of the last couple hundred years of philosophy. There were many thinkers around the early 20th century that thought this entire period since the 17th century should be called “the metaphysical age,” the age when all kinds of thinkers decided to apply themselves to creating these massive, complicated metaphysical systems that tried to explain everything, a delusion that ran deep at the time with a lot of key players involved in the process. I mean, we had Descartes whose system was critiqued by Spinoza and Hume, who then were eclipsed by the work of Kant, who then had to concede to the system of Hegel. The problem with looking at the history of philosophy this way is that it completely ignores the fact that it’s a direct mirror of all the mistakes people were making when looking at all of history during this time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What I’m trying to say is, Foucault’s problem with lumping everything in the last couple hundred years into something called “the metaphysical age” is a culmination of several problems we’ve already talked about on this show when it comes to assumptions made in the thinking of the early 20th century. Remember the outdated way of looking at history where we hyper-focus on subjectivity and the actions of a few key players? What is history? “Oh, well, history is when Napoleon invades Russia, uh, Harun al-Rashid captures this territory, Bismarck signs this treaty.” But is this the totality of what history is? There are thousands of other angles you could view the history of the world from. And what happens when you do that? What new insights start to present themselves?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Remember Thomas Kuhn and his history of science and how he wants to move away from focusing on individuals like Copernicus and Newton and Einstein and their subjectivity, their individual achievements, and instead wants to focus on larger structural shifts that occur, to instead look at history through the lens of large-scale paradigm shifts, as he calls them, moments, moments when paradoxes and contradictions pile up and create fractures in the existing way of doing science, fractures that eventually cause the whole scientific paradigm to break; at which point an entirely new method of doing science takes over? Doesn’t viewing science from this slightly different angle give us fresh, new insights into the history of science that we would never have seen if we just looked at history through the lens of subjectivity? More than that though, is this method the end-all-be-all way of looking at the history of science? I mean, what possible reason could anyone have to privilege Thomas Kuhn’s method over any of the countless other angles we could view the history of the world from? How much are we missing by having such a rigid and narrow method of cataloging history?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, Thomas Kuhn is just one example of many that are trying to find alternative histories. Foucault’s another thinker that’s calling this stuff into question. And you can see even before 1966 in <em>The Order of Things</em> he’s already looking for alternative ways of interpreting what’s happened in the past. We talked last time about two distinct sort of epochs that exist when it comes to the way we punish criminals, the sovereign age and the disciplinary age. Well, there’s a similar sort of thing in Foucault’s book titled <em>Birth of the Clinic</em> when it comes to the way we treat patients in hospitals.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Once again, just so we’re clear, Foucault is not viewing history in terms of the achievements of individuals but instead in terms of vast periods or epochs that occur. For example, when you read <em>Birth of the Clinic</em>, same sort of thing: no individual doctors or technicians are featured prominently. No, the whole feel of the book is more like, “Well, in the 18th century when people are sick you have a building patients go to called a clinic. In the 19th century you have a building patients go to called a hospital.” In other words, the language has changed in some small way between these two periods.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Another example, 18th century when a patient’s sick, they’re seen as sort of immersed within a disease. That’s how people talked about illness in the 18th century. The patient that’s being treated is under the grip of the disease cholera, for example. Whereas in the 19th century in a hospital, the disease is seen as something that’s inside the patient that needs to be fixed. Once again, the language used to describe the patient has changed. Another example, 18th century, disease is talked about as a thing that’s almost <em>a priori</em>. Disease exists as its own thing, out there somewhere, independent of any human being contracting it. In the 19th century the collection of symptoms within the person is the disease itself. In other words, in both centuries we’re studying the same disease; you could have the exact same patient in both periods. But, when the fundamental language we use to describe the illness changes, so too does the way we see the illness and the patient and the task of the doctor and really some pretty important things about the way that we see the world. There’s even some metaphysical claims thrown in there.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, it might be tempting here to think that Foucault and Kuhn are essentially saying the same thing. Instead of looking at individuals, they’re just looking at movements and trends that have happened throughout history. But the nuances and the differences between them are actually crucial if we want to fully understand Foucault and his work. Foucault breaks down history into long periods or epochs that he calls epistemes. And maybe the best place to start explaining this is to talk for a second about the differences between the paradigm shifts of Thomas Kuhn and these epistemes that Foucault’s talking about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Paradigms are easy. All that Thomas Kuhn’s referencing when he says “paradigm” are the dominant theories, practices, instruments, methodologies of a given period of time within the sciences. The scientist using these things not only knows all about them; they know that they are the best practices of the time they’re living. If they’re going to be conducting any sort of respectable science, they better be using them. Paradigms, generally speaking, don’t last very long. I mean, they last for a while, but it’s not long before better or different science comes along and replaces them. Paradigms can quite possibly only affect one discipline. For example, there could be a dominant paradigm specific to biology that doesn’t carry over into other fields of science.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, epistemes, on the other hand, are not so easy. Here’s the definition of what Foucault means by an episteme, “The historical but non-temporal <em>a priori</em>, which grounds knowledge and its discourses and thus represents the condition of their possibility within a particular epoch.” So, let’s unpack that and try to explain it using a bit more English this time. Similar to a paradigm, an episteme is a period of time. But, unlike a paradigm, where scientists are consciously aware of all the best scientific practices of the world they’re living in, an episteme is a set of entirely unconscious assumptions that are made.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Foucault is making the case that every scientist, regardless of when they’re conducting their work, does that work proceeding from certain background epistemological assumptions that make conducting science even possible. And these assumptions, not only do the scientists not realize that they’re making them, but they’re so deeply ingrained within the culture that the scientist lives in, that they ultimately dictate everything from the experiments the scientist chooses to run to the questions the scientist thinks are worth answering all the way down to what the scientific community as a whole decides should be accepted or rejected as fact.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The best way I’ve ever seen it put is to think about it this way: you woke up this morning and chose the outfit that you were going to wear. Now, short of you being an exhibitionist or one of the chieftain nobles of a nudist colony or something, chances are there wasn’t a single second in your mind when you entertained the possibility of going to work completely naked today. In fact, let’s say you’re a complete weirdo and you actually thought about that. In the event your mind actually went to a place like that even for a second, what would happen? Well, you’d immediately dismiss it as an idea. And why? Because there is a cultural norm against nudity in public that runs so deep that to even entertain the possibility of going to work naked would not only be preposterous, but it would be a complete waste of your time to consider it as an option.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, what if this same dynamic extended to the way you think and talk about everything? What if you were a scientist in that world? The point that Foucault’s making here is that all of discourse, the entirety of the way you think and talk about things, has been filtered through a set of background assumptions given to you by the cultural and historical conditions you were born into. And these assumptions in the background are things that most people take to be just the common-sense way that the world should be chopped up if they’re even aware of these things at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But this set of background assumptions change over time much less frequently than Thomas Kuhn’s paradigms. Not only that though, when one of these epistemes changes, it has a much more transformative effect on the world than when a scientific paradigm changes. A paradigm can change, and it may only affect one or two fields. When an episteme changes, it affects all of the sciences simultaneously. To return back to our definition, these epistemes are the historical <em>a priori</em>, prior to experience in the world, that grounds knowledge and thus represents the condition of their possibility within a particular epoch, or period of time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about a couple examples of these epistemes. Foucault would say that if you could go back in time to the 17th century and talk to people like Hobbes or Francis Bacon or many others that are doing work and you could read their work from the perspective of somebody living at that time, what you would notice is that they’re always trying to make sense of things in terms of resemblances. The episteme of their time, the background epistemological assumptions that they brought to bear unconsciously whenever they tried to make sense of things, was that they were always looking for similarities between things: how one plant or animal species resembled another plant or animal species; how one disease had similar properties to another disease; how some idea from earlier theology was the same as some idea within philosophy. Resemblances and similarities between things defined the entire epoch of the Renaissance, to Foucault.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Another example. If you could go back in time give or take to the 18th century, you would witness the rise of philosophy that sees the world in terms of differences between things rather than similarities. You’d see the first abstractions about things like human nature. You’d see other ways of categorizing people and things. You’d see the period that gives rise to the taxonomy of many different fields, not just people, plants, and animals. Once again, these tendencies are a biproduct of the unconscious background epistemological assumptions that were made, the episteme that the thinkers of this time were born into. If you were in the 19th or early 20th century, the modern episteme may dictate that you’re done with things like taxonomies and are more in the business of categorizing what it means to be a human being.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The question Foucault would want us to ask ourselves is, do you think even for a second that the 21st century doesn’t have an episteme that we are all unconsciously participating in? What Foucault’s getting at is that he wants to get away from this nonsense of lumping all these periods together and referring to them collectively as “the metaphysical age.” And he wants to start breaking them up and calling them what they are: different periods, distinct from each other; each with its own unique systems of acquiring knowledge, its own systems of visibility and articulatability; its own discursive and non-discursive formations -- and here’s the kicker -- all of these systems and all of this discourse ultimately put in place and maintained by people in positions of power.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, a couple places your brain may go when I say that. You may picture a king wielding a scepter and forcing this stuff by decree. You may picture a bunch of dudes in powdered wigs banging a gavel. For a postmodern episteme, you may picture police in riot gear with their foot on the back of someone’s neck. In reality, systems of acquiring knowledge are rarely if ever enforced by this kind of power. And it’s right here that Foucault would want to draw a distinction between two different types of power that we come face to face with in our societies, a distinction between what he calls repressive power and normalizing power.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Repressive power’s the type of power I was just referencing: boots on the back of the neck, military invasion, essentially someone forcing you to do something you don’t want to do. But there’s a sense in which that type of power is inefficient and really only necessary if somebody’s actively defying you, which can raise the question, are you really in power if somebody has the ability to cross you like that. No, true power would be if you could somehow get people to believe that it was their idea to behave the way you want them to behave. True power would be if you could get people to think it was part of their personality; the very definition of what it is to be themselves is in accordance with the way you say they should be. That is the task that’s accomplished by the normalizing power of society.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Think about it. You woke up this morning, and there was probably no part of you that thought that what you want to do with your day today is you want to go down to the sketchy part of town and you want to score some black-tar heroin from the guy on the street corner. And why is that? Is it because you’re scared of being arrested? Are you scared of Hank and the DEA kicking your door down? Or is it because going to sketchy parts of town and doing hardcore drugs is just not who you are at all? In other words, not only are people willing to not do drugs, not steal, not punch their neighbor in the face, and countless other things, but they’re actually excited about filling their role as a normal person within society. That’s the power of normalization.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, if you consider all the stuff we talked about on the episode so far, you can start to see the problems that you run into as a scientist from the perspective of Foucault. Because if you’re someone born into this world, you were born into an episteme. You already have a set of unconscious background assumptions that you’re making that shade every thought you have. You already have a narrow set of tools, instruments, and methods that make up the scientific paradigm of your day. You already, by the time you’re a working scientist, have gone through the school and university system and have had twenty-plus years of influence from a society trying to normalize your thought.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Not only that though, the very field of science itself, to Foucault, is an incredibly important part of the social structures that surround us, all of which have a normalizing influence on thought. Society doesn’t work if we don’t have this stuff. We need doctors to determine who is sick and who is well. We need psychologists to determine who is sane and who is crazy. We need thought leaders within the sciences to determine who is credible and who isn’t. Science itself becomes a crucial part of the process of normalization because it becomes the standard that everything is measured up against to make sure things fit. But what is this scientific standard that we’re weighing everything up against other than a consensus arrived at by a bunch of people that were born into an episteme, working through a scientific paradigm, with twenty-plus years of normalizing influence on their thought?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Foucault would say, the social structures that make so many aspects of our world even possible are fueled by a narrow cultural discourse, a cultural discourse that’s constantly changing, a cultural discourse that offers commentary on any topic you can possibly imagine, including what it even is to be a human being. You know, if it’s not completely obvious by this point, Foucault is first and foremost in the business of questioning dominant narratives about things that most people just take to be the way that things are.<br> </p><p class="" style="white-space:pre-wrap;">It’s been said -- and this is where we’ll pick up next episode -- it’s been said that Immanuel Kant, considered by some to be the greatest philosopher to ever live, one of the primary ideas that he explores in his work is the idea that through analysis of the subjective we may be able to arrive at objectivity. Through analyzing the lens that we experience the world through -- our senses, our mental faculties, our ability to reason -- if we study these things closely enough, we may be able to arrive at properties that are necessarily true about them or the world of phenomena that we’re accessing. In other words, Kant is interested in taking the subjective and arriving at things that are necessarily true about the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, Foucault, again if it isn’t entirely obvious by this point, is turning that whole thing on its head. Foucault is interested in finding things that we think are necessarily true and showing them to be subjective, contingent, and grounded in history. We’ll pick up here next time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. Talk to you then.</p>
+</div>
 
 
 
@@ -1374,30 +1376,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                                    &quot;imageOverlayOpacity&quot;: 0.15,
-                                                                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                                    &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                                                                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                                    &quot;customContentWidth&quot;: 100,
-                                                                    &quot;sectionTheme&quot;: &quot;dark&quot;,
-                                                                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                                    &quot;backgroundMode&quot;: &quot;image&quot;
-                                                                  }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                                                    &quot;video&quot;: {
-                                                                      &quot;playbackSpeed&quot;: 0.5,
-                                                                      &quot;filter&quot;: 1,
-                                                                      &quot;filterStrength&quot;: 0,
-                                                                      &quot;zoom&quot;: 0,
-                                                                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                                    },
-                                                                    &quot;backgroundImageId&quot;: null,
-                                                                    &quot;backgroundMediaEffect&quot;: null,
-                                                                    &quot;divider&quot;: null,
-                                                                    &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                                                  }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1434,25 +1436,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

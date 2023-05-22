@@ -42,14 +42,14 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-6da9fe275a2610b9a7816-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2c210b0769d76f050e217-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2bb4d8591b254af6d84d7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-df75bde346c99dfacf187-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0c12810e5e51ab6163a9b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2f007f13a36b03e0442ad-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-77187fcee6cadd3df3054-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ec7b20f1ebc8b168e5a7b-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e2b5393e6e76fec5d401d-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7fc8cae1199040a3a6dd6-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-2f9f8b577c7da92fb17df-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0ea50eb400aa89216ba91-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-360d95fc0ce54a08e99ed-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-5c59681db1cc9916d0204-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-28658052c52c33b26264e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-ca33bb641f9df6c359d28-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5e5863b07a97e8bb60d88-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-89ba1cf2f59808d091cd8-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ac783e47c52ba23c03cc3-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d6aeadc3f240b6aafef2b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8580435a134362d1d8395-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c98e27e32c54cf04e0640-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-a496926f1934e162976ab-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cb3359821bb1abd867d83-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #149 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"3":true,"6":true,"8":true,"7":true,"4":true,"1":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #149 - Transcript","id":"5ff4f9e3bbd65014a1240bf7","fullUrl":"/transcript/episode-149-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["site_header_footer","supports_versioned_template_assets","crm_waitlist_enforce_recaptcha_v3_enterprise","crm_default_newsletter_block_to_campaigns","marketing_landing_page","collection_typename_switching","campaigns_thumbnail_layout","fluid_engine","commerce_clearpay","member_areas_spanish_interviews","crm_enforce_recaptcha_v3_enterprise","background_art_onboarding","member_areas_provisioning_service","nested_categories","order_status_page_checkout_landing_enabled","scripts_defer","campaigns_content_editing_survey","campaigns_show_featured_templates","site_user_email_change","is_feature_gate_refresh_enabled","campaigns_discount_section_in_blasts","commerce_site_visitor_metrics","customer_accounts_email_verification","override_block_styles","campaigns_import_discounts","multilingual_transactional_emails","new_stacked_index","commerce_restock_notifications","crm_retention_segment","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_shipping_import","viewer-role-contributor-invites","campaigns_global_uc_ab","member_areas_schedule_interview","campaigns_asset_picker","themes","nested_categories_migration_enabled","crm_remove_subscriber","customer_account_creation_recaptcha","send_local_pickup_ready_email","visitor_react_forms","commerce_etsy_product_import","accounting_orders_sync","crm_enable_recaptcha_v3_enterprise","campaigns_new_image_layout_picker","campaigns_discount_section_in_automations","commerce_order_status_access"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ded59447778e1491d87fa-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-07f66b91fe2dd2147c411-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c7a1a4b2039219fc78f76-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c14fdbd4a7875d096f96b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-49c85656ae909e2a3b28c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-0b7f3d83778d476053763-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-94d73863f597285f58c6a-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-05459163191cfacdf85b3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-db2c540e25f886657d1b5-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-25e9b64885c726ad47b2c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-61f55ca771564b285afd3-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e55ee90219c363b02b41-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-1f5a0e7198bd74f323baa-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-f546376eaecad3cda5eeb-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-80bfda88034d1e2f95767-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-b56ca0b7347a780ce9521-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-64719eb1c8e96feb0952d-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b1b6f43d1252cf91eccc7-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a33ae71ed342cc3dbf0a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e2b08b3da20d55eb92fe-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-239ed1ac3377d9ad03fd6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-59196f24549836748c915-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd68f62b9fd1118758174-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-fdae2d43d38af1cfe236b-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c3728006cef46b677b94c-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-19f7e88118174ed4a18b8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d106cd8eed75046323ab-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1679673998406,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #149 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"2":true,"1":true,"4":true,"8":true,"6":true,"7":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #149 - Transcript","id":"5ff4f9e3bbd65014a1240bf7","fullUrl":"/transcript/episode-149-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["campaigns_discount_section_in_automations","nested_categories","crm_retention_segment","customer_account_creation_recaptcha","crm_enforce_recaptcha_v3_enterprise","supports_versioned_template_assets","member_areas_provisioning_service","viewer-role-contributor-invites","campaigns_asset_picker","campaigns_show_featured_templates","commerce_order_status_access","campaigns_global_uc_ab","themes","crm_remove_subscriber","campaigns_content_editing_survey","order_status_page_checkout_landing_enabled","nested_categories_migration_enabled","crm_default_newsletter_block_to_campaigns","commerce_restock_notifications","visitor_react_forms","multilingual_transactional_emails","campaigns_discount_section_in_blasts","accounting_orders_sync","send_local_pickup_ready_email","commerce_clearpay","campaigns_import_discounts","crm_waitlist_enforce_recaptcha_v3_enterprise","new_stacked_index","site_header_footer","commerce_site_visitor_metrics","site_user_email_change","member_areas_schedule_interview","campaigns_new_image_layout_picker","is_feature_gate_refresh_enabled","collection_typename_switching","commerce_etsy_product_import","background_art_onboarding","fluid_engine","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_shipping_import","customer_accounts_email_verification","override_block_styles","member_areas_spanish_interviews","crm_enable_recaptcha_v3_enterprise","campaigns_thumbnail_layout","scripts_defer","marketing_landing_page"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
 <script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #149 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-149-transcript","datePublished":"2021-01-05T15:45:06-0800","dateModified":"2022-07-11T09:38:16-0700","headline":"Episode #149 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1679673998406/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/65/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1380/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
@@ -136,153 +136,153 @@
   "
   data-controller="Header"
   data-current-styles="{
-                                &quot;layout&quot;: &quot;navRight&quot;,
-                                &quot;action&quot;: {
-                                  &quot;href&quot;: &quot;/take-action&quot;,
-                                  &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                  &quot;newWindow&quot;: false
-                                },
-                                &quot;showSocial&quot;: true,
-                                &quot;socialOptions&quot;: {
-                                  &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                  &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                  &quot;socialBorderThickness&quot;: {
-                                    &quot;unit&quot;: &quot;px&quot;,
-                                    &quot;value&quot;: 1.0
-                                  }
-                                },
-                                &quot;sectionTheme&quot;: &quot;light&quot;,
-                                &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                &quot;cartStyle&quot;: &quot;cart&quot;,
-                                &quot;cartText&quot;: &quot;Cart&quot;,
-                                &quot;showEmptyCartState&quot;: true,
-                                &quot;cartOptions&quot;: {
-                                  &quot;iconType&quot;: &quot;solid-7&quot;,
-                                  &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                  &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                  &quot;cartBorderThickness&quot;: {
-                                    &quot;unit&quot;: &quot;px&quot;,
-                                    &quot;value&quot;: 1.0
-                                  }
-                                },
-                                &quot;showButton&quot;: false,
-                                &quot;showCart&quot;: false,
-                                &quot;showAccountLogin&quot;: true,
-                                &quot;headerStyle&quot;: &quot;theme&quot;,
-                                &quot;languagePicker&quot;: {
-                                  &quot;enabled&quot;: false,
-                                  &quot;iconEnabled&quot;: false,
-                                  &quot;iconType&quot;: &quot;globe&quot;,
-                                  &quot;flagShape&quot;: &quot;shiny&quot;,
-                                  &quot;languageFlags&quot;: [ ]
-                                },
-                                &quot;mobileOptions&quot;: {
-                                  &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                  &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                  &quot;menuIconOptions&quot;: {
-                                    &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                    &quot;thickness&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 1.0
-                                    }
-                                  }
-                                },
-                                &quot;dynamicOptions&quot;: {
-                                  &quot;border&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;position&quot;: &quot;allSides&quot;,
-                                    &quot;thickness&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 4.0
-                                    }
-                                  }
-                                },
-                                &quot;solidOptions&quot;: {
-                                  &quot;headerOpacity&quot;: {
-                                    &quot;unit&quot;: &quot;%&quot;,
-                                    &quot;value&quot;: 100.0
-                                  },
-                                  &quot;border&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;position&quot;: &quot;allSides&quot;,
-                                    &quot;thickness&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 4.0
-                                    }
-                                  },
-                                  &quot;dropShadow&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;blur&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 30.0
-                                    },
-                                    &quot;spread&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 0.0
-                                    },
-                                    &quot;distance&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 0.0
-                                    }
-                                  },
-                                  &quot;blurBackground&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;blurRadius&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 12.0
-                                    }
-                                  }
-                                },
-                                &quot;gradientOptions&quot;: {
-                                  &quot;gradientType&quot;: &quot;faded&quot;,
-                                  &quot;headerOpacity&quot;: {
-                                    &quot;unit&quot;: &quot;%&quot;,
-                                    &quot;value&quot;: 90.0
-                                  },
-                                  &quot;border&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;position&quot;: &quot;allSides&quot;,
-                                    &quot;thickness&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 4.0
-                                    }
-                                  },
-                                  &quot;dropShadow&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;blur&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 30.0
-                                    },
-                                    &quot;spread&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 0.0
-                                    },
-                                    &quot;distance&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 0.0
-                                    }
-                                  },
-                                  &quot;blurBackground&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;blurRadius&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 12.0
-                                    }
-                                  }
-                                },
-                                &quot;showPromotedElement&quot;: false
-                              }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                                &quot;enabled&quot;: false,
-                                &quot;iconEnabled&quot;: false,
-                                &quot;iconType&quot;: &quot;globe&quot;,
-                                &quot;flagShape&quot;: &quot;shiny&quot;,
-                                &quot;languageFlags&quot;: [ ]
-                              }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -849,142 +849,142 @@
     
     "
     data-current-styles="{
-                                &quot;layout&quot;: &quot;navRight&quot;,
-                                &quot;action&quot;: {
-                                  &quot;href&quot;: &quot;/take-action&quot;,
-                                  &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                  &quot;newWindow&quot;: false
-                                },
-                                &quot;showSocial&quot;: true,
-                                &quot;socialOptions&quot;: {
-                                  &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                  &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                  &quot;socialBorderThickness&quot;: {
-                                    &quot;unit&quot;: &quot;px&quot;,
-                                    &quot;value&quot;: 1.0
-                                  }
-                                },
-                                &quot;sectionTheme&quot;: &quot;light&quot;,
-                                &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                &quot;cartStyle&quot;: &quot;cart&quot;,
-                                &quot;cartText&quot;: &quot;Cart&quot;,
-                                &quot;showEmptyCartState&quot;: true,
-                                &quot;cartOptions&quot;: {
-                                  &quot;iconType&quot;: &quot;solid-7&quot;,
-                                  &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                  &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                  &quot;cartBorderThickness&quot;: {
-                                    &quot;unit&quot;: &quot;px&quot;,
-                                    &quot;value&quot;: 1.0
-                                  }
-                                },
-                                &quot;showButton&quot;: false,
-                                &quot;showCart&quot;: false,
-                                &quot;showAccountLogin&quot;: true,
-                                &quot;headerStyle&quot;: &quot;theme&quot;,
-                                &quot;languagePicker&quot;: {
-                                  &quot;enabled&quot;: false,
-                                  &quot;iconEnabled&quot;: false,
-                                  &quot;iconType&quot;: &quot;globe&quot;,
-                                  &quot;flagShape&quot;: &quot;shiny&quot;,
-                                  &quot;languageFlags&quot;: [ ]
-                                },
-                                &quot;mobileOptions&quot;: {
-                                  &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                  &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                  &quot;menuIconOptions&quot;: {
-                                    &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                    &quot;thickness&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 1.0
-                                    }
-                                  }
-                                },
-                                &quot;dynamicOptions&quot;: {
-                                  &quot;border&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;position&quot;: &quot;allSides&quot;,
-                                    &quot;thickness&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 4.0
-                                    }
-                                  }
-                                },
-                                &quot;solidOptions&quot;: {
-                                  &quot;headerOpacity&quot;: {
-                                    &quot;unit&quot;: &quot;%&quot;,
-                                    &quot;value&quot;: 100.0
-                                  },
-                                  &quot;border&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;position&quot;: &quot;allSides&quot;,
-                                    &quot;thickness&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 4.0
-                                    }
-                                  },
-                                  &quot;dropShadow&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;blur&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 30.0
-                                    },
-                                    &quot;spread&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 0.0
-                                    },
-                                    &quot;distance&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 0.0
-                                    }
-                                  },
-                                  &quot;blurBackground&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;blurRadius&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 12.0
-                                    }
-                                  }
-                                },
-                                &quot;gradientOptions&quot;: {
-                                  &quot;gradientType&quot;: &quot;faded&quot;,
-                                  &quot;headerOpacity&quot;: {
-                                    &quot;unit&quot;: &quot;%&quot;,
-                                    &quot;value&quot;: 90.0
-                                  },
-                                  &quot;border&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;position&quot;: &quot;allSides&quot;,
-                                    &quot;thickness&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 4.0
-                                    }
-                                  },
-                                  &quot;dropShadow&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;blur&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 30.0
-                                    },
-                                    &quot;spread&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 0.0
-                                    },
-                                    &quot;distance&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 0.0
-                                    }
-                                  },
-                                  &quot;blurBackground&quot;: {
-                                    &quot;enabled&quot;: false,
-                                    &quot;blurRadius&quot;: {
-                                      &quot;unit&quot;: &quot;px&quot;,
-                                      &quot;value&quot;: 12.0
-                                    }
-                                  }
-                                },
-                                &quot;showPromotedElement&quot;: false
-                              }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1135,31 +1135,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                &quot;imageOverlayOpacity&quot;: 0.15,
-                                &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                                &quot;customSectionHeight&quot;: 10,
-                                &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                &quot;customContentWidth&quot;: 50,
-                                &quot;sectionTheme&quot;: &quot;&quot;,
-                                &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                &quot;backgroundMode&quot;: &quot;image&quot;
-                              }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                &quot;video&quot;: {
-                                  &quot;playbackSpeed&quot;: 0.5,
-                                  &quot;filter&quot;: 1,
-                                  &quot;filterStrength&quot;: 0,
-                                  &quot;zoom&quot;: 0,
-                                  &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                },
-                                &quot;backgroundImageId&quot;: null,
-                                &quot;backgroundMediaEffect&quot;: null,
-                                &quot;divider&quot;: null,
-                                &quot;typeName&quot;: &quot;blog-masonry&quot;
-                              }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1222,7 +1222,9 @@
       <div class="blog-item-content-wrapper">
         <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5ff4f9e3bbd65014a1240bf7"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-999328d119f9fe036dba"><div class="sqs-block-content">
 
-<p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Welcome to 2021. Today’s episode is on the work of Marshall McLuhan and his views on media and its effects. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, most of us live our lives not all that confused about the events of the world that are going on around us. I mean, why would you be, really? We watch the news. We stay informed. We read books. When something happens, we got a pretty good idea of how the world works. We got a pretty good idea of human nature and how people are going to behave in reaction to that thing. We got a pretty good idea of what is possible to expect. But every once in a while, occasionally, something happens in the world that throws us for a loop, something that challenges these ideas we have about how things work. This thing can seem so bizarre and unexpected that you even start to wonder how any person could have ever possibly seen it coming.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This feeling can send someone into a bit of a crisis mode. Did I know as much as a thought I knew about people and the universe? How do you explain this thing that’s happening? What does this mean for the world moving forward? This can be a pretty uncomfortable place to sit for very long. People naturally want to get back to that comfortable place of feeling like they can predict the future. So, a common strategy when someone’s in this place is to go out and seek out someone who saw this thing coming who can give them answers.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, historically, when enough people adopt this strategy, it creates a vacuum for some answer person to emerge. This could be a public intellectual. This could be a charismatic orator. Doesn’t really matter. It just needs to be someone who can provide people with some clarity about the present situation. They usually do this by making connections between things that are foreign to the way people are used to thinking about things, usually by evoking concepts from multiple different, highly specialized disciplines and synthesizing them into something that just makes good sense to people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, this may sound like an incredible position to be in as a thinker. But what I want to do at the start of the episode here today is ask you to consider the fact that this person and many famous, popular intellectuals that you, no doubt, can imagine from your own life right now—these people are, in a way, stuck in purgatory. This is a purgatory between the popular thought of the public who makes their fame possible and the highly specialized academic realm who scoffs when they evoke concepts from a field that they haven’t dedicated their life to and clearly don’t fully understand.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This person who’s trapped can easily start to feel a bit frustrated because, on one hand, going on Good Morning America and being the token smart person or the resident expert on a subject just because you can give a good sound bite, that can be deeply unsatisfying, almost like your true message isn’t being fully understood. But on the other hand, having academics turn their nose up at your work because you’re not entirely singular in your focus—it can seem like what you’re doing is not being appreciated the way it should.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Near the end of his life, this is likely how the person we’re going to be talking about today would have felt, Marshall McLuhan: media theorist, social critic. He’s the dad at Christmas that carves the turkey while everyone else eats.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, for anyone that’s trying to make connections between these seemingly unconnected things, for anyone trying to bring an idea down from the heavens and place it in the lives of people like me, a really useful thing to be good at is to have a strong command of the metaphor. Metaphors act as bridges between the unfamiliar and the familiar. So, for someone trying to make sense of a world that nobody really knows how to navigate yet, it’s no wonder someone like Marshall McLuhan would have used them often. And it just so happens that in my opinion the best entry point into his work is one of his favorite metaphors of all time. He used it thousands of times throughout his life.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The metaphor is an allusion to the short story by Edgar Allan Poe entitled “A Descent into the Maelström.” He thinks a situation that the main character was in is a great metaphor for what it’s often like to be someone living in the media and technological landscape that we find ourselves in. The short story begins with someone telling a short story. Edgar Allan Poe says it’s going to be like story-time inception up in here, folks. Welcome to the 1800s.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There’s a man and his two brothers, and they’re out fishing in the ocean. All of a sudden, there’s a horrible vortex that appears, pulling in water, moving, spiraling down into a black pit at the bottom of the ocean. Their ship gets caught in it. They’re trapped and can’t get out. They start spiraling down into the abyss. The main character’s brothers aren’t too lucky. One gets washed over into the waves. The other goes insane from all the chaos. The main character, though, clings to the ship and begins his long descent downward.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, at this point, he could just resign himself from trying, accept wherever the vortex wants to take him, and try not to think about anything. But instead, he pays attention. He pays attention to what’s around him. He starts to study the vortex, the details, the patterns. He notices some of the debris trapped with him in the spiral get shot down into the blackness, and some of it gets rocketed back up to the surface. And by studying the patterns, he eventually times it, jumps off the ship, grabs onto a barrel, and is sent to the top of the ocean where he’s safe.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if you haven’t already guessed it, the person trapped in the vortex is a metaphor for the average person immersed in a media and technological landscape. And the vortex represents the powerful forces in play, forces we often don’t even realize are affecting us in this landscape. By studying the details and the patterns of how these forces are at work in the world around us, we may be able to become aware of them, to understand them, and maybe ride a barrel to the surface and eventually escape them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But if we want to do this, it’s going to take an understanding of media and technology and their effects of the psyches of individuals that McLuhan thinks just doesn’t exist yet at the point he’s starting to do his work. So he decides to create one. From there, he wants to talk about the media and technology of his time, how things are changing, and how what lies in the future may actually be a retrieval of something Western culture lost thousands of years ago.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But let’s take this step by step. And the first step is to talk about his theory of media and technology. Now, the very first thing that needs to be said is that throughout McLuhan’s work the terms “media” and “technology” are sometimes used practically interchangeably. We’re going to talk more about the distinction between the two later. But for the sake of this explanation of his media theory, he defines “medium” at the beginning of his book <em>Understanding Media</em> as “any extension of ourselves.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is alluding to probably the most important idea you got to understand if you want to understand all the rest of Marshall McLuhan, and that is that any new technology that’s invented or any new idea that we come up with is ultimately an extension of ourselves, an extension of our physical bodies, an extension of our consciousness. It is us extending something about ourselves further out there into the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The easiest way to explain what he means is just to give you a bunch of examples, so here I go. Telescopes are an extension of your ability to see; they’re an extension of your eyes. Hearing aids are an extension of your ability to hear. TVs are extensions of your eyes and ears; you can see and hear things going on on the other side of the globe that you never would have otherwise seen. The wheel is an extension of your feet. Put a cart on four wheels, and it’s an extension of your arms and back being able to carry stuff. Phones are an extension of your voice. A knife is an extension of your fingernails and teeth.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Point is, in the beginning, human beings didn’t have any technology. They had their senses, their brains, and the best ideas they could come up with on their own. But the instant that some creative human being came up with the idea of a hammer and realized it was far more effective at breaking up rocks than slamming your forehead into them, life instantly changed in that moment. What it is to be a human being changed in that moment. All of a sudden, we have this tool that performs this task we have to get done better than the physical bodies we were born into.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We should pause here because this is a really important point that McLuhan would want to stress. See, it’s so common for us to see a hammer, see a telescope, a computer, and to think these things are merely just pieces of technology that give us more options, more capabilities than we had before. I mean, who doesn’t want more options? These things are tools at our disposal. But McLuhan would say, try not to only think about the fact that we make the tools. Think about how much the tools make us as well.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Once that hammer is introduced, once the telescope is introduced or the computer—how about a brand-new type of nuclear weapon—some piece of what it is to be a human being changes in that moment. And it’s never going to be the same again. You know, it’s funny, McLuhan once compared people that introduce media and technology into the world to a person in a plane high above the ground dropping bombs on villages full of innocent people below.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He said this because, whenever someone introduces media or technology into the world, there’s a similar level of distance where they don’t often have to see the potential damage they’re doing long after they’re dead for having introduced this technology or media. And how many of these people introducing media and technology into the world are truly thinking about not only the full extent of consequences for introducing this into a culture but also what former technologies is this going to make obsolete so as to remove some other part of what it is to be a human being?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">His point is not that we should all become psychics. His point is that, generally speaking, we are extremely bad at predicting unintended consequences down the road of introducing a new idea or invention. The world is too complex and too dynamic to ever be able to predict it with any reliability, and yet people still continue to introduce new media and technology every day, like with this podcast, for example. I’m not immune to this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, this is McLuhan’s big point that grounds his media theory. Media and technology are always extensions of ourselves out there into the physical world. And the media and technology at our disposal has a drastic impact on not only what we think of as being a human being but also on our very perceptions, on what we perceive at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To illustrate how much of an impact the media and technology of our time have on our perceptions—to show how we don’t just make the technology, the technology equally makes us—McLuhan’s going to turn to something that’s pretty uncommon for people to think of as a technology but, to McLuhan, it was something invented long ago that has had a drastic impact on the way people think about things. And that is written language and along with it the phonetic alphabet.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The ability to take an idea that only exists in your head, pull out a piece of paper, visually represent that idea through symbols, and convey it in a very linear way where one word follows the next in a proper format and syntax that other people can understand—this is just as much an invention that extends ourselves out into the world as a telescope is. Language, and written or printed language at that, allows us to extend our inner consciousness out into the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But this relatively new visual form of language does so in a very unique way that allows ideas to have a level of autonomy they never had before. What I mean is, long ago, for who knows how many thousands of years, the primary means of communication or media was talking about things. We lived in villages or tribes. If somebody had an idea, they didn’t write a book about it; they spoke about it. If somebody wanted wisdom from the past, they didn’t go to the library; they asked someone more experienced than them, and they would get stories and lessons passed on down through the generations through this oral tradition.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But McLuhan thinks in the relatively recent past, just a few thousand years, we’ve been going through a stage of human development that’s been centered around literacy. Just as when you introduce a technology like a computer into a culture and it changes the entire way people perceive their reality, written language is an invention as well. And the thinking of a person within a culture, to McLuhan, is highly affected by the dominant means of communication within that culture.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, what happens when the dominant means of communication transitions from a primarily spoken-word model to one that’s highly visual, symbolic, structured, ordered, linear? Well, to McLuhan, it’s going to lead to what he sometimes called the Gutenberg way of perceiving, which is an allusion to the Gutenberg press, the printing press that revolutionized the alloy of metal that allowed for printed words to last on the page longer, and it allowed for mass dissemination of books to the general public.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The Gutenberg way of perceiving is an over-indexed, over-developed tendency towards the visual, the structured, the linear. He says at one point, this may actually be part of the reason historically we’ve had such a narrow, linear view of things like time or history or identity. I mean, you ask people that question: what would you rather be, blind or deaf? And 99% of people say they’d rather be deaf because our culture is so visual in terms of how it communicates. But how might the results of that experiment change if a new media or a new technology was introduced that communicated primarily through audio?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">McLuhan once said, “We don’t know who discovered water, but we know it wasn’t a fish. A pervasive environment, a pervasive medium is always beyond perception.” The big point to McLuhan is this: the messages that these media of written language are sending to us go far beyond the actual content or subject matter of the thing that’s being written about. There are latent messages being sent that, as fish in the water, we just don’t perceive.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s give another example McLuhan loved of how, when you shift this primary means of communication, it shifts what is possible for people within the culture. So, when you’re living in the village and the oral tradition that we talked about before, when it comes to introducing radical new ideas or scathing critiques of the current way things are being done, there’s just not much room for that. There’s not much room for devil’s advocate in a village.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There’s an understanding that if you open your mouth and you give an opinion about something, there’s at least some connection to that idea that’s in your head and your beliefs and identity. There’s very little room for someone to be an individual rogue agent that just thinks the rest of the village is stupid. The reason for this is that ideas in the oral tradition are inherently connected to the person that uttered them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">However, during the era of written, imprinted word, McLuhan says, all of a sudden, we have the ability to put ideas down on a piece of paper, slap a pseudonym down as the author, and we have the unique position of allowing ideas to exist independently. You can’t get rid of these ideas by getting rid of the author anymore. They’re still going to be there tomorrow, printed on the pages of the book that’s now being mass distributed. This period of literacy allows people a level of individuality that never could have existed in one of these small villages. This is just one example of hundreds of how the medium of written language changes the lives of the people living in the cultures it’s prevalent in.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, McLuhan takes this one step further. He doesn’t want to just stop with written language and the effects it has on people. He wants to examine all forms of media that communicate ideas. Because, yes, reading printed text in the newspaper is going to have one type of an effect on your reality. But what if you don’t read the newspaper? What if you watch TV? What if you listen to the radio or podcasts for your information? Keep in mind that this is not just information media that he’s talking about. Roads, airplanes, clothes, any extension of ourselves—these are media as well that, to McLuhan, send similar messages and contribute to our way of perceiving the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But I should be careful using that word “message.” By the word “message,” he’s not talking about the specific content of a podcast, for example, or the specific image that a particular outfit is setting off. Just like written language where the message that’s being sent goes far beyond whatever specific thing is being talked about at the time—it’s far bigger than that—so too with things like TVs, podcasts, and newspapers. And, yes, also with things like roads, airplanes, and clothes.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">When Marshall McLuhan says his famous line at the beginning of <em>Understanding Media</em>, when he says, “The medium is the message,”—whenever we have a medium, which means any extension of ourselves, the message that it delivers is so much greater than just the immediate content we might be receiving. Just like with written language, it’s bigger than that. He describes the true message of a medium as the change of “scale or pace or pattern” and then how those factors impact life as a person within that culture.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He’s more concerned with cataloging the human experience or the effect on human affairs that using a particular medium is going to have than whatever meaning the immediate content may have. We’ve already seen an example of this with language. Not too big of a leap for people to think the same thing is happening when they turn on the TV. But what if this extends to all media, even things like roads or clothes? What would that mean for us?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Marshall McLuhan breaks down media into two very broad categories: hot forms of media and cool forms of media. Let’s use examples of information media because it’s going to be a lot more straightforward in understanding his greater point. Keep in mind, these are not hard and fast definitions. McLuhan’s not trying to rigidly define terms here. He’s just trying to offer some basic guidelines of organization which he fully realizes cannot work perfectly.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Hot forms of media, McLuhan says, are generally low in audience participation. They provide people with a lot of information and data. He describes them as mechanical and uniform. It’s very one-way. One party is giving the information; the audience is receiving the information. And that’s pretty much it. Examples of this would be things like books, pictures, radio, podcasts that don’t take callers, and informational videos.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Cool forms of media, on the contrary, require a good deal of audience participation. They generally give less information than hot forms of media, so it requires the audience to do what McLuhan calls filling in the gaps of the story. Examples of this could be something like a Skype or Zoom video discussion group where people can ask questions, storytelling where many of the details need to be filled in by the listener and they can ask clarifying questions, call-in shows, cartoons, phone conversations. Getting your information through these cooler forms of media is far different from the experience you’re going to have getting your information through hot forms of media.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, again, the message—the effect for having used a medium or the experience that a person has within a culture—is going to come down to the media that’s predominantly used by that culture. People living in cultures that favor cooler forms of media will have an entirely different experience than those living in cultures that favor hot ones.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s go back for a second to the different eras of communication. McLuhan would say, notice how the village cultures and ones immersed in the oral tradition of communication leaned much more in the direction of cooler forms of media, much more of a group effort. Whereas the literate societies tend to lean towards individualism and hot forms of media. Once again, wouldn’t be a surprise to McLuhan that when the types of media a particular society favors change, so too do the patterns of human life within those societies. Once again, yes, we make the tools, but the tools make us as well.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What happens, though, when the media and technology that’s introduced changes society in such a dramatic way that the people living within it have a hard time knowing how to navigate their lives? Remember the beginning of the episode. People generally feel like they can predict what’s going to happen next and how people are going to respond to it. But what happens when an unexpected technology gets introduced and it changes things to such an extent that people go out seeking answers from people that saw this thing coming?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Marshall McLuhan was that person for a lot of people during the dawn of what you could call the electric age. We have the age of spoken word in our villages. We have the age of literacy with Gutenberg. McLuhan was living during the development of TVs, telephones, and other instant electronic communication, electric automation, widespread international travel. The list is endless, and the point is that the world was quickly changing into something that didn’t resemble the age of literacy in the slightest bit at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The people on the front lines living in this brave new world didn’t have a guidebook to help them adapt. They were the beneficiaries of an education given to them by people that wrote letters to each other. They were people that valued the ability to read because they knew it would be the primary means that important ideas were going to be communicated with. But as I’ve asked on this show many times before—and I’ve gotten zero responses which makes me know I’m right—who reads anymore, really? Clearly joking. The answer is me eight hours a day. But there’s actually a kernel of truth in that joke that touches on a strong belief of Marshall McLuhan.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">McLuhan believed that, eventually, if left to play out long enough, people living in this new electric age would no longer value literacy. Being able to read in this new era was eventually going to be about as valuable as it was in the early tribal societies before written word even existed. Now, think about that. If written word is a technology, then it seems the electric age is introducing a new technology that makes that older technology obsolete, much like the invention of the automobile made the buggy whip obsolete.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He describes exactly what that new medium is in this famous passage: “Rapidly we approach the final phase of the extension of man—the technological simulation of consciousness, when the creative process of knowing will be collectively and corporately extended to the whole of human society, much as we have already extended our senses and nerves by the various media. Whether the extension of consciousness, so long sought by advertisers for specific products, will be ‘a good thing’ or not is a question that admits of a wide solution.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He actually says a lot there. So, if a telescope is an extension of your eyes and a TV is an extension of your eyes and ears, then the best way to describe electric media to McLuhan is that it’s an extension of our entire nervous system. This new world is practically indiscernible from the world we lived in during the age of literacy. Want to talk to somebody? You write them a letter. About a month from now, getting a response to a basic conversation will be the highlight of your day, I’m sure.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In the age of electricity, you just pick up the phone, instant communication. I mean, these days you are constantly available on demand to any person that wants to talk to you anywhere. Another example—back in the age of literacy, if you wanted to travel across the country, you go down to the general store; you buy a couple oxen and some wagon axels and embark on a three-month-long journey across the country, where at some point you got to decide whether or not to ford the river, I’m pretty sure, and hopefully you don’t die of typhoid.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, in the age of electricity, you just buy a plane ticket and you’re in a new city in a few hours. Another example—back in the age of literacy, you could build a house, lock the doors, sit inside, and live as an individual with total privacy, locked away in your box. Age of electricity, that’s just not possible. And it’s only going to get more difficult as time goes on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In fact, Marshall McLuhan would want us to consider at this point just how many similarities there are between our present existence and the existence of the villagers immersed in the oral tradition of communication before. Want to talk to somebody in a close-knit village? Well, go outside; you’ll probably find them in about 10 seconds. Same with us and the telephone. You have very little privacy in a small village, becoming more the case for us every day. Your life is constantly on display in a village, and everybody knows what’s going on with you all the time. We volunteer that information over social media.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The parallels between the life of a villager and our present day lives wouldn’t have been a surprise to McLuhan at all. In fact, he predicted it. He believed that electric media would extend our nervous system—the final phase of the extension of man—he believed it would allow for communication at such a level and extend collective human consciousness at such a rate that we would eventually find ourselves in what he called a global village. To Marshall McLuhan, the age of literacy has been a great experiment and an age that led to the development of human beings that has, no doubt, been beneficial and is, no doubt, going to help us in this new global village.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But in the scheme of human history and generations that are yet to come, the need for written language will never be as important to people as it’s been for these last few thousand years. Whether our new global village will be a good thing or not to McLuhan remains up in the air. There’s times in his work he seems optimistic. There’s times he seems like it’s going to be a real challenge. But his goal really wasn’t to make value judgments about it anyway. His goal was to get people to think, to think about what effects this new form of media is going to have on the lives and psyches of the people. That’s it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It should also be said that McLuhan thinks, no matter what you think about the global village positive or negative, it too one day will be over-indexed, over-extended, over-developed, and it too will come to an end.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Regardless of where you stand on McLuhan’s media theory, he’s responsible for an entire branch of contemporary media theory that honestly wouldn’t even exist if it weren’t for him. Some say his ideas are nostalgic and old. Some say they were far ahead of their time and that the longer technology develops the more we’ll see how many things he got right. For me personally, I don’t really care either way.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The value of Marshall McLuhan to me, the true takeaway after reading his work that I think he would have been most happy if people left him with, is that we should pay attention. Be aware of the things that are going on around you. Try to be aware of media and the effects they’re having on human affairs. Don’t just cling to the ship and ride the vortex down into the blackness. Look at the details. Try to make connections. Try to find patterns. Because it’s only by paying attention that we can ever hope to step outside of the landscape we inherited at birth against our will. In the immortal words of Marshall McLuhan, “A fish doesn’t know what water is until it’s been beached.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Welcome to 2021. Today’s episode is on the work of Marshall McLuhan and his views on media and its effects. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, most of us live our lives not all that confused about the events of the world that are going on around us. I mean, why would you be, really? We watch the news. We stay informed. We read books. When something happens, we got a pretty good idea of how the world works. We got a pretty good idea of human nature and how people are going to behave in reaction to that thing. We got a pretty good idea of what is possible to expect. But every once in a while, occasionally, something happens in the world that throws us for a loop, something that challenges these ideas we have about how things work. This thing can seem so bizarre and unexpected that you even start to wonder how any person could have ever possibly seen it coming.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This feeling can send someone into a bit of a crisis mode. Did I know as much as a thought I knew about people and the universe? How do you explain this thing that’s happening? What does this mean for the world moving forward? This can be a pretty uncomfortable place to sit for very long. People naturally want to get back to that comfortable place of feeling like they can predict the future. So, a common strategy when someone’s in this place is to go out and seek out someone who saw this thing coming who can give them answers.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, historically, when enough people adopt this strategy, it creates a vacuum for some answer person to emerge. This could be a public intellectual. This could be a charismatic orator. Doesn’t really matter. It just needs to be someone who can provide people with some clarity about the present situation. They usually do this by making connections between things that are foreign to the way people are used to thinking about things, usually by evoking concepts from multiple different, highly specialized disciplines and synthesizing them into something that just makes good sense to people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, this may sound like an incredible position to be in as a thinker. But what I want to do at the start of the episode here today is ask you to consider the fact that this person and many famous, popular intellectuals that you, no doubt, can imagine from your own life right now—these people are, in a way, stuck in purgatory. This is a purgatory between the popular thought of the public who makes their fame possible and the highly specialized academic realm who scoffs when they evoke concepts from a field that they haven’t dedicated their life to and clearly don’t fully understand.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This person who’s trapped can easily start to feel a bit frustrated because, on one hand, going on Good Morning America and being the token smart person or the resident expert on a subject just because you can give a good sound bite, that can be deeply unsatisfying, almost like your true message isn’t being fully understood. But on the other hand, having academics turn their nose up at your work because you’re not entirely singular in your focus—it can seem like what you’re doing is not being appreciated the way it should.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Near the end of his life, this is likely how the person we’re going to be talking about today would have felt, Marshall McLuhan: media theorist, social critic. He’s the dad at Christmas that carves the turkey while everyone else eats.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, for anyone that’s trying to make connections between these seemingly unconnected things, for anyone trying to bring an idea down from the heavens and place it in the lives of people like me, a really useful thing to be good at is to have a strong command of the metaphor. Metaphors act as bridges between the unfamiliar and the familiar. So, for someone trying to make sense of a world that nobody really knows how to navigate yet, it’s no wonder someone like Marshall McLuhan would have used them often. And it just so happens that in my opinion the best entry point into his work is one of his favorite metaphors of all time. He used it thousands of times throughout his life.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The metaphor is an allusion to the short story by Edgar Allan Poe entitled “A Descent into the Maelström.” He thinks a situation that the main character was in is a great metaphor for what it’s often like to be someone living in the media and technological landscape that we find ourselves in. The short story begins with someone telling a short story. Edgar Allan Poe says it’s going to be like story-time inception up in here, folks. Welcome to the 1800s.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There’s a man and his two brothers, and they’re out fishing in the ocean. All of a sudden, there’s a horrible vortex that appears, pulling in water, moving, spiraling down into a black pit at the bottom of the ocean. Their ship gets caught in it. They’re trapped and can’t get out. They start spiraling down into the abyss. The main character’s brothers aren’t too lucky. One gets washed over into the waves. The other goes insane from all the chaos. The main character, though, clings to the ship and begins his long descent downward.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, at this point, he could just resign himself from trying, accept wherever the vortex wants to take him, and try not to think about anything. But instead, he pays attention. He pays attention to what’s around him. He starts to study the vortex, the details, the patterns. He notices some of the debris trapped with him in the spiral get shot down into the blackness, and some of it gets rocketed back up to the surface. And by studying the patterns, he eventually times it, jumps off the ship, grabs onto a barrel, and is sent to the top of the ocean where he’s safe.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if you haven’t already guessed it, the person trapped in the vortex is a metaphor for the average person immersed in a media and technological landscape. And the vortex represents the powerful forces in play, forces we often don’t even realize are affecting us in this landscape. By studying the details and the patterns of how these forces are at work in the world around us, we may be able to become aware of them, to understand them, and maybe ride a barrel to the surface and eventually escape them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But if we want to do this, it’s going to take an understanding of media and technology and their effects of the psyches of individuals that McLuhan thinks just doesn’t exist yet at the point he’s starting to do his work. So he decides to create one. From there, he wants to talk about the media and technology of his time, how things are changing, and how what lies in the future may actually be a retrieval of something Western culture lost thousands of years ago.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But let’s take this step by step. And the first step is to talk about his theory of media and technology. Now, the very first thing that needs to be said is that throughout McLuhan’s work the terms “media” and “technology” are sometimes used practically interchangeably. We’re going to talk more about the distinction between the two later. But for the sake of this explanation of his media theory, he defines “medium” at the beginning of his book <em>Understanding Media</em> as “any extension of ourselves.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is alluding to probably the most important idea you got to understand if you want to understand all the rest of Marshall McLuhan, and that is that any new technology that’s invented or any new idea that we come up with is ultimately an extension of ourselves, an extension of our physical bodies, an extension of our consciousness. It is us extending something about ourselves further out there into the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The easiest way to explain what he means is just to give you a bunch of examples, so here I go. Telescopes are an extension of your ability to see; they’re an extension of your eyes. Hearing aids are an extension of your ability to hear. TVs are extensions of your eyes and ears; you can see and hear things going on on the other side of the globe that you never would have otherwise seen. The wheel is an extension of your feet. Put a cart on four wheels, and it’s an extension of your arms and back being able to carry stuff. Phones are an extension of your voice. A knife is an extension of your fingernails and teeth.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Point is, in the beginning, human beings didn’t have any technology. They had their senses, their brains, and the best ideas they could come up with on their own. But the instant that some creative human being came up with the idea of a hammer and realized it was far more effective at breaking up rocks than slamming your forehead into them, life instantly changed in that moment. What it is to be a human being changed in that moment. All of a sudden, we have this tool that performs this task we have to get done better than the physical bodies we were born into.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We should pause here because this is a really important point that McLuhan would want to stress. See, it’s so common for us to see a hammer, see a telescope, a computer, and to think these things are merely just pieces of technology that give us more options, more capabilities than we had before. I mean, who doesn’t want more options? These things are tools at our disposal. But McLuhan would say, try not to only think about the fact that we make the tools. Think about how much the tools make us as well.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Once that hammer is introduced, once the telescope is introduced or the computer—how about a brand-new type of nuclear weapon—some piece of what it is to be a human being changes in that moment. And it’s never going to be the same again. You know, it’s funny, McLuhan once compared people that introduce media and technology into the world to a person in a plane high above the ground dropping bombs on villages full of innocent people below.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He said this because, whenever someone introduces media or technology into the world, there’s a similar level of distance where they don’t often have to see the potential damage they’re doing long after they’re dead for having introduced this technology or media. And how many of these people introducing media and technology into the world are truly thinking about not only the full extent of consequences for introducing this into a culture but also what former technologies is this going to make obsolete so as to remove some other part of what it is to be a human being?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">His point is not that we should all become psychics. His point is that, generally speaking, we are extremely bad at predicting unintended consequences down the road of introducing a new idea or invention. The world is too complex and too dynamic to ever be able to predict it with any reliability, and yet people still continue to introduce new media and technology every day, like with this podcast, for example. I’m not immune to this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, this is McLuhan’s big point that grounds his media theory. Media and technology are always extensions of ourselves out there into the physical world. And the media and technology at our disposal has a drastic impact on not only what we think of as being a human being but also on our very perceptions, on what we perceive at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To illustrate how much of an impact the media and technology of our time have on our perceptions—to show how we don’t just make the technology, the technology equally makes us—McLuhan’s going to turn to something that’s pretty uncommon for people to think of as a technology but, to McLuhan, it was something invented long ago that has had a drastic impact on the way people think about things. And that is written language and along with it the phonetic alphabet.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The ability to take an idea that only exists in your head, pull out a piece of paper, visually represent that idea through symbols, and convey it in a very linear way where one word follows the next in a proper format and syntax that other people can understand—this is just as much an invention that extends ourselves out into the world as a telescope is. Language, and written or printed language at that, allows us to extend our inner consciousness out into the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But this relatively new visual form of language does so in a very unique way that allows ideas to have a level of autonomy they never had before. What I mean is, long ago, for who knows how many thousands of years, the primary means of communication or media was talking about things. We lived in villages or tribes. If somebody had an idea, they didn’t write a book about it; they spoke about it. If somebody wanted wisdom from the past, they didn’t go to the library; they asked someone more experienced than them, and they would get stories and lessons passed on down through the generations through this oral tradition.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But McLuhan thinks in the relatively recent past, just a few thousand years, we’ve been going through a stage of human development that’s been centered around literacy. Just as when you introduce a technology like a computer into a culture and it changes the entire way people perceive their reality, written language is an invention as well. And the thinking of a person within a culture, to McLuhan, is highly affected by the dominant means of communication within that culture.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, what happens when the dominant means of communication transitions from a primarily spoken-word model to one that’s highly visual, symbolic, structured, ordered, linear? Well, to McLuhan, it’s going to lead to what he sometimes called the Gutenberg way of perceiving, which is an allusion to the Gutenberg press, the printing press that revolutionized the alloy of metal that allowed for printed words to last on the page longer, and it allowed for mass dissemination of books to the general public.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The Gutenberg way of perceiving is an over-indexed, over-developed tendency towards the visual, the structured, the linear. He says at one point, this may actually be part of the reason historically we’ve had such a narrow, linear view of things like time or history or identity. I mean, you ask people that question: what would you rather be, blind or deaf? And 99% of people say they’d rather be deaf because our culture is so visual in terms of how it communicates. But how might the results of that experiment change if a new media or a new technology was introduced that communicated primarily through audio?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">McLuhan once said, “We don’t know who discovered water, but we know it wasn’t a fish. A pervasive environment, a pervasive medium is always beyond perception.” The big point to McLuhan is this: the messages that these media of written language are sending to us go far beyond the actual content or subject matter of the thing that’s being written about. There are latent messages being sent that, as fish in the water, we just don’t perceive.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s give another example McLuhan loved of how, when you shift this primary means of communication, it shifts what is possible for people within the culture. So, when you’re living in the village and the oral tradition that we talked about before, when it comes to introducing radical new ideas or scathing critiques of the current way things are being done, there’s just not much room for that. There’s not much room for devil’s advocate in a village.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There’s an understanding that if you open your mouth and you give an opinion about something, there’s at least some connection to that idea that’s in your head and your beliefs and identity. There’s very little room for someone to be an individual rogue agent that just thinks the rest of the village is stupid. The reason for this is that ideas in the oral tradition are inherently connected to the person that uttered them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">However, during the era of written, imprinted word, McLuhan says, all of a sudden, we have the ability to put ideas down on a piece of paper, slap a pseudonym down as the author, and we have the unique position of allowing ideas to exist independently. You can’t get rid of these ideas by getting rid of the author anymore. They’re still going to be there tomorrow, printed on the pages of the book that’s now being mass distributed. This period of literacy allows people a level of individuality that never could have existed in one of these small villages. This is just one example of hundreds of how the medium of written language changes the lives of the people living in the cultures it’s prevalent in.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, McLuhan takes this one step further. He doesn’t want to just stop with written language and the effects it has on people. He wants to examine all forms of media that communicate ideas. Because, yes, reading printed text in the newspaper is going to have one type of an effect on your reality. But what if you don’t read the newspaper? What if you watch TV? What if you listen to the radio or podcasts for your information? Keep in mind that this is not just information media that he’s talking about. Roads, airplanes, clothes, any extension of ourselves—these are media as well that, to McLuhan, send similar messages and contribute to our way of perceiving the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But I should be careful using that word “message.” By the word “message,” he’s not talking about the specific content of a podcast, for example, or the specific image that a particular outfit is setting off. Just like written language where the message that’s being sent goes far beyond whatever specific thing is being talked about at the time—it’s far bigger than that—so too with things like TVs, podcasts, and newspapers. And, yes, also with things like roads, airplanes, and clothes.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">When Marshall McLuhan says his famous line at the beginning of <em>Understanding Media</em>, when he says, “The medium is the message,”—whenever we have a medium, which means any extension of ourselves, the message that it delivers is so much greater than just the immediate content we might be receiving. Just like with written language, it’s bigger than that. He describes the true message of a medium as the change of “scale or pace or pattern” and then how those factors impact life as a person within that culture.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He’s more concerned with cataloging the human experience or the effect on human affairs that using a particular medium is going to have than whatever meaning the immediate content may have. We’ve already seen an example of this with language. Not too big of a leap for people to think the same thing is happening when they turn on the TV. But what if this extends to all media, even things like roads or clothes? What would that mean for us?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Marshall McLuhan breaks down media into two very broad categories: hot forms of media and cool forms of media. Let’s use examples of information media because it’s going to be a lot more straightforward in understanding his greater point. Keep in mind, these are not hard and fast definitions. McLuhan’s not trying to rigidly define terms here. He’s just trying to offer some basic guidelines of organization which he fully realizes cannot work perfectly.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Hot forms of media, McLuhan says, are generally low in audience participation. They provide people with a lot of information and data. He describes them as mechanical and uniform. It’s very one-way. One party is giving the information; the audience is receiving the information. And that’s pretty much it. Examples of this would be things like books, pictures, radio, podcasts that don’t take callers, and informational videos.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Cool forms of media, on the contrary, require a good deal of audience participation. They generally give less information than hot forms of media, so it requires the audience to do what McLuhan calls filling in the gaps of the story. Examples of this could be something like a Skype or Zoom video discussion group where people can ask questions, storytelling where many of the details need to be filled in by the listener and they can ask clarifying questions, call-in shows, cartoons, phone conversations. Getting your information through these cooler forms of media is far different from the experience you’re going to have getting your information through hot forms of media.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, again, the message—the effect for having used a medium or the experience that a person has within a culture—is going to come down to the media that’s predominantly used by that culture. People living in cultures that favor cooler forms of media will have an entirely different experience than those living in cultures that favor hot ones.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s go back for a second to the different eras of communication. McLuhan would say, notice how the village cultures and ones immersed in the oral tradition of communication leaned much more in the direction of cooler forms of media, much more of a group effort. Whereas the literate societies tend to lean towards individualism and hot forms of media. Once again, wouldn’t be a surprise to McLuhan that when the types of media a particular society favors change, so too do the patterns of human life within those societies. Once again, yes, we make the tools, but the tools make us as well.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What happens, though, when the media and technology that’s introduced changes society in such a dramatic way that the people living within it have a hard time knowing how to navigate their lives? Remember the beginning of the episode. People generally feel like they can predict what’s going to happen next and how people are going to respond to it. But what happens when an unexpected technology gets introduced and it changes things to such an extent that people go out seeking answers from people that saw this thing coming?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Marshall McLuhan was that person for a lot of people during the dawn of what you could call the electric age. We have the age of spoken word in our villages. We have the age of literacy with Gutenberg. McLuhan was living during the development of TVs, telephones, and other instant electronic communication, electric automation, widespread international travel. The list is endless, and the point is that the world was quickly changing into something that didn’t resemble the age of literacy in the slightest bit at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The people on the front lines living in this brave new world didn’t have a guidebook to help them adapt. They were the beneficiaries of an education given to them by people that wrote letters to each other. They were people that valued the ability to read because they knew it would be the primary means that important ideas were going to be communicated with. But as I’ve asked on this show many times before—and I’ve gotten zero responses which makes me know I’m right—who reads anymore, really? Clearly joking. The answer is me eight hours a day. But there’s actually a kernel of truth in that joke that touches on a strong belief of Marshall McLuhan.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">McLuhan believed that, eventually, if left to play out long enough, people living in this new electric age would no longer value literacy. Being able to read in this new era was eventually going to be about as valuable as it was in the early tribal societies before written word even existed. Now, think about that. If written word is a technology, then it seems the electric age is introducing a new technology that makes that older technology obsolete, much like the invention of the automobile made the buggy whip obsolete.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He describes exactly what that new medium is in this famous passage: “Rapidly we approach the final phase of the extension of man—the technological simulation of consciousness, when the creative process of knowing will be collectively and corporately extended to the whole of human society, much as we have already extended our senses and nerves by the various media. Whether the extension of consciousness, so long sought by advertisers for specific products, will be ‘a good thing’ or not is a question that admits of a wide solution.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He actually says a lot there. So, if a telescope is an extension of your eyes and a TV is an extension of your eyes and ears, then the best way to describe electric media to McLuhan is that it’s an extension of our entire nervous system. This new world is practically indiscernible from the world we lived in during the age of literacy. Want to talk to somebody? You write them a letter. About a month from now, getting a response to a basic conversation will be the highlight of your day, I’m sure.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In the age of electricity, you just pick up the phone, instant communication. I mean, these days you are constantly available on demand to any person that wants to talk to you anywhere. Another example—back in the age of literacy, if you wanted to travel across the country, you go down to the general store; you buy a couple oxen and some wagon axels and embark on a three-month-long journey across the country, where at some point you got to decide whether or not to ford the river, I’m pretty sure, and hopefully you don’t die of typhoid.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, in the age of electricity, you just buy a plane ticket and you’re in a new city in a few hours. Another example—back in the age of literacy, you could build a house, lock the doors, sit inside, and live as an individual with total privacy, locked away in your box. Age of electricity, that’s just not possible. And it’s only going to get more difficult as time goes on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In fact, Marshall McLuhan would want us to consider at this point just how many similarities there are between our present existence and the existence of the villagers immersed in the oral tradition of communication before. Want to talk to somebody in a close-knit village? Well, go outside; you’ll probably find them in about 10 seconds. Same with us and the telephone. You have very little privacy in a small village, becoming more the case for us every day. Your life is constantly on display in a village, and everybody knows what’s going on with you all the time. We volunteer that information over social media.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The parallels between the life of a villager and our present day lives wouldn’t have been a surprise to McLuhan at all. In fact, he predicted it. He believed that electric media would extend our nervous system—the final phase of the extension of man—he believed it would allow for communication at such a level and extend collective human consciousness at such a rate that we would eventually find ourselves in what he called a global village. To Marshall McLuhan, the age of literacy has been a great experiment and an age that led to the development of human beings that has, no doubt, been beneficial and is, no doubt, going to help us in this new global village.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But in the scheme of human history and generations that are yet to come, the need for written language will never be as important to people as it’s been for these last few thousand years. Whether our new global village will be a good thing or not to McLuhan remains up in the air. There’s times in his work he seems optimistic. There’s times he seems like it’s going to be a real challenge. But his goal really wasn’t to make value judgments about it anyway. His goal was to get people to think, to think about what effects this new form of media is going to have on the lives and psyches of the people. That’s it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It should also be said that McLuhan thinks, no matter what you think about the global village positive or negative, it too one day will be over-indexed, over-extended, over-developed, and it too will come to an end.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Regardless of where you stand on McLuhan’s media theory, he’s responsible for an entire branch of contemporary media theory that honestly wouldn’t even exist if it weren’t for him. Some say his ideas are nostalgic and old. Some say they were far ahead of their time and that the longer technology develops the more we’ll see how many things he got right. For me personally, I don’t really care either way.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The value of Marshall McLuhan to me, the true takeaway after reading his work that I think he would have been most happy if people left him with, is that we should pay attention. Be aware of the things that are going on around you. Try to be aware of media and the effects they’re having on human affairs. Don’t just cling to the ship and ride the vortex down into the blackness. Look at the details. Try to make connections. Try to find patterns. Because it’s only by paying attention that we can ever hope to step outside of the landscape we inherited at birth against our will. In the immortal words of Marshall McLuhan, “A fish doesn’t know what water is until it’s been beached.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
+</div>
 
 
 
@@ -1382,30 +1384,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                &quot;imageOverlayOpacity&quot;: 0.15,
-                                &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                                &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                &quot;customContentWidth&quot;: 100,
-                                &quot;sectionTheme&quot;: &quot;dark&quot;,
-                                &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                &quot;backgroundMode&quot;: &quot;image&quot;
-                              }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                &quot;video&quot;: {
-                                  &quot;playbackSpeed&quot;: 0.5,
-                                  &quot;filter&quot;: 1,
-                                  &quot;filterStrength&quot;: 0,
-                                  &quot;zoom&quot;: 0,
-                                  &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                },
-                                &quot;backgroundImageId&quot;: null,
-                                &quot;backgroundMediaEffect&quot;: null,
-                                &quot;divider&quot;: null,
-                                &quot;typeName&quot;: &quot;blog-masonry&quot;
-                              }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1442,25 +1444,33 @@
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ee160a0f1506573c8ef3486"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6f040a883b83b54dadd"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57a242376a2c287e6a13"><div class="sqs-block-content">
 
-<h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Philosophize This!</h3>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f10e63a076eb67418c6"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Listen</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://podcasts.apple.com/us/podcast/philosophize-this/id659155419?mt=2" target="_blank">Apple</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://www.stitcher.com/podcast/stephen-west-show/philosophize-this" target="_blank">Stitcher</a><a href="http://squarespace.com" target="_blank"><br></a><a href="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" target="_blank">Spotify</a><br><a href="https://play.google.com/music/listen?gclid=COmlsNrWmc0CFcimfgodxAYFGw&amp;gclsrc=ds&amp;u=0#/ps/Iszi3nzoe3p22hsxpoe3i2jmxxy" target="_blank">Google Play</a><br><a href="https://philosophizethis.libsyn.com/">Libsyn</a><br><a href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag">YouTube</a></p>
+</div>
 
 
 
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
-<p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
+</div>
 
 
 

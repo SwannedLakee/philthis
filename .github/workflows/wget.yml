@@ -6,7 +6,7 @@ on:
       - main
   
   schedule:
-    - cron: '0 0 * * 1' # Repeat every Monday at 00:00
+    - cron: '0 0 3 * *' # Repeat every Monday at 00:00
  
   workflow_dispatch: # on button click
 

@@ -41,15 +41,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-f6b66bfddd39dd04c5382-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-f6b66bfddd39dd04c5382-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-e67ac5a108455ec4edca7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-e67ac5a108455ec4edca7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-110eab6cc05faf9931604-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-110eab6cc05faf9931604-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-988cea152e72258d821b3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-988cea152e72258d821b3-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-182995a869d1931eb9079-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-182995a869d1931eb9079-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-899c528263e5951fbb008-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-899c528263e5951fbb008-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-0456fc448e85a792143fc-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-0456fc448e85a792143fc-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-86fa43970e311a1115081-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-1b438757e0c45941ba991-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-ad88023836bf46b308416-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-0af43d54d6e72d5da34f8-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-99e2ee5110010b21ad191-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-933bb5fddd01443b5a8ac-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-8868a32e62e5b1c9b1fab-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-1395eb5c72d5d9cd76b42-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-efadf4cf0b655e91ff2cf-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-bfbf5d173331f1e4b35ca-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-451348a5d6e36177b1129-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-826e000ba38333ede418c-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-d69400ce4e6ee68186d7c-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-934772160ed2f1fb49718-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-d541b2fab3e414c84fc52-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-20a62ae931ab349a80d2f-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-9cdddd9fa7a0d8d7a2cc7-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-25e4f9a6d0f0b3daa2d51-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-fd9ce38b67a1c6891b2e4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-4a936b44d5851ec848f53-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-74a2013c90ee619ccfc39-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d1855f23f92b35a9c6138-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-cf0c8e640b90ea1d4cbab-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-459f258f42b6723f4d6dc-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d4590610fac42d998091b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-06084e73d228668469801-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-05446c592ce91acc4739e-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-d4efe2a305570505f3b5b-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-059030180b86b6b514465-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-bdf15408bbeab90b3a408-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1691162723330,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #031 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"3":true,"1":true,"4":true,"6":true,"8":true,"7":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #031 -  Transcript","id":"5eec197f09afd80facd7d101","fullUrl":"/transcript/pascals-wager-transcript","publicCommentCount":1,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["campaigns_discount_section_in_automations","member_sites_ux_evolution_phase_two","unify_edit_mode_p2","commerce_site_visitor_metrics","fluid_engine","member_areas_feature","site_header_footer","website_component_enabled","supports_versioned_template_assets","commerce_etsy_product_import","accounting_orders_sync","viewer-role-contributor-invites","toggle_preview_new_shortcut","member_areas_schedule_interview","visitor_react_forms","campaigns_discount_section_in_blasts","member_sites_ux_evolution","crm_remove_subscriber","image_component","nested_categories_migration_enabled","digital_products_monetization_ga_enabled","site_user_email_change","themes","member_areas_spanish_interviews","commsplat_forms_visitor_profile","nested_categories","new_stacked_index","crm_default_newsletter_block_to_campaigns","collection_typename_switching","commerce_order_status_access","crm_show_profile_forms","pdp_product_add_ons_visitor_site","website_fonts","commerce_checkout_website_updates_enabled","is_feature_gate_refresh_enabled","order_status_page_checkout_landing_enabled","override_block_styles","member_areas_provisioning_service","enable_css_variable_tweaks","commerce_clearpay","marketing_landing_page","customer_accounts_email_verification","digital_products_in_circle_labs","campaigns_import_discounts","send_local_pickup_ready_email","customize_collection_overview_paywalling","background_art_onboarding","scripts_defer","campaigns_global_uc_ab","commerce_restock_notifications","show_add_to_cart_in_plp","fluid_engine_clean_up_grid_contextual_change","customer_account_creation_recaptcha","campaigns_thumbnail_layout","commerce_etsy_shipping_import","campaigns_new_image_layout_picker"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #031 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/pascals-wager-transcript","datePublished":"2014-08-12T23:59:00-0700","dateModified":"2022-07-07T11:17:31-0700","headline":"Episode #031 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1691162723330/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/68/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1466/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-7dfd6db43a0c862870a5-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-7dfd6db43a0c862870a5-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-f36b6dc9867ad0b8d0a8-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-f36b6dc9867ad0b8d0a8-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-299f1473fedfe0716b27-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-299f1473fedfe0716b27-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-2a010cbb97d3039bf6dc-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-2a010cbb97d3039bf6dc-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-94880fef7f5110305205-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-94880fef7f5110305205-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-ac3efedd49a8a017e2f8-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-65d130eb3b049b1054e4-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-aca0f118484570338368-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b63e6afdcbeac42b3017-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-1cd8f0dbe0123c719abd-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-8c16bc4bc4ac2bb967e6-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-b5fcf317a07b0db9da26-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-af356fa67f33ad4a02fe-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-ca35e17d76a920cb1b17-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-2267dea48d63317856a6-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-09618ebbf5fba2c9727b-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-344eacef2098ca014a64-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-97dd06157cb0d1930252-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-61dc9f9523fa69ebec8c-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-ecb81e17f1e51126ce02-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-c5828c22f5532927ef0b-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-d77ae6e5be5e42b8d7a4-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c14fd9496f5985337c37-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-bbb2acbc5c45d633910b-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-86a6a6322e302d4394d6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-f7befafa846701c7a7ba-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-4109f87befa479615f23-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-f173014f20db69fb2607-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c525b0b649e9b0c42bc6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-eee42d001f172afd8251-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-38bc7b05ed77c7e58ab2-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #031 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"6":true,"3":true,"4":true,"2":true,"1":true,"7":true,"8":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #031 -  Transcript","id":"5eec197f09afd80facd7d101","fullUrl":"/transcript/pascals-wager-transcript","publicCommentCount":1,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["crm_show_profile_forms","member_areas_feature","supports_versioned_template_assets","site_user_email_change","visitor_react_forms","unify_edit_mode_p2","customize_collection_overview_paywalling","order_status_page_checkout_landing_enabled","website_fonts","commerce_order_status_access","accounting_orders_sync","campaigns_discount_section_in_blasts","campaigns_global_uc_ab","fluid_engine","commerce_etsy_shipping_import","background_art_onboarding","commsplat_forms_visitor_profile","crm_remove_subscriber","commerce_etsy_product_import","commerce_site_visitor_metrics","scripts_defer","nested_categories_migration_enabled","nested_categories","campaigns_thumbnail_layout","improved_paywalls","is_feature_gate_refresh_enabled","collection_typename_switching","marketing_landing_page","campaigns_new_image_layout_picker","toggle_preview_new_shortcut","member_areas_provisioning_service","customer_account_creation_recaptcha","image_component","enable_css_variable_tweaks","send_local_pickup_ready_email","commerce_restock_notifications","customer_accounts_email_verification","digital_products_monetization_ga_enabled","themes","commerce_checkout_website_updates_enabled","fluid_engine_clean_up_grid_contextual_change","customize_item_paywalling","site_header_footer","commerce_clearpay","campaigns_discount_section_in_automations","member_areas_spanish_interviews","crm_default_newsletter_block_to_campaigns","website_component_enabled","show_add_to_cart_in_plp","override_block_styles","new_stacked_index","viewer-role-contributor-invites","campaigns_import_discounts","member_areas_schedule_interview","pdp_product_add_ons_visitor_site"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #031 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/pascals-wager-transcript","datePublished":"2014-08-12T23:59:00-0700","dateModified":"2022-07-07T11:17:31-0700","headline":"Episode #031 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/68/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1472/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <script>
@@ -154,256 +154,256 @@
   "
   data-controller="Header"
   data-current-styles="{
-                &quot;layout&quot;: &quot;navRight&quot;,
-                &quot;action&quot;: {
-                  &quot;href&quot;: &quot;/take-action&quot;,
-                  &quot;buttonText&quot;: &quot;Take Action&quot;,
-                  &quot;newWindow&quot;: false
-                },
-                &quot;showSocial&quot;: true,
-                &quot;socialOptions&quot;: {
-                  &quot;socialBorderShape&quot;: &quot;none&quot;,
-                  &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                  &quot;socialBorderThickness&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 1.0
-                  }
-                },
-                &quot;sectionTheme&quot;: &quot;light&quot;,
-                &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                &quot;cartStyle&quot;: &quot;cart&quot;,
-                &quot;cartText&quot;: &quot;Cart&quot;,
-                &quot;showEmptyCartState&quot;: true,
-                &quot;cartOptions&quot;: {
-                  &quot;iconType&quot;: &quot;solid-7&quot;,
-                  &quot;cartBorderShape&quot;: &quot;none&quot;,
-                  &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                  &quot;cartBorderThickness&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 1.0
-                  }
-                },
-                &quot;showButton&quot;: false,
-                &quot;showCart&quot;: false,
-                &quot;showAccountLogin&quot;: true,
-                &quot;headerStyle&quot;: &quot;theme&quot;,
-                &quot;languagePicker&quot;: {
-                  &quot;enabled&quot;: false,
-                  &quot;iconEnabled&quot;: false,
-                  &quot;iconType&quot;: &quot;globe&quot;,
-                  &quot;flagShape&quot;: &quot;shiny&quot;,
-                  &quot;languageFlags&quot;: [ ]
-                },
-                &quot;mobileOptions&quot;: {
-                  &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                  &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                  &quot;menuIconOptions&quot;: {
-                    &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                    &quot;thickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 1.0
-                    }
-                  }
-                },
-                &quot;dynamicOptions&quot;: {
-                  &quot;border&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;position&quot;: &quot;bottom&quot;,
-                    &quot;thickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 4.0
-                    },
-                    &quot;color&quot;: {
-                      &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-                      &quot;customColor&quot;: {
-                        &quot;hslaValue&quot;: {
-                          &quot;hue&quot;: 203.4782608695652,
-                          &quot;saturation&quot;: 0.22330097087378645,
-                          &quot;lightness&quot;: 0.2019607843137255,
-                          &quot;alpha&quot;: 1.0
-                        },
-                        &quot;userFormat&quot;: &quot;hex&quot;
-                      }
-                    }
-                  }
-                },
-                &quot;solidOptions&quot;: {
-                  &quot;headerOpacity&quot;: {
-                    &quot;unit&quot;: &quot;%&quot;,
-                    &quot;value&quot;: 100.0
-                  },
-                  &quot;border&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;position&quot;: &quot;bottom&quot;,
-                    &quot;thickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 4.0
-                    },
-                    &quot;color&quot;: {
-                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                      &quot;sitePaletteColor&quot;: {
-                        &quot;colorName&quot;: &quot;black&quot;,
-                        &quot;alphaModifier&quot;: 1.0
-                      }
-                    }
-                  },
-                  &quot;dropShadow&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;blur&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 30.0
-                    },
-                    &quot;spread&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 0.0
-                    },
-                    &quot;distance&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 0.0
-                    },
-                    &quot;color&quot;: {
-                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                      &quot;sitePaletteColor&quot;: {
-                        &quot;colorName&quot;: &quot;black&quot;,
-                        &quot;alphaModifier&quot;: 1.0
-                      }
-                    }
-                  },
-                  &quot;blurBackground&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;blurRadius&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 12.0
-                    }
-                  },
-                  &quot;backgroundColor&quot;: {
-                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                    &quot;sitePaletteColor&quot;: {
-                      &quot;colorName&quot;: &quot;white&quot;,
-                      &quot;alphaModifier&quot;: 1.0
-                    }
-                  },
-                  &quot;navigationColor&quot;: {
-                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                    &quot;sitePaletteColor&quot;: {
-                      &quot;colorName&quot;: &quot;black&quot;,
-                      &quot;alphaModifier&quot;: 1.0
-                    }
-                  }
-                },
-                &quot;gradientOptions&quot;: {
-                  &quot;gradientType&quot;: &quot;faded&quot;,
-                  &quot;headerOpacity&quot;: {
-                    &quot;unit&quot;: &quot;%&quot;,
-                    &quot;value&quot;: 90.0
-                  },
-                  &quot;border&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;position&quot;: &quot;bottom&quot;,
-                    &quot;thickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 4.0
-                    },
-                    &quot;color&quot;: {
-                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                      &quot;sitePaletteColor&quot;: {
-                        &quot;colorName&quot;: &quot;black&quot;,
-                        &quot;alphaModifier&quot;: 1.0
-                      }
-                    }
-                  },
-                  &quot;dropShadow&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;blur&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 30.0
-                    },
-                    &quot;spread&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 0.0
-                    },
-                    &quot;distance&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 0.0
-                    },
-                    &quot;color&quot;: {
-                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                      &quot;sitePaletteColor&quot;: {
-                        &quot;colorName&quot;: &quot;black&quot;,
-                        &quot;alphaModifier&quot;: 1.0
-                      }
-                    }
-                  },
-                  &quot;blurBackground&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;blurRadius&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 12.0
-                    }
-                  },
-                  &quot;backgroundColor&quot;: {
-                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                    &quot;sitePaletteColor&quot;: {
-                      &quot;colorName&quot;: &quot;white&quot;,
-                      &quot;alphaModifier&quot;: 1.0
-                    }
-                  },
-                  &quot;navigationColor&quot;: {
-                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                    &quot;sitePaletteColor&quot;: {
-                      &quot;colorName&quot;: &quot;black&quot;,
-                      &quot;alphaModifier&quot;: 1.0
-                    }
-                  }
-                },
-                &quot;dropShadowOptions&quot;: {
-                  &quot;enabled&quot;: false,
-                  &quot;blur&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 12.0
-                  },
-                  &quot;spread&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 0.0
-                  },
-                  &quot;distance&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 12.0
-                  }
-                },
-                &quot;borderOptions&quot;: {
-                  &quot;enabled&quot;: false,
-                  &quot;position&quot;: &quot;bottom&quot;,
-                  &quot;thickness&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 4.0
-                  }
-                },
-                &quot;showPromotedElement&quot;: false,
-                &quot;buttonVariant&quot;: &quot;primary&quot;,
-                &quot;blurBackground&quot;: {
-                  &quot;enabled&quot;: false,
-                  &quot;blurRadius&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 12.0
-                  }
-                },
-                &quot;headerOpacity&quot;: {
-                  &quot;unit&quot;: &quot;%&quot;,
-                  &quot;value&quot;: 100.0
-                }
-              }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+&quot;customColor&quot;: {
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                &quot;enabled&quot;: false,
-                &quot;iconEnabled&quot;: false,
-                &quot;iconType&quot;: &quot;globe&quot;,
-                &quot;flagShape&quot;: &quot;shiny&quot;,
-                &quot;languageFlags&quot;: [ ]
-              }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -1030,245 +1030,245 @@
     
     "
     data-current-styles="{
-                &quot;layout&quot;: &quot;navRight&quot;,
-                &quot;action&quot;: {
-                  &quot;href&quot;: &quot;/take-action&quot;,
-                  &quot;buttonText&quot;: &quot;Take Action&quot;,
-                  &quot;newWindow&quot;: false
-                },
-                &quot;showSocial&quot;: true,
-                &quot;socialOptions&quot;: {
-                  &quot;socialBorderShape&quot;: &quot;none&quot;,
-                  &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                  &quot;socialBorderThickness&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 1.0
-                  }
-                },
-                &quot;sectionTheme&quot;: &quot;light&quot;,
-                &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                &quot;cartStyle&quot;: &quot;cart&quot;,
-                &quot;cartText&quot;: &quot;Cart&quot;,
-                &quot;showEmptyCartState&quot;: true,
-                &quot;cartOptions&quot;: {
-                  &quot;iconType&quot;: &quot;solid-7&quot;,
-                  &quot;cartBorderShape&quot;: &quot;none&quot;,
-                  &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                  &quot;cartBorderThickness&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 1.0
-                  }
-                },
-                &quot;showButton&quot;: false,
-                &quot;showCart&quot;: false,
-                &quot;showAccountLogin&quot;: true,
-                &quot;headerStyle&quot;: &quot;theme&quot;,
-                &quot;languagePicker&quot;: {
-                  &quot;enabled&quot;: false,
-                  &quot;iconEnabled&quot;: false,
-                  &quot;iconType&quot;: &quot;globe&quot;,
-                  &quot;flagShape&quot;: &quot;shiny&quot;,
-                  &quot;languageFlags&quot;: [ ]
-                },
-                &quot;mobileOptions&quot;: {
-                  &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                  &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                  &quot;menuIconOptions&quot;: {
-                    &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                    &quot;thickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 1.0
-                    }
-                  }
-                },
-                &quot;dynamicOptions&quot;: {
-                  &quot;border&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;position&quot;: &quot;bottom&quot;,
-                    &quot;thickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 4.0
-                    },
-                    &quot;color&quot;: {
-                      &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-                      &quot;customColor&quot;: {
-                        &quot;hslaValue&quot;: {
-                          &quot;hue&quot;: 203.4782608695652,
-                          &quot;saturation&quot;: 0.22330097087378645,
-                          &quot;lightness&quot;: 0.2019607843137255,
-                          &quot;alpha&quot;: 1.0
-                        },
-                        &quot;userFormat&quot;: &quot;hex&quot;
-                      }
-                    }
-                  }
-                },
-                &quot;solidOptions&quot;: {
-                  &quot;headerOpacity&quot;: {
-                    &quot;unit&quot;: &quot;%&quot;,
-                    &quot;value&quot;: 100.0
-                  },
-                  &quot;border&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;position&quot;: &quot;bottom&quot;,
-                    &quot;thickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 4.0
-                    },
-                    &quot;color&quot;: {
-                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                      &quot;sitePaletteColor&quot;: {
-                        &quot;colorName&quot;: &quot;black&quot;,
-                        &quot;alphaModifier&quot;: 1.0
-                      }
-                    }
-                  },
-                  &quot;dropShadow&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;blur&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 30.0
-                    },
-                    &quot;spread&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 0.0
-                    },
-                    &quot;distance&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 0.0
-                    },
-                    &quot;color&quot;: {
-                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                      &quot;sitePaletteColor&quot;: {
-                        &quot;colorName&quot;: &quot;black&quot;,
-                        &quot;alphaModifier&quot;: 1.0
-                      }
-                    }
-                  },
-                  &quot;blurBackground&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;blurRadius&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 12.0
-                    }
-                  },
-                  &quot;backgroundColor&quot;: {
-                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                    &quot;sitePaletteColor&quot;: {
-                      &quot;colorName&quot;: &quot;white&quot;,
-                      &quot;alphaModifier&quot;: 1.0
-                    }
-                  },
-                  &quot;navigationColor&quot;: {
-                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                    &quot;sitePaletteColor&quot;: {
-                      &quot;colorName&quot;: &quot;black&quot;,
-                      &quot;alphaModifier&quot;: 1.0
-                    }
-                  }
-                },
-                &quot;gradientOptions&quot;: {
-                  &quot;gradientType&quot;: &quot;faded&quot;,
-                  &quot;headerOpacity&quot;: {
-                    &quot;unit&quot;: &quot;%&quot;,
-                    &quot;value&quot;: 90.0
-                  },
-                  &quot;border&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;position&quot;: &quot;bottom&quot;,
-                    &quot;thickness&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 4.0
-                    },
-                    &quot;color&quot;: {
-                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                      &quot;sitePaletteColor&quot;: {
-                        &quot;colorName&quot;: &quot;black&quot;,
-                        &quot;alphaModifier&quot;: 1.0
-                      }
-                    }
-                  },
-                  &quot;dropShadow&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;blur&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 30.0
-                    },
-                    &quot;spread&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 0.0
-                    },
-                    &quot;distance&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 0.0
-                    },
-                    &quot;color&quot;: {
-                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                      &quot;sitePaletteColor&quot;: {
-                        &quot;colorName&quot;: &quot;black&quot;,
-                        &quot;alphaModifier&quot;: 1.0
-                      }
-                    }
-                  },
-                  &quot;blurBackground&quot;: {
-                    &quot;enabled&quot;: false,
-                    &quot;blurRadius&quot;: {
-                      &quot;unit&quot;: &quot;px&quot;,
-                      &quot;value&quot;: 12.0
-                    }
-                  },
-                  &quot;backgroundColor&quot;: {
-                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                    &quot;sitePaletteColor&quot;: {
-                      &quot;colorName&quot;: &quot;white&quot;,
-                      &quot;alphaModifier&quot;: 1.0
-                    }
-                  },
-                  &quot;navigationColor&quot;: {
-                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                    &quot;sitePaletteColor&quot;: {
-                      &quot;colorName&quot;: &quot;black&quot;,
-                      &quot;alphaModifier&quot;: 1.0
-                    }
-                  }
-                },
-                &quot;dropShadowOptions&quot;: {
-                  &quot;enabled&quot;: false,
-                  &quot;blur&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 12.0
-                  },
-                  &quot;spread&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 0.0
-                  },
-                  &quot;distance&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 12.0
-                  }
-                },
-                &quot;borderOptions&quot;: {
-                  &quot;enabled&quot;: false,
-                  &quot;position&quot;: &quot;bottom&quot;,
-                  &quot;thickness&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 4.0
-                  }
-                },
-                &quot;showPromotedElement&quot;: false,
-                &quot;buttonVariant&quot;: &quot;primary&quot;,
-                &quot;blurBackground&quot;: {
-                  &quot;enabled&quot;: false,
-                  &quot;blurRadius&quot;: {
-                    &quot;unit&quot;: &quot;px&quot;,
-                    &quot;value&quot;: 12.0
-                  }
-                },
-                &quot;headerOpacity&quot;: {
-                  &quot;unit&quot;: &quot;%&quot;,
-                  &quot;value&quot;: 100.0
-                }
-              }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+&quot;customColor&quot;: {
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1449,31 +1449,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                &quot;imageOverlayOpacity&quot;: 0.15,
-                &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                &quot;customSectionHeight&quot;: 10,
-                &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                &quot;customContentWidth&quot;: 50,
-                &quot;sectionTheme&quot;: &quot;&quot;,
-                &quot;sectionAnimation&quot;: &quot;none&quot;,
-                &quot;backgroundMode&quot;: &quot;image&quot;
-              }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                &quot;video&quot;: {
-                  &quot;playbackSpeed&quot;: 0.5,
-                  &quot;filter&quot;: 1,
-                  &quot;filterStrength&quot;: 0,
-                  &quot;zoom&quot;: 0,
-                  &quot;videoSourceProvider&quot;: &quot;none&quot;
-                },
-                &quot;backgroundImageId&quot;: null,
-                &quot;backgroundMediaEffect&quot;: null,
-                &quot;divider&quot;: null,
-                &quot;typeName&quot;: &quot;blog-masonry&quot;
-              }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1539,6 +1539,28 @@
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">Thank you for wanting to know more today than you did yesterday, and I hope you love the show.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, last week we visualized what it would be like if René Descartes came to your door, kind of like he was a Jehovah’s Witness, and he tried to talk you into believing the way he does when it comes to the nature of existence. We talked about these types of conversations in general where these people come to your door and they try to convert you. And these conversations typically go down two paths. They either try to prove the legitimacy of their ethical doctrine, or they try to make you believe in God, based on where you are before the conversation starts. Now, we visualized Descartes sitting on your couch, drinking your lemonade, and trying to prove to you that God exists.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if you thought this visual was ridiculous at the time, that’s because it was. I mean, think about it, nobody really comes to your door in today’s world and asks you what you believe; you say, “I’m not sure whether God exists,” and then they sit you down, and they start trying to rationally prove the existence of God with charts and graphs and arguments. Nobody does that today. As people born into the modern world, thrust out of our mothers into 2014, we aren’t very familiar with this way of thinking. Really, have any of you guys took Saint Anselm’s ontological argument and tried to tell somebody about it? I mean, did any of you guys learn that on the episode and then tell one of your friends and see how they respond? I mean, I’d be very surprised if their face wasn’t utter confusion—the same response they’d give you if you told them you were quitting your job and you were going to go try out for <em>America’s Got Talent</em>. And it’s understandable. I mean, this way of “proving” the existence of God, it’s just not used anymore on an interpersonal level door to door.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But the guy we’re going to talk about today took a slightly different approach, one that’s going to be much less foreign to us. And it’s one that we’ve probably all experienced a variant of, and it’s one that we can all weigh in on at some level. His name was Blaise Pascal, contemporary of René Descartes. He was a French polymath genius who—I mean, he would probably define himself as, most notably, two things: a mathematician and a Christian. Now, we’re going to be talking a bit about Pascal. But I want to start with what he’s most commonly known for. It’s called Pascal’s wager. Maybe you’ve heard of it before.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, it should be noted directly from the top, like we talked about last time, that Descartes was setting out to prove the existence of merely this infinite, perfect being—a sort of metaphysical bookend from which he could derive the rest of his rationalist philosophy. But Pascal on the other hand, although his wager could be applied to most faiths—at least of the modern, monotheistic variety—Pascal was trying to show that to not believe in the Christian God was just irrational. It’s a very important distinction to make. Instead of trying to prove to you that God exists beyond a shadow of a doubt, Pascal recognized that we could never be 100% certain of whether God exists. And his argument was centered around the idea that it really didn’t matter. The Christian God was the most likely one that exists to Pascal during his time and setting. And he set out not to prove the existence of God but to show that to not believe in God was just a dumb decision.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To give us some perspective and because this week it’s going to be a little bit more believable, let’s pretend that Blaise Pascal was another guy that came to the door with René Descartes that day. And after Descartes was done trying to prove to you that God existed with all of his arguments and you weren’t satisfied with him, let’s hear what Blaise Pascal has to say about it. And look, in reality, this really isn’t that far from what actually happens. Pascal’s wager is one of the most common tactics that these people use to try to convert you—these door-to-door salesmen, some warmed-over variant of Blaise Pascal.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But look, a lot has changed in who this argument is talking to since the times of Blaise Pascal. If Blaise Pascal went door to door back in his time, he would be talking to a very different person that what he’d be talking to today. Because of the centuries of advancements in science that people like Descartes and Pascal were facilitating during their time, most people that are agnostic in today’s world think of truth and belief in terms of evidence. We see it all the time. In today’s world, if some random guy just came out of the woodwork and came up with some hairbrained idea that he had no backing for—let’s say he said Thales was right, you guys: everything in the universe is made of water, everything! Thales was right all along. Most people listening to this would be like, “Okay, buddy, why don’t you get out of here? You know what, the world is made of water? Why don’t you go and do some experiments, huh? Why don’t you go do some studies? And come talk to me when this is something other than wild speculation. Come talk to me when you have some evidence to back up your claims.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, this way of thinking naturally starts to creep its way into thoughts about God, religion, and the rest of it. Blaise Pascal would be talking to an agnostic person that believes something quite different than the people back in his time. And the reason why is because they would employ critical thinking 101. When somebody presents something to them, they would ask themselves, “Well, if this is true, what else must be true as a result of it?” There’s a growing group of these modern agnostics in today’s world, and this is the person that Blaise Pascal would be targeting with his argument. This is the person he was communicating with.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if you were one of these people, you would probably say to a devout Christian, like Pascal, whose God claims to offer personal salvation, that if the Christian God existed, well, he must be pretty smart—all-knowing, if you will. God must recognize that as someone born into modern times, that there are dozens of choices to focus your spiritual efforts on, and none of them have any more credibility than the next. It really is a problem. I mean, there is nothing objective about them. There is nothing undeniable separating Catholicism from Islam from Judaism from Mormonism, etc. I mean, all the adherents to these various different religions are forced to have faith that theirs is the one that’s actually real, while the members of all the other ones are condemned to hell.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the typical thing one of these modern agnostics would say is, why does it make sense that it would be this way? They would say that, if this earth that we’re living on is truly just an ethical obstacle course—you know, we’re all going to be met with temptations and struggles and relationships, and based on how we act during this very short, 80-year period of our lives, if we’re lucky, that will determine where we go for all of eternity—if that is true, why does it all need to be shrouded in mystery? I mean, God is all-powerful. These people ask, we don’t need to be born with zero conception of what the earth or existence is. I mean, for all intents and purposes, we could be given life in a spiritual form, up in the clouds with God playing some sort of bizarre game show where he lays everything out for you, some bizarre version of <em>Wheel of Fortune</em>, where God is the host.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And he says to you, “Hey, so, first of all, I exist, first and foremost. Jesus was my son. There is going to be a lot of speculation down there, but know that that’s the case. By the way, he died for your sins, so you should appreciate that. But look, let’s not talk about that now. It’s all laid out in the Book. You can go to the library and read it. But now that we’ve gotten all that out of the way, let’s spin this giant wheel. Let’s find out what body you’re going to be programmed into. Will it be inner-city youth? Will it be stockbroker? Maybe a Ferris wheel repairman. That sounds fun. Let’s see what you get.” And then you spin the wheel. You get sucked down into the earth, and you get made into a fetus. And you’re born with that knowledge of what this existence truly is.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, these modern people would say, why can’t that be the case? Well, the fact of the matter is, it’s not the case. So, these people use critical thinking again. And they ask, well, if God could choose not to make the most important thing ever a mystery—your eternal fate hangs in the balance, and God chooses to make it a guessing game. He certainly doesn’t need to do that by any means. So why does he? More importantly, they would ask, why is someone blindly conceding to a religion more valuable to God than someone who’s presented by God with a decision and chooses to abide by the moral code laid out in the Bible? These modern agnostics would ask, why does it mean more to God when someone’s born into a home where their parents believe in what might be one of the dozens of religions that could instantly send them to hell? And given the fact that at any point he could remove all the mystery, why does blind acceptance to a religion mean more to him than reasoned acceptance?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">If Blaise Pascal came to the door of one of these modern agnostics, this is the question that he would be faced with. And look, generally speaking, this is where most of these people sit. Because they’ll say, well, if Christianity is true, none of this stuff makes sense to me. But I’ll tell you what does make sense to me: humans doing dishonest stuff, humans leveraging control over other people and marginalizing anyone who doesn’t agree with them so that they can maintain power. This is seen all throughout human history, and this is another form of it. It totally makes sense that someone that understood the benefits of living an ethical life was just a little bit smarter than the people around him. And it makes sense that he would write a book laying out, on one hand, a good way to act that benefits society and, on the other hand, a story about an infinitely powerful being that will punish you if you don’t abide by his rules.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is a very plausible scenario even to Blaise Pascal. Because in his view, that’s what all the other religions are—false prophets that lied to harness control over people. So, Blaise Pascal is presented with a problem with this line of argument. He can’t prove the existence of God with any certainty. And there does seem to be a bunch of needless mystery on one end and a rational explanation on the other. But this is how brilliant Pascal was. He manages to find an argument that does an effective job of showing that even if there is mystery, even if it’s shrouded in mystery, the best choice for the layperson might be to just believe.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, Blaise Pascal was a mathematician. Let’s start there. And because of that, he oftentimes thinks about life and existence in mathematical terms. He talks about how humans are not God. That’s pretty evident. I mean, we as humans walking around, going about our daily lives—we don’t have complete control over what happens to us. We have control over how we react to it. In fact, Pascal says, at best we make calculated risks where the calculations are based on all of our prior experience in that given field.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, let’s say that you wanted to start a small business as your family’s primary means of income. Now, there is very real uncertainty as to whether money is going to be coming in enough for you to pay your bills. So, in the interest of security, you choose to not start your small business, and you get a job at a big company in the city. You got a briefcase. Now, that’s the kind of security you can count on. At least you know that paycheck’s coming at the end of the week, right? Well, no, not exactly. At any point that company could downsize or cut costs, or the economy could tank. And they would drop you in an instant, make no mistake. But it certainly does assume less risk than starting your own business, right? In this way, you’re hedging your bets. Neither one of the two options are absolutely certain, but the outcome of one decision puts you in a much more favorable position more times out of 100 than the other one, so you choose it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about another example of this. You want to go on vacation to Hawaii. Now, the only way you’re going to get to Hawaii is on a plane. The odds of you getting to Hawaii in one piece flying on a plane are enormously favorable for you. I think it’s something like a 1 in 10,000,000 chance for you to die in a plane crash. Even so, I think that’s the worldwide statistic. So, if you broke it down to just the US and Canada, it’s probably way better than that. But even still, do you have absolute certainty that you’re going to make it there? No, you don’t. Bottom line, you are hedging your bets. This decision is also a calculated risk.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You are assuming a 1 in 10,000,000 chance risk in order to be the type of person that actually goes on vacation to Hawaii as opposed to the type of person that just sits around and Googles Maui on a biweekly basis because you think it’s beautiful, like yours truly. I don’t know if you guys could tell. I related to that. But look, in my defense, I’m not going to Hawaii not because I’m scared of flying. It’s because it’s like $10,000 just to land there. I mean, how do these Hawaiian people sleep at night? How do they sleep? I’ll tell you how they sleep—in the middle of the Pacific Ocean on their little speck of paradise.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We’ll go more into this on another day. But Pascal talks about how these calculated risks that we take encompass virtually every decision that we make on this planet. Every decision that you make and every belief that you hold is a calculated risk. In Pascal’s view, your thoughts about God, your eternal fate, and the nature of existence should be no different. Now, keep in mind, when Pascal talks about this, he’s appealing to an agnostic. There were a lot of these types of people in France during his lifetime in light of all the scientific progress that was being made. As a crude example, if on one end you had Christians and on the other end you had atheists, there were several pockets in the middle of that spectrum. And one incredibly large pocket during the time of Pascal was someone who just wasn’t completely satisfied by either explanation. So, instead of trying to prove the existence of God, Blaise Pascal asked these people to hedge their bets like they do with every other belief that they hold.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He presents them with what is known as Pascal’s wager. And it goes like this: If you don’t believe in God and he doesn’t exist, then you die, and nothing happens. You know, you rot inside of a pine box until the sun explodes in a couple billion years. And then you’ll be, I don't know, vapor. On the other hand, if you don’t believe in God and he does exist, then you just made a huge mistake, right? That’s a mistake that’s going to cost you infinitely. You are now banished to a lake of fire, pushing boulders up a hill, doing Satan’s landscaping, for all of eternity, by the way, all of eternity. Just fathom the idea of eternity. The bottom line is, things aren’t looking too good for you either way if you don’t believe in God.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the other option is to believe in God. Pascal says that if you believe in God and he doesn’t exist, then it’s the exact same as the first one. You die and nothing happens. But if you believe in God and he does exist, then you have an infinite amount to gain. I mean, you never have to die. You get to spend all of eternity talking to people in heaven about how right you guys were. It’s going to be fantastic. The most common way that it’s summarized is, if you believe in God and he doesn’t exist, then you’ve lost nothing, but if you believe in God and he exists, you’ve gained everything. Therefore, it is downright irrational to not believe in God. You have everything to gain and nothing to lose.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, just for the record, Pascal would have never said that you have nothing to lose. This is just the common summary that people use today. You obviously have a lot to lose. How about every Sunday morning for the rest of your life? How about 10% of your income? How about being an autonomous adult with the ability to choose an ethical system that yields the life you want for yourself and your family? I mean, the list goes on. Pascal would have never said that you have nothing to lose. He would say that what you have to lose is finite. What you have to lose is all those things I just said and more but, when it comes down to it, you’re losing something finite and standing to gain something infinite. And we can see his logic here. And with a slight changing of the wording, it becomes a very compelling argument, actually.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We’ve probably all heard this argument in some form or another. In my experience, the most common variant of it in today’s world is somebody asking you, what if you’re wrong about what you believe? You know, if you’re an agnostic person or you’re an atheist, a believer in God might ask, what if you’re wrong? Then what? Let’s talk about some of the most famous rebuttals to Pascal’s wager. I asked on Twitter this week for people to give me their favorites. And a lot of them aligned with some of the most popular ones. Chris Bush, @cbush on Twitter, said that “Either I believe, or I don’t. It’s not a matter of choice. Belief has a certain irresistibility about it.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This has to be one of the most common ones, and it’s very true. I mean, let’s say that everything Pascal said is true, and I’m an agnostic. Even if he shows me how impractical it is to not believe in God, can you really make a conscious choice to believe in something? What if Pascal said that you should believe in Santa Claus because you have a stocking full of presents to gain and nothing to lose? Could you just, all of a sudden, decide to believe in Santa? You can pretend to believe in something. You can tell yourself something over and over again trying to, I don't know, brainwash yourself into believing something. But when you truly believe something, it’s beyond choice. You just believe it. Pascal’s wager doesn’t address any of the things that caused the doubt in the agnostic’s mind in the first place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, another one, Jonathan DeAngelo, @future_jonathan on Twitter, said that “How about the biggest flaw, that it presupposes a selection of the correct God?” I’m not sure that this is shining light on a flaw in the argument itself, but it does underscore the fact that Pascal’s wager could just as easily be used to justify belief in the existence of some other God: Allah, Zeus—I mean, it could be any God—Tom Cruise. Tom Cruise could be God. The significance of this is that many of these religions are incompatible at the most fundamental level. I mean, if you believe in one and another one ends up being correct, you burn in hell for all of eternity. So, the thinking is, Pascal paints this picture as though a belief based on this criteria alone might yield infinite gain, when it might also yield infinite loss. This doesn’t destroy Pascal’s wager, but it’s something interesting to think about throughout the week.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But let’s talk about the other side and what advocates of Pascal’s wager would say. Now, the typical place this conversation goes is that they start talking about exactly what is it that you stand to lose by not believing in God and living your life as a nonbeliever. They’re talking about that one part of Pascal’s wager that presents a downside to believing in God. He says that if you believe in God and he doesn’t exist, then you’ve lost nothing, or you’ve lost a finite amount. Well, there are a lot of people who would say that losing that finite amount is actually losing a lot. And the other side says, really? Really? Really, are you losing a lot?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">They say, what’s the alternative to living a Christian life? You live a hedonistic life where pleasure is the highest good. Being a Christian requires sacrifice, no doubt about that. But by not sacrificing, by just eating whatever you want all the time, having sex with whoever you want, living a godless life hell-bent on attaining pleasure—is that lifestyle really better? I mean, usually those types of people end up with terrible relationships, and they have health problems. And they have a lack of priorities. And they don’t have a sense of purpose, and they’re scared all the time. If that is the finite thing that you stand to lose, is it really worth clinging onto? Are you really losing that much, is what their saying.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I’ve heard this argument from probably 50 different people in my lifetime. It’s absolutely fascinating that these people parrot this line of thinking. I mean, they must have success with it, or they wouldn’t have said it to me. Maybe I was the first person they came to. I wonder what type of person doesn’t see the obvious fallacy in it. What’s the alternative to living a Christian life? Leading a hedonistic life, right? No. Wait, why is that necessarily the case? What they did is create a false dichotomy. Why is the only alternative to a belief in the Christian God a life of hedonism where pleasure is the highest good? Look, hedonism is an ethical doctrine just like the one laid out in the Bible. Do these people really think that there are two ethical doctrines that exist in the history of man—hedonism and Christian ethics? No. There are hundreds if not thousands. I mean, really, each person can be said to have their own ethical doctrine.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s talk for a second about what one of these modern agnostics would say about ethics in general. Nothing is intrinsically good or bad. A system of what’s right and wrong or good or bad, what everybody calls a system of ethics, is only possible if there’s an end goal attached to it. Now, the end goal for Christianity and hedonism is very easy to see. And if you look at any other ethical doctrine, it’s easy to see too. There is an ideal life that we want for ourselves and then a system of behaviors to follow that will yield that outcome. Let’s say you assign the ultimate goal of your life as to have the most meaningful, deep, trusting relationships possible. It’s kind of an odd end goal but, for the sake of conversation, what sort of behaviors yield that outcome for you? You certainly need to be honest to have that. You certainly need to be temperate. You need to exercise self-control, etc.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What one of these modern agnostic people would say is that the Bible is two things. This is what these people believe. On one hand, the Bible is a beautiful, ethical doctrine. It is an ethical doctrine that helped usher in an age of egalitarianism in the world. It’s an ethical doctrine that they largely follow, whether willingly or not, because it does yield a life desired by many people in this world. On the other hand, they would say, the Bible is a story that is used to get people to follow that ethical doctrine. The positive benefits afforded by Christians, that someone making this argument would contrast with a life of hedonism, are a byproduct of following a solid system of behaviors, not a belief in God. That’s the argument that the other side would make.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">They would argue that every human being on planet earth could follow the system of behaviors laid out in the Bible, and they would see extremely positive effects in their life. The difference would be that a believer would look at these positive effects manifesting themself in their life, and they would see them as a supernatural God reaching his hand down. And he got them that job that they just applied for. That’s God rewarding me. And the other person would see it as the natural byproduct of being a virtuous person. People want to give honest, patient, temperate, courageous people jobs. That’s the reason I got the job. And look, really, the only alternative to Christianity is hedonism, a way of thinking that’s widely denounced by almost every philosopher that’s ever created a system of ethics? Forget about that. Hedonism is a strawman in this case. It’s a single, easy target to attack, when in reality there are hundreds of systems to choose from.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, what’s at stake for somebody arguing the other side? Well, autonomy—the ability to choose the end goal of their life. And while inevitably much of their personal ethical doctrine may overlap with the one laid out in Christianity, the belief in God to these people really has nothing to do with it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Real quick, some other arguments against Pascal’s wager. One is that he pigeon-holes the possibilities that can come after death. This is a very popular one. For example, couldn’t you be an atheist and still have an afterlife in some spiritual form? Why are we relegating what all of the potential possibilities could be for an afterlife down to just these two options? Why is that fair? One other argument against it is that the basis for the argument is that you’re taking the best calculated risk possible, but because of the fact that there have been so many gods already proposed by man in various civilizations throughout history—thousands of them—all of those gods make it kind of unlikely—a miniscule chance—that this single Christian God is the one that actually exists. But it should be said that the other side would argue, that probability is equally as miniscule as all the other ones. It’s not like any other religion has it more correct by any means.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One other common criticism is that if God is an infinitely perfect, and therefore infinitely just, being, why would he condemn a person to hell if they follow his system of ethics but just can’t bring themselves to believe in him? Why is believing so important to God? Doesn’t that make him an unjust God? Now, this is a good question in itself, one that, hey, we might just talk about in future episodes. But it really doesn’t do anything to Pascal’s argument, and it’s easily explained by most holy books. It’s a common thing that people ask.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Look, when it comes down to it, Pascal’s wager has been—look, it’s been run through the ringer. It’s been heavily commented on over centuries by great thinkers. There’s a lot of firepower that can go up against it, living in 2014. But make no mistake, trust me on this, Blaise Pascal is one of the most astoundingly brilliant figures in the history of philosophy. And next week we’re going to talk about a famous paradox that he laid out that I guarantee that everybody listening will relate to immensely.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I’ll talk to you soon.</p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
 
 
 
@@ -1694,30 +1716,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                &quot;imageOverlayOpacity&quot;: 0.15,
-                &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                &quot;customContentWidth&quot;: 100,
-                &quot;sectionTheme&quot;: &quot;dark&quot;,
-                &quot;sectionAnimation&quot;: &quot;none&quot;,
-                &quot;backgroundMode&quot;: &quot;image&quot;
-              }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                &quot;video&quot;: {
-                  &quot;playbackSpeed&quot;: 0.5,
-                  &quot;filter&quot;: 1,
-                  &quot;filterStrength&quot;: 0,
-                  &quot;zoom&quot;: 0,
-                  &quot;videoSourceProvider&quot;: &quot;none&quot;
-                },
-                &quot;backgroundImageId&quot;: null,
-                &quot;backgroundMediaEffect&quot;: null,
-                &quot;divider&quot;: null,
-                &quot;typeName&quot;: &quot;blog-masonry&quot;
-              }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1760,11 +1782,49 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1776,11 +1836,49 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1835,7 +1933,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.873f112badc9049b740a43e39def8d5d.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.cbd0e5c00d48d3548e180181c283cd99.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

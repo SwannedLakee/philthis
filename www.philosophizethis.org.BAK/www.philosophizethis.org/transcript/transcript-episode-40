@@ -41,15 +41,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-26b2eea8ae7be4145910c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-26b2eea8ae7be4145910c-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-e67ac5a108455ec4edca7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-e67ac5a108455ec4edca7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-110eab6cc05faf9931604-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-110eab6cc05faf9931604-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-988cea152e72258d821b3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-988cea152e72258d821b3-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-182995a869d1931eb9079-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-182995a869d1931eb9079-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-899c528263e5951fbb008-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-899c528263e5951fbb008-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-0456fc448e85a792143fc-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-0456fc448e85a792143fc-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-86fa43970e311a1115081-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-1b438757e0c45941ba991-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-ad88023836bf46b308416-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-0af43d54d6e72d5da34f8-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-99e2ee5110010b21ad191-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-933bb5fddd01443b5a8ac-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-8868a32e62e5b1c9b1fab-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-1395eb5c72d5d9cd76b42-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-efadf4cf0b655e91ff2cf-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-bfbf5d173331f1e4b35ca-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-451348a5d6e36177b1129-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-826e000ba38333ede418c-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-d69400ce4e6ee68186d7c-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-934772160ed2f1fb49718-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-d541b2fab3e414c84fc52-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-20a62ae931ab349a80d2f-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-9cdddd9fa7a0d8d7a2cc7-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-25e4f9a6d0f0b3daa2d51-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-fd9ce38b67a1c6891b2e4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-4a936b44d5851ec848f53-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-74a2013c90ee619ccfc39-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d1855f23f92b35a9c6138-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-cf0c8e640b90ea1d4cbab-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-459f258f42b6723f4d6dc-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d4590610fac42d998091b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-06084e73d228668469801-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-05446c592ce91acc4739e-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-d4efe2a305570505f3b5b-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-059030180b86b6b514465-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-bdf15408bbeab90b3a408-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1691162723330,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #040 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"6":true,"2":true,"4":true,"8":true,"7":true,"1":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #040 -  Transcript","id":"5eec1a2609afd80facd7f47c","fullUrl":"/transcript/transcript-episode-40","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["background_art_onboarding","scripts_defer","member_areas_provisioning_service","member_areas_feature","collection_typename_switching","site_header_footer","order_status_page_checkout_landing_enabled","crm_default_newsletter_block_to_campaigns","customize_collection_overview_paywalling","member_areas_schedule_interview","show_add_to_cart_in_plp","campaigns_global_uc_ab","website_component_enabled","commerce_site_visitor_metrics","send_local_pickup_ready_email","commerce_order_status_access","is_feature_gate_refresh_enabled","unify_edit_mode_p2","accounting_orders_sync","member_sites_ux_evolution","pdp_product_add_ons_visitor_site","campaigns_import_discounts","themes","member_sites_ux_evolution_phase_two","commerce_etsy_product_import","supports_versioned_template_assets","crm_show_profile_forms","fluid_engine","commsplat_forms_visitor_profile","commerce_etsy_shipping_import","digital_products_monetization_ga_enabled","digital_products_in_circle_labs","nested_categories_migration_enabled","campaigns_discount_section_in_automations","nested_categories","website_fonts","enable_css_variable_tweaks","member_areas_spanish_interviews","commerce_checkout_website_updates_enabled","commerce_clearpay","fluid_engine_clean_up_grid_contextual_change","marketing_landing_page","image_component","visitor_react_forms","campaigns_discount_section_in_blasts","override_block_styles","customer_accounts_email_verification","commerce_restock_notifications","site_user_email_change","campaigns_thumbnail_layout","toggle_preview_new_shortcut","crm_remove_subscriber","campaigns_new_image_layout_picker","viewer-role-contributor-invites","customer_account_creation_recaptcha","new_stacked_index"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #040 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/transcript-episode-40","datePublished":"2014-10-16T23:59:00-0700","dateModified":"2022-07-07T11:35:10-0700","headline":"Episode #040 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1691162723330/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/68/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1466/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2587308a8ba2962098f8-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2587308a8ba2962098f8-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-f36b6dc9867ad0b8d0a8-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-f36b6dc9867ad0b8d0a8-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-299f1473fedfe0716b27-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-299f1473fedfe0716b27-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-2a010cbb97d3039bf6dc-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-2a010cbb97d3039bf6dc-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-94880fef7f5110305205-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-94880fef7f5110305205-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-ac3efedd49a8a017e2f8-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-65d130eb3b049b1054e4-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-aca0f118484570338368-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b63e6afdcbeac42b3017-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-1cd8f0dbe0123c719abd-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-8c16bc4bc4ac2bb967e6-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-b5fcf317a07b0db9da26-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-af356fa67f33ad4a02fe-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-ca35e17d76a920cb1b17-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-3064a1917f62918a853d-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-09618ebbf5fba2c9727b-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-344eacef2098ca014a64-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-97dd06157cb0d1930252-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-61dc9f9523fa69ebec8c-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-ecb81e17f1e51126ce02-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-c5828c22f5532927ef0b-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-d77ae6e5be5e42b8d7a4-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c14fd9496f5985337c37-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-bbb2acbc5c45d633910b-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-86a6a6322e302d4394d6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-f7befafa846701c7a7ba-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-4109f87befa479615f23-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-f173014f20db69fb2607-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c525b0b649e9b0c42bc6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-eee42d001f172afd8251-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-38bc7b05ed77c7e58ab2-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #040 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"7":true,"1":true,"2":true,"4":true,"3":true,"8":true,"6":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #040 -  Transcript","id":"5eec1a2609afd80facd7f47c","fullUrl":"/transcript/transcript-episode-40","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["send_local_pickup_ready_email","crm_show_profile_forms","member_areas_schedule_interview","crm_remove_subscriber","themes","campaigns_new_image_layout_picker","new_stacked_index","is_feature_gate_refresh_enabled","commerce_clearpay","image_component","campaigns_import_discounts","campaigns_discount_section_in_automations","pdp_product_add_ons_visitor_site","commsplat_forms_visitor_profile","commerce_order_status_access","toggle_preview_new_shortcut","unify_edit_mode_p2","collection_typename_switching","member_areas_spanish_interviews","campaigns_discount_section_in_blasts","website_component_enabled","show_add_to_cart_in_plp","visitor_react_forms","customer_account_creation_recaptcha","supports_versioned_template_assets","enable_css_variable_tweaks","improved_paywalls","marketing_landing_page","fluid_engine","background_art_onboarding","commerce_site_visitor_metrics","fluid_engine_clean_up_grid_contextual_change","scripts_defer","site_user_email_change","override_block_styles","accounting_orders_sync","crm_default_newsletter_block_to_campaigns","commerce_restock_notifications","member_areas_provisioning_service","order_status_page_checkout_landing_enabled","website_fonts","commerce_etsy_shipping_import","member_areas_feature","nested_categories","commerce_etsy_product_import","viewer-role-contributor-invites","digital_products_monetization_ga_enabled","campaigns_thumbnail_layout","customer_accounts_email_verification","campaigns_global_uc_ab","commerce_checkout_website_updates_enabled","nested_categories_migration_enabled","site_header_footer"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #040 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/transcript-episode-40","datePublished":"2014-10-16T23:59:00-0700","dateModified":"2022-07-07T11:35:10-0700","headline":"Episode #040 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/68/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1472/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <script>
@@ -154,256 +154,256 @@
   "
   data-controller="Header"
   data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-&quot;customColor&quot;: {
-&quot;hslaValue&quot;: {
-&quot;hue&quot;: 203.4782608695652,
-&quot;saturation&quot;: 0.22330097087378645,
-&quot;lightness&quot;: 0.2019607843137255,
-&quot;alpha&quot;: 1.0
-},
-&quot;userFormat&quot;: &quot;hex&quot;
-}
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadowOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;borderOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;showPromotedElement&quot;: false,
-&quot;buttonVariant&quot;: &quot;primary&quot;,
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-}
-}"
+              &quot;layout&quot;: &quot;navRight&quot;,
+              &quot;action&quot;: {
+                &quot;href&quot;: &quot;/take-action&quot;,
+                &quot;buttonText&quot;: &quot;Take Action&quot;,
+                &quot;newWindow&quot;: false
+              },
+              &quot;showSocial&quot;: true,
+              &quot;socialOptions&quot;: {
+                &quot;socialBorderShape&quot;: &quot;none&quot;,
+                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                &quot;socialBorderThickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 1.0
+                }
+              },
+              &quot;sectionTheme&quot;: &quot;light&quot;,
+              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+              &quot;cartStyle&quot;: &quot;cart&quot;,
+              &quot;cartText&quot;: &quot;Cart&quot;,
+              &quot;showEmptyCartState&quot;: true,
+              &quot;cartOptions&quot;: {
+                &quot;iconType&quot;: &quot;solid-7&quot;,
+                &quot;cartBorderShape&quot;: &quot;none&quot;,
+                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                &quot;cartBorderThickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 1.0
+                }
+              },
+              &quot;showButton&quot;: false,
+              &quot;showCart&quot;: false,
+              &quot;showAccountLogin&quot;: true,
+              &quot;headerStyle&quot;: &quot;theme&quot;,
+              &quot;languagePicker&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;iconEnabled&quot;: false,
+                &quot;iconType&quot;: &quot;globe&quot;,
+                &quot;flagShape&quot;: &quot;shiny&quot;,
+                &quot;languageFlags&quot;: [ ]
+              },
+              &quot;mobileOptions&quot;: {
+                &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                &quot;menuIconOptions&quot;: {
+                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 1.0
+                  }
+                }
+              },
+              &quot;dynamicOptions&quot;: {
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+                    &quot;customColor&quot;: {
+                      &quot;hslaValue&quot;: {
+                        &quot;hue&quot;: 203.4782608695652,
+                        &quot;saturation&quot;: 0.22330097087378645,
+                        &quot;lightness&quot;: 0.2019607843137255,
+                        &quot;alpha&quot;: 1.0
+                      },
+                      &quot;userFormat&quot;: &quot;hex&quot;
+                    }
+                  }
+                }
+              },
+              &quot;solidOptions&quot;: {
+                &quot;headerOpacity&quot;: {
+                  &quot;unit&quot;: &quot;%&quot;,
+                  &quot;value&quot;: 100.0
+                },
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;dropShadow&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blur&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 30.0
+                  },
+                  &quot;spread&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;distance&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;blurBackground&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blurRadius&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 12.0
+                  }
+                },
+                &quot;backgroundColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;white&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                },
+                &quot;navigationColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;black&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                }
+              },
+              &quot;gradientOptions&quot;: {
+                &quot;gradientType&quot;: &quot;faded&quot;,
+                &quot;headerOpacity&quot;: {
+                  &quot;unit&quot;: &quot;%&quot;,
+                  &quot;value&quot;: 90.0
+                },
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;dropShadow&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blur&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 30.0
+                  },
+                  &quot;spread&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;distance&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;blurBackground&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blurRadius&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 12.0
+                  }
+                },
+                &quot;backgroundColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;white&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                },
+                &quot;navigationColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;black&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                }
+              },
+              &quot;dropShadowOptions&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;blur&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                },
+                &quot;spread&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 0.0
+                },
+                &quot;distance&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                }
+              },
+              &quot;borderOptions&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;position&quot;: &quot;bottom&quot;,
+                &quot;thickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 4.0
+                }
+              },
+              &quot;showPromotedElement&quot;: false,
+              &quot;buttonVariant&quot;: &quot;primary&quot;,
+              &quot;blurBackground&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;blurRadius&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                }
+              },
+              &quot;headerOpacity&quot;: {
+                &quot;unit&quot;: &quot;%&quot;,
+                &quot;value&quot;: 100.0
+              }
+            }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
+              &quot;enabled&quot;: false,
+              &quot;iconEnabled&quot;: false,
+              &quot;iconType&quot;: &quot;globe&quot;,
+              &quot;flagShape&quot;: &quot;shiny&quot;,
+              &quot;languageFlags&quot;: [ ]
+            }"
   
   data-first-focusable-element
   tabindex="-1"
@@ -1030,245 +1030,245 @@
     
     "
     data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-&quot;customColor&quot;: {
-&quot;hslaValue&quot;: {
-&quot;hue&quot;: 203.4782608695652,
-&quot;saturation&quot;: 0.22330097087378645,
-&quot;lightness&quot;: 0.2019607843137255,
-&quot;alpha&quot;: 1.0
-},
-&quot;userFormat&quot;: &quot;hex&quot;
-}
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadowOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;borderOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;showPromotedElement&quot;: false,
-&quot;buttonVariant&quot;: &quot;primary&quot;,
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-}
-}"
+              &quot;layout&quot;: &quot;navRight&quot;,
+              &quot;action&quot;: {
+                &quot;href&quot;: &quot;/take-action&quot;,
+                &quot;buttonText&quot;: &quot;Take Action&quot;,
+                &quot;newWindow&quot;: false
+              },
+              &quot;showSocial&quot;: true,
+              &quot;socialOptions&quot;: {
+                &quot;socialBorderShape&quot;: &quot;none&quot;,
+                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                &quot;socialBorderThickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 1.0
+                }
+              },
+              &quot;sectionTheme&quot;: &quot;light&quot;,
+              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+              &quot;cartStyle&quot;: &quot;cart&quot;,
+              &quot;cartText&quot;: &quot;Cart&quot;,
+              &quot;showEmptyCartState&quot;: true,
+              &quot;cartOptions&quot;: {
+                &quot;iconType&quot;: &quot;solid-7&quot;,
+                &quot;cartBorderShape&quot;: &quot;none&quot;,
+                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                &quot;cartBorderThickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 1.0
+                }
+              },
+              &quot;showButton&quot;: false,
+              &quot;showCart&quot;: false,
+              &quot;showAccountLogin&quot;: true,
+              &quot;headerStyle&quot;: &quot;theme&quot;,
+              &quot;languagePicker&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;iconEnabled&quot;: false,
+                &quot;iconType&quot;: &quot;globe&quot;,
+                &quot;flagShape&quot;: &quot;shiny&quot;,
+                &quot;languageFlags&quot;: [ ]
+              },
+              &quot;mobileOptions&quot;: {
+                &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                &quot;menuIconOptions&quot;: {
+                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 1.0
+                  }
+                }
+              },
+              &quot;dynamicOptions&quot;: {
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+                    &quot;customColor&quot;: {
+                      &quot;hslaValue&quot;: {
+                        &quot;hue&quot;: 203.4782608695652,
+                        &quot;saturation&quot;: 0.22330097087378645,
+                        &quot;lightness&quot;: 0.2019607843137255,
+                        &quot;alpha&quot;: 1.0
+                      },
+                      &quot;userFormat&quot;: &quot;hex&quot;
+                    }
+                  }
+                }
+              },
+              &quot;solidOptions&quot;: {
+                &quot;headerOpacity&quot;: {
+                  &quot;unit&quot;: &quot;%&quot;,
+                  &quot;value&quot;: 100.0
+                },
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;dropShadow&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blur&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 30.0
+                  },
+                  &quot;spread&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;distance&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;blurBackground&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blurRadius&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 12.0
+                  }
+                },
+                &quot;backgroundColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;white&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                },
+                &quot;navigationColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;black&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                }
+              },
+              &quot;gradientOptions&quot;: {
+                &quot;gradientType&quot;: &quot;faded&quot;,
+                &quot;headerOpacity&quot;: {
+                  &quot;unit&quot;: &quot;%&quot;,
+                  &quot;value&quot;: 90.0
+                },
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;dropShadow&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blur&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 30.0
+                  },
+                  &quot;spread&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;distance&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;blurBackground&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blurRadius&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 12.0
+                  }
+                },
+                &quot;backgroundColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;white&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                },
+                &quot;navigationColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;black&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                }
+              },
+              &quot;dropShadowOptions&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;blur&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                },
+                &quot;spread&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 0.0
+                },
+                &quot;distance&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                }
+              },
+              &quot;borderOptions&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;position&quot;: &quot;bottom&quot;,
+                &quot;thickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 4.0
+                }
+              },
+              &quot;showPromotedElement&quot;: false,
+              &quot;buttonVariant&quot;: &quot;primary&quot;,
+              &quot;blurBackground&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;blurRadius&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                }
+              },
+              &quot;headerOpacity&quot;: {
+                &quot;unit&quot;: &quot;%&quot;,
+                &quot;value&quot;: 100.0
+              }
+            }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1449,31 +1449,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+              &quot;imageOverlayOpacity&quot;: 0.15,
+              &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+              &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+              &quot;customSectionHeight&quot;: 10,
+              &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+              &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+              &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+              &quot;customContentWidth&quot;: 50,
+              &quot;sectionTheme&quot;: &quot;&quot;,
+              &quot;sectionAnimation&quot;: &quot;none&quot;,
+              &quot;backgroundMode&quot;: &quot;image&quot;
+            }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+              &quot;video&quot;: {
+                &quot;playbackSpeed&quot;: 0.5,
+                &quot;filter&quot;: 1,
+                &quot;filterStrength&quot;: 0,
+                &quot;zoom&quot;: 0,
+                &quot;videoSourceProvider&quot;: &quot;none&quot;
+              },
+              &quot;backgroundImageId&quot;: null,
+              &quot;backgroundMediaEffect&quot;: null,
+              &quot;divider&quot;: null,
+              &quot;typeName&quot;: &quot;blog-masonry&quot;
+            }"
   data-animation="none"
   
    
@@ -1539,6 +1539,28 @@
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">Thank you for wanting to know more today than you did yesterday, and I hope you love the show.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The theme of today’s episode is superstition. What is superstition? When we think about superstitious people in modern times, what typically comes to mind are visions of people walking under ladders or a black cat crossing your path at night. We usually think about really extreme, silly forms of superstition. People will say something like, “Today is Friday the 13th, and something really bad happened to me today. So, therefore, the reason why something bad happened to me is because it’s Friday the 13th. It’s just an unlucky day. Bad things happen of Friday the 13th.” People will say things like, “An apple a day keeps the doctor away. The reason why I haven’t had to go to the doctor in a long, long time is because I’ve been eating my daily apple. That’s the reason why.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, these are ridiculous examples, but let’s dissect the thinking a little bit because superstition really doesn’t need to be this ridiculous. Let’s just think about what superstition is. The dictionary defines superstition as falsely attributing some cause to some effect. For example, it’s the apple that’s preventing me from ever having to go to the doctor. That’s what’s causing it. But when you start to think about superstition in these terms, when you think about it for a little while, you start to realize that being superstitious is not just something reserved for pirates in <em>Pirates of the Caribbean</em>. Most people wake up every single morning and live their lives with an incredibly superstitious outlook on the world that they’re trying to navigate. And this isn’t because they’re bad people; this isn’t because they’re stupid people. They’re just mistaken about the true causes of things.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, what am I talking about here? Well, I could point out the avid sports fan that made an appearance on the stoic ethics episode. He goes to the game every Sunday, and he has a very deliberate ritual that he executes, completely convinced that at some level the type of beer that he drinks is going to affect the outcome of the game. But obviously this is just a much more modern and widely accepted version of how the Atlantic pirates were thinking back in the 1800s. But what about superstitions we hold when it comes to something like happiness? If superstition is just the act of somebody mistaking a cause with an effect, then don’t many of us walk around with incredibly superstitious beliefs all the time?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Just to illustrate what I’m talking about, let’s talk about happiness for a second. Most people come into the world, and they realize pretty quickly when they’re young that they want to be happy. So, what do they do? Well, they look around them, and they usually try to find people that seem happy. And then they try to emulate them. Now, unfortunately, they usually start in all the wrong places. They find some rich people living on the water. They got a beautiful house; they got a basketball hoop, two cars, fireplace, picket fence, and a big screen TV. And they superstitiously conclude that the cause of their happiness has to be all of these material things that they have. After all, what’s the most obvious difference between them and me? It’s got to be the jet skis.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, this person goes on thinking this way for a while. And if at this point they don’t just throw their hands up in the air and resign themselves from ever understanding things deeper, their thoughts on happiness inevitably evolve, because what they eventually realize is that there are plenty of rich people all around that are completely miserable. There must be something else. It must not be the material stuff that’s making these people happy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, maybe they start thinking about things. Maybe this person does some research. Maybe they read a little Socrates: happy is he who is content with the least. And maybe this person concludes after reading that that happiness really lies in low expectations about things. After all, it seems clear that I get mad about stuff when I have some expectation that’s not being met. So, if I try really hard to only expect the bare minimum from life—enough food to get through the day, enough clothes on my back, and a roof over my head—then anything else that comes my way that goes above and beyond that is just a pleasant surprise. What a great recipe for happiness! So, this person goes on for a while, and they superstitiously conclude that happiness must lie in low expectations.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One day, maybe they’re sitting quietly thinking about stuff. And they ask the question: what if even my most basic needs weren’t met? Would I need to be unhappy in that case? Well, no. Obviously, the answer’s no. Even if you don’t collect enough food to feed yourself for that day, you can still choose to be accepting of that and, therefore, not be bothered by it. So, this person at that point might conclude, perhaps superstitiously, that happiness actually lies in acceptance.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But then, what is acceptance? I mean, if you think about it, isn’t acceptance a two-part thing? This is something I was thinking about earlier this week. On one hand, acceptance is accepting everything that’s happened in your past including everything that you have, meaning both in your mind and in your bank account and your storage unit, accepting everything that you have right now. But on the other hand, it’s also accepting everything that’s going to happen in your future, any future adversity or trials that you could possibly go through. So, if acceptance is just accepting the past and the future, is happiness really just being fully present in this moment? Is that what we’re all shooting for? Is this the reason why we try to make money in the first place—to get to a place where we don’t need to worry about any future adversity because we have a surplus and to get to a place where we don’t need to worry about or regret things in the past because we’re content with where we are now? Or is this just another superstitious conclusion?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The point of this is that superstition is something that we’re all guilty of on an everyday basis. You are not exempt from this, person listening to this. And I’m not just talking about happiness. This is actually a really effective exercise to do. It’s one that I try to do every once in a while. Try asking yourself what things you might be superstitiously concluding—mistaking some particular cause for a particular effect. But then again, this is kind of paradoxical, isn’t it? Because if you knew what things you were being superstitious about, you wouldn’t be doing them in the first place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, the two thinkers we’re going to talk about today both attacked superstition. They both attacked this monster that presented itself in different ways. This monster known as superstition was a huge enemy during this time period that we’re heading into in philosophy which is known as the Enlightenment. It was one of the chief enemies of these thinkers. Let’s talk about the Enlightenment for a second.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, in the context of history, the Enlightenment is actually a very short period of time. And the vast majority of the Enlightenment is made up by three key generations of people that all had very revolutionary ideas on the backs of each other. To me, this is absolutely incredible. It just goes to show you how noteworthy and awesome these people were that were coming up with these ideas if we can look back in history and the period of time that’s known as <em>the</em> Enlightenment for humankind took place in such a short period of time. It’s incredible.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, that said, there are many different ways that people try to describe the Enlightenment, but it’s kind of a lost cause. There’s far from a consensus when it comes to historians of philosophy. But for the sake of this program, let’s talk about a couple of the most common ways that people describe the Enlightenment. Some historians think—and this is probably the most common perspective—they think that the Enlightenment can be seen as the ultimate awakening of mankind, the moment when science and these new political institutions finally allowed for dogma and tradition and faith-based thinking to get completely tossed out of the way of progress, to finally get this snowball of reason rolling downhill at a critical speed.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But then there’s other historians of philosophy that disagree. They say that that snowball of reason that you’re talking about that finally reached critical speed—yeah, that’s been rolling ever since the beginning of the Middle Ages. These people say that once religion and Aristotle developed their monopoly on human thought way back then, it was back then that reason started chipping away at this giant monolith. They were slowly but surely making chips in the armor, and eventually they brought it all down. The Enlightenment really should be seen as just the culmination of efforts by brilliant thinkers for over a thousand years.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There are other people that think that the Enlightenment was fueled by religion, by the Counter-Reformation in the church. There are even people that think that the Enlightenment was propaganda; it was a complete myth—that these thinkers weren’t actually that noteworthy, that they were just being propped up by people to add legitimacy to this new way of thinking that was coming around. But regardless of what the truth is about the Enlightenment, it was a massively transformative period of time that is distinguished from others, in my opinion, by the attempt to abolish superstition in all areas of thought.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, one person that was attempting to abolish a very specific type of superstition was the guy that we ended the show with last week. His name was Bishop Berkeley. Now, Berkeley can be seen as someone who’s aiming to abolish superstition when it comes to the way that we perceive things with our senses in the natural world. After all, isn’t the veil of perception a possible superstition when you think about it? As we talked about extensively about last time, philosophers from the dawn of empiricism have realized this. They realized that what we perceive with our senses is not reality as it truly is. There is some deeper reality underneath, and what we perceive is actually the crude outline of reality that our sense organs create for us—you know, a map of the world, perfectly useful to us when it comes to survival, but far from actual reality.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is known as the veil of perception, this problem that we have that we’ll never be able to interact with that real reality. The only thing we really have access to is an idea of reality created inside of our mind’s eye. Well, Berkeley asked the question, why do we even need to assume that? Why do we even need to assume that there’s some fundamental reality underneath that’s causing all these ideas? After all, the only thing that we truly interact with is this idea of reality. How can we be sure that our ideas of reality are not the only things that truly exist? In other words, let’s end this potential superstition that the cause of our senses perceiving the world in the way that they do is some different, more real reality underneath.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Berkeley is what is known as an immaterialist idealist. Now, contrary to people like Descartes and other people that lived around this time who believed the universe was comprised of multiple substances including mind and matter—contrary to him, Berkeley was a monist. And he believed that one substance made up the entire universe, and that one substance is mind. He didn’t believe in material substances like many other philosophers. After all, as Berkeley would argue, he’s an empiricist. All knowledge is derived from sense experience. But we never actually experience this supposed more real world that’s out there, do we? So, how do we know it exists?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Maybe the best way to get to the bottom of Berkeley is to ask this very generic question that I’m sure we’ve all been asked multiple times. But it’s something that Berkeley had very real thoughts on. If a tree falls in the woods and no one is around to watch it fall to the ground, does it ever actually fall? Now, Berkeley would say that in theory, if there really was nobody or no thing around to perceive it, then that tree wouldn’t even exist. But it doesn’t really matter to Berkeley, because he believed that there is one entity that is always watching that tree, one entity that is perpetually aware of everything in the universe. And that entity is known as—you guessed it—capital G-O-D, God. Then he drops the mic. No further questions, your Honor.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, I’ve thought about this a lot. We could spend a lot of time fleshing out his full system. He has a great theory about true reality is comprised of spirits—both God as the chief spirit and many little finite spirits. But I thought about it and, ultimately, I think the real contribution that Berkeley made to philosophy is by being the first in this line of thinking. And just real quick, most of the meat of his view of the universe in his story of how it all interacts with each other—the main goal behind it is that it’s trying to preserve the idea of God. It’s trying to make God not only the creator of the universe but the all-powerful entity that endlessly provides us with our perceptions and is intimately involved with everything in the universe all the time. In other words, don’t even think about saying that God isn’t necessary in your worldview, because he is. And in this way, he may have run into the same problems that Leibniz ran into with his <em>Monadology</em>.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I personally don’t think that it’s worth your time to talk about his individual system at least on its own. I think that we can compare it to future systems. But I think what we really need to do is understand that Berkeley’s main contribution was that he had a really unique insight that gave rise to this tradition known as idealism. And trust me on this, there are far more fascinating people that we can use to delve deeper into idealism. And I’m just going to be honest: it’s going to be Immanuel Kant. That’s several episodes. It’s coming very soon. And it’s going to be very nice to be able to contrast Berkeley’s view with Kant’s view.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But one noteworthy thing that we really do need to talk about, about Berkeley, one really interesting one is, how did he arrive at this line of reasoning in the first place? I mean, why question the physical world? Why question that reality supposedly exists underneath this outline of the world that our senses draw? This is really interesting. He may have arrived at a place where he wanted that underlying reality to not exist because he was trying to preserve the idea of God. And here’s where he’s coming from. Remember, Descartes and Locke and many other thinkers believed that the universe is made up of multiple substances. One of those substances was matter.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, what Berkeley was worried about are, what are the implications of saying that matter is a substance? Once we say that matter is a substance where its existence explains itself, what is to stop the scientific community and the world for that matter from just removing God from the equation? I mean, who’s to say that if matter is a substance that God didn’t just create the world and leave it to work itself out on its own? Berkeley must have initially wanted to create a worldview where matter wasn’t a self-sustaining thing. It needed God there to constantly maintain it and interact with it. And what he eventually arrived at when he's in that thought process is, why do we even need to assume this physical stuff exists at all? Pretty interesting to consider.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, ironically, Berkeley’s fighting on this battle front to try to end superstition when it comes to the way that we perceive the world. And fighting on a completely separate battle front, one that was attempting to actually cut the legs out from underneath Berkeley and his religion, was a guy named Voltaire. And to sum his views up mildly, Voltaire wasn’t a big fan of the religion of his day, alright? Like many of the thinkers living during times when the church had considerable power, there is a lot of room for interpretation when it comes to Voltaire’s precise religious views, and there’s all kinds of interpretations. But if you read all of his work, it’s pretty clear that the people that have strong opinions on this are cherry-picking from different places in his life. It’s a constant evolution throughout his life. But it’s definitely not certain things.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">At first he declared himself a deist. Then throughout his life he kind of changes into a theist. And maybe what I should say is that it’s very clear he believed in a necessary, eternal, spiritual being—the God of the cosmological argument. But it’s also clear that he took his belief in God way too seriously to ever relegate it to a single religious viewpoint, especially with all the nonsense that he thought was going on at an operational level during the time that he was alive. Some people look at Voltaire; they read his stuff, or at least little pieces of it, and they try to pretend that he wasn’t, you know, he wasn’t that far away from being a Christian. But it’s definitely not that cut and dry.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And some people would say that it’s very clear on the other side. And they would point to passages like this one which is from a letter that he wrote to Frederick II. “Christianity is assuredly the most ridiculous, the most absurd, and the most bloody religion which has ever infected this world. Your majesty will do the human race an eternal service by extirpating this infamous superstition, I do not say among the rabble, who are not worthy of being enlightened and who are apt for every yolk; I say among honest people, among men who think, among those who wish to think. My one regret in dying is that I cannot aid you in this noble enterprise, the finest and most respectable which the human mind can point out.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, these soft, caring words weren’t just reserved solely for Christianity, alright? He said things about Islam that, I mean, if I repeated them on the podcast right now somebody—somebody would die in an embassy overseas if I repeated some of the stuff he said. But he was deeply entrenched in a world that was very different than our world. And just to illustrate how deep this goes and how much he was consumed by this stuff—it was very common during his time to be anti-Semitic. Voltaire was anti-Semitic, but he was anti-Semitic for very different reasons that everybody else around him. See, most people in the time of Voltaire were anti-Semitic because they looked at the Jews as the people that killed Jesus. How dare they kill Jesus? Let’s be mad at them now.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, just to give some perspective, Voltaire hated the Jews not because they killed Jesus but because they made Christianity possible at all. That’s how deep he was into this, alright? That’s like inception anti-Semitism. That’s like anti-Semitism inside of an anti-Semitism. And it’s easy for us to project our time period onto Voltaire. Why is Voltaire so resistant against the religion of his time? Well, you got to understand, Christianity, Judaism, and Islam of his day is much different than what they are in 2014, alright? And during his lifetime, they represented something bad to him. They were the very powerful, extremely well-funded, enormously popular embodiments of his two biggest enemies, really: superstition and intolerance. They represented those two things.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It's clear if you actually read his words that his intentions were really good. He wanted toleration when it comes to religion. He thought that God was just much more than what these three religions had laid out so far. And he wasn’t satisfied with it. He even goes so far sometimes as to refer to some of them as collections of fairy tales.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, next episode we’re going to be talking more about Voltaire. And I’m sorry the episodes have kind of been crisscrossing lately. There’s a lot of history I want to go into next time too to give us context about the Enlightenment. But right now, I want to talk about one of Voltaire’s works in particular that can give us some insight into what it was like in France during his time period. And it’s called <em>Letters Concerning the English Nation</em>.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk for a second about why Voltaire is writing this book in the first place. Voltaire was French, as I just said. France during this time period was kind of just sitting on the sidelines. And they were watching all these nations around them. One nation after another would fall into civil war, and they would rebuild themselves and reform themselves into what was becoming a much more modern structure of government, one where the individual has rights, one where the government’s role is to serve those people in various ways. France hadn’t had a revolution yet. England did have a civil war already. They had three, in fact. Remember, when we were talking about Thomas Hobbes, we said that he was smack dab right in the middle of the English civil war. Well, that was one of three that ultimately yielded the better system of government that Voltaire is analyzing here.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The point is, Voltaire saw the writing on the wall, alright? The people of France knew revolution was coming. The question was when. And Voltaire saw the model that the English people had erected, and he loved several elements of it. Look, after all, with their new system, from his perspective, England was churning out great thinkers left and right. I mean, John Locke, Francis Bacon, Sir Isaac Newton, etc. Look, why can’t France have a couple polymath geniuses? He wanted to create a society that would yield people like that.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And this is the problem that Voltaire was faced with when he was writing this book, <em>Letters Concerning the English Nation.</em> Now, the book is made up of a sequence of letters about different subjects, kind of like small essays about them. They’re said to be letters. But he actually writes at the beginning of the book in kind of an advertisement to the reader that these letters about the English nation are not what you would typically get from something written about the English nation. It’s far from a tourist manual. He makes it very clear. He says, look, don’t read these letters concerning the English nation expecting me to tell you how beautiful Stonehenge is or other various sightseeing excursions that you’d go on if you went there physically. He says he’s not there to go sightseeing. He’s there on a very clear mission to understand elements of their culture and how they differ from France.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And although he would never say it explicitly—in fact, he wrote this book as though he was someone else—he was in England finding and recording the great things about the English nation to give the revolutionaries in France a sort of framework to work from when they were designing what the country would look like after their revolution. Let’s create a society that is going to produce more Lockes, more Bacons, more Newtons, more Hobbes, and others, obviously. Really if you think about it, this is the best kind of book about travel there is. This is the wisdom that comes along with traveling.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I’m sure we’ve all heard people say that if you want to become a more cultured or wiser person, one of the really great things that you can do is to go travel around the world, see other cultures. I mean, we’ve all seen at least in the movies somebody come out on the other side of a world tour, and they look like a changed person for the experience. They become wiser; they understand the differences in cultures. But in reality, it would be very easy to travel the world and not learn a single thing. I mean, you could go from one tourist destination to the next just looking for the nearest gift shop to try to prove to your friends that you went there, getting the decorative coffee mug. And you could come out on the other side not learning a single thing about how cultures differ from yours. This is the kind of information that Voltaire was going there to try to consume. He wasn’t going there on a holiday as they say in Europe.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, one of the things Voltaire notices right away when he gets there—and it seems like we’re running out of time, so I’ll have to pick this up next time—but he notices how incredible their system of religious toleration is. This is a big point over his career of writing. And there’s a selection of one of the letters where he talks about an experience he had in a marketplace where crowds of people that come from completely different backgrounds and very different religious views are all peacefully shopping and doing business with each other—no quarrels at all. In the writing, he marvels at how everybody just gets along famously when they’re going business with each other. And then they all, at the end of the workday, go home to their respective beliefs, and they live their lives as they see best.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And it’s from here that Voltaire makes a very interesting point about religious toleration in government. He asks himself, why do these people get along so well? What he eventually concludes is that it’s probably because there are so many options available. He says that if there was only one religion allowed in England, the government would be completely arbitrary at that point. I mean, why do we need it at that point? It either becomes unnecessary or it becomes superseded by the religion. He goes on to say that if there were only two religions allowed, then they would be cutting each other’s throats, as he said, you know, constantly competing, constantly at odds, jockeying for power. It kind of reminds me of the way republicans and democrats do things in American politics. We only have two choices, really, so they’re constantly at odds with each other.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Voltaire says that because there are so many religions coexisting simultaneously that everyone gets along. And no one religion ever feels that threatened by another religion. Religious toleration may ultimately be a way to attain peace between them. It was a very big idea, and man, I can’t wait to talk about Voltaire more. I got all excited here.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
 
 
 
@@ -1694,30 +1716,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 100,
-&quot;sectionTheme&quot;: &quot;dark&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+              &quot;imageOverlayOpacity&quot;: 0.15,
+              &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+              &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+              &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+              &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+              &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+              &quot;customContentWidth&quot;: 100,
+              &quot;sectionTheme&quot;: &quot;dark&quot;,
+              &quot;sectionAnimation&quot;: &quot;none&quot;,
+              &quot;backgroundMode&quot;: &quot;image&quot;
+            }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+              &quot;video&quot;: {
+                &quot;playbackSpeed&quot;: 0.5,
+                &quot;filter&quot;: 1,
+                &quot;filterStrength&quot;: 0,
+                &quot;zoom&quot;: 0,
+                &quot;videoSourceProvider&quot;: &quot;none&quot;
+              },
+              &quot;backgroundImageId&quot;: null,
+              &quot;backgroundMediaEffect&quot;: null,
+              &quot;divider&quot;: null,
+              &quot;typeName&quot;: &quot;blog-masonry&quot;
+            }"
   data-animation="none"
   
    
@@ -1760,11 +1782,49 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1776,11 +1836,49 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1835,7 +1933,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.873f112badc9049b740a43e39def8d5d.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.cbd0e5c00d48d3548e180181c283cd99.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

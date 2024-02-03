@@ -38,15 +38,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-26b2eea8ae7be4145910c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-26b2eea8ae7be4145910c-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-e67ac5a108455ec4edca7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-e67ac5a108455ec4edca7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-110eab6cc05faf9931604-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-110eab6cc05faf9931604-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-988cea152e72258d821b3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-988cea152e72258d821b3-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-182995a869d1931eb9079-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-182995a869d1931eb9079-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-899c528263e5951fbb008-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-899c528263e5951fbb008-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-0456fc448e85a792143fc-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-0456fc448e85a792143fc-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-86fa43970e311a1115081-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-1b438757e0c45941ba991-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-ad88023836bf46b308416-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-0af43d54d6e72d5da34f8-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-99e2ee5110010b21ad191-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-933bb5fddd01443b5a8ac-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-8868a32e62e5b1c9b1fab-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-1395eb5c72d5d9cd76b42-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-efadf4cf0b655e91ff2cf-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-bfbf5d173331f1e4b35ca-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-451348a5d6e36177b1129-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-826e000ba38333ede418c-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-d69400ce4e6ee68186d7c-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-934772160ed2f1fb49718-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-d541b2fab3e414c84fc52-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-20a62ae931ab349a80d2f-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-9cdddd9fa7a0d8d7a2cc7-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-25e4f9a6d0f0b3daa2d51-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-fd9ce38b67a1c6891b2e4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-4a936b44d5851ec848f53-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-74a2013c90ee619ccfc39-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d1855f23f92b35a9c6138-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-cf0c8e640b90ea1d4cbab-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-459f258f42b6723f4d6dc-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d4590610fac42d998091b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-06084e73d228668469801-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-05446c592ce91acc4739e-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-d4efe2a305570505f3b5b-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-059030180b86b6b514465-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-bdf15408bbeab90b3a408-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1691162723330,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #123 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"6":true,"8":true,"1":true,"2":true,"4":true,"7":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #123 - Transcript","id":"5eec214c09afd80facd8bfc8","fullUrl":"/transcript/episode-123-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["customer_account_creation_recaptcha","new_stacked_index","toggle_preview_new_shortcut","customize_collection_overview_paywalling","member_sites_ux_evolution","site_user_email_change","is_feature_gate_refresh_enabled","commerce_order_status_access","nested_categories_migration_enabled","member_sites_ux_evolution_phase_two","unify_edit_mode_p2","viewer-role-contributor-invites","image_component","campaigns_discount_section_in_automations","site_header_footer","commerce_etsy_product_import","campaigns_discount_section_in_blasts","supports_versioned_template_assets","campaigns_thumbnail_layout","member_areas_spanish_interviews","crm_remove_subscriber","scripts_defer","show_add_to_cart_in_plp","crm_default_newsletter_block_to_campaigns","background_art_onboarding","campaigns_global_uc_ab","customer_accounts_email_verification","commerce_clearpay","accounting_orders_sync","digital_products_in_circle_labs","commerce_checkout_website_updates_enabled","commerce_etsy_shipping_import","website_component_enabled","nested_categories","visitor_react_forms","enable_css_variable_tweaks","commerce_site_visitor_metrics","order_status_page_checkout_landing_enabled","crm_show_profile_forms","fluid_engine","website_fonts","commsplat_forms_visitor_profile","campaigns_new_image_layout_picker","themes","commerce_restock_notifications","override_block_styles","member_areas_provisioning_service","collection_typename_switching","digital_products_monetization_ga_enabled","send_local_pickup_ready_email","member_areas_feature","campaigns_import_discounts","marketing_landing_page","fluid_engine_clean_up_grid_contextual_change","pdp_product_add_ons_visitor_site","member_areas_schedule_interview"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #123 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-123-transcript","datePublished":"2018-09-24T08:23:02-0700","dateModified":"2022-07-11T08:56:49-0700","headline":"Episode #123 - Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1691162723330/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/68/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1466/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-e3e815c939110a4186cb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-e3e815c939110a4186cb-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-f36b6dc9867ad0b8d0a8-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-f36b6dc9867ad0b8d0a8-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-299f1473fedfe0716b27-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-299f1473fedfe0716b27-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-2a010cbb97d3039bf6dc-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-2a010cbb97d3039bf6dc-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-94880fef7f5110305205-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-94880fef7f5110305205-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-ac3efedd49a8a017e2f8-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-65d130eb3b049b1054e4-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-aca0f118484570338368-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b63e6afdcbeac42b3017-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-1cd8f0dbe0123c719abd-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-8c16bc4bc4ac2bb967e6-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-b5fcf317a07b0db9da26-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-af356fa67f33ad4a02fe-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-ca35e17d76a920cb1b17-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-3064a1917f62918a853d-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-09618ebbf5fba2c9727b-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-344eacef2098ca014a64-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-97dd06157cb0d1930252-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-61dc9f9523fa69ebec8c-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-ecb81e17f1e51126ce02-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-c5828c22f5532927ef0b-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-d77ae6e5be5e42b8d7a4-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c14fd9496f5985337c37-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-bbb2acbc5c45d633910b-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-86a6a6322e302d4394d6-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-f7befafa846701c7a7ba-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-4109f87befa479615f23-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-f173014f20db69fb2607-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c525b0b649e9b0c42bc6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-eee42d001f172afd8251-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-38bc7b05ed77c7e58ab2-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #123 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"6":true,"2":true,"7":true,"4":true,"1":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #123 - Transcript","id":"5eec214c09afd80facd8bfc8","fullUrl":"/transcript/episode-123-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["show_add_to_cart_in_plp","toggle_preview_new_shortcut","themes","customer_account_creation_recaptcha","crm_default_newsletter_block_to_campaigns","marketing_landing_page","pdp_product_add_ons_visitor_site","campaigns_thumbnail_layout","member_areas_spanish_interviews","new_stacked_index","image_component","order_status_page_checkout_landing_enabled","commerce_etsy_shipping_import","website_fonts","commerce_etsy_product_import","campaigns_import_discounts","fluid_engine","campaigns_new_image_layout_picker","unify_edit_mode_p2","member_areas_provisioning_service","campaigns_discount_section_in_blasts","commerce_restock_notifications","site_user_email_change","accounting_orders_sync","crm_remove_subscriber","enable_css_variable_tweaks","supports_versioned_template_assets","visitor_react_forms","background_art_onboarding","digital_products_monetization_ga_enabled","commerce_clearpay","campaigns_discount_section_in_automations","site_header_footer","fluid_engine_clean_up_grid_contextual_change","customer_accounts_email_verification","commsplat_forms_visitor_profile","scripts_defer","viewer-role-contributor-invites","nested_categories","commerce_checkout_website_updates_enabled","commerce_site_visitor_metrics","collection_typename_switching","send_local_pickup_ready_email","is_feature_gate_refresh_enabled","commerce_order_status_access","override_block_styles","member_areas_schedule_interview","nested_categories_migration_enabled","campaigns_global_uc_ab","crm_show_profile_forms","improved_paywalls","website_component_enabled","member_areas_feature"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #123 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-123-transcript","datePublished":"2018-09-24T08:23:02-0700","dateModified":"2022-07-11T08:56:49-0700","headline":"Episode #123 - Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/68/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1472/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <script>
@@ -151,256 +151,256 @@
   "
   data-controller="Header"
   data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-&quot;customColor&quot;: {
-&quot;hslaValue&quot;: {
-&quot;hue&quot;: 203.4782608695652,
-&quot;saturation&quot;: 0.22330097087378645,
-&quot;lightness&quot;: 0.2019607843137255,
-&quot;alpha&quot;: 1.0
-},
-&quot;userFormat&quot;: &quot;hex&quot;
-}
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadowOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;borderOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;showPromotedElement&quot;: false,
-&quot;buttonVariant&quot;: &quot;primary&quot;,
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-}
-}"
+              &quot;layout&quot;: &quot;navRight&quot;,
+              &quot;action&quot;: {
+                &quot;href&quot;: &quot;/take-action&quot;,
+                &quot;buttonText&quot;: &quot;Take Action&quot;,
+                &quot;newWindow&quot;: false
+              },
+              &quot;showSocial&quot;: true,
+              &quot;socialOptions&quot;: {
+                &quot;socialBorderShape&quot;: &quot;none&quot;,
+                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                &quot;socialBorderThickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 1.0
+                }
+              },
+              &quot;sectionTheme&quot;: &quot;light&quot;,
+              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+              &quot;cartStyle&quot;: &quot;cart&quot;,
+              &quot;cartText&quot;: &quot;Cart&quot;,
+              &quot;showEmptyCartState&quot;: true,
+              &quot;cartOptions&quot;: {
+                &quot;iconType&quot;: &quot;solid-7&quot;,
+                &quot;cartBorderShape&quot;: &quot;none&quot;,
+                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                &quot;cartBorderThickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 1.0
+                }
+              },
+              &quot;showButton&quot;: false,
+              &quot;showCart&quot;: false,
+              &quot;showAccountLogin&quot;: true,
+              &quot;headerStyle&quot;: &quot;theme&quot;,
+              &quot;languagePicker&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;iconEnabled&quot;: false,
+                &quot;iconType&quot;: &quot;globe&quot;,
+                &quot;flagShape&quot;: &quot;shiny&quot;,
+                &quot;languageFlags&quot;: [ ]
+              },
+              &quot;mobileOptions&quot;: {
+                &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                &quot;menuIconOptions&quot;: {
+                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 1.0
+                  }
+                }
+              },
+              &quot;dynamicOptions&quot;: {
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+                    &quot;customColor&quot;: {
+                      &quot;hslaValue&quot;: {
+                        &quot;hue&quot;: 203.4782608695652,
+                        &quot;saturation&quot;: 0.22330097087378645,
+                        &quot;lightness&quot;: 0.2019607843137255,
+                        &quot;alpha&quot;: 1.0
+                      },
+                      &quot;userFormat&quot;: &quot;hex&quot;
+                    }
+                  }
+                }
+              },
+              &quot;solidOptions&quot;: {
+                &quot;headerOpacity&quot;: {
+                  &quot;unit&quot;: &quot;%&quot;,
+                  &quot;value&quot;: 100.0
+                },
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;dropShadow&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blur&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 30.0
+                  },
+                  &quot;spread&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;distance&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;blurBackground&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blurRadius&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 12.0
+                  }
+                },
+                &quot;backgroundColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;white&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                },
+                &quot;navigationColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;black&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                }
+              },
+              &quot;gradientOptions&quot;: {
+                &quot;gradientType&quot;: &quot;faded&quot;,
+                &quot;headerOpacity&quot;: {
+                  &quot;unit&quot;: &quot;%&quot;,
+                  &quot;value&quot;: 90.0
+                },
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;dropShadow&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blur&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 30.0
+                  },
+                  &quot;spread&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;distance&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;blurBackground&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blurRadius&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 12.0
+                  }
+                },
+                &quot;backgroundColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;white&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                },
+                &quot;navigationColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;black&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                }
+              },
+              &quot;dropShadowOptions&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;blur&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                },
+                &quot;spread&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 0.0
+                },
+                &quot;distance&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                }
+              },
+              &quot;borderOptions&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;position&quot;: &quot;bottom&quot;,
+                &quot;thickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 4.0
+                }
+              },
+              &quot;showPromotedElement&quot;: false,
+              &quot;buttonVariant&quot;: &quot;primary&quot;,
+              &quot;blurBackground&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;blurRadius&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                }
+              },
+              &quot;headerOpacity&quot;: {
+                &quot;unit&quot;: &quot;%&quot;,
+                &quot;value&quot;: 100.0
+              }
+            }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
+              &quot;enabled&quot;: false,
+              &quot;iconEnabled&quot;: false,
+              &quot;iconType&quot;: &quot;globe&quot;,
+              &quot;flagShape&quot;: &quot;shiny&quot;,
+              &quot;languageFlags&quot;: [ ]
+            }"
   
   data-first-focusable-element
   tabindex="-1"
@@ -1027,245 +1027,245 @@
     
     "
     data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-&quot;customColor&quot;: {
-&quot;hslaValue&quot;: {
-&quot;hue&quot;: 203.4782608695652,
-&quot;saturation&quot;: 0.22330097087378645,
-&quot;lightness&quot;: 0.2019607843137255,
-&quot;alpha&quot;: 1.0
-},
-&quot;userFormat&quot;: &quot;hex&quot;
-}
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadowOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;borderOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;showPromotedElement&quot;: false,
-&quot;buttonVariant&quot;: &quot;primary&quot;,
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-}
-}"
+              &quot;layout&quot;: &quot;navRight&quot;,
+              &quot;action&quot;: {
+                &quot;href&quot;: &quot;/take-action&quot;,
+                &quot;buttonText&quot;: &quot;Take Action&quot;,
+                &quot;newWindow&quot;: false
+              },
+              &quot;showSocial&quot;: true,
+              &quot;socialOptions&quot;: {
+                &quot;socialBorderShape&quot;: &quot;none&quot;,
+                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                &quot;socialBorderThickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 1.0
+                }
+              },
+              &quot;sectionTheme&quot;: &quot;light&quot;,
+              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+              &quot;cartStyle&quot;: &quot;cart&quot;,
+              &quot;cartText&quot;: &quot;Cart&quot;,
+              &quot;showEmptyCartState&quot;: true,
+              &quot;cartOptions&quot;: {
+                &quot;iconType&quot;: &quot;solid-7&quot;,
+                &quot;cartBorderShape&quot;: &quot;none&quot;,
+                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                &quot;cartBorderThickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 1.0
+                }
+              },
+              &quot;showButton&quot;: false,
+              &quot;showCart&quot;: false,
+              &quot;showAccountLogin&quot;: true,
+              &quot;headerStyle&quot;: &quot;theme&quot;,
+              &quot;languagePicker&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;iconEnabled&quot;: false,
+                &quot;iconType&quot;: &quot;globe&quot;,
+                &quot;flagShape&quot;: &quot;shiny&quot;,
+                &quot;languageFlags&quot;: [ ]
+              },
+              &quot;mobileOptions&quot;: {
+                &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                &quot;menuIconOptions&quot;: {
+                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 1.0
+                  }
+                }
+              },
+              &quot;dynamicOptions&quot;: {
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+                    &quot;customColor&quot;: {
+                      &quot;hslaValue&quot;: {
+                        &quot;hue&quot;: 203.4782608695652,
+                        &quot;saturation&quot;: 0.22330097087378645,
+                        &quot;lightness&quot;: 0.2019607843137255,
+                        &quot;alpha&quot;: 1.0
+                      },
+                      &quot;userFormat&quot;: &quot;hex&quot;
+                    }
+                  }
+                }
+              },
+              &quot;solidOptions&quot;: {
+                &quot;headerOpacity&quot;: {
+                  &quot;unit&quot;: &quot;%&quot;,
+                  &quot;value&quot;: 100.0
+                },
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;dropShadow&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blur&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 30.0
+                  },
+                  &quot;spread&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;distance&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;blurBackground&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blurRadius&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 12.0
+                  }
+                },
+                &quot;backgroundColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;white&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                },
+                &quot;navigationColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;black&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                }
+              },
+              &quot;gradientOptions&quot;: {
+                &quot;gradientType&quot;: &quot;faded&quot;,
+                &quot;headerOpacity&quot;: {
+                  &quot;unit&quot;: &quot;%&quot;,
+                  &quot;value&quot;: 90.0
+                },
+                &quot;border&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;position&quot;: &quot;bottom&quot;,
+                  &quot;thickness&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 4.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;dropShadow&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blur&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 30.0
+                  },
+                  &quot;spread&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;distance&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 0.0
+                  },
+                  &quot;color&quot;: {
+                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                    &quot;sitePaletteColor&quot;: {
+                      &quot;colorName&quot;: &quot;black&quot;,
+                      &quot;alphaModifier&quot;: 1.0
+                    }
+                  }
+                },
+                &quot;blurBackground&quot;: {
+                  &quot;enabled&quot;: false,
+                  &quot;blurRadius&quot;: {
+                    &quot;unit&quot;: &quot;px&quot;,
+                    &quot;value&quot;: 12.0
+                  }
+                },
+                &quot;backgroundColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;white&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                },
+                &quot;navigationColor&quot;: {
+                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                  &quot;sitePaletteColor&quot;: {
+                    &quot;colorName&quot;: &quot;black&quot;,
+                    &quot;alphaModifier&quot;: 1.0
+                  }
+                }
+              },
+              &quot;dropShadowOptions&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;blur&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                },
+                &quot;spread&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 0.0
+                },
+                &quot;distance&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                }
+              },
+              &quot;borderOptions&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;position&quot;: &quot;bottom&quot;,
+                &quot;thickness&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 4.0
+                }
+              },
+              &quot;showPromotedElement&quot;: false,
+              &quot;buttonVariant&quot;: &quot;primary&quot;,
+              &quot;blurBackground&quot;: {
+                &quot;enabled&quot;: false,
+                &quot;blurRadius&quot;: {
+                  &quot;unit&quot;: &quot;px&quot;,
+                  &quot;value&quot;: 12.0
+                }
+              },
+              &quot;headerOpacity&quot;: {
+                &quot;unit&quot;: &quot;%&quot;,
+                &quot;value&quot;: 100.0
+              }
+            }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1446,31 +1446,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+              &quot;imageOverlayOpacity&quot;: 0.15,
+              &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+              &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+              &quot;customSectionHeight&quot;: 10,
+              &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+              &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+              &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+              &quot;customContentWidth&quot;: 50,
+              &quot;sectionTheme&quot;: &quot;&quot;,
+              &quot;sectionAnimation&quot;: &quot;none&quot;,
+              &quot;backgroundMode&quot;: &quot;image&quot;
+            }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+              &quot;video&quot;: {
+                &quot;playbackSpeed&quot;: 0.5,
+                &quot;filter&quot;: 1,
+                &quot;filterStrength&quot;: 0,
+                &quot;zoom&quot;: 0,
+                &quot;videoSourceProvider&quot;: &quot;none&quot;
+              },
+              &quot;backgroundImageId&quot;: null,
+              &quot;backgroundMediaEffect&quot;: null,
+              &quot;divider&quot;: null,
+              &quot;typeName&quot;: &quot;blog-masonry&quot;
+            }"
   data-animation="none"
   
    
@@ -1536,6 +1536,28 @@
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, we ended last time by comparing the projects of Michel Foucault and Immanuel Kant, Foucault essentially taking one of the main focus points of Kant’s work and turning it on its head. As we talked about, while Kant wanted to take the subjective and contingent of the world, analyze it, study it, and hopefully arrive at necessary truths about the way that things are, Foucault, on the other hand, wanted to take things that most people assumed were necessary truths and show how, ultimately, they were subjective, contingent, and rooted in history, to show how what we think of as the truth is often nothing more than just the dominant narrative at the time we’re living. Now, last episode we talked about epistemes and paradigms, Foucault questioning the dominant narrative of scientism, of science being this disinterested vehicle for arriving at “the truth about things” or “facts” about the way that things are. Two episodes ago, we talked about the book <em>Discipline and Punish</em>, Foucault questioning the dominant narrative that we used to be these barbaric savages that tortured our prisoners, but then we evolved ethically to the point we’ve seen the error of our ways. And now we treat them in a way that’s much more humane.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, it’ll probably come as no surprise when I tell you, these aren’t the only two narratives that Foucault questioned in his lifetime. In fact, pretty much every major work Foucault produced is taking aim at some widely accepted narrative about the way that things are, narratives that he thinks, when looked at from a different angle, show themselves to be narrow, arbitrary, and potentially damaging to the people caught in the mix that that narrative is referencing. For example, take Foucault’s 1961 work, <em>Madness and Civilization</em>. <em>Discipline and Punish </em>is to the way we’ve treated criminals over the centuries as <em>Madness and Civilization</em> is to the way we’ve treated people over the centuries that society deems to be mad.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, Foucault realizes that it’s easy to be born into the world in the 20th century and to take for granted that, if someone’s mentally ill, what you should do is lock them up, have a bunch of experts study them, come up with a treatment plan for them, and then medicate them and give them intensive therapy until they start to act like a “normal” person again. But this hasn’t always been the way society treats the mentally ill. In fact, the whole idea of rounding these people up and locking them in an asylum is actually a very recent thing. For example, in former societies, in ancient Greece, for example, it wasn’t an uncommon attitude at the time to see people considered to be mad as touched by the gods in some way. They lived pretty normal lives among the rest of the population and were accepted as just different by people, with, you know, a sort of outside-of-the-box way of looking at things as long as they weren’t hurting anybody. There are many Greek plays where the protagonist is informed by somebody that everybody else in the play would see as crazy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In other societies the mad were seen as an important cog in the whole machine of society because, through the crazy stuff they said, they helped everyone around them identify the limits of reason. Foucault would recognize, once again, the assumption that’s easy to make being born into the 20th century is that for thousands of years these people were unmedicated, untreated, living their lives in abject suffering, and that nowadays, now that we have them in custody, now that they’re in front of a panel of experts and on the right pill that makes them act normal, that their lives are better.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Foucault wouldn’t let you off the hook there. He’d probably ask you the question, what specifically is responsible for this sudden change in our attitudes towards how we treat the mentally ill in our societies? Foucault would, no doubt, think that it’s in large part due to science and the discourse science produces surrounding the concept of mental illness. Because it’s just been in the recent past that for the first time in human history madness has become the object of scientific inquiry. And, over the years as science has progressively diagnosed, categorized, and medicated people that society deems to be mentally ill, the more they’ve dehumanized these people and turned them into objects that exist for the sake of science being able to study them: objects of study rather than human beings. The more that science worked to understand these objects and turn them into something that looks like a normal person, the more torture they put these people through.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There was a great quote on a Foucault documentary I watched a couple years ago. It went, “The more people cared, the less people cured. The more they intervened, the more they oppressed.” That quote just captures the essence of what Foucault is saying in <em>Madness and Civilization</em> so well. Nonetheless, I mean, you could see how this book is yet again another example of Foucault questioning a dominant narrative of his time and offering an alternative take on things. But none of these alternative takes would ever be possible if Foucault wasn’t looking at history with some sort of alternative method. Remember, Foucault’s not writing a history of this stuff. I mean, outside of a couple exceptions, he’d never use the word “history” to describe what he’s doing here at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">When it comes to three early books of his, <em>Madness and Civilization</em>, <em>Birth of the Clinic</em>, and <em>The Order of Things</em>, he would call them all archaeologies. And there are very specific reasons for why he would call them archaeologies. Think about the job of an archaeologist for a second. When an archaeologist goes on a dig -- and maybe the task of the day is to excavate some vase from the 1500s buried deep underground, okay -- the job of the archaeologist is to comb through layers and layers of sediment left behind by the hundreds of years in between the 1500s and today, and at the end of the job the goal of the archaeologist is to capture a snapshot in time. In other words, the archaeologist isn’t concerned with how the vase was made, the way vase makers were thinking about their craft at the time, how the design of the vase evolved out of the vase designs that came before it. No, the task of the archaeologist is to dig through the layers to uncover this vase in this moment, a snapshot of a very specific point in time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, this is similar to what Foucault is trying to do in the three books I just listed. He’s sifting through hundreds of years of ideas, trying to uncover and dust off moments when things were different, snapshots in time when the discourse and conversations about these topics were just as effective for producing knowledge for people, but people looked at the subjects in an entirely different way than we do today. See, this is an important point to understand about Foucault that a lot of people miss out on. They think, “Okay, here’s Foucault. He’s questioning the dominant narrative about these things, and he’s offering an alternative narrative about what went down. If only I can point out the flaws in his narrative and then make a better narrative of my own, then Foucault will have no choice but to cower in the corner and admit defeat. I win.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Foucault would absolutely welcome this process, and he had no desires of his narrative being seen as the ultimate way of looking at things. There’s a sense in which the actual point he’s trying to make with his work is that we need to get away from that kind of thinking altogether, that all we’ll ever have access to are narratives, constantly in competition for the dominant position within a society, none of which containing anything close to the truth about things, just a slightly different angle and a slightly different way of making sense of the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But, anyway, after those three books, eventually Foucault found the whole archaeology method that he used all throughout his early career to be extremely limiting. He found that, when you’re in the business of just uncovering moments in time throughout history, all you can ever do is compare the discourse surrounding a subject in one period to the discourse of another period. In other words, there can be no talk about how one period led to another, just comparisons. And describing how these shifts took place would eventually become an extremely important part of his later work. It is for this reason that Foucault introduces yet another new method of demystifying the narratives of the past, something he calls a genealogy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You can picture a genealogy, right? Picture tracing your family tree all the way back to somebody that lived in the 1500s. Not only would you have a snapshot of the person, you’d also have the entire evolution that took place from their world to your world. This type of analysis is more in line with what we did on episode one of this series with the book <em>Discipline and Punish</em>. Because if you remember, Foucault lays out how the evolution took place from the 1750s to the 1830s, from the sovereign age to the disciplinary age. And it’s this type of analysis that’s going to occupy almost all of his later work. The genealogy is crucial if you have the goals of Foucault in his later work. It’s absolutely crucial if you want to call into question this assumption that so many people make that history has just been a long succession of progress where we use rationality to make things better. The genealogy can show how different periods can give rise to each other for reasons that have nothing to do with rationality.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, one thing Foucault always said was that, if you’re going to make one of these genealogies, always make it about a subject where there seems to be a lot of people agreeing about the way that things are, subjects where there doesn’t seem to be any further discussion required for us to understand how they work. This is why Foucault always seems to end up in weird places like prisons and schools and hospitals. Nobody’s ever looked at this stuff before like he does. And it’s also the reason why in his final work he decides to question the dominant narratives that exist around the topic of human sexuality.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, Foucault never finished this work. He died of AIDS in 1984 and just didn’t have time to finish it. There’s a lot of speculation about where he would have went had he lived long enough to write the rest of it. But one thing nobody questions is that the beginning of this work mirrors the rest of his work and that he’s calling into question dominant narratives that seem to us in our time to be so obvious and based in common sense that they’re practically chiseled into stone. The narrative he takes aim at in <em>The History of Sexuality,</em> Volume 1, is something known as the repressive hypothesis.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The main argument of the repressive hypothesis is that, all throughout the 17th and 18th centuries, people’s thoughts and behaviors surrounding the topic of sexuality have been repressed by people in power. The motives people assign for why this happened range considerably. Some people say it happened for religious reasons. Some say for political gain. Some say it was for economic reasons, that for capitalist society to succeed in the way that it did we needed people focused on work rather than the idle task of exploring their sexuality. Whatever the reason though, the dominant narrative towards the end of the 20th century was that sexuality in the 17 and 1800s was punctuated by rules, rules where you can’t talk about it, you are to be ashamed of it, you are to feel guilty afterwards for having done it. People in the 20th century were making the case that, if we allowed sex to be more natural and less constrained by cultural norms, people would be a lot less repressed and a lot more happy.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Foucault didn’t see it that way. Foucault would strongly disagree with the idea that there’s some natural type of sexuality that’s installed in us or some scientific truth about the nature of sex that can even be arrived at. I mean, sure, sex, pregnancy, the sexual lives of married couples, these are things that have been talked about almost since the beginning of recorded history. But these things were never referred to over the years as an individual’s “sexuality.” Foucault makes the case that if you look back at history the idea that people possess a set of qualities that make up their own personal sexuality really is something that’s only existed since about the 19th century when science for the first time in human history directed its gaze towards sex and tried to study it and categorize it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It's actually kind of weird to think about. Up until around the 19th century, nobody ever thought of themselves as heterosexual versus homosexual versus any other form of sexuality. There were people that engaged in certain behaviors. If they lived in a particularly religious society, maybe they were guilty of the sin of sodomy. But there was never any labeling like we do in today’s world so much. They didn’t take the labels and ways of categorizing people that science came up with and then use them to describe to others who they are as a person. There was no attempt by the science of their time to study and proclaim the truth about sexuality or what type of sexuality corresponds with human nature, whatever that means.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, on the contrary, Foucault would say, sexuality hasn’t been repressed over the centuries. There’s never been a period in our history where sex was studied or talked about more. It just can’t happen in public. It happens in private when you’re talking to your therapist or your doctor or some other self-appointed authority on the topic of sexuality. There’s been what Foucault calls “a political, economic, and technical incitement to talk about sex.” He actually compares these backroom meetings with our doctors or psychologists to a modern-day confessional booth, because in the same way people were asked to atone for their sins by privately talking about their sexuality in explicit detail to a priest in a creepy booth, so too do we ask people in our modern day to give that same information to a scientist or a doctor whose job it is to study them and then tell them whether what they do is normal or abnormal. In the same way the priest controls the discourse surrounding sex, along with it the final judgment on what normal sexual behavior is, so too do scientist, psychologists, doctors control our modern discourse. And, when you control the discourse that surrounds a behavior, you control the behavior itself, to Foucault.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Not only do we have these scientific confessional booths where we’re studied and told whether we’re in need of fixing, but simultaneously we internalize norms given to us by the sciences, accept them as the way we should be, and then we actually monitor ourselves to make sure we conform to that standard. Now, these points alone could spark some pretty interesting conversation with someone who believes we’ve been repressed for the last 300 years. But the biggest weakness of the repressive hypothesis, to Foucault, has nothing to do with any of this stuff. And, I mean, just to come back to a theme common among these post-structuralist thinkers, the problem with the repressive hypothesis has to do with the fact that the entire theory is built on top of an understanding of the way power works that is naïve, outdated, and to continue looking at power in this way, knowing what we know now, would be delusional.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Foucault would say that most people, when they think of power, look at it in an overly simplistic way. Most people look at power in the same way we looked at it back when we were living in monarchies in the 1300s, as though power is executed from a single source, be it a king, a president, the halls of congress; the type of power that says no to things; the type of power that forces you to do things you don’t want to do. Foucault calls this type of power a bunch of different things throughout his work: contract oppression, sovereign power, repressive power. The most important thing to understand is that this is the type of power that has ultimate authority to take things from you, from taxes to goods and services to your time. They can even take your life should they deem it to be necessary.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Foucault thinks, despite how common this type of power has been in the past, when it comes to our modern societies, this is just not the kind of power we come face to face with anymore. Foucault would ask, what are the types of power that actually touch you and affect you in your life? Is it your direct relationship with Donald Trump? Is it a debate you’re having daily with Supreme Court justices? Is that the type of power that affects you most on a daily basis? No. Power, to Foucault, has undergone a fundamental transformation in the West throughout the last couple hundred years. Power in our modern societies is not something with a stable center that can be identified and stopped like that.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Power in our modern societies is what he calls capillary. To Foucault, power is an unstable network flowing in all directions from every point at once. We all, whether we realize we’re doing it or not, we’re all exerting our power over everyone else around us every single day through constant surveillance, cultural norms, advertisements, persuasion, suggestion, encouragement and discouragement of certain behaviors we approve or disapprove of, even down to the things you like and share on Facebook. You are constantly defining, redefining, and reinforcing the standard of what is normal and what is abnormal, who should be accepted and listened to and who should be silenced and considered not worthy of being taken seriously.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Power in this way is incredibly diffuse. Power’s not something that lies in the relationship between you and a king or you and Donald Trump. No, in our modern societies power is something that operates at all levels of society. Yes, at the level of public policy that affects everyone, but at the same time at an individual level that only affects you, and it dictates the narrow set of choices you have to navigate. Power is between you and your government to a certain degree. But more relevant to your everyday life it’s between you and your therapist, your boss, your doctor, your teachers, your parents, your friends, your family, your coworkers, the strangers that may judge you in public. Really stop for a second and try to get a sense of just how much these people shape who you are as a person.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Power is everywhere, to Foucault. But to most people power is invisible. The ability for this power system to change your behavior has become so subtle, the micro-tactics of power have become so normalized in your world that most people don’t even notice themselves gradually being shaped into a mold of normalcy like a soldier in boot camp or a prisoner in a cell. In fact, think of yourself as a prisoner for a second. Picture yourself in the panopticon we talked about in episode one of this series. Real quick if you don’t remember, that was the hypothetical prison devised by Jeremy Bentham where a single guard in the middle can see what the prisoners are doing inside of every cell, but the prisoners can’t even know that they’re being watched. They can’t see outside. What Foucault is saying is that if you could somehow get the prisoners to be socialized in such a way that they watched each other, they created systems of norms and expectations, they had some form of feedback where the prisoners felt judged and rejected when they get out of line, you wouldn’t even need a guard in the center of the panopticon. That guy could go on vacation because the reality of that world would be, to Foucault, that the prisoners themselves would police each other far better than any system you could come up with that was implemented by force. You don’t need to use repressive power and force people to do anything if you can get them to want to do on their own what you were otherwise going to force them to do.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Remember, knowledge to Foucault is intrinsically connected to power. And when you have one guard in the center that has access to complete knowledge of everyone’s actions and a bunch of prisoners in a cell that can’t even see the outside world, this creates a massive imbalance of knowledge and, along with it, a massive imbalance of power. The prisoners themselves become active, supportive participants in the very system that suppresses them. To Michel Foucault, this example is far more comparable to the power model we face in our modern societies and far more effective than any king on a throne sentencing people to death.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Like I mentioned earlier, to Foucault, there’s been a fundamental shift in the way power is exercised in the West. We’ve moved from this outdated style of sovereign power into a new age that’s defined by what he calls “biopower.” Now, why come up with a clever little name like that? And why biopower? Doesn’t bio mean it has something to do with life? Well, yes, yes it does. What Foucault’s talking about is similar to what we started to talk about towards the end of last episode.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Throughout the last 300 years or so, the more science has made society the object of scientific study, the more tactics scientists have come up with to, one, optimize life and productivity and, two, categorize people within a society. Because of science and the way it tries to organize the world, for the first time in our history we’re looking at brand new ways of objectifying people, things we’ve never really thought about much before, things like the population, birth and death rates, advanced demographics, the prevalence of disease, the happiness index, and about 50 other things that we accept as the scientific discourse of our day, and then quietly use these metrics to determine who we are and how we fit into the bigger picture.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is why the repressive hypothesis is wrong, to Foucault. Power is not repressive in our modern world. Power is productive. It doesn’t repress and do away with some true or natural sexuality that we all possess deep down. No, power is productive. It produces, through cultural norms and scientific discourse, the very methods we use to even be able to identify and conceive of our sexuality. But here’s the crazy part. It’s not just our sexuality, because it’s right here -- this is a big reason why, to Foucault, the people that are truly in power are the thought leaders within the sciences that control the dominant narratives about the way that things are in the universe. Knowledge is intrinsically connected to power. And they’re the ones that produce all the knowledge. They control the parameters, the language, the concepts. They control the entire discourse that everyone uses to determine who they are, what they care about, and what things are worth spending effort on.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Foucault calls this “biopower” because “the exercise of power over living beings no longer carries the threat of death, but instead takes charge of people’s lives,” in other words, biopower. There is no need anymore, whatsoever, to threaten people and force them to do things under penalty of death. Not only is that method outdated and inefficient, it’s also entirely transparent when it comes to identifying who’s in power. Biopower, in a sense, hijacks the lives of unsuspecting people and uses the current period’s scientific discourse and cultural norms to turn them into willing participants. Biopower is the type of power that actually affects us in our daily lives.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if there’s any part of you that hears this and thinks the obvious next step is to try to do away with this biopower, Foucault would probably ask you to rethink your strategy. Power dynamics at this point are an inexorable part of the word we live in. You’re never going to get rid of them. No matter how much you resist the micro-tactics of power, no matter how much you question the dominant narratives of your time, all you can ever hope for, to Foucault, is a world that’s a little more tolerable. All you can ever hope for is a different set of dominant narratives that may, for all we know, in the long run oppress more people than the current set of dominant narratives. Fight all you want against power, against narratives, against metanarratives. Fight all you want. But, before you do, Foucault would want us all to take a second to stop and understand what you’re replacing those metanarratives with.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I’ll talk to you next time.</p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
 
 
 
@@ -1691,30 +1713,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 100,
-&quot;sectionTheme&quot;: &quot;dark&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+              &quot;imageOverlayOpacity&quot;: 0.15,
+              &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+              &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+              &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+              &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+              &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+              &quot;customContentWidth&quot;: 100,
+              &quot;sectionTheme&quot;: &quot;dark&quot;,
+              &quot;sectionAnimation&quot;: &quot;none&quot;,
+              &quot;backgroundMode&quot;: &quot;image&quot;
+            }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+              &quot;video&quot;: {
+                &quot;playbackSpeed&quot;: 0.5,
+                &quot;filter&quot;: 1,
+                &quot;filterStrength&quot;: 0,
+                &quot;zoom&quot;: 0,
+                &quot;videoSourceProvider&quot;: &quot;none&quot;
+              },
+              &quot;backgroundImageId&quot;: null,
+              &quot;backgroundMediaEffect&quot;: null,
+              &quot;divider&quot;: null,
+              &quot;typeName&quot;: &quot;blog-masonry&quot;
+            }"
   data-animation="none"
   
    
@@ -1757,11 +1779,49 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-331c5b9777922a4e7e32"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Pages</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/contribute">Contribute</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/terms-of-service">Terms and Conditions</a><a href="http://squarespace.com" target="_blank"><br></a><a href="/privacy-policy">Privacy</a> </p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://teespring.com/stores/philosophizethis">Merch Page</a></p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1773,11 +1833,49 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614098982300_20470"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p style="text-align:center;white-space:pre-wrap;" class=""><strong>Follow</strong></p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1832,7 +1930,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.873f112badc9049b740a43e39def8d5d.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.cbd0e5c00d48d3548e180181c283cd99.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

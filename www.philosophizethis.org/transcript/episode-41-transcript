@@ -38,15 +38,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-085db6190188ea6a4cbb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-085db6190188ea6a4cbb-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-5ca31a713e96e0d73f70-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-5ca31a713e96e0d73f70-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2e5b687b721ed94b30f5-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2e5b687b721ed94b30f5-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-c20455a09b1fe109400d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2956e20d9a68ca6ae280-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-f176173c568e8717c99b-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-44d9cfb93d344a7446ac-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-5cd4a896962954eaca96-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6f4322f63224e137fb72-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4a222f32bf58327e181b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5f2d4e7ddb02d50723d1-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-210f16f8bec538fbaf2f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-eb72d47f5c6899b293da-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7993e315eeeb0e31e0d1-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-eb731df3d05e856250e3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b99f54f05b3a4f777f55-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-1f3b47e6826c63a1652b-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-84d5b8a1f1fc4654032c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a6388a789435452d55a7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db82977b390515867439-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-5196e0c68b662ed24a38-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-377a5b12886c446ac5e6-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #041 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"6":true,"7":true,"3":true,"1":true,"8":true,"4":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #041 -  Transcript","id":"5eec1a0109afd80facd7eefc","fullUrl":"/transcript/episode-41-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["is_feature_gate_refresh_enabled","customer_account_creation_recaptcha","new_stacked_index","visitor_react_forms","background_art_onboarding","send_local_pickup_ready_email","nested_categories_migration_enabled","commerce_clearpay","color_var_rendering_in_v6","unify_edit_mode_p2","commerce_subscription_renewal_notifications","member_areas_feature","pdp_product_add_ons_visitor_site","nested_categories","accounting_orders_sync","fluid_engine","site_header_footer","commsplat_forms_visitor_profile","campaigns_discount_section_in_automations","rewrite_transactional_email_from_address","override_block_styles","scripts_defer","campaigns_new_image_layout_picker","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_product_import","supports_versioned_template_assets","campaigns_thumbnail_layout","enable_css_variable_tweaks","commerce_checkout_website_updates_enabled","campaigns_global_uc_ab","campaigns_import_discounts","commerce_etsy_shipping_import","commerce_order_status_access","website_component_enabled","collection_typename_switching","image_component","toggle_preview_new_shortcut","themes","commerce_restock_notifications","commerce_site_visitor_metrics","website_fonts","order_status_page_checkout_landing_enabled","viewer-role-contributor-invites","marketing_landing_page","customer_accounts_email_verification","campaigns_discount_section_in_blasts","show_add_to_cart_in_plp"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #041 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-41-transcript","datePublished":"2014-11-04T12:09:59-0800","dateModified":"2022-07-07T11:46:54-0700","headline":"Episode #041 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1489/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f1b17328c55249cf16e9-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce3304dbbbc00b0adc2c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-33c1f90c488c55fae579-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7116ec013cb68ccb46b1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-c284904b25c71d02bce8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-6e60a567b55f463b68e7-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-5d1c15b78a92b66bb9c2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-7acbb1abe140de860b8e-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c448735543b55eab799b-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-070905c328c108a2d84a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-206ef2320c2cea5a2878-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-503cf40eefffe62983b2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-cc29311f395b003af368-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-02d1e0bcb6fc2a7af709-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c425f4bbbcfb78c3f308-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f51f475a757005c26ee7-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e651beeebf0f0d458f3c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd133305dca90ae5ca2f-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5978fce864bf3409cbda-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-ed7446c70dde7b3316d8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b9419dfe48307ccde360-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #041 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"6":true,"7":true,"3":true,"2":true,"4":true,"8":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #041 -  Transcript","id":"5eec1a0109afd80facd7eefc","fullUrl":"/transcript/episode-41-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["nested_categories","customer_accounts_email_verification","rewrite_transactional_email_from_address","supports_versioned_template_assets","commerce_order_status_access","customer_account_creation_recaptcha","commsplat_forms_visitor_profile","campaigns_global_uc_ab","website_fonts","is_feature_gate_refresh_enabled","member_areas_feature","campaigns_discount_section_in_automations","accounting_orders_sync","async_copy_collection","fluid_engine_clean_up_grid_contextual_change","send_local_pickup_ready_email","collection_typename_switching","pdp_product_add_ons_visitor_site","new_stacked_index","campaigns_import_discounts","toggle_preview_new_shortcut","themes","commerce_etsy_shipping_import","campaigns_thumbnail_layout","commerce_site_visitor_metrics","campaigns_new_image_layout_picker","commerce_clearpay","visitor_react_forms","campaigns_discount_section_in_blasts","nested_categories_migration_enabled","scripts_defer","override_block_styles","google_consent_v2","commerce_subscription_renewal_notifications","order_status_page_checkout_landing_enabled","enable_css_variable_tweaks","background_art_onboarding","viewer-role-contributor-invites","fluid_engine","commerce_restock_notifications","proposals_beta_in_circle_labs","unify_edit_mode_p2","marketing_landing_page","commerce_etsy_product_import","commerce_checkout_website_updates_enabled","show_add_to_cart_in_plp"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #041 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-41-transcript","datePublished":"2014-11-04T12:09:59-0800","dateModified":"2022-07-07T11:46:54-0700","headline":"Episode #041 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1500/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1706811132467-QIR6O63RE5GI9HXI9ESJ/static.css">
@@ -58,13 +58,7 @@
     class="
       primary-button-style-solid primary-button-shape-rounded secondary-button-style-solid secondary-button-shape-rounded tertiary-button-style-solid tertiary-button-shape-rounded  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-dash tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-right tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-hide tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-hide tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-left tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-content-position-center image-block-overlap-text-alignment-opposite image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog-masonry collection-6053dc3a01905600e48be230 view-item collection-layout-default mobile-style-available sqs-seven-one
       
-        plp-config-editor-add-to-cart
-      
-      
         show-pdp-product-add-ons
-      
-      
-         plp-add-to-cart
       
       
         
@@ -198,10 +192,10 @@
 &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
 &quot;customColor&quot;: {
 &quot;hslaValue&quot;: {
-  &quot;hue&quot;: 203.4782608695652,
-  &quot;saturation&quot;: 0.22330097087378645,
-  &quot;lightness&quot;: 0.2019607843137255,
-  &quot;alpha&quot;: 1.0
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
 },
 &quot;userFormat&quot;: &quot;hex&quot;
 }
@@ -408,18 +402,18 @@
   "
 >
   
+    
 <div class="sqs-announcement-bar-dropzone"></div>
 
-  <div class="header-announcement-bar-wrapper"
-  > 
-
-    <a
-      href="#page"
-      class="header-skip-link sqs-button-element--primary"
-    >
-      Skip to Content
-    </a>
-    
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
 <style>
@@ -430,13 +424,13 @@
         }
     }
 </style>
-    <div
-      class="header-border"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-border="false"
-      data-test="header-border"
-      style="
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
 
 
 
@@ -450,44 +444,44 @@
 
 
 "
-    ></div>
-    <div
-      class="header-dropshadow"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-dropshadow="false"
-      data-test="header-dropshadow"
-      style="
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
 
 
   
 "
-    ></div>
-    
-    
+      ></div>
+      
+      
 
-    <div class='header-inner container--fluid
-      
-      
-      
-       header-mobile-layout-logo-left-nav-right
-      
-      
-      
-      
-      
-      
-       header-layout-nav-right
-      
-      
-      
-      
-      
-      
-      
-      
-      '
-      style="
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
 
 
 
@@ -497,68 +491,68 @@
 
 
 "
-      data-test="header-inner"
-      >
-      <!-- Background -->
-      <div class="header-background theme-bg--primary"></div>
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+        <div class="header-display-desktop" data-content-field="site-title">
           
-          <!-- Social -->
+
+          
+
+          
+
+          
+
+          
+
+          
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -657,64 +651,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -744,59 +738,59 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
-
-      </div>
-      <div class="header-display-mobile" data-content-field="site-title">
-        
           
-          <!-- Social -->
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -895,64 +889,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -982,14 +976,15 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+          
+          
+          
+          
+          
+        </div>
       </div>
     </div>
-  </div>
+  
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     
@@ -1062,10 +1057,10 @@
 &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
 &quot;customColor&quot;: {
 &quot;hslaValue&quot;: {
-  &quot;hue&quot;: 203.4782608695652,
-  &quot;saturation&quot;: 0.22330097087378645,
-  &quot;lightness&quot;: 0.2019607843137255,
-  &quot;alpha&quot;: 1.0
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
 },
 &quot;userFormat&quot;: &quot;hex&quot;
 }
@@ -1516,6 +1511,9 @@
       <div class="blog-item-wrapper blog-grid-masonry-item-wrapper" data-content-field="main-content" data-item-id="">
   <article id="article-" class="h-entry entry hentry post-type-">
   
+    
+    
+    
     <div class="blog-item-inner-wrapper">
       <div class="blog-item-top-wrapper">
         <div class="blog-item-title">
@@ -1534,11 +1532,13 @@
             </time>
             <div class="blog-meta-item blog-meta-item--author p-author author" data-content-field="author">Written By <a href="/transcript?author=5eec15fc09afd80facd6edf3" class="blog-author-name"></a></div>
           </div>
+          
         </div>
       </div>
 
-      <div class="blog-item-content-wrapper">
-        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1a0109afd80facd7eefc"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1657218918334_1112"><div class="sqs-block-content">
+      
+        <div class="blog-item-content-wrapper">
+          <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1a0109afd80facd7eefc"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1657218918334_1112"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">Thank you for wanting to know more today than you did yesterday, and I hope you love the show.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, the very best episodes of the <em>Philosophize This!</em> podcast, at least in my opinion, are the ones that correspond with some event that’s going on in my personal life that week. My research for the show quickly goes beyond just reading a bunch of dry philosophy books. I don’t just get a handful of books, lock myself in the nearest closet with a flashlight, and emerge in a couple days with a brand-new podcast episode. No, usually I read what I need to read, and then I like to mull it over for a little while. You know, I like to go on walks or hikes thinking about it. I like to arrive at a few core questions that I can address in that show for that week. And when I arrive at those questions, the first thing I do—because I’m a tremendously annoying person outside of the podcast—is I begin to subject everybody around me to those questions. Anybody that seems even remotely interested in what we’re talking about for that week, I start to ask them what they think about it. It helps me arrive at a more unbiased, vibrant, multicultural account of what we’re talking about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And the big question for this week—it was a very difficult week for this—the question was “Why do you believe what you believe?” How do you justify believing in what you believe in? Now, you can imagine the kind of reception I get asking people this stuff. Why do people get so uncomfortable when you ask them to explain why they believe what they believe? For a long time I was confused by this. I didn’t know why. And look, I just want to make it clear, I’m not being aggressive in these conversations. I’m not trying to change what people believe. They actually don’t have a problem most of the time. It’s just on certain issues they have a very uncomfortable ambiance about them when it comes to explaining why they believe what they believe.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And then I realized something. I am fighting a losing battle here against society. When it comes to what people believe about stuff, at least in modern-day American society, we’re not supposed to ask people why they believe certain things that they believe. It’s actually an incredible double standard. There’s certain beliefs we’re supposed to ridicule relentlessly. If someone is a racist, you’re supposed to vilify them, just lambaste them in public. You’re supposed to hang them up in the town center in one of those village idiot wooden things. If someone’s a communist, you’re supposed to show them the error of their ways. You’re supposed to convince them of the superiority of capitalism and a representative republic and democracy. But when it comes to other beliefs that are actually incredibly similar to those if you think about it, we’re not supposed to ask people why they believe what they believe. Social conventions have created this sort of protective cocoon for people on certain issues where they don’t really need to step outside of what’s comfortable for them to explain.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, just for today’s episode, just for the next 30 to 40 minutes, let’s step out of that protective cocoon. Let’s transform into a butterfly. Just for the show today, let’s examine our beliefs, find out how we justify them. And then at the end of the show, if you’re uncomfortable, you can go right back into that cocoon. It’s not going anywhere. What do you guys say?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Alright, now, earlier in the week, I was having an absolutely perfect conversation for this very topic. I was talking to a friend of mine. This guy believes in ghosts, alright? Now, I want to come back to this guy, but first I want to unpack the idea of belief a little bit. Because what I think we’ll all realize soon—and it’s something that Voltaire definitely would have agreed with—is that this strange condition that we’re born into, this crazy carnival ride that we’re on that we call life, when it comes to belief, it all begins to look like a really sick joke that something’s playing on us. And let me explain why.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">When we’re born into the world, we’re born into a very strange condition. There you go. I’m repeating myself again. When it comes to arriving at beliefs about stuff, there are two giant things that are in our way, two giant things about this condition that we find ourselves in that make believing in anything a very complicated task. The first thing—a very important thing—is that certainty, for all intents and purposes, is impossible. In fact, we can’t even be certain about the fact that certainty is impossible. You know, that’s the great paradox of skepticism. But if certainty is possible, it seems very clear that finding it through all these various handicaps that we have—our senses and our feeble human brains—it seems like that’s a wild goose chase.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Voltaire had a famous quote. He said: Doubt is an unpleasant condition, but certainty is absurd. This was a fanfare of the Enlightenment period, but it was Voltaire who said it initially. Now, what Voltaire and many of the Enlightenment thinkers are getting at here is that you don’t know anything for certain. You may think that you know things for certain, but you don’t. You may have a very strong belief about something. And that belief may be backed up by very, very strong evidence that constantly supports it. And that could be constantly reinforced by your experience and the world that you live in. And you still don’t know that thing for certain, okay?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, let’s take one of the most seemingly obvious things that exists in the world, at least to me—the physical world. I look around me right now, and it seems like all of this stuff exists. It seems like this table exists, that the rug exists, that humans exist all around me that I’m actually talking to. To me, it seems clear based on my experience that I’m not just suspended in blackness right now talking to myself. But do I know for certain that all of this stuff exists? On that same note, do I know for certain that I exist? Do I know for certain that I’m a thinking thing like Descartes said, you know, his famous <em>cogito, ergo sum</em>? I think, therefore I am. The clear and distinct idea that he starts all of his QED stuff from is, “I am a thinking thing. I exist.” But is that for certain? Well, a lot of people would argue, no. They point to the famous Cartesian circle, the idea that his clear and distinct ideas could have been deceived from the very beginning. So, Descartes really doesn’t know anything for certain.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, if we don’t know anything for certain, what does all of this mean? What are the implications of this if that is true? Well, here it is. To believe in anything, to claim to know anything no matter the amount of empirical data or reasoning that’s at your disposal, is a leap of faith. Even something as imminently in front of us at all times like the physical world with a seemingly endless amount of evidence that we could pull from to reinforce its existence, if you claim to know that it exists for certain, well, just send me an email. I’ll open up my phone. I’ll call an idealist philosopher. You guys can sit down and have a Starbucks, and about 10 minutes later he’s going to convince you that you’re making a lot of assumptions about this world that you don’t even realize you were making before you talked to him. The point of this is that to believe in anything is a leap of faith.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But I want to take a step back right here because this is a very common point where people make a very easy logical leap: that because everything is a leap of faith at some level, that that, therefore, makes all leaps of faith equal or all beliefs the exact same thing. It’s far from the truth. We may be making leaps of faith all the time whenever we believe something, but all leaps of faith are not created equal. And this brings me to the next very strange thing about this condition that we’re born into as human beings. We can believe literally anything that we want to believe. Just think about that. Consider that we can believe anything. And what I mean by that is what you believe has absolutely nothing to do with how true it is.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, this is something that’s very obvious to some people and not so obvious to other people. Other people think, “Well, no, I believe in things and all humans believe in things because they think it’s the truth, right? There’s no other reason why people believe things.” Well, if you doubt that the truth is not connected to beliefs and things at any level, just consider the fact that there are millions of examples I could give you right now of people that hold mutually exclusive beliefs about things where it’s impossible for both of them to be correct about them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In fact, consider the fact that some people believe in ghosts, okay? Now, I’m going to come back to that conversation I had earlier in the week with my friend. He was telling me about the most recent installment in the horror movie genre: it’s called <em>Annabelle</em>. I saw the movie. It’s the movie about the creepy doll that is possessed by a demon. And for future listeners, I’m sorry if this dates the show. I’m sorry if this example is not relevant to you, but it’s the same generic story of, you know, there’s an attractive young couple. They get some new material possession that unfortunately gets claimed by Satan’s henchman or some other demon entity. I’m almost positive no matter how far in the future you’re listening to this, there’s going to be some new movie that is still appealing to these fears that people have. So, just replace <em>Annabelle</em> with whatever movie is prevalent during your time period.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But what this guy was doing is he was telling me about the doll from <em>Annabelle</em> apparently is based on actual events, that there was this young couple that got this doll, and that they would leave and go and do stuff. They’d come back from the supermarket, and the doll had changed positions throughout the house. And one night they were laying in bed, and the door ominously creaked open. And the doll was standing there. And it jumped up onto the bed, and it tried to strangle the woman’s husband to death. Very scary.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, look, in fairness to me, I thought he was joking, okay? I started making fun of it, started poking at holes in the story and really just talking about the whole general situation that he’s talking about. Just that there exists an underworld where demons are holding human souls captive and that one of the lords of this underworld decides to take a liking to this young, attractive couple’s baby. He wants her soul for all of eternity. So, his best plan is to take control of this creepy-looking doll and just mess with them for weeks. Because he doesn’t actually just take her soul. He spends weeks upon weeks just flicking the lights on and off, moving curtains in the corner just to mess with them, putting the doll in random places when they leave the house, opening doors when no one’s around just for the camera to see. This is what the demon spends his time doing. This is what one of the lords of the underworld is doing with his time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And look, really, I mean, don’t get me wrong. I’m completely open to the idea of all this stuff existing. I’m an agnostic when it comes to demons and ghosts and evil spirits at least at this point in my life. It certainly would make the world a much more interesting place. But in the context of this conversation, I try to make people laugh. And when I pointed this stuff out, the guy just looks at me and goes, “Whoa, whoa, whoa, wait, wait, wait, wait, wait. You don’t believe that this happened? What? Why don’t you believe that this happened?” Now, although I’m an agnostic on the issue, I’ve heard people that believe in the exact opposite of this guy all throughout my life. They say ghosts definitely do not exist. They’ll say, “We live in the smartphone age. Everybody has a camera sitting right in their back pocket. If these things truly are as prevalent as these people say, why wouldn’t somebody have gotten one on camera, you know? Where’s the video evidence?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">When they’re asked to explain why so many people claim to have these experiences, they say these people are nothing more than superstitious people with a confirmation bias. They say that they’ve been told from a very early age that they have a spirit or a soul. Maybe their mother tells them a story about a time when she was young and she saw her mother at the foot of her bed. This concept of souls and a spirit realm existing is constantly reinforced in their head. So, when they’re told about demons existing or about a ghost haunting a certain property line in downtown Philadelphia, the idea of that happening is not that outside of what they’ve been told is acceptable to believe. So they just believe it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One of the common arguments against it is, you know, if you told these same people that there were goblins sitting up in the trees constantly watching them, they would never believe you. But in reality, goblins and ghosts are equally as unfounded and ridiculous. It’s just that ghosts correspond more with what they’ve been told is acceptable, so they believe it. Some people vehemently believe in ghosts. Some people vehemently don’t believe in ghosts. But who is right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, one thing’s for certain, they can’t both be right. The two viewpoints directly contradict each other. One of them or neither of them has to be right. They can’t both be right. Yet both sides are devout believers in their side of the operation. The point of this, aside from setting up the extended example of ghosts, is to illustrate that someone believing in something has nothing to do with how true it is. We can believe in anything we want to believe. And it’s funny because if you asked 100 people why they believe the things they do, 99 of that 100 people would say that they believe things because it’s the truth. “Maybe complete certainty about things is impossible, but what I believe is the closest facsimile of truth possible. We all believe the things that we believe because we think it’s the closest thing to truth that we’ve come across so far.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, like most things in philosophy, I truly wish it was this simple. Because if you press those 99 out of 100 people hard enough, what you’re inevitably going to find is that they believe in things for a lot of reasons. And not many of them have anything to do with the truth, necessarily. Look, I’m not making this up, okay? The dozens of different justifications for believing in something is an entire area of philosophy today. There are so many ways that people distort reality to try to convince themselves that something is true that you could literally turn off the podcast right now, and you could spend the rest of your life reading books about all the different ways that people distort reality to convince themselves of stuff. People believe things because they’re convenient to believe in. People believe things because it's useful to them on a personal level. They believe things out of laziness, anything. Look, it’s very difficult to accept reality on reality’s terms. So, leave it to us to come up with tons of creative ways to believe in something and create the reality that we want to exist.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, real quick, I don’t want to appear to be entirely hostile to false beliefs here. I think that they can be incredibly useful. The longer I live on this planet, the more I realize how powerful of a tool belief is. It really does shape the world that you live in at least subjectively. There’s all kinds of scientific research that shows that you can create mental hang-ups for yourself that preclude you from being able to do something like, simply by believing that you can’t do something can make you incapable of accomplishing it. Just believing that you live in a world where you’re constantly being subjected and oppressed by a higher power can cause you to believe that any bad or good thing that happens to you is a byproduct of that oppressor. Look, I’m starting to ramble about this. But the point is, let’s not entirely discount the idea of false beliefs, because they can be incredibly useful; they’re just not true.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, let me reset this. Certainty is impossible, and there are absolutely no limits to what you can believe. And this is one of the biggest messages of the podcast right here, and it’s one that was very dear to Voltaire and the rest of the Enlightenment thinkers. Here it is: if you’re a person who claims that the basis for why you believe the things you do is because you think they are true and not because they serve some useful purpose to you, then you are instantly assuming a lifelong responsibility, a lifelong responsibility of putting your beliefs under a microscope, a lifelong responsibility of looking at them through an extremely critical lens, of taking every new piece of information you get and weighing your current beliefs against it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Think of the implications of that. Think of now what is impossible for you to say. If you are truly concerned with your beliefs being true, then there should never be a belief that you hold—there should never be a point in your life where you say something like, “It doesn’t matter what anyone says to me; it doesn’t matter which new facts are presented to me. I will never falter from this belief. I am confident.” You can’t say that if truth is truly the goal that you’re going for. No one said this was going to be easy, alright? The easy way is deciding that whenever somebody says something that contradicts what you think to just plug your ears and run in the opposite direction.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You’re not a bad person if you do this. It’s just, the Enlightenment thinkers and Voltaire would want you to be honest with yourself, be honest that your beliefs are out of convenience and not out of a desire to find the truth. Not everybody’s cut out for this kind of life. You know, some people have a hard time committing to 10 to 15 years for a dog, you know? They say, “I’m not going to buy kibble for the next 10 to 15 years not to mention all the health defects that could possibly happen. How can I commit to 10 to 15 years of responsibility?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, this is a lifelong commitment. And hey, I got more bad news for you, this whole process of weighing your beliefs up against the truth, it’s going to be a long, rigorous, uphill battle, because there are far more ways for you to be wrong about what you believe in than to be right about what you believe in. Plato talks at the end of the <em>Theaetetus</em> about an idea of what knowledge is—something that I think we’ve talked about briefly on this show before. It’s the idea that knowledge is only true knowledge when it is a justified, true belief in something. Now, it should be said real quickly, this isn’t a knock-down explanation of what knowledge is. People have found exceptions to this rule. But it works really well for us personally if we’re just trying to identify some shaky beliefs that we might hold. Let me explain what it is.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Picture a Venn diagram where one circle is truth—inside of it is everything that is true in the universe—and in the other circle is belief, and inside of that are all the beliefs that you hold about everything in the universe. Now, let’s assume that you have some beliefs that correspond with reality on reality’s terms, or truth. If that is true, then the two circles of your beliefs and truth would overlap in the middle. But Plato thinks that this overlapped area alone is not knowledge yet. It’s not enough for you to just believe something that is true and call it knowledge because it also needs to be properly justified to be considered knowledge.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Listen to me. I’m sitting here trying to describe a Venn diagram on an audio podcast. I absolutely hate describing visuals on this show. If you guys come to the website in the show notes, as people say, I’ll have a Venn diagram there that is the Plato’s justified, true belief in things. Anyway, let me just do the logical thing and give you an example of what I’m talking about. And the point of this example is to consider all the wonderful different ways that we could be wrong about something at any point in time and just how much scrutiny it takes to have an actual justified, true belief in something.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s say that you’re a commoner in the 1400s in Europe. And you’re in a bar, and you’re listening to a story that some swashbuckling, seafaring gentleman is telling about one time he was out on the ocean. And he got to the ends of the earth, and he saw a ship full of pirates, full of proud men, fell off the ends of the earth. And his ship barely escaped the grasp of the giant waterfall that happens at the end of the earth. Now, let’s say this becomes a belief of yours because you heard the guy tell the story. Why would he lie about something like that? You believe that the earth is flat, alright? Well, that would be a good example of something that only falls in the belief part of the Venn diagram. Because when it comes to it being true or justified, well, in retrospect we know that the earth isn’t flat anymore, so it certainly wouldn’t be true. And it certainly isn’t justified just because you hear some drunk guy in a bar talking about it in the 1400s.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s take another example. Let’s say you’re still living in the 1400s and you believe that the earth is a sphere. Let’s say you believe this because you also believe that the earth and all the planets and all the stars and the sun are all just marbles in a giant celestial game of marbles that the gods are playing against each other. Well, that’s a great example of a belief that happens to be true, but it isn’t properly justified, because this isn’t just a giant game of marbles. So, it wouldn’t be considered knowledge to Plato because you haven’t properly justified why you believe in it. And this is where the tapestry of our beliefs starts to unravel right before our very eyes.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Consider all the different ways that you could be wrong about any one thing that you believe in or, on that same note, all the different justifications you could be covertly using—subconsciously without even realizing it—for believing in something out of convenience alone. Now consider the fact that you live in a world where certain beliefs that you hold—it’s inappropriate to question you about them. Now consider the very few ways that you could be right about what you believe. It’s hard for some people to take a step back and look at their beliefs objectively. And if you’re having a hard time taking that step back, just take yourself out of the equation all together. Have you be the focal point.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Consider the way that you look at other people’s beliefs that you don’t agree with. You certainly can point out what’s wrong with them, right? Think back to a time that you disagreed with one of your friends. Maybe you agreed on most things, but on this one issue, you guys had to agree to disagree. They were dead wrong. You were right. You could see all the ways that they were believing in what they believed in because it was convenient to them and not because they necessarily thought it was true. You can pause the podcast and consider that example. I’m sure you’re going to be very good at finding what’s wrong with their beliefs. If somebody showed you a list of faulty justifications for believing in something, you could point out exactly which ones they’re guilty of. You’re good at this already.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, that’s a good way for you to do this in your personal life. But for the sake of the show, let’s consider a general example that we can all appeal to. It was one that was very important to the Enlightenment thinkers during their time especially when it comes to religious toleration. Let’s say that I’m a Christian. There are a lot of people that disagree with me in the world today throughout human history that I have to contend with. We’re going to talk about several of them. But first let’s start with the common opponent in today’s world, the growing vocal minority known as the atheists.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if I’m a Christian, I believe in the Christian God. The atheists don’t believe in the Christian God. Like we talked about with ghosts before, these are mutually exclusive beliefs. We can’t both be right about things. Either they’re wrong, I’m wrong, or we’re both wrong. We can’t both be right. So, if their belief that there is no Christian God is not in the truth circle on our Venn diagram, then we should, in theory, be able to find some sort of faulty justification for believing what they believe. And if you look hard enough, there’s no shortage of these. Christians use them all the time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One of the most common ones leveraged against atheists is that they are nothing more than rebellious teenagers—that’s why they believe what they believe—that they lack humility, that they’re sitting in their room angry at their parents, putting mascara on, blaring emo music, yelling at God, not acknowledging this tremendous gift that the Christian God has given them. Because if they did acknowledge it, then they’d have to follow his set of rules. And they don’t want to do that. They’re selfish people. And eventually they’ll pay for their narcissism with eternal torment. Now, on the other hand, atheists commonly say the exact same thing about the Christians. I’m sure we’ve all heard it before—the fact that it’s in fact the Christians that lack the humility, that, “Oh, it’s very difficult for me to think of something more arrogant or self-important than the idea that the entire universe was created, and it was put here so that you could essentially walk around and talk to other human beings nicely.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, let’s look at this for a second. Right here the atheist is attacking the Christian’s justification for believing what they do. And the common thing that the Christian says back to them is that their justification has nothing to do with truth or convenience, that they just chose to believe. They just believe based on faith. God has already said what he’s going to say. You’re sitting here waiting around for him to show himself, to start a YouTube channel or something. No, he already said what he’s going to say. Yes, he sits around behind the scenes tirelessly concealing himself from everybody. But here’s the good news. If you just have faith, if you just let go of that lack of humility, if you believe in him, then his existence will become self-evident. You’ll look around you, and it’ll all be obvious. It was God.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But there’s a whole other side to this, isn’t there? The Christians have another formidable enemy, an enemy they go to war with just as frequently as atheists if not more because there’s more of them. And their name is—well, the tens of billions of people who have lived throughout human history and the billions of people that are currently living who believe in a different God than the Christian God. If you are a Christian, you disagree with the majority of humans that have ever lived on this planet; you disagree with the majority of spirits that God has bestowed with the gift of existence. You think they have chosen to believe in the wrong God. Billions upon billions of people that devoutly believe in their God—they claim to have personal relationships with their God or, I guess more so throughout history, direct communication to their God or obvious interaction with their God—billions of people that have the same transcendent experiences that Christians have and strong connection to their God—all those people are wrong. And the scariest part of all is that they did it all from the exact same mental starting place as any Christian, well, a Christian that lived beyond the first century AD when any of these miracles that were perpetrated by God could have been witnessed.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the interesting part is that these people to a Christian are not rebellious teenagers. In fact, many of them follow a much more restrictive code of behavior than a Christian does. So, what is the justification for their belief? Well, all of these people use the exact same justification for their beliefs that the Christian did. The difference between them is that the Christian believes that they were either born into the right home or had some sort of insight that gave them confidence that they were right and the vast majority of humans that have ever lived are currently burning in hell for picking the wrong God.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the two ways that Christians typically respond to this in modern times, at least by my experience, is either by shaking their heads and saying, “I don’t know. I’m confused by that too. The Lord works in mysterious ways,” or some variation of that. Or they say that they just don’t believe that God would do that, that the majestic God that’s presented in the Bible is just and good, and they just can’t believe that God would sentence all of these people to eternal torture for not believing in Christianity. The common thing I usually hear back from either Muslims or Rabbis or general agnostics is that, that’s great and all, but you’re directly flying in the face of thousands of years of Christianity by saying that. And how convenient for you to be able to cherry pick scripture and ignore other scripture to create a new, more modern, more tolerant version of God that doesn’t send anyone to hell for believing the wrong thing at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The point of this is not to attack one set of beliefs. It’s to illustrate the responsibility we have if we want our beliefs to be based on truth rather than what we want the truth to be. If you in fact don’t believe in things based on convenience, then you need to be holding your beliefs to this level of scrutiny constantly, every belief. And look, when it comes to the Enlightenment thinkers, this is what they were doing with the collective knowledge of the human species. If applying this level of scrutiny in Europe can yield such a giant change, what sort of change can it yield in your own personal beliefs? The exciting thing to think about is, are you just a few weeks away from a personal enlightenment? It’s crazy to think about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But let me get back to this guy that I was talking to earlier in the week about ghosts. He asked me why I don’t believe the story that he was telling me about the doll that became possessed by the demon and tried to strangle the woman’s husband. And what I did from there is I tried to get to the bottom of where his personal line in the sand is when it comes to believing the testimony of others. Because he has to have one, right? He must not believe every single story that he reads. He believes this one, but he doesn’t believe others. I tried to start to give him examples of things that he doesn’t believe like—I mean, it was prevalent in my mind, so I said, how about the ships that fell off the edge of the earth that the old seafaring gentleman used to say? Do you believe in those stories? I brought up a couple stories of alien encounters, of alien abductions that were extremely far-fetched. He didn’t believe in those.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, I tried to understand why he chooses to believe some stories and not others. What is it about the stories that makes them more likely or less likely? And eventually where we got in the conversation was him saying that he believes in ghosts because it augments his living experience. That was his first answer. And I was extremely baffled when he said this. It’s actually kind of interesting. He said, when he goes to the movies and he sits down and he’s watching the big screen, if he believes in ghosts, he’s not just limited to saying, “Oh, wow, that was an incredible camera angle right there,” or “Wow, what an acting performance by Brad Pitt!” He also has at some level in his mind the thought that this could happen to him at any point, that everything that he sees on the big screen actually happened somewhere in a time very recent to us. And that makes him excited.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">At first glance, it’s kind of sadistic. But it’s actually the exact reason why I’m so interested in history. I love thinking about the fact that these people really existed, that this stuff really happened. And we started digging in the conversation further, and he started getting to the point where he was saying that he likes to believe in a spirit world because at some level he fears death, the end of this mortal existence. And he likes to think about there being a possibility that it doesn’t all need to end, that if there is some spirit realm where he can be relegated to a status of haunting a book or haunting a doll that at least he doesn’t have to say goodbye to existence. He doesn’t need to fade into blackness one day.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, after listening to this episode, I don’t got to tell you guys why that’s an extremely faulty justification for believing in something. But what I will tell you is, Voltaire, Newton, and Locke would have definitely agreed that every belief that you hold is a leap of faith at some level. But not all leaps of faith are created equal. And if there’s one piece of advice the Enlightenment thinkers might give to you or that I would give to you personally, it’s this: question your faith about everything constantly. Now, this may seem abrasive, but it truly is not. Consider the fact that if I asked you to question your faith about something that was damaging to you or other people, you’d be thanking me, alright?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">If I asked you to question your faith about whether heroine was a good idea, if I asked you to question your faith about whether, you know, irradicating minorities from the planet was a good idea; if I asked you to question your faith about whether the world is a helpless, dark, dangerous place that isn’t worth living in and you should kill yourself—if I asked you to question your faith about those things, you would be thanking me. Remember, if certainty is all but impossible and we can believe literally anything we want to believe, if we actually want our beliefs to be as close to the truth as possible, we have a lifelong responsibility to look at our beliefs under a microscope.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Alright, let’s move on to the thinkers. There was a really fun question being asked about human history during the lifetime of Voltaire. Who is the greatest of all human heroes? Was it Alexander the Great for uniting Greece and spreading Hellenism across the world? Was it Julius Caesar for bringing Rome to their unprecedented level of greatness? Well, Voltaire didn’t think it was either of those guys. In fact, he had a very interesting answer to this question. He thought the greatest human hero ever was Sir Isaac Newton. Because while Caesar and Alexander may have changed the world by way of the sword—they may have brought change for decades or maybe even centuries—Sir Isaac Newton forever revolutionized the way that humans look at the world that they live in. And that change was everlasting.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, before Newton, people like Descartes were the authority. They thought that knowledge should be arrived at through an almost mathematical process that we’ve talked about before, that we begin with clear and distinct ideas, things that are either innate in our minds or are self-evident; and from there we use reason to deduce what the truth is. Well, Voltaire’s views on the matter are very similar to Locke’s, and he fundamentally disagreed with Descartes. There’s a quote by Aristotle: Humans by nature desire to know. One of the most depressing things you can ever hear is that you have reached your full potential in something. I mean, just think of how sad that is, that no matter how hard you work or you try from this point onward, you will never be any better than you are at this moment right now.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Voltaire and Locke were not filled with the same kind of desperation for having total knowledge about stuff. They were perfectly satisfied living in doubt. People commonly say that it’s depressing to think about not having certainty or not knowing exactly why all of this is here or what our purpose is. But in that same way, in keeping with our example from before, Voltaire and Locke would have said, how sad is it to hear that we found the absolute truth about anything, that everything else you ever say on this matter is going to be readdressing some earlier point or is going to be commentary on something that we already know? Isn’t that just as depressing?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Voltaire and Locke were not willing to concede to speculation just because they were desperate to know things. They weren’t willing to create these vast, metaphysical explanations of the universe that really have no basis other than flawed human reasoning just so that they can say that they know things. Plato’s <em>Timaeus</em>, Plotinus’s theory of the One, Leibniz’s <em>Monadology</em>—all things that we’ve talked about, and all rationalist, metaphysical systems aimed at taking what they claim to be self-evident knowledge and speculating the rest based on their own human brains. Not many people would disagree that they got it wrong speculating from these self-evident principles.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Voltaire and Locke took a different approach. They wanted to look at how things actually interact with each other in a measurable way rather than creating some story to explain all the holes that we haven’t filled in yet. Now, don’t get them wrong, they value philosophy; they value these giant, metaphysical speculations. They just think they should be put in their proper place.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Philosophy will always be a useful tool. People often ask me, how is philosophy useful in the world today? This is the reason why: because philosophy is the great engine of hypothesis. I mean, really, just think about it for a second. What makes a great scientist in the world today? A great scientist is someone who can take some falsifiable hypothesis and come up with a brilliant experiment where at the end of the experiment the only possible outcome is that that hypothesis is proven correct or incorrect. And they do this in as unbiased and humble of a way as possible. That’s what makes a great scientist.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But there’s a whole other side to that, isn’t there? Where do we get that brilliant, outside-of-the-box, falsifiable hypothesis? Where do we get the things for scientists to test that will eventually lead us to progress? Both the scientist and the philosopher are brilliant, but they’re brilliant in very different ways. It takes a different kind of brilliance to come up with new theories or to recognize assumptions that we might be making in science currently. Plato, Plotinus, Leibniz—all of these metaphysical systems can be seen as hypotheses for scientists to test. And yes, ultimately, 99% of them are not going to hold up to scrutiny. But one of them might be another Newton. One of them might usher in an entirely new scientific revolution for the human species.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Philosophy in this way is the great engine of hypothesis. And Voltaire would have agreed with this. He would have agreed that these systems are educated guesses. But that’s where their validity ends. He thought that, for whatever reason, if God existed, us knowing for certain that he exists—it’s not that important to him. So, instead of speculating about the nature of things or the essence of things or creating elaborate systems to try to explain scientific holes, we should study what we were actually given by him—the natural world, ourselves, etc.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Voltaire was fine with this. He thought, look, maybe science will never be able to answer these questions fully. But when he was in doubt about something, he really liked a quote that was popular by Sir Isaac Newton in his day. And it goes like this: When I don’t know something, I will not feign a hypothesis. He was fine with the condition he was born into. Doubt is an unpleasant condition, but certainty is absurd.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you all. Talk to you guys soon.</p>
@@ -1570,29 +1570,30 @@
 
 </div></div></div></div></div></div>
 
-        
+          
 
-        
-        
-          <div class="blog-item-author-profile-wrapper" data-content-field="author">
-            <a href="/transcript?author=5eec15fc09afd80facd6edf3">
+          
+          
+            <div class="blog-item-author-profile-wrapper" data-content-field="author">
+              <a href="/transcript?author=5eec15fc09afd80facd6edf3">
   
   <span class="author-name"></span>
 </a>
 
 
 
-          </div>
-        
-      </div>
-
-      <section class="blog-item-comments">
-        <div class="blog-item-comments-toggle-wrapper">
-          <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
-            
-          </div>
+            </div>
+          
         </div>
-      </section>
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
+              
+            </div>
+          </div>
+        </section>
+      
     </div>
   
 </article>
@@ -1937,7 +1938,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b502231aaf751bf844c833e9880528bf.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.4df6f348a832dc61e261a099a8ca9b31.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

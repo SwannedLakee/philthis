@@ -42,15 +42,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3b3e3fc50f53cca7422e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3b3e3fc50f53cca7422e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-c20455a09b1fe109400d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2956e20d9a68ca6ae280-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-f176173c568e8717c99b-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-44d9cfb93d344a7446ac-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-5cd4a896962954eaca96-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6f4322f63224e137fb72-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4a222f32bf58327e181b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5f2d4e7ddb02d50723d1-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-210f16f8bec538fbaf2f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-eb72d47f5c6899b293da-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7993e315eeeb0e31e0d1-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-eb731df3d05e856250e3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b99f54f05b3a4f777f55-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c21b9c2f0a1526623416-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-84d5b8a1f1fc4654032c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a6388a789435452d55a7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db82977b390515867439-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-5196e0c68b662ed24a38-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-377a5b12886c446ac5e6-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #151 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"2":true,"8":true,"3":true,"6":true,"7":true,"1":true,"4":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #151 - Transcript","id":"601ebb0008804c2a8821ec95","fullUrl":"/transcript/episode-151-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["fluid_engine_clean_up_grid_contextual_change","send_local_pickup_ready_email","commerce_clearpay","customer_accounts_email_verification","website_component_enabled","viewer-role-contributor-invites","commerce_order_status_access","member_areas_feature","override_block_styles","show_add_to_cart_in_plp","accounting_orders_sync","commerce_subscription_renewal_notifications","themes","toggle_preview_new_shortcut","commerce_etsy_product_import","rewrite_transactional_email_from_address","is_feature_gate_refresh_enabled","commerce_etsy_shipping_import","commsplat_forms_visitor_profile","fluid_engine","campaigns_discount_section_in_automations","nested_categories","campaigns_thumbnail_layout","new_stacked_index","image_component","customer_account_creation_recaptcha","background_art_onboarding","website_fonts","site_header_footer","campaigns_new_image_layout_picker","color_var_rendering_in_v6","campaigns_import_discounts","scripts_defer","pdp_product_add_ons_visitor_site","commerce_checkout_website_updates_enabled","campaigns_global_uc_ab","enable_css_variable_tweaks","order_status_page_checkout_landing_enabled","commerce_restock_notifications","campaigns_discount_section_in_blasts","commerce_site_visitor_metrics","visitor_react_forms","unify_edit_mode_p2","collection_typename_switching","nested_categories_migration_enabled","marketing_landing_page","supports_versioned_template_assets"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #151 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-151-transcript","datePublished":"2021-02-06T07:52:15-0800","dateModified":"2022-07-11T09:40:25-0700","headline":"Episode #151 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1489/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f1b17328c55249cf16e9-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce3304dbbbc00b0adc2c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-33c1f90c488c55fae579-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7116ec013cb68ccb46b1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-c284904b25c71d02bce8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-6e60a567b55f463b68e7-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-5d1c15b78a92b66bb9c2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-7acbb1abe140de860b8e-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c448735543b55eab799b-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-070905c328c108a2d84a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-206ef2320c2cea5a2878-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-503cf40eefffe62983b2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-cc29311f395b003af368-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-02d1e0bcb6fc2a7af709-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c425f4bbbcfb78c3f308-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f51f475a757005c26ee7-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e651beeebf0f0d458f3c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd133305dca90ae5ca2f-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5978fce864bf3409cbda-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-ed7446c70dde7b3316d8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b9419dfe48307ccde360-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #151 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"4":true,"6":true,"8":true,"3":true,"1":true,"7":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #151 - Transcript","id":"601ebb0008804c2a8821ec95","fullUrl":"/transcript/episode-151-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["proposals_beta_in_circle_labs","commerce_etsy_product_import","async_copy_collection","send_local_pickup_ready_email","commsplat_forms_visitor_profile","campaigns_global_uc_ab","collection_typename_switching","campaigns_import_discounts","themes","enable_css_variable_tweaks","unify_edit_mode_p2","marketing_landing_page","pdp_product_add_ons_visitor_site","commerce_checkout_website_updates_enabled","campaigns_discount_section_in_automations","campaigns_new_image_layout_picker","new_stacked_index","commerce_etsy_shipping_import","google_consent_v2","nested_categories_migration_enabled","commerce_restock_notifications","fluid_engine_clean_up_grid_contextual_change","background_art_onboarding","commerce_order_status_access","member_areas_feature","order_status_page_checkout_landing_enabled","toggle_preview_new_shortcut","campaigns_discount_section_in_blasts","viewer-role-contributor-invites","is_feature_gate_refresh_enabled","override_block_styles","supports_versioned_template_assets","campaigns_thumbnail_layout","commerce_site_visitor_metrics","rewrite_transactional_email_from_address","scripts_defer","customer_account_creation_recaptcha","show_add_to_cart_in_plp","fluid_engine","website_fonts","visitor_react_forms","customer_accounts_email_verification","accounting_orders_sync","nested_categories","commerce_clearpay","commerce_subscription_renewal_notifications"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #151 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-151-transcript","datePublished":"2021-02-06T07:52:15-0800","dateModified":"2022-07-11T09:40:25-0700","headline":"Episode #151 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1500/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1706811132467-QIR6O63RE5GI9HXI9ESJ/static.css">
@@ -62,13 +62,7 @@
     class="
       primary-button-style-solid primary-button-shape-rounded secondary-button-style-solid secondary-button-shape-rounded tertiary-button-style-solid tertiary-button-shape-rounded  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-dash tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-right tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-hide tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-hide tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-left tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-content-position-center image-block-overlap-text-alignment-opposite image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog-masonry collection-6053dc3a01905600e48be230 view-item collection-layout-default mobile-style-available sqs-seven-one
       
-        plp-config-editor-add-to-cart
-      
-      
         show-pdp-product-add-ons
-      
-      
-         plp-add-to-cart
       
       
         
@@ -412,18 +406,18 @@
   "
 >
   
+    
 <div class="sqs-announcement-bar-dropzone"></div>
 
-  <div class="header-announcement-bar-wrapper"
-  > 
-
-    <a
-      href="#page"
-      class="header-skip-link sqs-button-element--primary"
-    >
-      Skip to Content
-    </a>
-    
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
 <style>
@@ -434,13 +428,13 @@
         }
     }
 </style>
-    <div
-      class="header-border"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-border="false"
-      data-test="header-border"
-      style="
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
 
 
 
@@ -454,44 +448,44 @@
 
 
 "
-    ></div>
-    <div
-      class="header-dropshadow"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-dropshadow="false"
-      data-test="header-dropshadow"
-      style="
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
 
 
   
 "
-    ></div>
-    
-    
+      ></div>
+      
+      
 
-    <div class='header-inner container--fluid
-      
-      
-      
-       header-mobile-layout-logo-left-nav-right
-      
-      
-      
-      
-      
-      
-       header-layout-nav-right
-      
-      
-      
-      
-      
-      
-      
-      
-      '
-      style="
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
 
 
 
@@ -501,68 +495,68 @@
 
 
 "
-      data-test="header-inner"
-      >
-      <!-- Background -->
-      <div class="header-background theme-bg--primary"></div>
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+        <div class="header-display-desktop" data-content-field="site-title">
           
-          <!-- Social -->
+
+          
+
+          
+
+          
+
+          
+
+          
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -661,64 +655,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -748,59 +742,59 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
-
-      </div>
-      <div class="header-display-mobile" data-content-field="site-title">
-        
           
-          <!-- Social -->
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -899,64 +893,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -986,14 +980,15 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+          
+          
+          
+          
+          
+        </div>
       </div>
     </div>
-  </div>
+  
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     
@@ -1520,6 +1515,9 @@
       <div class="blog-item-wrapper blog-grid-masonry-item-wrapper" data-content-field="main-content" data-item-id="">
   <article id="article-" class="h-entry entry hentry post-type-">
   
+    
+    
+    
     <div class="blog-item-inner-wrapper">
       <div class="blog-item-top-wrapper">
         <div class="blog-item-title">
@@ -1538,11 +1536,13 @@
             </time>
             <div class="blog-meta-item blog-meta-item--author p-author author" data-content-field="author">Written By <a href="/transcript?author=5ed93d8e981c0869f203a7ea" class="blog-author-name">Philosophize This!</a></div>
           </div>
+          
         </div>
       </div>
 
-      <div class="blog-item-content-wrapper">
-        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-601ebb0008804c2a8821ec95"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-5a4b3411b486b7fc7d67"><div class="sqs-block-content">
+      
+        <div class="blog-item-content-wrapper">
+          <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-601ebb0008804c2a8821ec95"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-5a4b3411b486b7fc7d67"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Today’s show is on Erich Fromm and his landmark book <em>Escape from Freedom</em>. I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, last episode, a major through line when discussing <em>The Art of Loving</em> by Erich Fromm was that love is the only sane and satisfactory answer to the fundamental problem of human existence—the fundamental problem being that we are separate from everything and everyone else, that we are alone, that we exist in a state of what he called existential loneliness. But what some of you out there maybe did is, you heard that diagnosis; you looked to your left, saw some people you care about, looked to your right, saw even more people you cared about; and then turned back to Fromm and said, “Look, Erich Fromm, you’re saying that everybody’s alone out there. And I understand what you’re saying. I think you have some good ideas. But let’s be real, you don’t know me. You don’t know how alone or not alone I am. The real question is, why are you so insistent on convincing me that I’m alone all the time?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What Erich Fromm would say is that you are among the most independent and isolated human beings that have ever lived in human history. And what you can thank for this reality are the very modern set of social conditions that you were born into, that themselves only exist because of a long, multi-thousand-year process of what he calls the individuation of human beings. Something that will be a recurring theme throughout this episode is that sometimes there are parallels between the stages of development within our personal lives and the stages of development on a more macro level when it comes to the way citizens behave politically within a society. This is no exception.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Fromm would liken the development of human beings from the Stone Age until now to the development of a child from a fetus into an adult—also sometimes called the process of individuation. Let’s consider the metaphor of a child for a second, though. Think all the way back to what it was like when you were a fetus. Now, I don’t know about you people, but I remember it being like a five-star resort. You don’t have to lift a finger as a fetus. Everything is included. You can lay around all day. People feed you like people feed you grapes at a resort. You don’t got to make any decisions. You don’t have a care in the world as a fetus. But eventually you have to get born. You’re not born capable of taking care of yourself, so you’re still in a slightly less-inclusive luxury resort. You have some more autonomy now. But you still eat what your parents tell you to eat, and you go wherever they tell you to go.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, this pattern continues. As the years go on, you slowly can do more and more things for yourself. And you desire greater levels of freedom to be able to run your own experiments. The distance between you and this family unit, that at one point you could have never survived without, becomes greater. This goes on until you turn 18. And for your 18th birthday you get luggage as a birthday present. You move out. You’re on your own. You find a place to live. You think about going somewhere, and you pick up your phone to call your parents and tell them about it. And you realize in this moment, for the first time ever you can go somewhere, and you no longer need to call and ask for their permission anymore. You can go wherever you want to go.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, remember this moment of our hypothetical fetus all grown up into an autonomous adult. Let’s talk about the parallels Erich Fromm draws to the development of humanity, and then we’ll come back.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, pre-civilization human beings did not see themselves as separate from nature. Why would they? Every aspect of their lives was dictated by nature. They didn’t have any agonizing choices to make. They didn’t have to make decisions about whether today they’re going to study particle physics or botany. No, nature gave them everything that they ate and decided everything that they were going to do. In other words, they didn’t have to think for themselves fully. Now, of course they thought, but the key point is that it was a reaction to things that were happening to them dictated by nature.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We developed civilizations—a little bit further away from nature, but still greatly at its mercy, almost like being born. We develop class systems. We believe in teleologies. People are born and they fall into a role and a set of actions within a society that is given to them, almost like it’s by their parents. The best part is that this role gives them security. It lets them be a piece of something greater than themselves. Fromm says, think of somebody that’s part of the peasantry during the middle ages. You are born, and you are given a family unit and a village and a profession you will inherit and a church you’re a part of and tons of other things. And like we talked about in former episodes, while this doesn’t give you a lot of freedom of choice, at least you know exactly who you are. This process of individuation continues.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Turning point, Fromm thinks, is right around the Renaissance. We start to see ourselves as separate from nature. Look at the art from around this time. Nature can now be painted onto a canvas and viewed purely for the sake of aesthetics. A little after that we have the protestant reformation, the work of Marin Luther and John Calvin. There’s a new set of theological interpretations that view human beings as individuals before God, not requiring the intermediary of the church and its authority. Capitalism starts to become the dominant economic approach—much more of a focus on the individual economically.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Fromm says, we’re living in an age where so many of the former chains of the past have been removed. We exist in a period of economic liberalism, political democracy, religious autonomy, and individualism in personal life. And this long process accented by this recent past in Europe and America to fight for this new level of freedom and individualism in people’s lives has led to a place where the citizen has become individuated. Metaphorically speaking, for the first time citizens are choosing what they want to do, picking up the phone to dial their parents and ask permission, and realizing they don’t have to ask anyone for permission anymore.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Both the young adult from our example before and the citizen of modernity are in a similar place to Erich Fromm. They are free now. They are the person at the helm of the ship with a lot of different directions to choose from. And when you finally find yourself in this place, it seems like things would have to feel really good for you. So why is the book by Erich Fromm that we’re covering today called <em>Escape from Freedom</em>? Why would anybody want to escape from freedom? Freedom’s one of those things—what person doesn’t want freedom? Pretty commonly considered to be a universally good thing.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Fromm makes the case that for both of our examples here today this initial state of freedom that we’re born into can be both a good or a bad thing. Because on one hand, becoming an autonomous, free individual certainly gives you a new level of independence, a new level of rationality because now you’re making the decisions; a new level of responsibility for the things you decide to do—your parents aren’t making the itinerary that you got to follow anymore; you don’t have the chains of a village or a profession or a particular church. And all this is great. But on the flip side, what comes along with that is that now you are responsible.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, sometimes kids can’t wait until they’re a grown-up so that they can make decisions for themselves. But once you’re an adult, what you realize is that—sure, you can decide to eat a half gallon of ice cream at 9am if you want, but you also are the only one that has to deal with the consequences of that choice. You choose your own adventure now, but now you’re responsible for the adventures you choose. To quote Kierkegaard, anxiety is the dizziness of freedom. So no wonder when you finally find yourself individuated and free in this new place, you naturally feel more anxious about decision-making than you did as a child. You feel more alone and isolated because now you don’t have a village or something greater than yourself that you’re attached to. You’re an individual now.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For Fromm, there is always this trade-off going on between you having higher levels of freedom and lower levels of security. Having independence can mean both that you have greater levels of freedom and greater levels of isolation all at the same time. So, this place that we find ourselves in, whether in our personal lives as young adults or in the social conditions surrounding us—this place where we have more options than ever before in terms of freedom—this is a place that Fromm calls unbearable. A lot of people are miserable in this place. This is not how a human being is supposed to live. And what’s missing for Fromm is that, while no doubt generations have fought for this freedom so valiantly over the years, they’ve really only guaranteed one half of freedom for people. And we as individuals are responsible for the other half.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What this is referencing is the classic way of dividing freedom that we talked about in our episodes on Isaiah Berlin—positive freedom and negative freedom. Negative freedom is typically described as “freedom from:” meaning, this is the type of freedom we experience when the chains and tethers imposed by external forces are removed from our lives—freedom <em>from</em> those things. We experience negative freedom when we’re no longer under the rule of a totalitarian regime. We experience it when we get a new assistant manager that isn’t taking their childhood out on us anymore. But most importantly, for Fromm, here we experienced it when we no longer were born into a world that chained us to an economic role, a voiceless political position, obedience to the church, and a collective place within a village or a family. We are living in a place of unprecedented levels of negative freedom.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Fromm thought all the negative freedom in the world was useless if you didn’t combine it with a healthy dose of positive freedom, or what’s typically called “freedom to.” You know, you can cut off all the chains that are holding you down, but if you have nowhere that you want to go, then what was the point? Fromm says, to practice positive freedom is to connect to the world in a way that is spontaneous, meaning that it comes from within. It’s not from any sort of external force. It is self-chosen. This is to connect in ways that are a positive outlet for energy: to connect through things like love and productive work and using our freedom to help other people do things based on their own self-chosen growth and happiness—the opposite of chaining people down like negative freedom is trying to alleviate. Think of the parallels to the way we often treat our partners from the episode we just did on love.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But I think it’s important to take a second here and really examine the importance of this connection when it comes to how we should be utilizing our freedom. We all find ourselves at some point in this place of, on one hand, being free from the chains of the past but, on the other hand, totally independent, responsible for ourselves, isolated, anxious, and lonely. And it’s once we’re in this uncomfortable place, to Fromm, that we have to find a way to alleviate this isolation and reconnect with the world around us. You know, Fromm explicitly says that when we’re in this place we have to find a way to “connect to the world within eliminating our individuality.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">How we reconnect to the world is an absolutely crucial pivot point in our lives and in this discussion Erich Fromm’s trying to have in this book. To Fromm, when it comes to how you’re going to reconnect, you have two choices. You can embrace freedom, or you can escape from freedom. To embrace freedom is to find a way to use this positive freedom we just talked about, this freedom to. To once again, in a spontaneous, self-chosen way connect to the world, willing the growth and happiness of yourself and others through love and productive work.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To escape from freedom is to connect to the world through one of a number of different strategies, but all of which share the very same characteristic: they are a retreat away from freedom back to the old chains of the past, back to the womb. This is a reversal of the process of individuation. This is a sacrifice of our individualism. This is finding a new set of chains to voluntarily lock ourselves into, so we don’t have to deal with the pressures of thinking for ourselves. This is a way of reconnecting to the world by giving up your freedom, reestablishing that security, and sacrificing your individuality.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Before Erich Fromm ever wrote this book or arrived at this thesis, he was doing sociological research on the German people during the interwar years in the Weimar Republic. He asked people to answer a series of questions about their political beliefs. What he found is that around 10% of them had what he called authoritarian leanings; 15% of them were democratically minded, and around 75% of them landed somewhere in the middle of the two. Now later, decades later, it came out that the conventional wisdom at the time was that—let’s say there’s an authoritarian leader that tries to ascend to power in the near future, and they have the backing of 10% of people. The 15% of democratically minded people would serve as the necessary political opposition to be able to fight back against the authoritarians. But what Fromm wondered is, what if the 75% of people in the middle were unable to deal with these new social conditions they were living in and in turn were psychologically incapable of embracing freedom as a solution during a potential fascist takeover?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, we all know what happened. He wrote later about the contrast between the hundreds of years of fighting for this negative freedom before and then its immediate reversal as soon as people had it. He says, “We have been compelled to recognize that millions in Germany were as eager to surrender their freedom as their fathers were to fight for it; that instead of wanting freedom, they sought for ways to escape from it…” The world saw Hitler ascend to power. People at first were confused as to why the German people could ever get behind a fascist leader the way they did. Something that was common at the time, and something that’s still common to this day when trying to explain political motivations, is to give too simplistic an explanation for why people supported an extreme candidate.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For example, Fromm says at the time some people tried to give a purely political explanation for the rise of Hitler. I believe he says that they said that it was by sheer brute political force that the Third Reich came to power—too simplistic. Some people tried to say it was purely the socioeconomic desperation of postwar Germany—too simple. Some people tried to offer purely psychological reasons, that the only way these people could have possibly supported Hitler is if they were crazy or brainwashed or dumb or evil—too basic. Fromm would say that’s not a good enough explanation. In fact, it’s downright dangerous if you do this sort of thing. Because if you don’t understand the true reasons behind why people supported a leader like that in the first place and you say, “Well, they must have just been dumb,” you will never truly understand why people tried to escape from freedom in this way. And you’ll never be able to prevent it from happening again in the future.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, as a psychoanalytic sociologist, naturally Fromm is going to try to describe people’s motivations in terms of a mixture between psychological and sociological factors. When people find themselves in this place that many German citizens found themselves in—newly individuated, in possession of negative freedom, but overwhelmed by the pressures of embracing their positive freedom in a productive way—Fromm gives three primary ways that people will typically use to escape from freedom. One is authoritarianism. Two is destructiveness. And three is automaton conformity. We’re going to talk about all three of them right now, and authoritarianism is up first.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, remember, the central question to consider when we’re in this isolated, uncomfortable place is how are we going to reconnect ourselves to the world? When Fromm says that someone escapes from freedom by adopting an attitude of authoritarianism, he is not just talking about the actual authoritarian leader that ends up ascending to power. All of the people who support an authoritarian power structure are equally authoritarian as well. Someone who uses this strategy reconnects themselves to the world through what Fromm calls a type of sadomasochism. Two words there—sadism and masochism: sadism being the desire to control others, to dominate exploit or steal from others; masochism being the desire to submit to some power and be controlled or dominated. The authoritarian is sadistic in the sense that they want to support an authoritarian setup so that other people and groups will be controlled. But they are masochistic in the sense that they themselves want to submit to that authority as part of the process.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Both of these are a direct sacrifice of their freedom and individuality. See, as a sadist, you cannot exist unless if you have somebody else to control. You’re no longer capable of being an individual at that point. And as a masochist, same thing, you cannot exist unless if there’s somebody out there to control or dominate you. But consider this. Freud said and Fromm agreed that you never really see sadism in a person without some type of masochism attached to it, and vice versa. He says Hitler may have been an extreme example of somebody who was sadistic, but he was always masochistic towards his position within history and the ideas of fate and chance.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">People with this authoritarian mindset will often escape from freedom by looking around them and finding out where the power structures lie. They’re very good at searching out and finding where there’s a concentration of power. Then masochistically they submit and insinuate themselves into that power structure. They become one small part of this power structure—something they see as bigger than themselves, something that’s compensating for their weaknesses as a scared individual—and then they’ll use their position as a foot soldier of that authoritarian to then take out their sadistic tendencies on other people in the name of this thing that they’ve submitted to.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The point is this: in this state, they are no longer individuals. They are no longer free. They have retreated back towards the womb, back to a set of social conditions that can tell them how to live, what to think, who the enemy is. And they spend their days limiting the freedom of others, creating chains for people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Notice this is the opposite of the people that embrace freedom. Politically, they’re not in the business of creating new chains for people to operate within. They’re in the business of helping other people do the things they want to do that they themselves have decided without any coercion from the outside, so long as they don’t hurt anybody. But the authoritarian is the enemy of this person both interpersonally and politically, Fromm says. People who embrace freedom are always going to be hated by people who are actively trying to destroy it in others.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We all know somebody that has this type of personality, somebody that seeks out power so they can submit to it and then use their new position to sadistically control people around them. You will see this person wherever there is a power structure to take a little piece of for themselves. They are drawn to power like podcasters are drawn to horrible guests. They can’t help it. They can’t help it! You’ll see this in the government. You’ll see this in police departments. You’ll see this in mid-level management at a chain of restaurants.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, in a normal, healthy relationship, Fromm says, you strive for the integrity of the other person. You preserve the equality between the both of you. And you strive for your mutual independence because it protects your individuality and freedom. But again, if your goal is to sprint in the other direction from this individuality and freedom because it’s so uncomfortable for you—look, the sadomasochist does not respect the integrity of themselves or others. They’re either submitting or controlling, which also directly goes against the idea that both people in a relationship are on equal footing. The sadomasochist can’t have that, because when everyone is actually equal, then how do we find out who’s in power? How do I find out who to submit to and under what authority I sadistically control other people?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Not only that, but the sadomasochist cannot possibly be respecting mutual independence because they’re always dependent on the other party for their existence, which again is only made possible if you have somebody to control or somebody to submit to. Fromm calls this a symbiotic relationship. This is the answer to how they reconnect to other people. See, if the world is a whale, then these people have become a really toxic barnacle living on the side. Yes, part of something bigger, but really not contributing much of anything.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The second way people escape from freedom is what Fromm calls destructiveness. Sometimes this person is just called the destroyer. So, if the person that embraces freedom creates order in the world in an emergent way, not based on some rigid, authoritarian system but by the synthesis of the collective self-chosen expressions of positive freedom by everyone—if this person is helping to create that, then the opposite of this person is somebody who is destroying life. When people are free, life takes on this quality of being emergent and unpredictable. There is a constant state of movement and change in how the world plays out. The authoritarian tries to control this unpredictability by imposing order from the outside. The destructive person tries to control it by destroying life in various ways.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">They destroy the very thing that they can’t control. They sacrifice their individuality because the only way they can feel significant or in control or safe is if they’re actively hurting someone else, destroying something, attacking someone, or even killing someone. Fromm calls these people necrophiles. They fixate on death and destruction because, if for no other reason, at least it isn’t the life and creation that makes them feel so insignificant and anxious. The interesting part about this particular escape from freedom is that they’re still reconnecting with people in the world, because in some sick way, by making it your mission to destroy people and the world around you, you still have more of a connection to things than you did when you were a free individual doing nothing.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The last way to escape from freedom is what Fromm calls automaton conformity. Fromm says, “Modern man is still anxious and tempted to surrender his freedom to dictators of all kinds or lose it by transforming himself into a small cog in the machine, well fed, and well clothed, yet not a free man but an automaton.” So, if you’re feeling the pressures of being an individual, a really good way to get rid of any semblance of individuality is just to conform to the way everyone else acts around you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, what Fromm would want us to consider about all three of these strategies, but something that’s particularly prevalent in people that conform to the beliefs of people around them, is that they often don’t even realize why they are trying to escape from freedom in the first place. And to them, they often don’t even see themselves as conforming to anything. They think the beliefs that they have are theirs—a set of values that they’ve painstakingly created and come up with over the years. They lose any form of individuality because they blend into the crowd so much that there’s no telling where they end and the next person begins. If we’re all the same, then there’s no room for individuals.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Fromm calls this type of thinking pseudo-thinking because you really aren’t thinking for yourself; you’re just believing and saying what other people have told you to believe or say. Fromm thought this strategy of automaton conformity was extremely effective even in modern democratic societies. Because that’s the thing, a common rebuttal to these ideas might be, “Hey, I got a solution. I have a way to prevent people from creating new chains for people to live in and imposing their order externally. Let’s just have a democracy. Then everybody gets to choose what happens.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Fromm would say, be careful. Democracy is not a guarantee that people are going to remain in possession of their freedom. People can be just as easily controlled by advertisements as they can by the sword. And the insidious part of this democratic, automaton conformity is that most people that are participating are going to think everything that they believe was their idea. You can see how this work starts to compliment some of the other ideas we’ve covered that were important to the Frankfurt School as a whole.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Whether you agree with everything Erich Fromm has said or not, I think one theme of this book he wants us to consider that is practically irrefutable is the idea that freedom can sometimes make your life better and sometimes make your life a lot more complicated. Freedom is not a panacea. Freedom is not some ultimate virtue that’s unquestionably good. There’s a reason Sartre says that we are condemned to be free. And when you’re in this place, devoid of the chains of the past, trying to decide where to go, maybe politically you don’t know which cause to support or where to best spend your time; maybe interpersonally you don’t know how to treat people. Maybe in your love life you have something you want to go for; but there are so many options, and you’re scared about what might happen if you pick one and use some of that freedom to.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Having your chains cut but not knowing what adventure to choose next can be a trap you stay in for your entire life. And you can live in fear of all the bad things that might or might not happen. You can be lost in the finite, lost in the infinite until you’re old and gray. But I think what Fromm would say is that we should try to understand the tremendous gift we have right now, a gift that the vast majority of human beings that have ever lived could never even aspire to. He’d probably say that if you’re not moving because you’re worried about not using your freedom properly, maybe the best piece of advice to start with is this: there is only one meaning to life, and that is the act of living it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
@@ -1574,12 +1574,12 @@
 
 </div></div></div></div></div></div>
 
-        
+          
 
-        
-        
-          <div class="blog-item-author-profile-wrapper" data-content-field="author">
-            <a href="/transcript?author=5ed93d8e981c0869f203a7ea">
+          
+          
+            <div class="blog-item-author-profile-wrapper" data-content-field="author">
+              <a href="/transcript?author=5ed93d8e981c0869f203a7ea">
   
     <span class="author-avatar content-fill" data-tweaks="tweak-show-blog-item-author-profile">
       <img class="author-avatar-image" data-controller="AuthorProfileImageLoader" data-src="https://static1.squarespace.com/static/images/5ed93d8e3f6b28638e51b218" data-image="https://static1.squarespace.com/static/images/5ed93d8e3f6b28638e51b218" data-load="false" alt="" elementtiming="nbf-author-avatar" />
@@ -1590,17 +1590,18 @@
 
 
 
-          </div>
-        
-      </div>
-
-      <section class="blog-item-comments">
-        <div class="blog-item-comments-toggle-wrapper">
-          <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
-            
-          </div>
+            </div>
+          
         </div>
-      </section>
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
+              
+            </div>
+          </div>
+        </section>
+      
     </div>
   
 </article>
@@ -1945,7 +1946,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b502231aaf751bf844c833e9880528bf.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.4df6f348a832dc61e261a099a8ca9b31.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

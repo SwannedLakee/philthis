@@ -41,15 +41,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-085db6190188ea6a4cbb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-085db6190188ea6a4cbb-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-5ca31a713e96e0d73f70-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-5ca31a713e96e0d73f70-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2e5b687b721ed94b30f5-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-2e5b687b721ed94b30f5-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-c20455a09b1fe109400d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2956e20d9a68ca6ae280-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-f176173c568e8717c99b-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-44d9cfb93d344a7446ac-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-5cd4a896962954eaca96-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6f4322f63224e137fb72-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4a222f32bf58327e181b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5f2d4e7ddb02d50723d1-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-210f16f8bec538fbaf2f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-eb72d47f5c6899b293da-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7993e315eeeb0e31e0d1-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-eb731df3d05e856250e3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b99f54f05b3a4f777f55-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-1f3b47e6826c63a1652b-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-84d5b8a1f1fc4654032c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a6388a789435452d55a7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db82977b390515867439-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-5196e0c68b662ed24a38-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-377a5b12886c446ac5e6-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #057 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"2":true,"4":true,"6":true,"3":true,"7":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #057 -  Transcript","id":"5eec1bae09afd80facd8569c","fullUrl":"/transcript/episode-57-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["site_header_footer","is_feature_gate_refresh_enabled","customer_account_creation_recaptcha","member_areas_feature","visitor_react_forms","background_art_onboarding","send_local_pickup_ready_email","nested_categories_migration_enabled","commerce_clearpay","color_var_rendering_in_v6","unify_edit_mode_p2","commerce_subscription_renewal_notifications","pdp_product_add_ons_visitor_site","accounting_orders_sync","fluid_engine","commsplat_forms_visitor_profile","campaigns_discount_section_in_automations","rewrite_transactional_email_from_address","scripts_defer","campaigns_new_image_layout_picker","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_product_import","campaigns_thumbnail_layout","enable_css_variable_tweaks","themes","commerce_checkout_website_updates_enabled","campaigns_global_uc_ab","campaigns_import_discounts","commerce_etsy_shipping_import","commerce_order_status_access","website_component_enabled","image_component","toggle_preview_new_shortcut","commerce_restock_notifications","nested_categories","commerce_site_visitor_metrics","website_fonts","viewer-role-contributor-invites","marketing_landing_page","new_stacked_index","customer_accounts_email_verification","override_block_styles","campaigns_discount_section_in_blasts","collection_typename_switching","supports_versioned_template_assets","show_add_to_cart_in_plp","order_status_page_checkout_landing_enabled"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #057 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-57-transcript","datePublished":"2015-05-11T23:59:00-0700","dateModified":"2022-07-08T11:12:17-0700","headline":"Episode #057 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1489/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f1b17328c55249cf16e9-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce3304dbbbc00b0adc2c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-33c1f90c488c55fae579-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7116ec013cb68ccb46b1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-c284904b25c71d02bce8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-6e60a567b55f463b68e7-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-5d1c15b78a92b66bb9c2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-7acbb1abe140de860b8e-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c448735543b55eab799b-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-070905c328c108a2d84a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-206ef2320c2cea5a2878-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-503cf40eefffe62983b2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-cc29311f395b003af368-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-02d1e0bcb6fc2a7af709-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c425f4bbbcfb78c3f308-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f51f475a757005c26ee7-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e651beeebf0f0d458f3c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd133305dca90ae5ca2f-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5978fce864bf3409cbda-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-ed7446c70dde7b3316d8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b9419dfe48307ccde360-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #057 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"3":true,"4":true,"1":true,"7":true,"8":true,"2":true,"6":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #057 -  Transcript","id":"5eec1bae09afd80facd8569c","fullUrl":"/transcript/episode-57-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["campaigns_global_uc_ab","visitor_react_forms","customer_accounts_email_verification","campaigns_discount_section_in_blasts","override_block_styles","enable_css_variable_tweaks","commerce_etsy_shipping_import","themes","customer_account_creation_recaptcha","new_stacked_index","commerce_order_status_access","scripts_defer","send_local_pickup_ready_email","website_fonts","marketing_landing_page","campaigns_import_discounts","is_feature_gate_refresh_enabled","commerce_clearpay","order_status_page_checkout_landing_enabled","nested_categories","commerce_etsy_product_import","viewer-role-contributor-invites","member_areas_feature","background_art_onboarding","rewrite_transactional_email_from_address","commerce_site_visitor_metrics","pdp_product_add_ons_visitor_site","accounting_orders_sync","supports_versioned_template_assets","unify_edit_mode_p2","async_copy_collection","fluid_engine_clean_up_grid_contextual_change","campaigns_new_image_layout_picker","commerce_restock_notifications","nested_categories_migration_enabled","campaigns_thumbnail_layout","commerce_subscription_renewal_notifications","fluid_engine","toggle_preview_new_shortcut","show_add_to_cart_in_plp","campaigns_discount_section_in_automations","collection_typename_switching","commerce_checkout_website_updates_enabled","google_consent_v2","proposals_beta_in_circle_labs","commsplat_forms_visitor_profile"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #057 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-57-transcript","datePublished":"2015-05-11T23:59:00-0700","dateModified":"2022-07-08T11:12:17-0700","headline":"Episode #057 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1500/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1706811132467-QIR6O63RE5GI9HXI9ESJ/static.css">
@@ -61,13 +61,7 @@
     class="
       primary-button-style-solid primary-button-shape-rounded secondary-button-style-solid secondary-button-shape-rounded tertiary-button-style-solid tertiary-button-shape-rounded  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-dash tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-right tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-hide tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-hide tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-left tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-content-position-center image-block-overlap-text-alignment-opposite image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog-masonry collection-6053dc3a01905600e48be230 view-item collection-layout-default mobile-style-available sqs-seven-one
       
-        plp-config-editor-add-to-cart
-      
-      
         show-pdp-product-add-ons
-      
-      
-         plp-add-to-cart
       
       
         
@@ -138,256 +132,256 @@
   "
   data-controller="Header"
   data-current-styles="{
-                                    &quot;layout&quot;: &quot;navRight&quot;,
-                                    &quot;action&quot;: {
-                                      &quot;href&quot;: &quot;/take-action&quot;,
-                                      &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                      &quot;newWindow&quot;: false
-                                    },
-                                    &quot;showSocial&quot;: true,
-                                    &quot;socialOptions&quot;: {
-                                      &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                      &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                      &quot;socialBorderThickness&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 1.0
-                                      }
-                                    },
-                                    &quot;sectionTheme&quot;: &quot;light&quot;,
-                                    &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                    &quot;cartStyle&quot;: &quot;cart&quot;,
-                                    &quot;cartText&quot;: &quot;Cart&quot;,
-                                    &quot;showEmptyCartState&quot;: true,
-                                    &quot;cartOptions&quot;: {
-                                      &quot;iconType&quot;: &quot;solid-7&quot;,
-                                      &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                      &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                      &quot;cartBorderThickness&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 1.0
-                                      }
-                                    },
-                                    &quot;showButton&quot;: false,
-                                    &quot;showCart&quot;: false,
-                                    &quot;showAccountLogin&quot;: true,
-                                    &quot;headerStyle&quot;: &quot;theme&quot;,
-                                    &quot;languagePicker&quot;: {
-                                      &quot;enabled&quot;: false,
-                                      &quot;iconEnabled&quot;: false,
-                                      &quot;iconType&quot;: &quot;globe&quot;,
-                                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                                      &quot;languageFlags&quot;: [ ]
-                                    },
-                                    &quot;mobileOptions&quot;: {
-                                      &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                      &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                      &quot;menuIconOptions&quot;: {
-                                        &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                        &quot;thickness&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 1.0
-                                        }
-                                      }
-                                    },
-                                    &quot;dynamicOptions&quot;: {
-                                      &quot;border&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;position&quot;: &quot;bottom&quot;,
-                                        &quot;thickness&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 4.0
-                                        },
-                                        &quot;color&quot;: {
-                                          &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-                                          &quot;customColor&quot;: {
-                                            &quot;hslaValue&quot;: {
-                                              &quot;hue&quot;: 203.4782608695652,
-                                              &quot;saturation&quot;: 0.22330097087378645,
-                                              &quot;lightness&quot;: 0.2019607843137255,
-                                              &quot;alpha&quot;: 1.0
-                                            },
-                                            &quot;userFormat&quot;: &quot;hex&quot;
-                                          }
-                                        }
-                                      }
-                                    },
-                                    &quot;solidOptions&quot;: {
-                                      &quot;headerOpacity&quot;: {
-                                        &quot;unit&quot;: &quot;%&quot;,
-                                        &quot;value&quot;: 100.0
-                                      },
-                                      &quot;border&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;position&quot;: &quot;bottom&quot;,
-                                        &quot;thickness&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 4.0
-                                        },
-                                        &quot;color&quot;: {
-                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                          &quot;sitePaletteColor&quot;: {
-                                            &quot;colorName&quot;: &quot;black&quot;,
-                                            &quot;alphaModifier&quot;: 1.0
-                                          }
-                                        }
-                                      },
-                                      &quot;dropShadow&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;blur&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 30.0
-                                        },
-                                        &quot;spread&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 0.0
-                                        },
-                                        &quot;distance&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 0.0
-                                        },
-                                        &quot;color&quot;: {
-                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                          &quot;sitePaletteColor&quot;: {
-                                            &quot;colorName&quot;: &quot;black&quot;,
-                                            &quot;alphaModifier&quot;: 1.0
-                                          }
-                                        }
-                                      },
-                                      &quot;blurBackground&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;blurRadius&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 12.0
-                                        }
-                                      },
-                                      &quot;backgroundColor&quot;: {
-                                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                        &quot;sitePaletteColor&quot;: {
-                                          &quot;colorName&quot;: &quot;white&quot;,
-                                          &quot;alphaModifier&quot;: 1.0
-                                        }
-                                      },
-                                      &quot;navigationColor&quot;: {
-                                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                        &quot;sitePaletteColor&quot;: {
-                                          &quot;colorName&quot;: &quot;black&quot;,
-                                          &quot;alphaModifier&quot;: 1.0
-                                        }
-                                      }
-                                    },
-                                    &quot;gradientOptions&quot;: {
-                                      &quot;gradientType&quot;: &quot;faded&quot;,
-                                      &quot;headerOpacity&quot;: {
-                                        &quot;unit&quot;: &quot;%&quot;,
-                                        &quot;value&quot;: 90.0
-                                      },
-                                      &quot;border&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;position&quot;: &quot;bottom&quot;,
-                                        &quot;thickness&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 4.0
-                                        },
-                                        &quot;color&quot;: {
-                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                          &quot;sitePaletteColor&quot;: {
-                                            &quot;colorName&quot;: &quot;black&quot;,
-                                            &quot;alphaModifier&quot;: 1.0
-                                          }
-                                        }
-                                      },
-                                      &quot;dropShadow&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;blur&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 30.0
-                                        },
-                                        &quot;spread&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 0.0
-                                        },
-                                        &quot;distance&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 0.0
-                                        },
-                                        &quot;color&quot;: {
-                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                          &quot;sitePaletteColor&quot;: {
-                                            &quot;colorName&quot;: &quot;black&quot;,
-                                            &quot;alphaModifier&quot;: 1.0
-                                          }
-                                        }
-                                      },
-                                      &quot;blurBackground&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;blurRadius&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 12.0
-                                        }
-                                      },
-                                      &quot;backgroundColor&quot;: {
-                                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                        &quot;sitePaletteColor&quot;: {
-                                          &quot;colorName&quot;: &quot;white&quot;,
-                                          &quot;alphaModifier&quot;: 1.0
-                                        }
-                                      },
-                                      &quot;navigationColor&quot;: {
-                                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                        &quot;sitePaletteColor&quot;: {
-                                          &quot;colorName&quot;: &quot;black&quot;,
-                                          &quot;alphaModifier&quot;: 1.0
-                                        }
-                                      }
-                                    },
-                                    &quot;dropShadowOptions&quot;: {
-                                      &quot;enabled&quot;: false,
-                                      &quot;blur&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 12.0
-                                      },
-                                      &quot;spread&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 0.0
-                                      },
-                                      &quot;distance&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 12.0
-                                      }
-                                    },
-                                    &quot;borderOptions&quot;: {
-                                      &quot;enabled&quot;: false,
-                                      &quot;position&quot;: &quot;bottom&quot;,
-                                      &quot;thickness&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 4.0
-                                      }
-                                    },
-                                    &quot;showPromotedElement&quot;: false,
-                                    &quot;buttonVariant&quot;: &quot;primary&quot;,
-                                    &quot;blurBackground&quot;: {
-                                      &quot;enabled&quot;: false,
-                                      &quot;blurRadius&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 12.0
-                                      }
-                                    },
-                                    &quot;headerOpacity&quot;: {
-                                      &quot;unit&quot;: &quot;%&quot;,
-                                      &quot;value&quot;: 100.0
-                                    }
-                                  }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+&quot;customColor&quot;: {
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                                    &quot;enabled&quot;: false,
-                                    &quot;iconEnabled&quot;: false,
-                                    &quot;iconType&quot;: &quot;globe&quot;,
-                                    &quot;flagShape&quot;: &quot;shiny&quot;,
-                                    &quot;languageFlags&quot;: [ ]
-                                  }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -411,18 +405,18 @@
   "
 >
   
+    
 <div class="sqs-announcement-bar-dropzone"></div>
 
-  <div class="header-announcement-bar-wrapper"
-  > 
-
-    <a
-      href="#page"
-      class="header-skip-link sqs-button-element--primary"
-    >
-      Skip to Content
-    </a>
-    
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
 <style>
@@ -433,13 +427,13 @@
         }
     }
 </style>
-    <div
-      class="header-border"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-border="false"
-      data-test="header-border"
-      style="
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
 
 
 
@@ -453,44 +447,44 @@
 
 
 "
-    ></div>
-    <div
-      class="header-dropshadow"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-dropshadow="false"
-      data-test="header-dropshadow"
-      style="
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
 
 
   
 "
-    ></div>
-    
-    
+      ></div>
+      
+      
 
-    <div class='header-inner container--fluid
-      
-      
-      
-       header-mobile-layout-logo-left-nav-right
-      
-      
-      
-      
-      
-      
-       header-layout-nav-right
-      
-      
-      
-      
-      
-      
-      
-      
-      '
-      style="
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
 
 
 
@@ -500,68 +494,68 @@
 
 
 "
-      data-test="header-inner"
-      >
-      <!-- Background -->
-      <div class="header-background theme-bg--primary"></div>
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+        <div class="header-display-desktop" data-content-field="site-title">
           
-          <!-- Social -->
+
+          
+
+          
+
+          
+
+          
+
+          
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -660,64 +654,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -747,59 +741,59 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
-
-      </div>
-      <div class="header-display-mobile" data-content-field="site-title">
-        
           
-          <!-- Social -->
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -898,64 +892,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -985,14 +979,15 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+          
+          
+          
+          
+          
+        </div>
       </div>
     </div>
-  </div>
+  
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     
@@ -1002,245 +997,245 @@
     
     "
     data-current-styles="{
-                                    &quot;layout&quot;: &quot;navRight&quot;,
-                                    &quot;action&quot;: {
-                                      &quot;href&quot;: &quot;/take-action&quot;,
-                                      &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                      &quot;newWindow&quot;: false
-                                    },
-                                    &quot;showSocial&quot;: true,
-                                    &quot;socialOptions&quot;: {
-                                      &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                      &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                      &quot;socialBorderThickness&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 1.0
-                                      }
-                                    },
-                                    &quot;sectionTheme&quot;: &quot;light&quot;,
-                                    &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                    &quot;cartStyle&quot;: &quot;cart&quot;,
-                                    &quot;cartText&quot;: &quot;Cart&quot;,
-                                    &quot;showEmptyCartState&quot;: true,
-                                    &quot;cartOptions&quot;: {
-                                      &quot;iconType&quot;: &quot;solid-7&quot;,
-                                      &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                      &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                      &quot;cartBorderThickness&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 1.0
-                                      }
-                                    },
-                                    &quot;showButton&quot;: false,
-                                    &quot;showCart&quot;: false,
-                                    &quot;showAccountLogin&quot;: true,
-                                    &quot;headerStyle&quot;: &quot;theme&quot;,
-                                    &quot;languagePicker&quot;: {
-                                      &quot;enabled&quot;: false,
-                                      &quot;iconEnabled&quot;: false,
-                                      &quot;iconType&quot;: &quot;globe&quot;,
-                                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                                      &quot;languageFlags&quot;: [ ]
-                                    },
-                                    &quot;mobileOptions&quot;: {
-                                      &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                      &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                      &quot;menuIconOptions&quot;: {
-                                        &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                        &quot;thickness&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 1.0
-                                        }
-                                      }
-                                    },
-                                    &quot;dynamicOptions&quot;: {
-                                      &quot;border&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;position&quot;: &quot;bottom&quot;,
-                                        &quot;thickness&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 4.0
-                                        },
-                                        &quot;color&quot;: {
-                                          &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-                                          &quot;customColor&quot;: {
-                                            &quot;hslaValue&quot;: {
-                                              &quot;hue&quot;: 203.4782608695652,
-                                              &quot;saturation&quot;: 0.22330097087378645,
-                                              &quot;lightness&quot;: 0.2019607843137255,
-                                              &quot;alpha&quot;: 1.0
-                                            },
-                                            &quot;userFormat&quot;: &quot;hex&quot;
-                                          }
-                                        }
-                                      }
-                                    },
-                                    &quot;solidOptions&quot;: {
-                                      &quot;headerOpacity&quot;: {
-                                        &quot;unit&quot;: &quot;%&quot;,
-                                        &quot;value&quot;: 100.0
-                                      },
-                                      &quot;border&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;position&quot;: &quot;bottom&quot;,
-                                        &quot;thickness&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 4.0
-                                        },
-                                        &quot;color&quot;: {
-                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                          &quot;sitePaletteColor&quot;: {
-                                            &quot;colorName&quot;: &quot;black&quot;,
-                                            &quot;alphaModifier&quot;: 1.0
-                                          }
-                                        }
-                                      },
-                                      &quot;dropShadow&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;blur&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 30.0
-                                        },
-                                        &quot;spread&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 0.0
-                                        },
-                                        &quot;distance&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 0.0
-                                        },
-                                        &quot;color&quot;: {
-                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                          &quot;sitePaletteColor&quot;: {
-                                            &quot;colorName&quot;: &quot;black&quot;,
-                                            &quot;alphaModifier&quot;: 1.0
-                                          }
-                                        }
-                                      },
-                                      &quot;blurBackground&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;blurRadius&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 12.0
-                                        }
-                                      },
-                                      &quot;backgroundColor&quot;: {
-                                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                        &quot;sitePaletteColor&quot;: {
-                                          &quot;colorName&quot;: &quot;white&quot;,
-                                          &quot;alphaModifier&quot;: 1.0
-                                        }
-                                      },
-                                      &quot;navigationColor&quot;: {
-                                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                        &quot;sitePaletteColor&quot;: {
-                                          &quot;colorName&quot;: &quot;black&quot;,
-                                          &quot;alphaModifier&quot;: 1.0
-                                        }
-                                      }
-                                    },
-                                    &quot;gradientOptions&quot;: {
-                                      &quot;gradientType&quot;: &quot;faded&quot;,
-                                      &quot;headerOpacity&quot;: {
-                                        &quot;unit&quot;: &quot;%&quot;,
-                                        &quot;value&quot;: 90.0
-                                      },
-                                      &quot;border&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;position&quot;: &quot;bottom&quot;,
-                                        &quot;thickness&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 4.0
-                                        },
-                                        &quot;color&quot;: {
-                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                          &quot;sitePaletteColor&quot;: {
-                                            &quot;colorName&quot;: &quot;black&quot;,
-                                            &quot;alphaModifier&quot;: 1.0
-                                          }
-                                        }
-                                      },
-                                      &quot;dropShadow&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;blur&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 30.0
-                                        },
-                                        &quot;spread&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 0.0
-                                        },
-                                        &quot;distance&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 0.0
-                                        },
-                                        &quot;color&quot;: {
-                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                          &quot;sitePaletteColor&quot;: {
-                                            &quot;colorName&quot;: &quot;black&quot;,
-                                            &quot;alphaModifier&quot;: 1.0
-                                          }
-                                        }
-                                      },
-                                      &quot;blurBackground&quot;: {
-                                        &quot;enabled&quot;: false,
-                                        &quot;blurRadius&quot;: {
-                                          &quot;unit&quot;: &quot;px&quot;,
-                                          &quot;value&quot;: 12.0
-                                        }
-                                      },
-                                      &quot;backgroundColor&quot;: {
-                                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                        &quot;sitePaletteColor&quot;: {
-                                          &quot;colorName&quot;: &quot;white&quot;,
-                                          &quot;alphaModifier&quot;: 1.0
-                                        }
-                                      },
-                                      &quot;navigationColor&quot;: {
-                                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                        &quot;sitePaletteColor&quot;: {
-                                          &quot;colorName&quot;: &quot;black&quot;,
-                                          &quot;alphaModifier&quot;: 1.0
-                                        }
-                                      }
-                                    },
-                                    &quot;dropShadowOptions&quot;: {
-                                      &quot;enabled&quot;: false,
-                                      &quot;blur&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 12.0
-                                      },
-                                      &quot;spread&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 0.0
-                                      },
-                                      &quot;distance&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 12.0
-                                      }
-                                    },
-                                    &quot;borderOptions&quot;: {
-                                      &quot;enabled&quot;: false,
-                                      &quot;position&quot;: &quot;bottom&quot;,
-                                      &quot;thickness&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 4.0
-                                      }
-                                    },
-                                    &quot;showPromotedElement&quot;: false,
-                                    &quot;buttonVariant&quot;: &quot;primary&quot;,
-                                    &quot;blurBackground&quot;: {
-                                      &quot;enabled&quot;: false,
-                                      &quot;blurRadius&quot;: {
-                                        &quot;unit&quot;: &quot;px&quot;,
-                                        &quot;value&quot;: 12.0
-                                      }
-                                    },
-                                    &quot;headerOpacity&quot;: {
-                                      &quot;unit&quot;: &quot;%&quot;,
-                                      &quot;value&quot;: 100.0
-                                    }
-                                  }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+&quot;customColor&quot;: {
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1456,31 +1451,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                    &quot;imageOverlayOpacity&quot;: 0.15,
-                                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                    &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                                    &quot;customSectionHeight&quot;: 10,
-                                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                    &quot;customContentWidth&quot;: 50,
-                                    &quot;sectionTheme&quot;: &quot;&quot;,
-                                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                    &quot;backgroundMode&quot;: &quot;image&quot;
-                                  }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                    &quot;video&quot;: {
-                                      &quot;playbackSpeed&quot;: 0.5,
-                                      &quot;filter&quot;: 1,
-                                      &quot;filterStrength&quot;: 0,
-                                      &quot;zoom&quot;: 0,
-                                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                    },
-                                    &quot;backgroundImageId&quot;: null,
-                                    &quot;backgroundMediaEffect&quot;: null,
-                                    &quot;divider&quot;: null,
-                                    &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                  }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1519,6 +1514,9 @@
       <div class="blog-item-wrapper blog-grid-masonry-item-wrapper" data-content-field="main-content" data-item-id="">
   <article id="article-" class="h-entry entry hentry post-type-">
   
+    
+    
+    
     <div class="blog-item-inner-wrapper">
       <div class="blog-item-top-wrapper">
         <div class="blog-item-title">
@@ -1537,11 +1535,13 @@
             </time>
             <div class="blog-meta-item blog-meta-item--author p-author author" data-content-field="author">Written By <a href="/transcript?author=5eec15fc09afd80facd6edf3" class="blog-author-name"></a></div>
           </div>
+          
         </div>
       </div>
 
-      <div class="blog-item-content-wrapper">
-        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1bae09afd80facd8569c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1657303799016_1197"><div class="sqs-block-content">
+      
+        <div class="blog-item-content-wrapper">
+          <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1bae09afd80facd8569c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1657303799016_1197"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I want to apologize for the scarcity of episodes recently. It’s just a—it’s just a bunch of crazy stuff going on for me right now, stuff that—well, depending on how you look at the world—it’s either 100% my fault or 0% my fault. But you know what, folks? It’s not about assessing blame. It’s about being a miserable person like me. In all seriousness, I think it’s over. I’m finally in a place now where I have a reliable internet connection. I think everything’s fine. But this tornado of misery has been riding in tandem with something else that’s been ruining my life, my wisdom teeth. Trust me, I know, there’s got to be some pun there that I’m missing given the nature of this show. I’m getting my wisdom teeth removed. I’ll leave it to you on Twitter.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, if there’s one thing I want to say, it’s that if there’s a piece of advice I can give to any youngsters out there that are listening to this show—listen up—if your parents are planning on not getting your wisdom teeth out for some sort of financially prudent means, I would highly, highly recommend doing something: extorting them in some way, perhaps kidnapping one of your siblings, demanding 10 million dollars in ransom, because that’s how much it costs, apparently. You don’t want to mess around with your wisdom teeth. In fact, all dental things, just kind of listen to the dentist, alright? It hurts for me to speak right now. Every time I open my mouth, it hurts.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, I’ll stop complaining. The only reason I’m bringing it up is because I want you guys to bear with me. I have an appointment. I have surgery to get them out on Tuesday. I will be working as hard as I can up until there, so there’s no delay in the episodes. But I’ve heard there’s some sort of refractory period where you lay on the couch in pain, begging for death. There’s going to be three days of my life when I’m going to just be all alone, unproductive, tweeting out stuff while hopped-up on Vicodin. So, you can look forward to that. I just ask for your patience, okay? I love you guys. Thank you for your understanding as always. And I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One interesting thing to consider about even the most brilliant people that have ever lived is that many of them spend years and years of their lives in a state of complete confusion about what would eventually become their area of expertise. It’s funny, you think back to someone like an Immanuel Kant, like an Albert Einstein, a Sir Isaak Newton, and it’s easy to project onto these people this air of invincibility. It’s easy to think of Kant as someone that was like a philosophical prodigy, somehow, he was just born with the ability to revolutionize thought. But in reality, even someone like Kant spent many years of his life in a state of limbo, baffled, just baffled about how to move forward with anything.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I want to take you back in time for a second to the earlier years of Kant’s career when he was but a young man from a poor family living in Prussia. He was very much interested in philosophy. He was reading a bunch of it. He had put out work on it. He spent much of his early life writing on various things in the realms of science and philosophy. But if you read what he was writing during this period in his life, something was missing from it. He was kind of all over the place when it came to his fundamentals. Like, if you read his earlier work, you’ll see that this stuff all sounds very Kantian at its core. It’s filled with all sorts of foreshadowing, foreshadowing to ideas that he talks about later in his more influential works. But whenever he starts talking even for a moment about epistemology—well, depending on which work you’re reading from the guy—he switches back and forth between a couple three different ideas. He was confused.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But then something happened to Immanuel Kant. He tells a story to explain what happened to him. Nobody knows how literally we should take this anecdote by Kant. Nobody knows whether this actually happened or whether it was just a metaphor or a parable or some story that he made up. Then again, if you’re Immanuel Kant and you’re making up a story about yourself, I think you’d make up something a little more cool than this. It’s kind of a boring story. I mean, it’s like making up that your dad invented Toaster Strudel or something. Like, why would you ever make that up? If you’re going to make something up about yourself, it would be something much cooler than this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, as Immanuel Kant is sitting in this state of confusion one day, searching for answers, searching for clarity, he was rereading a work by David Hume when he was struck by something, struck intellectually. He wasn’t physically struck by something. He was struck intellectually. He said, “I freely admit that it was the remembrance of David Hume which many years ago first interrupted my dogmatic slumber and gave my investigations in the field of speculative philosophy a completely different direction.” Now, keep in mind as you hear this that Kant is rereading David Hume when he has this eureka moment. Think about that. Like, he had already read Hume. He had already gotten whatever he could from him the first time around, and he was still confused about stuff. And it was only after going back and reading him again that he had this insight that would literally change everything. It would change the way he looked at the world, the trajectory of his future thinking, and as it turns out, yes, it ends up changing philosophy itself.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, there’s something to take from this anecdote. If, for example, you’re somebody that feels stuck—if you feel stuck on a particular subject that you’ve been thinking about for years, if you’re someone that feels like you’ve exhausted every resource that’s available to you when educating yourself in a particular field and you’re still confused about it, this is a good lesson to take from Kant. Sometimes the answer may be behind you. Sometimes you may want to go back. Sometimes you may want to reread things that you’ve already read in the past because, who knows, for whatever reason, when you read it the first time, you weren’t in the right frame of mind to receive it. Maybe you weren’t feeling well that day. Maybe you were just too young and naïve to realize the wisdom of it back then. Which brings me to the point of this episode and really the point of this entire podcast. I want to tell you about a man named Jesus Christ. I’m just kidding! That would be funny though, right? Like, what if this entire podcast is just a giant, covert means of converting you guys to Christianity?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, in all seriousness, what if Kant had never gone back and reread Hume? See, Hume’s commentary on causality and all these assumptions that we make about the things that we see interacting in the world as humans, this was a gamechanger for Kant, because it was by reading that that he realized that even the great David Hume, even the great skeptic himself—if you wanted to find assumptions in an argument, this guy was like Siri—Kant realized that even David Hume had been making a massive assumption all along. What was that assumption? Well, let’s talk for a second, just real briefly to set the context, about this divide that we’re all very aware of that existed prior to Immanuel Kant between rationalism and empiricism. Let’s talk about it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">For hundreds of years there was this scandalous and kind of complicated relationship between people when it came to how we arrive at knowledge—a schism between rationalists and empiricists. They didn’t always get along. In fact, sometimes they hated each other. Sometimes they just met in a dark alley; they all started snapping, looking at—very weird eye contact with each other, and they started doing one of those dance fight scenes like in <em>West Side Story</em>. They didn’t agree on some stuff, alright? But the point is that like the rival factions in <em>West Side Story</em>, aside from all their territorial differences and they didn’t wear the same color bandana, they were actually remarkably similar in a lot of ways. I’m sure you guys have either had this thought over the years or you’ve heard someone have this thought when you’re talking to them about this great divide between rationalism and empiricism. Why does it need to be one or the other? Why can’t we all just get along? Why can’t it be a combination of the two—rationalism and empiricism?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And it’s a good question, but in reality, basically none of these people that we’ve talked about on either side of the argument really thought that the other guys were completely wrong. Like, if you were an empiricist, you surely understood the value of reason when it came to drawing conclusions about the world and vice versa. The question to them was, which is more imperative? Which was more important as a requisite to knowledge? Which was a better means of arriving at knowledge? Of course, there are more extreme viewpoints on either side. You guys know I’m not trying to characterize all of rationalism in a single sentence. But the arguments that are at the core of this debate are the ones that we’ve heard on this podcast before.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">On one side you got people like Plato, who talk about total knowledge of the universe being innate, programmed into us. He talks about how the process of what we think of as learning is really just a process of remembering all the things that we already know by virtue of them being programmed into us before birth. Remember the story we talked about with Socrates and the slave boy that he teaches the basic ideas of geometry? Do you remember that story? In the story, and what rationalists claim, is that the slave hadn’t ever experienced anything to do with geometry before. There was no experience in that slave’s life that would equal all the knowledge of geometry that Socrates was bringing to the table. Like, he had never seen or smelled or touched the things that Socrates was showing him. Yet somehow, he was able to use his reason and arrive at the correct answer as if he already knew it. Socrates wasn’t teaching him new ideas here. He was delivering new ideas like a midwife delivers a baby. To someone like Plato, it was obvious then that reason was a much more important tool when it came to arriving at knowledge. And of course, you know the rest of the story. Plato was seen as a rationalist, and etc.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But then on the other side you got people like Hume: custom is the great guide of human life. Reason in his work takes a subservient role. Yes, he acknowledges that people do use their ability to reason. And it is very important. But ultimately, all knowledge at least initially comes from experience. I mean, you can’t just magically conjure up new ideas with this mysterious thing called reason. These people would argue that the slave boy from the story isn’t really unearthing new ideas when Socrates is drawing all the squares in the dirt and asking him questions about it. Just through his life as a slave, he’s encountered concepts before, concepts like addition and subtraction and the number 4 and all the other tools he’d need to reason to the correct answer in that context. And now, when Socrates is showing him the stuff in the dirt, he’s just using these tools that he already had—he already initially gained them through experience—and he’s just using them on a new project, i.e., the squares that Socrates has drawn in the dirt. The point is, Hume’s not arguing that he isn’t using his ability to reason. He’s arguing that at least initially, the slave’s knowledge was born of experience, not reason.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the common argument back from a rationalist in this case would be, well, if everything is truly derived from some experience that I’ve had, then how come I can imagine things that I’ve never seen before? How come I can imagine things that I’ve never directly experienced? Like, I can imagine a chair that’s made entirely out of kittens. This idea obviously isn’t something that I’ve experienced directly before. How do you explain that? The common argument back to that is, you have experienced it, actually. You’ve experienced kittens, and you’ve experienced chairs. And now you’re just conflating the two or combining the two; you’re creating a complex idea by combining these two concepts that you’ve experienced in the past.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, that’s kind of a cartoonish, funny way of saying it. But the more serious philosophical implications of that is that, when people like Descartes or Spinoza or Leibniz arrive at some fundamental truth about the nature of the universe and then, from there, they construct an entire system on top of it using this thing that they have called reason that they’ve used to arrive at these “new” ideas that <em>have</em> to be true, it’s very tempting to think that they’ve arrived at something absolutely true there. But what the empiricist would say is that they aren’t actually arriving at anything completely foreign to their experiences. This system that they’ve created is just a creative conglomeration of things that they’ve experienced in the past, which, by the way, explains why many of the things they talk about are mutually exclusive.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But anyway, this argument can go back and forth all day. And it did, come to think of it, many days, many years, actually. The point is, none of these people were extremists. They all understood the merits of the other side of the argument. They just thought that either reason or experience, respectively, was more important than the other. And again, if you’re someone on the empiricist side of things like David Hume, think of how tempting this would be. I mean, imagine how tempting it would be to feel like empiricism is the answer to arriving at knowledge. I mean, considering the Scientific Revolution that he was immersed in, considering the very real improvements in the lives of the average citizen that came from a method that used empirical observation at its core—it’s a far cry from the centuries of speculation that came before him. It would be so tempting. But then along came Kant.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Along came Immanuel Kant. See, one day in the 1700s, a long time ago, Immanuel Kant was sitting down thinking about this very topic that we’re talking about right now, me and you. And when he was sitting down thinking about it, he realized that even the great David Hume, the great skeptic himself, had been making a giant assumption. I mean, I can just think of this conversation happening. I can just imagine the two of them talking, Kant talking to David Hume about this—well, if Kant ever left his basement in his entire life. I can just imagine, “Hey, Dave.” “Yeah, yeah.” “Come over here. Help me with something. I think I’m confused, alright? See, as far as I can remember—maybe I’m wrong—as far as I can remember, there’s no seminar that we all went to right after we were born, right? There’s no Tony Robbins weekend extravaganza on the nature of space and time that we all attended right after we left the womb that I missed, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">“So, isn’t it interesting, David Hume, that you think that all knowledge is ultimately derived from experience, yet you talk about things like causality and this chaotic mess of phenomena all interacting with each other as though you’re appealing to something that’s exterior to yourself? Isn’t that interesting? But where did that come from, Mr. Hume? When did you experience something that taught you about the existence of space? On that same note, how could you even know to expect to have a concept of ‘I’ or a concept of something being exterior to you at all? If all knowledge is ultimately derived from experience, where did you learn to make that distinction, David Hume?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In fact, when you think about it, Kant says, how is it even possible to make that distinction? See, think about it. For someone to arrive at knowledge about anything in the external world, any conclusion that they arrive at, they would first need to know that it was outside of them to begin with. But how can you identify where you end and the outside world begins without already knowing about the concepts of you and the concept of the outside world? In this way, Kant thinks that there’s no explanation other than the fact that the concept of space is something that we as humans are familiar with prior to experience of any kind or, in cool philosophical language, a priori.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, it’s right here that we can see what we were talking about before. It’s here we can begin to see this nexus between rationalism and empiricism. Kant looks at how we arrive at knowledge, and he—look, he largely agrees with Hume. He definitely thinks experience is an important element when it comes to arriving at knowledge. But is it everything? That’s the question that he’s asking. Kant makes the argument that it can’t be everything. It has to be a combination of experience and certain a priori intuitions of the mind, much like the concept of space. Now, what does all this mean? Well, aside from finding an assumption that even David Hume was making after he dedicated so much time in his life to finding assumptions—it’s kind of funny to me—it’s the philosophical implications that you guys want to hear about, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Think of what this means, people. The concept of space, this fundamental aspect of the way that we perceive the world—as fundamental as anything, really. Whenever we perceive our house or our dog or a tree or anything for that matter, we attach to that tree this property of it having space. We understand that tree at least partially in terms of the space that that tree occupies. But the property of space is not something that we’re receiving through our senses when we look at that tree. That tree isn’t somehow projecting to us its property of space. No, what we’re getting when we look at a tree is really just a flurry, a chaotic flurry of raw information, billions of bits of data flying into our eyes and our ears and our nose. And all this information at this level really makes no sense to us. Think about it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Have you ever seen a snow flurry? Before all the crazy living situations I had in California, I lived in Alabama for a while. And we would have these snow flurries in the winter, these big, thick snowflakes, densely pouring down with winds coming from all directions. You live in a cul-de-sac; the winds bounce off the houses. It’s a mess. And these snowflakes would just spiral around and twist and tornado through the air. And there’s no rhyme or reason to any of it. You’re just looking at it. There’s no way to make sense of it. It’s just pure madness dancing through the air.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, this is what the world would be if we lived in the world of David Hume where all knowledge is truly derived from experience. What Kant is saying is that, no, that’s not true. We have certain a priori principles of thought, things that we didn’t gain from experience, that make it possible for us to make sense of anything in the external world. When we look at a tree, we aren’t seeing the world as it truly is; we’re seeing the map of the world that our mind creates after imposing these a priori organizing faculties of our mind onto what we are sensing, like space.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, I want you to think of it this way, because this is how Kant explicitly talks about it. There are two worlds: our bodies and the external world. And what he means by that is that you will never experience the world as it truly is. You’ll never experience things in themselves that exist out there somewhere, outside of our experience of the world. Now, hold on. Don’t just take this at face value. This goes way beyond what we talked about in the John Locke episode with the veil of perception, right? I’ll say it again. There are two worlds. One of them you’re never going to see because it’s out there somewhere, things in themselves. And the other one is the way that your mind depicts that world out there to you to make sense of it—the world in your mind being that flurry of raw information gathered through the senses, transmuted into something sensible by your mind.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, Kant doesn’t care about what that true world out there actually is. Actually, that’s kind of an overstatement. Who am I to say Kant didn’t care about that stuff? But in his work, Kant doesn’t spend much time with needless speculation about what the true world out there is like. Leave that for people like Hegel, Schopenhauer—Hegel and Schopenhauer being two people that are yet to come that were heavily influenced by Kant. But what Kant does do is make a very important point to a human species that had been agonizing for quite a while about finding the best way to know things about the world. And that point is this: anything that we say we know about the world is really just us understanding some measurable facet regarding how our minds depict the world, not the world itself, not things in themselves.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, think about the gravity of this, right? People talk all the time about how important science and all these other things are as a means of arriving at more knowledge about the world. But Kant, I think, really rightly points out that if that knowledge that we’re striving for so diligently is even possible, one thing is for certain about it. That knowledge is going to be intrinsically connected to how our minds work, to how our minds make sense of everything. So, once you arrive at that conclusion, it seems pretty obvious what to do next. Find out as much as you can about how the mind works. How do we think? How do we know things at all? Are there any other a priori intuitions that our minds have?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But do you understand? This is why you see the names of his major works as things like the<em> Critique of Pure Reason</em> or the<em> Critique of Judgment</em>. He’s writing entire treatises describing different faculties of our mind because he believed it was through understanding the mind itself that we could understand things around us better. But there’s more. Think of how huge this is, alright? Think of the other side of Kant’s idea: the concept that space is one method that our mind uses to make sense of everything around us. The other big thing that this implies is that those things in themselves that we’re not experiencing—they may not have space at all. Just because I look at a tree and I see it as three dimensional and I see it as something that takes up space, that does not necessarily mean that the thing that exists in the external world—the thing in itself, the thing that my mind is projecting as a tree—it doesn’t mean that that thing actually takes up space. That would be an assumption. That would be me projecting the way my human mind perceives the world—the world in my body—onto things in themselves—the external world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, he doesn’t say these things don’t have the property of space. He’s just pointing out that to apply characteristics like we do to things with our minds to things in themselves—to something beyond anything we can ever experience—is just assuming way too much; it’s dangerous. Now, that’s pretty freaky. We aren’t looking at the things in themselves when we look out at the world. We’re just looking at some depiction of the things in themselves that our mind creates that’s useful to us. We don’t even know if the things in themselves have the property of space. We have no idea what they’re like. And if you haven’t already guessed, when it comes to these a priori things that our brains come with right off the factory floor, our stock brain, being able to perceive space or that something outside of us exists is not the only thing that our brains come with. So, let’s see if we can find more.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What are some other things that we magically know from birth that can’t be derived from experience? What other things do we somehow know that we didn’t learn from a weekend seminar before we ever experienced anything? Well, time, yes, we talked very briefly about that one last time. How about something more fun? How about causality? When we go about our lives in the world, we are constantly thinking of things in terms of cause and effect. You wake up in the morning. You turn over; you got a crick in your neck. You look for a cause for that pain in your neck. You get a tummy ache; you look for a cause for that tummy ache. Maybe you ate something bad. And you may be able to connect certain causes to other causes by having experiences in the world. Maybe one day you eat something bad; you get a stomachache. Next day, you eat something bad; you get a stomachache. And then multiple times and eventually you arrive at the idea, “Oh, my stomach hurts. There must be a cause. Maybe I ate something bad.” You may be able to make those connections. But where do you get the notion of assuming causality to begin with?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, in other words, like—that was a terrible example, actually. But I swore to myself as a personal improvement exercise, I would never edit terrible examples out of these things anymore. My point is, yeah, you may, through tons of experiences in the world, arrive at the idea that certain things commonly cause other things. But where did you get the notion that phenomena are caused by other phenomena at all? Why would you even think to find an association between two things? Where did you get that? This is yet another category of the mind, a preprogrammed way that the mind makes sense of the otherwise unsensible world. This is yet again something that our mind uses to make sense of things. And it would be a mistake, yet again, to project this quality of our mind onto the things in themselves, things in the external world. So, think about the implications of that.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">If the idea of cause and effect is just a way that our minds make sense of things out there in the world, then much like the things having the property of space, things in themselves may not have the property of causality. Things in themselves, to Kant, may not have a cause. To assume that they do have a cause is to project the way our minds make sense of the world onto the external world. But this is ludicrous to someone like Kant. Cause and effect exist as a part of our human experience. This external world that we know nothing about is by definition beyond human experience. You can imagine how Kant must have felt about everyone’s favorite cause to contemplate in the universe. You know what I’m talking about. Or can you? That’s the interesting thing. Or can you imagine?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One thing’s for sure. As we move forward into the next few episodes, we’re treading through some murky water here. And the most baffling thing to me even now, even as I know what the next few episodes are going to be—it’s baffling to me that there can be so much more to talk about with this with Kant putting such rigorous restrictions on what we can know at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
@@ -1573,29 +1573,30 @@
 
 </div></div></div></div></div></div>
 
-        
+          
 
-        
-        
-          <div class="blog-item-author-profile-wrapper" data-content-field="author">
-            <a href="/transcript?author=5eec15fc09afd80facd6edf3">
+          
+          
+            <div class="blog-item-author-profile-wrapper" data-content-field="author">
+              <a href="/transcript?author=5eec15fc09afd80facd6edf3">
   
   <span class="author-name"></span>
 </a>
 
 
 
-          </div>
-        
-      </div>
-
-      <section class="blog-item-comments">
-        <div class="blog-item-comments-toggle-wrapper">
-          <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
-            
-          </div>
+            </div>
+          
         </div>
-      </section>
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
+              
+            </div>
+          </div>
+        </section>
+      
     </div>
   
 </article>
@@ -1723,30 +1724,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                    &quot;imageOverlayOpacity&quot;: 0.15,
-                                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                    &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                    &quot;customContentWidth&quot;: 100,
-                                    &quot;sectionTheme&quot;: &quot;dark&quot;,
-                                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                    &quot;backgroundMode&quot;: &quot;image&quot;
-                                  }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                    &quot;video&quot;: {
-                                      &quot;playbackSpeed&quot;: 0.5,
-                                      &quot;filter&quot;: 1,
-                                      &quot;filterStrength&quot;: 0,
-                                      &quot;zoom&quot;: 0,
-                                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                    },
-                                    &quot;backgroundImageId&quot;: null,
-                                    &quot;backgroundMediaEffect&quot;: null,
-                                    &quot;divider&quot;: null,
-                                    &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                  }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1940,7 +1941,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b502231aaf751bf844c833e9880528bf.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.4df6f348a832dc61e261a099a8ca9b31.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

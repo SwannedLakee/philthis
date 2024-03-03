@@ -38,15 +38,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-e4b9e666769fb45ac522-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-e4b9e666769fb45ac522-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-ec1398cb0812a32f62d8-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-ec1398cb0812a32f62d8-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-c20455a09b1fe109400d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2956e20d9a68ca6ae280-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-f176173c568e8717c99b-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-44d9cfb93d344a7446ac-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-5cd4a896962954eaca96-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6f4322f63224e137fb72-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4a222f32bf58327e181b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5f2d4e7ddb02d50723d1-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-210f16f8bec538fbaf2f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-eb72d47f5c6899b293da-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7993e315eeeb0e31e0d1-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-eb731df3d05e856250e3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b99f54f05b3a4f777f55-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c21b9c2f0a1526623416-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-84d5b8a1f1fc4654032c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a6388a789435452d55a7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db82977b390515867439-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-5196e0c68b662ed24a38-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-377a5b12886c446ac5e6-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #100 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"4":true,"3":true,"1":true,"2":true,"8":true,"7":true,"6":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #100 - Transcript","id":"5eec1e0a09afd80facd8a7fa","fullUrl":"/transcript/episode-100-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["marketing_landing_page","rewrite_transactional_email_from_address","nested_categories","campaigns_global_uc_ab","commerce_order_status_access","collection_typename_switching","customer_accounts_email_verification","accounting_orders_sync","site_header_footer","viewer-role-contributor-invites","supports_versioned_template_assets","commerce_subscription_renewal_notifications","override_block_styles","color_var_rendering_in_v6","show_add_to_cart_in_plp","scripts_defer","new_stacked_index","visitor_react_forms","commerce_checkout_website_updates_enabled","commsplat_forms_visitor_profile","is_feature_gate_refresh_enabled","toggle_preview_new_shortcut","fluid_engine_clean_up_grid_contextual_change","commerce_restock_notifications","commerce_site_visitor_metrics","nested_categories_migration_enabled","commerce_etsy_shipping_import","order_status_page_checkout_landing_enabled","campaigns_discount_section_in_blasts","campaigns_import_discounts","website_fonts","campaigns_thumbnail_layout","background_art_onboarding","campaigns_new_image_layout_picker","unify_edit_mode_p2","customer_account_creation_recaptcha","commerce_etsy_product_import","send_local_pickup_ready_email","image_component","pdp_product_add_ons_visitor_site","website_component_enabled","enable_css_variable_tweaks","themes","campaigns_discount_section_in_automations","member_areas_feature","fluid_engine","commerce_clearpay"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #100 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-100-transcript","datePublished":"2017-04-14T09:48:26-0700","dateModified":"2022-07-10T14:11:20-0700","headline":"Episode #100 - Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1489/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-22a3877c6773548a7f00-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-22a3877c6773548a7f00-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-a6a52a3e45a26623da1b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-a6a52a3e45a26623da1b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f1b17328c55249cf16e9-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce3304dbbbc00b0adc2c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-33c1f90c488c55fae579-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7116ec013cb68ccb46b1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-c284904b25c71d02bce8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-f024c98ca7700424e476-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-8bce2b9d88aceb373cdf-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-bfb66a035b04f2e6f87b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-7f236d6e33b49e67b709-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-070905c328c108a2d84a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-dab20fce7c5de7ebe5cd-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-503cf40eefffe62983b2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-02d1e0bcb6fc2a7af709-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c425f4bbbcfb78c3f308-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f26a14c5e478c6c72476-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e651beeebf0f0d458f3c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd133305dca90ae5ca2f-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5978fce864bf3409cbda-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-ed7446c70dde7b3316d8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b9419dfe48307ccde360-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #100 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"1":true,"4":true,"2":true,"3":true,"6":true,"8":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #100 - Transcript","id":"5eec1e0a09afd80facd8a7fa","fullUrl":"/transcript/episode-100-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["rewrite_transactional_email_from_address","marketing_landing_page","commerce_clearpay","background_art_onboarding","enable_css_variable_tweaks","member_areas_feature","campaigns_thumbnail_layout","toggle_preview_new_shortcut","async_copy_collection","is_feature_gate_refresh_enabled","commerce_order_status_access","google_consent_v2","nested_categories_migration_enabled","customer_account_creation_recaptcha","show_add_to_cart_in_plp","pdp_product_add_ons_visitor_site","fluid_engine_clean_up_grid_contextual_change","themes","commerce_etsy_shipping_import","send_local_pickup_ready_email","campaigns_import_discounts","visitor_react_forms","new_stacked_index","supports_versioned_template_assets","nested_categories","override_block_styles","scripts_defer","viewer-role-contributor-invites","unify_edit_mode_p2","order_status_page_checkout_landing_enabled","commsplat_forms_visitor_profile","campaigns_new_image_layout_picker","commerce_restock_notifications","website_fonts","campaigns_discount_section_in_blasts","campaigns_global_uc_ab","commerce_etsy_product_import","fluid_engine","commerce_site_visitor_metrics","commerce_subscription_renewal_notifications","customer_accounts_email_verification","campaigns_discount_section_in_automations","commerce_checkout_website_updates_enabled","collection_typename_switching","accounting_orders_sync"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #100 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-100-transcript","datePublished":"2017-04-14T09:48:26-0700","dateModified":"2022-07-10T14:11:20-0700","headline":"Episode #100 - Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1498/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1706811132467-QIR6O63RE5GI9HXI9ESJ/static.css">
@@ -58,13 +58,7 @@
     class="
       primary-button-style-solid primary-button-shape-rounded secondary-button-style-solid secondary-button-shape-rounded tertiary-button-style-solid tertiary-button-shape-rounded  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-dash tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-right tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-hide tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-hide tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-left tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-content-position-center image-block-overlap-text-alignment-opposite image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog-masonry collection-6053dc3a01905600e48be230 view-item collection-layout-default mobile-style-available sqs-seven-one
       
-        plp-config-editor-add-to-cart
-      
-      
         show-pdp-product-add-ons
-      
-      
-         plp-add-to-cart
       
       
         
@@ -408,18 +402,18 @@
   "
 >
   
+    
 <div class="sqs-announcement-bar-dropzone"></div>
 
-  <div class="header-announcement-bar-wrapper"
-  > 
-
-    <a
-      href="#page"
-      class="header-skip-link sqs-button-element--primary"
-    >
-      Skip to Content
-    </a>
-    
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
 <style>
@@ -430,13 +424,13 @@
         }
     }
 </style>
-    <div
-      class="header-border"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-border="false"
-      data-test="header-border"
-      style="
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
 
 
 
@@ -450,44 +444,44 @@
 
 
 "
-    ></div>
-    <div
-      class="header-dropshadow"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-dropshadow="false"
-      data-test="header-dropshadow"
-      style="
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
 
 
   
 "
-    ></div>
-    
-    
+      ></div>
+      
+      
 
-    <div class='header-inner container--fluid
-      
-      
-      
-       header-mobile-layout-logo-left-nav-right
-      
-      
-      
-      
-      
-      
-       header-layout-nav-right
-      
-      
-      
-      
-      
-      
-      
-      
-      '
-      style="
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
 
 
 
@@ -497,68 +491,68 @@
 
 
 "
-      data-test="header-inner"
-      >
-      <!-- Background -->
-      <div class="header-background theme-bg--primary"></div>
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+        <div class="header-display-desktop" data-content-field="site-title">
           
-          <!-- Social -->
+
+          
+
+          
+
+          
+
+          
+
+          
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -657,64 +651,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -744,59 +738,59 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
-
-      </div>
-      <div class="header-display-mobile" data-content-field="site-title">
-        
           
-          <!-- Social -->
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -895,64 +889,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -982,14 +976,15 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+          
+          
+          
+          
+          
+        </div>
       </div>
     </div>
-  </div>
+  
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     
@@ -1516,6 +1511,9 @@
       <div class="blog-item-wrapper blog-grid-masonry-item-wrapper" data-content-field="main-content" data-item-id="">
   <article id="article-" class="h-entry entry hentry post-type-">
   
+    
+    
+    
     <div class="blog-item-inner-wrapper">
       <div class="blog-item-top-wrapper">
         <div class="blog-item-title">
@@ -1534,11 +1532,13 @@
             </time>
             <div class="blog-meta-item blog-meta-item--author p-author author" data-content-field="author">Written By <a href="/transcript?author=5eec15fc09afd80facd6edf3" class="blog-author-name"></a></div>
           </div>
+          
         </div>
       </div>
 
-      <div class="blog-item-content-wrapper">
-        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1e0a09afd80facd8a7fa"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1657487416981_1326"><div class="sqs-block-content">
+      
+        <div class="blog-item-content-wrapper">
+          <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1e0a09afd80facd8a7fa"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1657487416981_1326"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I hope you love the show today.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, I want to begin the episode today by telling you all a very famous story from the history of philosophy. It’s an old story passed down from generation after generation from one philosopher to another, and here I am today passing it on to you. It’s a story about a day way back in antiquity in Athens. Plato and his fellow philosophers are all sitting around talking about stuff as they normally would, questioning the definitions of things. Popular thing to do if you’re a philosopher back then. I mean, after all, how can you ever philosophize about something meaningfully if you don’t have a solid grasp on the definition of the thing?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the topic of this particular day’s discussion was the question “What is a human being?” What does it mean to be a human being? How can we define that? Well, they sit around; they talk about it for a while, throw some theories around. And, eventually, they come to a conclusion that they’re all pretty satisfied with, sitting there nodding at each other. “Hmm. Yes. Yes. Jolly good.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Their answer to this question was, “A human being is a bipedal animal that doesn’t have feathers.” After all, an ostrich has feathers. A toucan has feathers. A human being seems to be the bipedal animal that doesn’t have feathers. So, they’re all sitting around patting each other on the back, loving this definition, soaking in the glory when, all of a sudden, Diogenes the Cynic bursts through the door with a chicken he just plucked. And he says, “Hey, everyone, look! I present to you a human being!” Everybody starts screaming.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Diogenes. I miss that guy. Remember he’s kind of a character from around this whole time. Lived in a tub. Alexander the Great famously took a liking to him. Says to him, “You know what, if I were not Alexander, then I would want to be Diogenes.” Diogenes says back to him, “You know, if I were not Diogenes, I would also want to be Diogenes.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Anyway, this whole story depicts one of the first times philosophers started asking questions in what would eventually become a massive branch of philosophy known as ontology. Ontology is the branch of philosophy that would ask the kind of question, “What does it mean to be a human being?” Not just that though, ontology would ask, “What does it mean to be a thing at all? What is existence? What does it mean for something to be? At what point does something exist versus not exist?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Like, for example, let’s say one day you went down to the petting zoo; you met a goat there, and you fed it some alfalfa pellets. Now, there’s a lot of people out there that would look at that goat, and they would take the existence of that goat to be a self-evident thing. It exists. And, for the sake of the discussion today, let’s just say, fine, that goat definitely exists. It is. But then ontology steps in. What does it even mean to exist? What do we mean when we say that something exists? What criteria do we use?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This leads to other questions. What is the nature of existence itself? Is existence a property of that goat? This leads to even more questions. What foundation, if there even is one, makes it possible for that goat to be able to exist in the first place? These are examples of common ontological questions.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But even this is far from the end of ontology. Like, how about this. What if you leave the petting zoo and later on you’re thinking about that goat? You know, what if you really like thinking about this goat? What if you fell in love with this goat, and now, gosh darn it, you’re daydreaming about it all the time? No matter what you do, you can’t get that goat out of your head.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, would you say that that thought about that goat exists? When you’re no longer having the thought, does it not exist anymore? Are thoughts just patterns of fleeting, electrochemical activity, or do thoughts exist as beings in the same way that a goat is a being or a rock is a being? I mean, think about it. What really is the difference between that thought and that goat?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You may say, “Okay, well, they’re different to me because I know one’s just a thought and that it’s not real.” Okay, well, what if you took PCP and you hallucinated that you and the goat ran off to Vegas together to get married? And when you’re walking down the aisle with that goat it feels as real to you in that moment as it did back at the petting zoo.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Question is, when you eventually stop hallucinating and you’re harkening back to your memory of your honeymoon in Guam with your new goat companion, can that whole experience be said to have existed in some capacity? We’ve all been here before. Not the goat. We’ve all been up in our heads asking these kinds of questions about what constitutes something existing or not. And philosophers all throughout history have been here as well in this field of ontology.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, there’s definitely some of you out there that hear these sorts of questions being asked, and they just don’t really do much for you. “Look, I love learning about the existentialists and their approach to life. I love learning about the <em>Nicomachean Ethics</em>. That’s interesting. But, ultimately, I like learning about philosophy that’s actually going to enrich things in my life. What possible benefit can I get from waxing poetic about whether this hypothetical goat exists or not? Look, personally -- it’s just this weird thing about me -- I like to learn about stuff that’s actually going to be important to me.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, the guy we’re going to be talking about today thought that these ontological questions are not only important, they are the most important and simultaneously the most neglected questions in the history of philosophy. His name is Martin Heidegger. And, for me to explain to you why he thinks these questions are so important, it’s going to take an entire series. But I promise you by the end of it you won’t just have these obscure questions to think about. You’ll have an approach to life that he lays out that some consider to be the greatest existentialist approach to life ever produced.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But the journey of a thousand miles begins with a single step. Question is, where do you put that foot first? And it makes sense to me to begin where Heidegger began at the beginning of his career because, to understand where he’s coming from with all these innovations in the area of ontology, we have to understand the revolutionary method that was invented by his teacher, a guy that couldn’t have cared less about ontology. His name was Edmund Husserl, and his revolutionary method that he invented was called phenomenology.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Husserl was like a mad scientist, this mad scientist that emerges at the beginning of the 20th century just wreaking havoc on everything in philosophy. I guess, technically, that makes him a mad philosopher. But, make no mistake, he is to philosophy and traditional philosophers what a mad scientist would be to science and traditional scientists.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He’s like a mad scientist because, yes, he still gets dressed up in the lab coat. He still conducts experiments. But they’re not the same kinds of experiments that a traditional scientist would conduct. He’s conducting these experiments in this bizarre place deep within his own mind, almost like his own personal underground lair. And, I guess most of all, he’s not doing these experiments for the same reasons a normal scientist would be doing them.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One of the things I love most about Edmund Husserl, just as a character within philosophy, is the way that he approaches his work. He’s not concerned with things like “What is the meaning of my life?” or how we should be behaving or what the best form of government is. No, Husserl is a mathematician turned philosopher and, while he thinks ultimately his work is going to go on to give answers to these kinds of questions, he’s personally interested in one thing and one thing alone in his work: certainty.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, Husserl noticed something. He noticed, all these philosophers throughout history trying to find a way to get objective truth about things -- yeah, how’s that going for you guys? Haven’t checked in in a while. How you guys doing over there? He realized that they all have basically the same strategy for doing this. They all come up with their own unique, creative ways of looking at the world in a slightly different way than the last guy did, the goal being to correct the assumptions of the past and get us a little bit closer to certainty.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But maybe their lack of success can be explained by the fact that their strategy for accomplishing this massive task has been wrong from the very beginning. Maybe instead of looking at the world differently we should be looking differently at the way that we look at the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Here’s where he’s coming from. Remember Kant? Remember Hume? Remember talking about how we get to our human experience of the world? The senses pick up a flurry of seemingly random, raw phenomena that by themselves would be pretty chaotic, but we filter those phenomena through various mental faculties, categories of the mind, that help us categorize and make sense of them: things like space, time, cause and effect, many others. This is what makes up our subjective human experience.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, one thing’s for sure if you’re Husserl. If we ever arrived at some method that does give us objective truth about things, it’s ultimately going to have to be filtered through this very narrow, subjective human experience that we have. Husserl’s method of phenomenology is not about looking at the world differently; it’s not about looking at the world at all, necessarily. It’s about taking an exhaustively close look at the lens that these objects of our experience are always seen through: human consciousness or our subjective experience of the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Phenomenology is a method designed to better understand the underlying structure of human thought, the hope being that one day we can, you know, not just merely have an understanding of these objects in our thinking that we typically call the world -- the strategy of so many philosophers before him -- but instead maybe we can arrive at certainty about these raw phenomena and how they relate to each other by understanding all of the ways that our human experience of the world distorts reality.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In other words, all these philosophers over the years have tried to arrive at objectivity by sitting on the sidelines, approaching it like they’re some objective third party looking at the world. But human experience is not objective. Here’s Husserl saying that you’re never going to be able to arrive at certainty about anything unless you have a much deeper understanding of that subjective lens that you’re looking at everything through.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The big maxim here that I like to underscore, the question central to phenomenology that’s going to help us understand why Heidegger did what he did, is the question “Is it possible that we’re so familiar with this daily process of just perceiving the world that that familiarity is clouding our ability to see the world clearly?” Now, thinking about that possibility -- not really the default state we find ourselves in as human beings, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I mean, most of us don’t sit around thinking about the underlying structure of human thought. We just think about stuff. Most of us aren’t searching for the objective truth about things like a philosopher would. We just sort of have beliefs. If they work, they work; if they don’t, well, what really happens as a consequence of them not working? What, you go into your thinking closet, turn off all the lights -- “Stupid, stupid, stupid!” And then what happens? You emerge from the closet and revise your beliefs into another flawed interpretation of the world and go on about your life until you have to revise them again.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This whole idea of just sort of blindly accepting from birth that there’s this other world out there separate from us, that it’s our job to uncover the truth about that world by reading more books and having more conversations and many other base assumptions that go along with this default attitude that we seem to have of taking so many things for granted -- this whole approach is what Husserl refers to as the “natural attitude.” This is where most people spend their entire lives. But it’s not a death sentence. Don’t worry.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Husserl thinks it is possible to develop over time a phenomenological attitude of the world. We can do this by suspending our belief in the natural attitude. He calls it “bracketing,” but the main point is to recognize the natural attitude for what it truly is: it’s a belief, a set of beliefs. He’s not saying to not believe the natural attitude. He’s just saying, put it in check for a bit, and recognize that this default state, this natural attitude, might not be the only way of looking at things. And realize the very serious possibility that this might be an area where we’re coming to the table with a lot of assumptions about beforehand.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is where Husserl starts to sound like a mad scientist, alright? This is where his hair starts to stick up like he’s Bozo the Clown. Husserl thinks that when you examine the natural attitude closely enough you start to see a lot of biases and assumptions, assumptions that stem from the way the human mind categorizes and makes sense of everything. When you find these biases, he’s a fan of noticing them, acknowledging them, and then marking them with a sort of philosophical reflector tape to help draw attention to them the next time you’re thinking about things.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And he says you do this for two reasons. One, you’re much less likely to make the same sort of natural attitude mistake the next time. And, two, when you start to get enough of this philosophical reflector tape cordoning off areas of these raw phenomena into different portions of thought in your mind that we’re trying to look at, eventually what happens is, the reflector tape starts to show a pattern; it starts to show you the boundary of where the natural attitude ends and the raw phenomena begin. It's inside of these cordoned-off areas, Husserl thinks, that we can more closely focus on the stuff we’re really concerned with: the aspects of our experience that are necessary and unchanging; in other words, the essence of our experiences devoid of all the value judgments we place on experience after the fact.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, when you’re in this place deep within your own mind, when you’re in the lair of the mad scientist, many methods Husserl uses to try to arrive at the essence of any given human experience -- can’t really go through all of them here; though, if you do want a series on Husserl and phenomenology, please don’t hesitate to reach out.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Actually, you know what, I’ve been wanting to say this for over a year. Let me just -- 10 seconds, please. Here’s the way I look at this show: I’m not making this show for me; I’m making it for you guys. And the episodes of this show that end up getting produced -- look, it's not like I’m sitting at home spinning a giant wheel to decide what episodes to do. I don’t have any other method to decide what episodes to do other than democratically just based on how many emails, Facebook messages, and Twitter things that I get asking for a particular person or topic.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, a common email that I get from people are them asking me a question and then apologizing to me because I must get a ton of emails. Like, seriously, no. No. Look, I do get a lot of emails, but also consider the fact that I’m an extroverted person that spends the vast majority of my days in a one-bedroom apartment alone. You’re not imposing upon me. You’re not inconveniencing me at all. In fact, I see it the opposite. This is a conversation I get to have with the very people that love what I’ve decided to dedicate my life to. So please, please do not hesitate to reach out if you want more of something.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But I digress. Anyway, can’t go through all of Husserl’s methods here, but I do want to talk about one of them because I want you to feel this strange world that Husserl’s operating within when he does his philosophy, this bizarre method he’s using to arrive at certainty that would eventually go on to deeply influence Heidegger and the way that he conducts his work.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One tactic is called using an eidetic reduction. An eidetic reduction is just one type of strategy Husserl would use to try to arrive at what the essence is of any given experience. Now, how do we search for the essence of a human experience? Well, we’ve searched for the essences of things on this show before, right? We just did it with objects not human experiences like Husserl’s doing.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s talk about the process. A famous example passed down from Descartes is to try to find the essence of a piece of wax. You can imagine in front of you a red, cylindrical piece of wax sitting on a table. Now, let’s break it down. What is the essence of a piece of wax? Well, this particular piece of wax has certain properties, right? It’s red. It’s cylindrical in shape. It may be shiny. You could have just bought it at the store. Then again it may not be shiny. Could be one of those Korean War surplus candles your grandma has up in her attic. This wax has a certain way that it smells; it has a certain way that it tastes. But are any of these properties necessary and invariable -- two words that are incredibly important in phenomenology -- necessary and invariable components of that wax?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, we could take away the redness; still could be a piece of wax without being red, right? The wax could smell different, and it could still be a piece of wax. Right? I mean, what if it wasn’t a gift to your grandma from General Douglas MacArthur? Still would be a piece of wax; it just wouldn’t smell like the 1950s. You could apply heat to the wax, and it would melt down into a shape that wasn’t a cylinder anymore; still would be wax.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">To find the necessary and invariable components of this wax is to find the essence of the wax. And an eidetic reduction is a particular technique where you use something known as imaginary variation, or the act of creatively varying different components of something -- say the wax -- in order to get closer to those necessary and invariable components: for example, asking questions like “What if the wax was blue?” Still is a piece of wax. “What if the wax smelled like a gingerbread man?” Still wax. “What if the wax was made of water?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Okay, there; stop, stop. Something changed there about the wax. Now it doesn’t appear to be wax. Now, can we try to figure out what specifically needs to be replaced for it to be classified as wax again: i.e., the necessary and invariable components.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, imagine conducting this whole process not on a piece of wax -- something we’re all very familiar with -- imagine conducting it on an experience that human beings have. And instead of considering things like color and shape and how it smells -- things, again, we’re all very familiar with changing -- imagine the equivalent are the ways that your brain organizes and makes sense of that experience.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You imagine that, and you can get a rough idea of this strange, mind-bending world that people like Husserl and Heidegger used to operate within. And you can definitely get an idea of why it would take an entire series to fully explain what Husserl thinks he’s doing here.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But all that doesn’t matter. All that doesn’t matter. All you need to know to be able to understand where Heidegger’s coming from are the basics of this newly introspective way of approaching philosophy and phenomenology. Key word: introspective.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Again, instead of trying to find a new, creative way of looking at the objects of our experience like so many philosophers have done in the past, instead let’s take a deeper look at what that experience is at its most fundamental level. But along comes Heidegger, student of Edmund Husserl, begins his career a card-carrying phenomenologist. But it’s right here that he sees phenomenology eventually running into a lot of very serious problems.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">First of all, what exactly is it that you’re trying to do, phenomenology? You’re trying to get an exhaustive understanding of the structures of human thought? You’re going to arrive at the structures of human thought? Heidegger thought, isn’t that kind of an extension of a mistake philosophers have been making all throughout history like David Hume?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">You know, when David Hume writes <em>An Inquiry Concerning Human Understanding</em>, who really is to say that, if David Hume lived for another few years and composed another book, this one called <em>An Inquiry Concerning Squirrel Understanding </em>or <em>Racoon Understanding</em>, who’s to say that it wouldn’t have been the exact same book? In other words, how can we know for sure that the underlying structure of human thought is not the underlying structure of mammalian thought or all conscious thought, for that matter?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But it goes the other way too. What are we using to be able to arrive at these conclusions about the architecture of human thought? Oh yeah, our subjective experience of the world. Let’s say we arrived at a conclusion. How can we ever say that we’re positive that this is the way every human being that’s ever going to live structures their thought or even every human being alive today, for that matter? I mean, is it that inconceivable to think that maybe something like your level of intellect affects the structure of your thought or even the culture you were born into or the values you possess? Is it crazy to think that those might have a drastic effect?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if these weren’t problems enough, Heidegger thinks there’s an even bigger mistake Husserl’s making and that, you know, even though he’s an undeniably brilliant thinker and recognized a mistake that so many philosophers had made in the past, even though he recognized the fact that we shouldn’t be caring so much about the objects of the world before we have a true understanding of the lens that we view those objects through, Heidegger thought there was something massive Husserl himself was overlooking. Because Husserl may have understood what underlies the objects of our experience, but what underlies the ability to be able to study the structures of human thought at all? Existence.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What does it mean to exist? What does it mean to be a human being? These ontological questions we were talking about. Heidegger realized, the answers to these questions drastically inform these other two areas that philosophers engage in. Just imagine for a second if every philosopher we’ve ever talked about on this show wrote their work from the ontological perspective of Plato and his buddies that we talked about at the beginning of the episode.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What would Kant’s work look like if he just blindly assumed from the beginning that a human being is just a bipedal animal with no feathers? What if there was no Diogenes to embarrass everyone and keep the conversation going with the plucked chicken? No question about it, things would look very different.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, when Heidegger takes a look at the history of ontology in the Western cannon of philosophy, of course there’s variation among the philosophers, but he notices something. On one issue in particular there seems to be this mutual consensus among practically every philosopher that’s ever lived. And, man, does a consensus like that start to look rather suspicious to Heidegger.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This concept goes way beyond philosophy, by the way. I mean, if you’re somebody that’s interested in making novel social commentary or even just being the person at the party that has the most interesting take on the world, here’s a tip from your Uncle Steve. You don’t want to focus your time studying the things everybody’s arguing about. No, don’t do that. You want to focus your time studying the things that everybody pretty much agrees on, because it’s in those areas that people’s ideas are the least challenged.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I mean, everybody knows their position on abortion and why they feel that way about it. But it’s when you start to ask questions that people tend to agree on like “Why do you structure your relationships the way you do?” or “Why does this never-ending task of finding somebody to love you seem to be an imperative in your life?” These are the kind of questions that create progress in our understanding of the world, the questions you never think about. Because what happens is, you and your group of friends all agree on X, Y, and Z, so you end up never really examining your beliefs that much about X, Y, and Z.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I’m talking about the beliefs that we just sort of off-handedly spout off at a party not even really thinking about it because people all around us just hold their red cups and smile and nod in agreement. Well, guess what, folks. Heidegger’s throwing a party, and practically every philosopher that’s ever lived is on the guest list right now, smiling and nodding at each other about a certain ontological bedrock that they’ve all built their systems on top of. And Heidegger’s here to stop smiling and nodding.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What is it to be a human being? It’s always been some variation of generally the same thing: we’re a rational animal, a conscious agent temporarily and restlessly navigating this realm, this external world that’s existed for billions of years and will continue to exist with or without us. Now, it just so happens that in this realm having a more comprehensive understanding of this external world leads to a lot of very real benefits. So philosophers, traditionally, from Descartes to Locke to Kant all the way up to Husserl, they’ve all dedicated a considerable amount of time to trying to understand this external world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But what if this whole idea -- this idea that we’re this human being thing, this conscious agent navigating this realm that’s separate from us, this subject-and-object relationship that exists -- what if that’s been a giant assumption philosophers have been making from practically the very beginning? What if that’s the case? Heidegger thinks, yeah, that’s weird. People all seem to be agreeing on that. So, he goes back, and he looks at all the arguments people give to justify this sort of ontological position, people like Descartes, for example.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Descartes -- we all know the story -- tries to doubt everything he possibly can about his existence. And he famously arrives at the conclusion that, although you can initially doubt pretty much everything about the existence of the external world, one thing is for certain by virtue of the fact that I’m thinking: I am a thinking thing of some sort. That’s the fundamental thing that you can know about your existence that he’s going to use as a foundation for his entire philosophical system.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Heidegger says, well, hold on a second, Descartes. You skipped over something massively important there. The first thing you experience about your existence is not that you’re a thinking thing. To even be able to make an abstraction like that about what you are presupposes that something has to come before that. No, the actual first experience that you have when you exist is just sort of being there. Like, here I am, guys, existing, being there.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Heidegger has a word he uses to describe this state: <em>Dasein</em>. Now, the literal German translation of <em>Dasein</em> is “being there.” Though it should be said, Heidegger creates a lot of words all throughout his philosophy, and he’s not doing it because he gets some creepy pleasure from people using the words he invented. He’s creating words because he’s literally talking about things that no person has ever talked about before, and he doesn’t want the biases and connotations that come along with conventional words that cloud people’s understanding of the concepts he’s talking about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">That said, even with something as simple as the concept of <em>Dasein</em>, so many different interpretations of Heidegger’s work. And I think my job here is not to lay out every possible interpretation of Heidegger in existence; it’s to hopefully pique your interest about his ideas enough that you go on to read more and have your own interpretation of his work.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But anyway, this concept: <em>Dasein</em>, being there, existence. Here’s where he departs from all the other philosophers. See, because Husserl makes the claim that he’s studying the underlying structure of thought we use to experience this world that’s separate from us. But Heidegger thought, what if this whole notion that we’re subjects navigating objects, that we’re conscious agents navigating an external world, what if that’s wrong? After all, our experience of the world before we even arrive at an idea like that we’re a thinking thing navigating something is just being there: <em>Dasein</em>, being in the world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, how about this idea, guys? What if being and the world are a united thing? That being can’t exist without the world and the world can’t exist without being? In the English translations of Heidegger, being-in-the-world is hyphenated together because he sees these two concepts as fundamentally inseparable. This is an odd thing to consider at first for a lot of people. But, just like in phenomenology where we’ve become so familiar with perceiving the world every day that it’s inhibiting our ability to see it clearly, is it possible that we’ve become so familiar with being that that familiarity clouds our ability to see it clearly too?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, to even try to begin to describe this concept Heidegger’s talking about while using Western languages -- that’s an uphill battle in its own right because the way our languages typically structure sentences are in terms of subjects acting upon objects. That’s how deep this goes. In fact, Heidegger in his later work actually advocates poetry as the best form of communication, not these sentences that continually reinforce this distorted subject/object false dichotomy. These sentences reinforce the idea that being-in-the-world is existing within some spatial dimension that’s separate from us. Heidegger often talks about the overemphasis so many people place on the idea of something spatially being.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What if being-in-the-world is not being within a spatial context; what if it’s more like being in love? Being in love is its own thing, right? Maybe being-in-the-world are inseparable from each other for them to be what it is. Being is something that we’re engaged in. When you remove the languages, when you remove the intuition, when you look at being in a phenomenological way, this is what you find. Being is something that we’re engaged in.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And, by the way, being is something that we’re all engaged in: every person, every animal, every tree, every rock. We’re all united under this larger umbrella of being. We’re all on the same team. And Heidegger things we should think about it that way: #teambeing, people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if this is kind of tough to initially wrap your mind around, don’t worry, more explanation next episode. We’re going to talk a lot more about what it means to be beings engaged in a world as such. But just know this. I’ve talked to a lot of people about Heidegger, a lot of fans of philosophy all the way up to philosophy professors. And a common experience that people have when they first hear about this concept of <em>Dasein</em> is they have this sort of strange moment where they think, “How in the world did nobody ever think of this before?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And what’s even more interesting to think about is, what if <em>Being and Time</em> -- Heidegger’s primary work early in his life where he lays out these ideas -- what if that was the magnum opus of Thales? What if this was the initial ontological starting point that philosophy began on? How different would philosophy look today? How different would the world look today?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">How different would the world look today. It’s a nice segue, I guess, because if this series is me ultimately trying to convey why Heidegger thinks these ontological questions are so important, that question sort of brings me to, I mean, I guess, the first point Heidegger would make about these kinds of questions. You know, it’s so easy for us as individuals -- as individuals that don’t write philosophical treatises, but just people that look to philosophy as a practical guide to life and how to think more clearly -- it’s so easy for us to think of these questions like “What does it mean to be?” “What does it mean to be a human?” as, again, sort of these redundant, self-indulgent exercises, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Like, short of you being a professor that’s going through some sort of Rocky-style training to become the most obscure and unrelatable professor on the face of the planet, why would you ask these questions? Why not ask some real questions? Why not ask questions like “How do we get the ice caps to stop melting?” or “How do we fix widespread poverty?” or “How do we get people to stop killing each other?” Real questions.<br> </p><p class="" style="white-space:pre-wrap;">Heidegger would say, those are all really great questions to ask. But are we sabotaging our ability to ever be able to arrive at an accurate answer to them by ignoring questions that make those questions even possible? Not only that, is it our lack of answers to these ontological questions that’s responsible for creating all those problems in the first place?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The state of the world is contingent upon the state of human thought that came before it. And, when you really consider that, again, think of how much changes about, for example, Nietzsche’s philosophy if he spends his entire career with the ontological outlook that we are agents of God’s will. Think of how much changes about every single question he thinks is worth asking and every answer he thinks is reasonable. Think about how much changes about the political philosophy of John Locke if for his entire career he holds the ontological position that a human being is a featherless, bipedal animal.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See, because Heidegger would point out that, whether you’re asking geological questions about rocky beings or anthropological questions about cultural beings or scientific questions about scientific beings, we’re all ultimately asking questions about beings. And that maybe if we took a closer look at these seemingly meaningless questions and we all understood what it means to be a human being a little bit better, maybe we’d better understand why we have these sorts of problems or even whether they’re problems at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
@@ -1570,29 +1570,30 @@
 
 </div></div></div></div></div></div>
 
-        
+          
 
-        
-        
-          <div class="blog-item-author-profile-wrapper" data-content-field="author">
-            <a href="/transcript?author=5eec15fc09afd80facd6edf3">
+          
+          
+            <div class="blog-item-author-profile-wrapper" data-content-field="author">
+              <a href="/transcript?author=5eec15fc09afd80facd6edf3">
   
   <span class="author-name"></span>
 </a>
 
 
 
-          </div>
-        
-      </div>
-
-      <section class="blog-item-comments">
-        <div class="blog-item-comments-toggle-wrapper">
-          <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
-            
-          </div>
+            </div>
+          
         </div>
-      </section>
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
+              
+            </div>
+          </div>
+        </section>
+      
     </div>
   
 </article>
@@ -1937,7 +1938,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b502231aaf751bf844c833e9880528bf.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.50b4de10587967c63a6c38385a95664b.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

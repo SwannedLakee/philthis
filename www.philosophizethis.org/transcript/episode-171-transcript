@@ -42,15 +42,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3b3e3fc50f53cca7422e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3b3e3fc50f53cca7422e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-c20455a09b1fe109400d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2956e20d9a68ca6ae280-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-f176173c568e8717c99b-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-44d9cfb93d344a7446ac-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-5cd4a896962954eaca96-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6f4322f63224e137fb72-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4a222f32bf58327e181b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5f2d4e7ddb02d50723d1-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-210f16f8bec538fbaf2f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-eb72d47f5c6899b293da-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7993e315eeeb0e31e0d1-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-eb731df3d05e856250e3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b99f54f05b3a4f777f55-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c21b9c2f0a1526623416-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-84d5b8a1f1fc4654032c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a6388a789435452d55a7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db82977b390515867439-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-5196e0c68b662ed24a38-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-377a5b12886c446ac5e6-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #171 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"1":true,"6":true,"7":true,"4":true,"3":true,"8":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #171 - Transcript","id":"636811e59859f31a2c733942","fullUrl":"/transcript/episode-171-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["themes","is_feature_gate_refresh_enabled","commerce_site_visitor_metrics","accounting_orders_sync","unify_edit_mode_p2","campaigns_new_image_layout_picker","order_status_page_checkout_landing_enabled","nested_categories_migration_enabled","campaigns_discount_section_in_automations","visitor_react_forms","site_header_footer","new_stacked_index","enable_css_variable_tweaks","fluid_engine_clean_up_grid_contextual_change","color_var_rendering_in_v6","nested_categories","image_component","customer_accounts_email_verification","website_component_enabled","viewer-role-contributor-invites","commerce_subscription_renewal_notifications","campaigns_global_uc_ab","commerce_etsy_shipping_import","commerce_order_status_access","campaigns_import_discounts","pdp_product_add_ons_visitor_site","background_art_onboarding","commsplat_forms_visitor_profile","campaigns_thumbnail_layout","scripts_defer","member_areas_feature","commerce_checkout_website_updates_enabled","override_block_styles","send_local_pickup_ready_email","campaigns_discount_section_in_blasts","fluid_engine","rewrite_transactional_email_from_address","supports_versioned_template_assets","marketing_landing_page","commerce_restock_notifications","collection_typename_switching","toggle_preview_new_shortcut","commerce_etsy_product_import","commerce_clearpay","show_add_to_cart_in_plp","customer_account_creation_recaptcha","website_fonts"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #171 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-171-transcript","datePublished":"2022-11-06T12:02:56-0800","dateModified":"2022-11-06T12:04:44-0800","headline":"Episode #171 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1489/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f1b17328c55249cf16e9-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce3304dbbbc00b0adc2c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-33c1f90c488c55fae579-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7116ec013cb68ccb46b1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-c284904b25c71d02bce8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-6e60a567b55f463b68e7-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-5d1c15b78a92b66bb9c2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-7acbb1abe140de860b8e-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c448735543b55eab799b-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-070905c328c108a2d84a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-206ef2320c2cea5a2878-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-503cf40eefffe62983b2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-cc29311f395b003af368-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-02d1e0bcb6fc2a7af709-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c425f4bbbcfb78c3f308-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f51f475a757005c26ee7-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e651beeebf0f0d458f3c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd133305dca90ae5ca2f-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5978fce864bf3409cbda-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-ed7446c70dde7b3316d8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b9419dfe48307ccde360-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #171 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"6":true,"2":true,"4":true,"3":true,"1":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #171 - Transcript","id":"636811e59859f31a2c733942","fullUrl":"/transcript/episode-171-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["nested_categories","customer_account_creation_recaptcha","background_art_onboarding","async_copy_collection","campaigns_discount_section_in_blasts","customer_accounts_email_verification","toggle_preview_new_shortcut","google_consent_v2","override_block_styles","campaigns_import_discounts","commerce_etsy_shipping_import","campaigns_global_uc_ab","campaigns_new_image_layout_picker","proposals_beta_in_circle_labs","commerce_subscription_renewal_notifications","supports_versioned_template_assets","commerce_etsy_product_import","send_local_pickup_ready_email","member_areas_feature","fluid_engine","commerce_site_visitor_metrics","collection_typename_switching","accounting_orders_sync","unify_edit_mode_p2","viewer-role-contributor-invites","is_feature_gate_refresh_enabled","rewrite_transactional_email_from_address","campaigns_thumbnail_layout","order_status_page_checkout_landing_enabled","fluid_engine_clean_up_grid_contextual_change","website_fonts","marketing_landing_page","enable_css_variable_tweaks","new_stacked_index","themes","commerce_restock_notifications","commsplat_forms_visitor_profile","visitor_react_forms","show_add_to_cart_in_plp","commerce_checkout_website_updates_enabled","commerce_clearpay","commerce_order_status_access","pdp_product_add_ons_visitor_site","scripts_defer","nested_categories_migration_enabled","campaigns_discount_section_in_automations"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #171 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-171-transcript","datePublished":"2022-11-06T12:02:56-0800","dateModified":"2022-11-06T12:04:44-0800","headline":"Episode #171 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1500/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1706811132467-QIR6O63RE5GI9HXI9ESJ/static.css">
@@ -62,13 +62,7 @@
     class="
       primary-button-style-solid primary-button-shape-rounded secondary-button-style-solid secondary-button-shape-rounded tertiary-button-style-solid tertiary-button-shape-rounded  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-dash tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-right tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-hide tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-hide tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-left tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-content-position-center image-block-overlap-text-alignment-opposite image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog-masonry collection-6053dc3a01905600e48be230 view-item collection-layout-default mobile-style-available sqs-seven-one
       
-        plp-config-editor-add-to-cart
-      
-      
         show-pdp-product-add-ons
-      
-      
-         plp-add-to-cart
       
       
         
@@ -201,13 +195,13 @@
 &quot;color&quot;: {
 &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
 &quot;customColor&quot;: {
-  &quot;hslaValue&quot;: {
-    &quot;hue&quot;: 203.4782608695652,
-    &quot;saturation&quot;: 0.22330097087378645,
-    &quot;lightness&quot;: 0.2019607843137255,
-    &quot;alpha&quot;: 1.0
-  },
-  &quot;userFormat&quot;: &quot;hex&quot;
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
 }
 }
 }
@@ -227,8 +221,8 @@
 &quot;color&quot;: {
 &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
 &quot;sitePaletteColor&quot;: {
-  &quot;colorName&quot;: &quot;black&quot;,
-  &quot;alphaModifier&quot;: 1.0
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -249,8 +243,8 @@
 &quot;color&quot;: {
 &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
 &quot;sitePaletteColor&quot;: {
-  &quot;colorName&quot;: &quot;black&quot;,
-  &quot;alphaModifier&quot;: 1.0
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -292,8 +286,8 @@
 &quot;color&quot;: {
 &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
 &quot;sitePaletteColor&quot;: {
-  &quot;colorName&quot;: &quot;black&quot;,
-  &quot;alphaModifier&quot;: 1.0
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -314,8 +308,8 @@
 &quot;color&quot;: {
 &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
 &quot;sitePaletteColor&quot;: {
-  &quot;colorName&quot;: &quot;black&quot;,
-  &quot;alphaModifier&quot;: 1.0
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -412,18 +406,18 @@
   "
 >
   
+    
 <div class="sqs-announcement-bar-dropzone"></div>
 
-  <div class="header-announcement-bar-wrapper"
-  > 
-
-    <a
-      href="#page"
-      class="header-skip-link sqs-button-element--primary"
-    >
-      Skip to Content
-    </a>
-    
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
 <style>
@@ -434,13 +428,13 @@
         }
     }
 </style>
-    <div
-      class="header-border"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-border="false"
-      data-test="header-border"
-      style="
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
 
 
 
@@ -454,44 +448,44 @@
 
 
 "
-    ></div>
-    <div
-      class="header-dropshadow"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-dropshadow="false"
-      data-test="header-dropshadow"
-      style="
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
 
 
   
 "
-    ></div>
-    
-    
+      ></div>
+      
+      
 
-    <div class='header-inner container--fluid
-      
-      
-      
-       header-mobile-layout-logo-left-nav-right
-      
-      
-      
-      
-      
-      
-       header-layout-nav-right
-      
-      
-      
-      
-      
-      
-      
-      
-      '
-      style="
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
 
 
 
@@ -501,68 +495,68 @@
 
 
 "
-      data-test="header-inner"
-      >
-      <!-- Background -->
-      <div class="header-background theme-bg--primary"></div>
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+        <div class="header-display-desktop" data-content-field="site-title">
           
-          <!-- Social -->
+
+          
+
+          
+
+          
+
+          
+
+          
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -661,64 +655,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -748,59 +742,59 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
-
-      </div>
-      <div class="header-display-mobile" data-content-field="site-title">
-        
           
-          <!-- Social -->
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -899,64 +893,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -986,14 +980,15 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+          
+          
+          
+          
+          
+        </div>
       </div>
     </div>
-  </div>
+  
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     
@@ -1065,13 +1060,13 @@
 &quot;color&quot;: {
 &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
 &quot;customColor&quot;: {
-  &quot;hslaValue&quot;: {
-    &quot;hue&quot;: 203.4782608695652,
-    &quot;saturation&quot;: 0.22330097087378645,
-    &quot;lightness&quot;: 0.2019607843137255,
-    &quot;alpha&quot;: 1.0
-  },
-  &quot;userFormat&quot;: &quot;hex&quot;
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
 }
 }
 }
@@ -1091,8 +1086,8 @@
 &quot;color&quot;: {
 &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
 &quot;sitePaletteColor&quot;: {
-  &quot;colorName&quot;: &quot;black&quot;,
-  &quot;alphaModifier&quot;: 1.0
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -1113,8 +1108,8 @@
 &quot;color&quot;: {
 &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
 &quot;sitePaletteColor&quot;: {
-  &quot;colorName&quot;: &quot;black&quot;,
-  &quot;alphaModifier&quot;: 1.0
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -1156,8 +1151,8 @@
 &quot;color&quot;: {
 &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
 &quot;sitePaletteColor&quot;: {
-  &quot;colorName&quot;: &quot;black&quot;,
-  &quot;alphaModifier&quot;: 1.0
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -1178,8 +1173,8 @@
 &quot;color&quot;: {
 &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
 &quot;sitePaletteColor&quot;: {
-  &quot;colorName&quot;: &quot;black&quot;,
-  &quot;alphaModifier&quot;: 1.0
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -1520,6 +1515,9 @@
       <div class="blog-item-wrapper blog-grid-masonry-item-wrapper" data-content-field="main-content" data-item-id="">
   <article id="article-" class="h-entry entry hentry post-type-">
   
+    
+    
+    
     <div class="blog-item-inner-wrapper">
       <div class="blog-item-top-wrapper">
         <div class="blog-item-title">
@@ -1534,11 +1532,13 @@
             </time>
             <div class="blog-meta-item blog-meta-item--author p-author author" data-content-field="author">Written By <a href="/transcript?author=5ed93d8e981c0869f203a7ea" class="blog-author-name">Philosophize This!</a></div>
           </div>
+          
         </div>
       </div>
 
-      <div class="blog-item-content-wrapper">
-        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-636811e59859f31a2c733942"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-fec2983d15e68373d583"><div class="sqs-block-content">
+      
+        <div class="blog-item-content-wrapper">
+          <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-636811e59859f31a2c733942"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-fec2983d15e68373d583"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">Today’s episode is on Guy Debord and his call to action to western society released in the year 1967 called The Society of the Spectacle. I hope you love the show today.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">So what if somebody told you that you were a member of a religion that you DIDN’T even know that you were a member of. And what if somebody told you that…even if you were MADE AWARE of that fact…that you were a PART of this religion…that you’re probably so DEEPLY embedded INTO the religion…that it wouldn’t even really BOTHER you that much that you were a part of it…because to YOU…the ILLUSION of this religion has become so fundamental to your everyday, social LIFE…that whatever the TRUTH is about the world around you just matters LESS to you…than being able to keep going with the illusion that constitutes most of your life.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Well this wouldn’t be the FIRST time somebody said this to someone they saw as being hopelessly embedded within a religious worldview. The epigraph of the book we’re talking about today is a quote from the philosopher Ludwig Feuerbach from his book the Essence of Christianity. He’s talking in PART here, about the Christians of his time and the relationship THEY have with the truth vs illusion. He says:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“But certainly for the present age, which prefers the sign to the thing signified, the copy to the original, representation to reality, the appearance to the essence…illusion only is sacred, truth profane. Nay, sacredness is held to be enhanced in proportion as truth decreases and illusion increases, so that the highest degree of illusion comes to be the highest degree of sacredness.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now do you know anybody that fits that description in your life? Don’t get me wrong, not trying to pick on Christianity here…take ANY religion that you PERSONALLY disagree with, or at least think you SEE through the illusion of it all, and you’ll probably FIND people where the ILLUSION that helps them navigate their every day life starts to mean MORE to them than the actual TRUTH about things. And this is no doubt BY DESIGN in the religions…I mean when you can make faithful commitment to the religion, a VIRTUE in the face of opposing evidence…then apostasy is just something you’re NOT gonna have to worry about as much.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Take the story of Job from the Bible. Job had EVERYTHING in his life taken from him. All of his oxen, donkeys, sheep, they were all killed. His servants killed. Sons and daughters, killed. He gets super sick, boils all over his skin, all his friends stop talking to him. The man had nothing left BUT his faith in God and ANY reasonable person you would think would start to DOUBT whether there’s really some bearded dude in the sky with a PLAN for him. But not my boy Job, God says. Watch…his faith is UNWAVERING in the face of total misery, look at him, he’s amazing. And then God REWARDS Job for his faith by giving him TWICE the stuff he had before. God’s the best, isnt he? Point is: to someone sufficiently embedded into a religious worldview, as Feuerbach said, the HIGHEST degree of sacredness IS IN the illusion…and in that worldview the truth HAS to take a backseat.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But still the question HAS to come up. WHY…would the guy we’re talking about today, Guy Debord, use THAT QUOTE in particular from Feuerbach…to describe people living in post-WW2 Europe… with peace and economic prosperity on the horizon… with them engaging more and more in a modern consumer lifestyle that involves BUYING things to fill up their homes and watching TV, movies and advertisements about a culture that worships celebrity? I mean, he must have thought to SOME EXTENT...there was a PARALLEL between someone like a Christian...and someone existing within modern consumer culture.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Well to give an analogy like im back in Mrs. Knox’s sixth grade class which…I dont know if you heard but I was student of the week TWICE that year…but to give an analogy a Christian is to an illusory CHRISTIAN worldview…as WE are to what Debord calls The Society of the Spectacle.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">That with a similar level of religious fanaticism and delusion you and I participate in what is ESSENTIALLY an economically driven religion, that has become SO pervasive that it dictates practically EVERYTHING about our lives– from our identity, to our goals and dreams, to the contents of our friendships, our partners, EVEN down to the very language that you use to describe the world you’re in.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">This is going to take a little bit to explain all the different sides of this…and it’s going to require all of us to at least entertain the thought experiment: what if I AM a religious person, thinking in deeply religious, supernatural ways without even realizing it?&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">My hope is by the end of this…that no one feels ATTACKED for living the way that they do…but almost like if you met someone that comes from a COMPLETELY different culture… has a TOTALLY different way of looking at things, and they spent some time WITH you in your life… here’s an OUTSIDERS perspective of some of the stuff that THEY think is pretty weird.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Like I said LOT to cover here…so let’s just get right into the book. And a great place to START a book I’ve heard…is with the first SENTENCE. Genius I know. But it’s actually a pretty big sentence because it foreshadows a LOT about the ideas he’s BUILDING this analysis out of and where he’s going to go with the rest of the book. He starts by writing:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“In societies where modern conditions of production prevail, life is presented as an immense accumulation of spectacles. Everything that was directly lived has receded into a representation.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">First thing to KNOW about these two sentences is that they are a REFERENCE to the first two sentences of Karl Marx’s Das Kapital written in 1867. Similar structure…but the DIFFERENCES between the two passages speaks VOLUMES about how much Debord thinks the world has CHANGED since Marx was doing his work. Helps to compare the two…the first line of Das Kapital is:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“The wealth of those societies in which the capitalist mode of production prevails, presents itself as “an immense accumulation of commodities,”. Our investigation must therefore begin with the analysis of a commodity."</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Couple quick, important DIFFERENCES to point out here: Marx begins by talking about CAPITALIST modes of production…whereas DEBORD starts by talking about what he calls “modern CONDITIONS of production.” The SUBTEXT that Debord is pointing out there is that if CAPITALISM… is what we’re going to call the economic system that Marx was critiquing in 1867…then the term CAPITALISM is for all intents and purposes USELESS for describing what Debord is critiquing in 1967. Call what we have today WHATEVER you WANT…call it something VAGUE like the “modern conditions of production”...but DON’T call it CAPITALISM. Because whatever we’re existing in today…this has transformed into something that’s NOTHING LIKE what Marx was talking about during HIS time.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Another important difference between these two opening lines is that Marx talks about the importance in capitalist society of the quote immense accumulation of commodities…whereas Debord is talking about how LIFE becomes a quote immense accumulation of SPECTACLES.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">To understand our religious relationship with what Debord is eventually going to call the Spectacle…we HAVE to understand the nature of how Marx saw the religious relationship between people living in capitalist society and the commodities that they buy. And it is HERE that we can start to identify what an OUTSIDER might see as the religious underpinnings of how you and I think about things in OUR culture.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">You know I can imagine an atheist being DEEPLY offended here that the way that they live is even being COMPARED to the way a religious person lives. Like that’s not a fair comparison…this person might say…there are a THOUSAND religions out there and almost ALL of them ENGAGE in ONE form or ANOTHER of FETISHISM…FETISHISM by DEFINITION meaning that they confer, supernatural qualities onto things…like religious artifacts, rituals, people…things that HAVE, NATURAL explanations. That’s not fair to me.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Well it just so happens that’s EXACTLY what Marx thought people in capitalist societies are FORCED to do. He called it commodity fetishism. And just a fair warning before I start to talk about all this…if you’re someone that’s worried about becoming too cool for your friend group…probably not a good idea for you to be thinking about something as riveting as the commodity and its relationship to consumer life. I mean I’m just saying…if you don’t have FRIENDS after this because they’re just not COOL enough for you anymore after having TALKED about this…don’t send ME emails complaining about it. That said, AS consumers BORN into the society we were…its easy to hear the word commodity and think…what’s the big deal? It’s a commodity…generally speaking, AS WE experience it a commodity is something that’s created to be bought, sold or traded. What is there REALLY to explain there?&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But I think what Guy Debord might want us to consider is just how RECENT of a phenomenon the commodity is in the grand scheme of human history. People have always needed…STUFF to make their life possible. But people HAVEN'T always PRODUCED items solely to fulfill some sort of market demand that exists out there.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">So again as the resident economic zealot here I gotta ask… who cares? What does that even matter? Seems to me the REAL question becomes, what, if ANYTHING, CHANGES about our experience of the items that make up our life when, they are PRODUCED specifically to be bought sold or traded?&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Well, ONE IMPORTANT thing they'd say changes is that the material things around you that make your life possible…your toaster, your shoes, your bed and everything else in your life for that matter… practically ALL of this stuff was cultivated produced and manufactured… some where else...and you have no idea where that is usually. This stuff was brought into existence by some ONE else…and you have no idea who they ARE usually.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Say what you want as a FAN of capitalism about the efficiency of these modern conditions of production, that’s undeniable… but there is ALWAYS a trade off…and one of the trade offs HERE for Marx and Debord is going to be that the consumer…is fundamentally ALIENATED from the creative process of EVERYTHING that they buy that performs an important function in their life. BECAUSE we no longer have to actually MAKE the stuff that we use everyday…we don’t ever have to CONSIDER all of the other PEOPLE, all of the EXPERTISE, that went IN to making, something like your TOASTER a reality.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">I saw it put one time by a professor I forget exactly who it was so I’m sorry but I remember them asking their class to consider just…their BREAKFAST that morning. Think about how many PEOPLE were involved JUST in the production of bringing your breakfast from the farm to your table. Think of all the expertise at all the different levels of farmers, packers, truck drivers, oil refineries to FUEL the trucks, forklift operators, clerks at the store. This web shoots out like a rhizome in all directions…and all of this works PERFECTLY, EVERY DAY under the modern conditions of production, whether we CONSIDER this is going on or not.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now this fact… can be used both by fans of capitalism and nonfans alike. FAN of capitalism, someone born into OUR world, might ask them to consider what went INTO their food that morning and they’d be like...yeah!! EXACTLY. This is incredible! Look at how many people I have access to where I would NEVER otherwise be able to harness their labor and expertise that ALL work together to produce something as mundane as my breakfast! But simultaneously… this is PROOF of the consumer’s alienation from the production process, and it CHANGES the way we live in modern society.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Take the meat industry as an example. Ask yourself: how many people would be willing to raise an animal, look it in the eye, slaughter it, butcher it, and segment it off into portions…vs how many people are willing to go down to the grocery store and buy red cubes wrapped in plastic from the meat department?&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Hunters will often talk about the raw connection they feel to animals that they kill and bring home and feed their family with…a connection that’s just completely LOST when you are so alienated from the process… that the biggest choice you face when eating meat in today’s world, is whether or not it's on sale. Not ONLY does this disconnect ALLOW some people to passively engage in a moral choice that they would NEVER otherwise make if they weren’t as alienated as they ARE…but Debord would say think about it…even with something as basic as FEEDING ourselves, in the world we were all born into we no longer have a connection even to our food…at BEST what we have is a sort of pseudo connection to food commodities…and for the record can you think of any OTHER examples of how this alienation from the production process allows people to passively participate in stuff they’d be HORRIFIED by if they had to ACTIVELY participate in it?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">This reality, within our culture is ONLY made possible by how separated we are from the people that MAKE the commodities we buy. As Marx says what ENDS UP HAPPENING in practice is MATERIAL relations between PEOPLE end up becoming SOCIAL relations between things.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What he’s getting at is if you’re sitting in a room right now full of stuff that you’ve bought and you look around you…how valuable any one of these things is…comes down to the WAY that item is positioned within society and within complex social arrangements that are going on all the time. Which is to say: how the commodity APPEARS SOCIALLY…matters FAR MORE in terms of its value than ANYTHING to do with the raw materials that make the thing up.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">For example this is why paper money, is worth ANYTHING at all. Money is barely worth the paper that its PRINTED on if it wasn’t for a social AGREEMENT that we all participate in that this paper, is a material symbol of value. Gold and silver are not VALUABLE to people simply because they’re rare…or because they’re hard to get. If that was the case…jeez the other day I was up in my attic and I found a box…and in it was a pair of my grandfathers old underwear from WW2 when he STORMED the beaches of Omaha. Yeah, turns out he was pretty SCARED the morning. Who’s BUYING? Whoever it is better bring their wallet because this is a limited run of one that was created…this is the kind of thing the kardashians would wear to the met gala.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">In other words there’s nothing INTRINSICALLY valuable about ANY of these commodities in themselves…commodities become SYMBOLIC representations of social agreements.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">And that description…may be a FANTASTIC, rational, economic ANALYSIS of the commodity and its relationship to the consumer…hmm…but that has NOTHING to do with the way that WE experience the things we buy.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">We’re PEOPLE, not economists. What WE experience…is the finished product sitting on the shelf. Which to reiterate means that we don’t necessarily SEE the magic that went into making the thing were buying, we don’t know ANYTHING about the people that made it…and we aren’t thinking about all the complex social arrangements that determine the thing’s value…on the ground level…when WE BUY a nice pair of shoes…we just think…hey, i’m buying a nice pair of shoes right now. We’re not thinking… WOW I can’t wait to go home and wrap my feet in these symbols of social relations and abstract labor…no in practice we just think, these are some awesome shoes I can’t wait to wear them. This IS commodity fetishism though. Because as consumers we’re so separated from the complex production and complex social positioning of the stuff we buy…we are forced to confer qualities that are determined socially…ON TO the commodities themselves. In practice…we start to think the THINGS THEMSELVES are special…not that they merely APPEAR special socially. And it’s this subtle difference in perception that is going to create a fundamental CORNERSTONE of OUR BRAND of religious thinking.</p><p class="" style="white-space:pre-wrap;">&nbsp;</p><p class="" style="white-space:pre-wrap;">Social appearances…mean MORE to us about something’s value…than substance does. The ILLUSION…matters MORE to us…than the truth. The EXCHANGE value of an item in the marketplace…matters MORE to us than anything to do with its USE value, or how USEFUL it is to us. And when the people that BUILD and MAINTAIN our societies DO SO with THIS psychological premise in mind…this thinking starts to bleed into EVERYTHING. As Debord is going to say: everything that was once directly LIVED…has now receded into representation. As his friend Giorgio Agamben says: the relationship we had with COMMODITIES in the 19th century…was just a PROPHECY for what all aspects of society would eventually transform into in the 20th and 21st centuries.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">To give a religious parallel to this think about transubstantiation in a Catholic mass. To someone sufficiently embedded into the religion…they LITERALLY believe that a Catholic priest wiggles his fingers over some wine and a cracker… and it ACTUALLY becomes the body and blood of Jesus Christ… just the APPEARANCE of the wine and cracker remain. But something important to consider is that not EVERYBODY in that room believes that it LITERALLY becomes the body and blood of Christ…people exist, at all different levels of religious belief and immersion…lot of people in the room REALIZE its still just some wine and a cracker, but it doesn’t really even MATTER to them that much. That’s not a hill they’re gonna DIE on because it’s what the cracker and wine symbolically REPRESENT that’s important to them.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Well so too apparently with US embedded into our ECONOMIC religion. We all know people that engage in commodity fetishism thinking the things they’re buying are actually special, borderline magical things…but again we ALL exist at different levels of religious immersion…and ESPECIALLY to people that like to THINK about stuff, people that may listen to a show like this…you NO DOUBT live with a level of SELF-AWARENESS of how these commodities are really just inanimate objects…and that any qualities they seem to have are ultimately symbolic to what society collectively decides to make them. So like the Catholic mass…it doesn’t bother you to participate in the ritual of saying the pair of shoes possesses these magic qualities…because at some level you realize it’s what the shoes SYMBOLIZE that matters.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">This is an important point for moving forward. It’s a point Slavoj Zizek made when he was talking about commodity fetishism in the various TALKS that he’s given. When somebody TRADITIONALLY believes in a religion…IF you were someone that wanted to get them to QUESTION their religious belief…a strategy in the past has been to try to DEMYSTIFY, their belief in something like a God. The THINKING is you just show them all the ways their belief doesn’t make any sense, and they eventually start doubting it and can start to see the things they once believed in from an outside perspective.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But as Zizek says this is NOT THE CASE with the modern conditions of production. Believing in supernatural explanations for commodities is NOT THE SAME as a belief in God. The COMMODITY is far more insidious. To US, the commodity is SO NORMALIZED, its such a simple, straightforward thing in our day to day lives, that Zizek says even when you SHOW someone the religious thought that they’re participating in, and they FULLY REALIZE that it is religious and irrational…they STILL…HAVE to continue existing, perceiving the world through SOME ideological lens. Even people that totally REJECT the modern conditions of production…be it through the unconscious, be it through metaphysical presuppositions…but people STILL continue to live their lives seeing the COMMODITIES THEMSELVES as having special qualities. So as we talk about examples moving forward, clearly not ALL of these are going to apply to you…but for the sake of the thought experiment…try to use these examples to see at what level of religious immersion you may exist in.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Ok… so I get it. I was BORN into an economic religion where how things appear socially matters far MORE to me than anything substantive about reality. But what does this have to do with what Debord is calling the society of the spectacle? What IS the spectacle? Debord describes it in several different ways in the book, let’s hear some of them. And if this seems unfocused…keep in mind that it can be hard to DESCRIBE something that is SO all encompassing and also, transforms its shape so regularly with the times. Also keep in mind that Debord was worried about the inevitability of his ideas becoming coopted BY the spectacle, thus destroying ANY possibility of revolution during his time.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Nonetheless he says a few useful things that can help us start to see the outline of what we’re talking about here. He says the spectacle is an instrument used for the goal of pacifying and distracting the masses. He says the spectacle is the autocratic reign of the market economy. The spectacle transforms our reality into a revolving door of commodifiable images. But “The spectacle is not a collection of images, but a social relation among people, mediated by images."</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now…first and foremost…the spectacle is an instrument that’s ULTIMATE purpose in this world is to KEEP the economic status quo going. The way it DOES this…is to keep people disconnected from reality on practically every LEVEL of their existence.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">See, OTHER societies keep the status quo going in different ways, PAINFUL ways…he talks about the concentrated spectacle, this would be the sort of tactics used in something like Stalinist russia during Debord’s time…concentrated spectacle KEEPS things the way that they are through things like force, propaganda, intimidation, what Debord calls a sort of cult of personality…this is ONE method of ensuring that things STAY the way they are if that’s what you wanted to do.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What WE have in the WESTERN world though…is more of what he calls a diffuse spectacle…meaning that everything that keeps the status quo going is far more spread out. The power that keeps everything the same is NOT as centralized. There’s no kabal of people at the top pulling the puppet strings to keep the market economy going…in other words this ISN’T a conspiracy theory…but it IS a conspiracy. Everybody is CONSPIRING to make some money…to have the economy be as strong as it possibly CAN be. That’s good for EVERYONE.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">So, everyone PARTICIPATES in KEEPING the whole thing going. They go to their jobs…for eight hours a day they participate in the economic conditions of production in some way. And then they go home…and they consume stuff…another way of PUTTING that is that they further, participate in the economic conditions of production. People’s entire lives become a spiritual quest to find a reason to wake up the next day, and help keep the market economy going. You don’t participate…you STARVE to death. It’s very simple. But don’t worry…all this is GOOD for you…because hey, what, you don’t LIKE something about your life? You don’t like where you live, you have no friends, no one wants to date you, you never get to go anywhere? Well, participate in the system MORE…work harder, work 16 hours a DAY if you have to and eventually you can buy better stuff, live better places and people will magically start to want to hang out with you as your social appearance becomes that of someone more VALUABLE.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">You know those online hustler people…every one of them has a sob story that sounds like church…oh, I was living in the gutter man. I had to eat my pet chicken that was livin in my suitcase with me, but then I started a company…and I started hustlin’...22 and a half hours a day and now look at me…im driving a bugatti telling all of you about it on youtube. People may as well go door to door in the church clothes spreadin the gospel…these are the lepers of OUR religion.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now as Debord said before… to KEEP the economic status quo going, the GOAL of the spectacle is going to be to keep everyone alienated from EVERYTHING at different levels. First, it separates you from the REALITY of the world around you. Then it separates you from the SOCIETY that you’re a part of. After THAT it separates us from each other. And finally it separates you from yourself. Let’s talk about EACH of these, let’s start with the reality of the world around you.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">You know…in practically every generation of human beings that has EVER existed…the reality of the world around you in your immediate proximity…THAT is the world that MATTERS to you. That is a world that you participate in…the events that happen immediately around you are going to certainly determine WHERE your life is gonna go in the future. You are directly INVOLVED in the events that determine what your life is.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But in TODAY’S world…if you want to get a better idea of the relevant events going on in your world…you don’t look immediately around you anymore…you look at a screen. A screen where some goodhearted person out there says they’re gonna tell you a STORY… about what’s going on in some distant part of the globe. Now, these events… will no doubt impact your life down the road in some way in this increasingly globalized world. But you don’t PARTICIPATE in the events that impact your life…or as Debord says we don’t participate in reality anymore…life for us in TODAY’S world is just to contemplate the spectacle that is given to us.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Another way to put that would be that the appearances given to us about what’s going on in the world matter start to matter MORE to us than getting to the bottom of whatever the true, reality is of what’s going on. Consider the different levels of religious immersion here: sure there are people out there, that watch the news and they literally believe they’re seeing the REALITY of the world like the person that believes they’re literally eating the body and blood of jesus. But then there are people that watch the news…and they KNOW they should take it with a grain of salt…they know there are agendas affecting the story, they know this is just a collection of moving images and sound bytes telling an oversimplified story about a FRAGMENT of what is going on, they know news ITSELF is NOT a public service, its a commodity trying to get you to tune in so they can sell you stuff on commercial breaks…they know that the news describing reality is completely self-referential…meaning the news story about reality today backlinks to four OTHER news stories that you have to accept the validity of for THIS news story to be valid…some people at a lower level of religious immersion know that at BEST what they have access to is a fragment of a fragment of a copy of a copy and that this is an illusion…but in a strange way…that doesn’t really BOTHER them that much.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">And it’s NOT because they’re a bad person or a stupid person…to Guy Debord: living in the society of the spectacle…the illusion, TRULY IS MORE VALUABLE to them…than whatever is going on in reality. Being well informed in the society of the spectacle just means being caught up on the latest season of the TV show that tells you what’s going ON in the world. That is what you’re going to be talking about with your friends and family. That is what you’re going to use as a backdrop when you discuss politics. Again, your life these days is not so much about participation anymore…its about contemplation of this, spectacle.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What this sort of life eventually leads to is a state of an almost constant feeling of disorientation, dizziness. Almost like you’re in a house of mirrors and you can’t quite figure out which direction to go in. There’s the obvious distraction from reality that’s possible these days, the escapism from our problems by watching movies, shows, playing video games… no shortage of ways to IGNORE reality if you wanted to. But then there’s the neat trick the spectacle pulls off that keeps EVEN people wanting to CHANGE the world for the better, INCAPABLE of having even a basic conversation about things.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Because when ALL the information you have about reality is a representation of a representation…when images become “autonomous” as Debord says meaning they aren’t even MEDIATING something about reality anymore…they’re just mediating other images (think of a meme that ONLY makes sense when referencing another meme…or again the news story that only makes sense if you accept the OTHER news stories…when images become AUTONOMOUS…then things like MISINFORMATION becomes an EXTREMELY powerful tool to keep people divided.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Because when people can’t even agree about the most BASIC POINTS of a conversation, if you can get opposing viewpoints feeling like they’re living in two COMPLETELY different universes…then ANY possibility of them coming together, agreeing about the problems in the world and finding a way to solve them…THAT goes out the window. In other words to Debord…the revolutionary potential of the political process is DESTROYED by the spectacle.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">We have masses of people, spending THOUSANDS of hours of their lives trying to revolutionize, an illusion…which devolves even FURTHER into masses of people fighting about which illusion, is more accurate. Sounds a lot like the crusades. You know some people say Marxism is just a ploy to create division between people. Well what is THIS then, Debord would say?&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">More than that…even if people COULD agree EVEN for a moment about what REALITY is, if their ILLUSIONS could have a sort of planetary alignment moment…this world of images is SO subject to change all the time…that tomorrow…the events that MATTER in the world could be TOTALLY different than they were yesterday. The references you were making a year ago are COMPLETELY different than the references you’re making today. There’s no continuity. Once again, people end up feeling disoriented like they can’t GRAB ON to a piece of reality long enough to ever change it for the better before it transforms into something else. CONTRAST this…with again, practically every other generation of human being…where there was an understanding about REALITY that you gained over time…because there were CERTAIN things about the reality of the world that were IMMUTABLE. But there’s NOTHING immutable about the illusions that matter to us today. And again when EVERYTHING is subject to change on a moment’s notice…where does that leave people when it comes to finding anything that’s meaningful or enduring? People end up living their lives in a place where at least implicitly, everything seems meaningless to them.&nbsp;&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Language then… which in the past has been one of the most important tools for revolutionizing society for the better…language becomes merely something used merely to describe this stream of images, these fleeting, commodified fragments of reality that don’t really DESCRIBE reality, so how can anything REAL ever be revolutionized? The spectacle is the absolute PERFECTION of keeping things the way that they are.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But it should be said…ALL these examples so far have involved the MEDIA as an instrument that does this, but this is NOT JUST the media. The media as Debord says is just the most superficial manifestation of the spectacle…it’s an OBVIOUS example that everyone can see if you’re looking for it, but it goes way deeper than that to, again, an entire religious attitude that we all carry around with us. He writes:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">"The spectacle is not merely the apparatus of media, but the relations between individuals themselves, as mediated by the stream of images that represent their daily lived experience of this pseudo-reality."</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Let’s talk about some examples of this…ALL of these are going to reflect the attitude that grows out of the way we fetishize commodities…where the social appearance of the thing matters more than the substance of the thing…what’s gonna happen in modern society is we’re going to end up turning that attitude inward towards ourselves and the other people around us.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Take the common strategy for choosing politicians as an example. People will vote for someone that looks or FEELS presidential…without EVER looking into the details of what the policies are that they’re going to try to get passed…and even if they DO read the policies, most people KNOW they’re never going to go into office and get any of this stuff done anyway. But they LOOK the part…and to SOME people that’s most of the battle. You see this same thing at the heads of companies in the private sector. You have these ENORMOUSLY powerful people that are the faces of GIANT businesses…and you’re SOLD what feels like a MARKETING campaign about how BRILLIANT these people are…like they’re playing 4D chess at a level no one else can fully understand cause they’re just not as smart. But then you do some digging into the other side of the story and it’s like, are these people REALLY unparalleled intellects of our time that are gonna save the world? Or is this a marketing campaign I’m being sold to instill confidence in shareholders because the market’s based on mass psychology? Again the funny thing is to Debord that even if it IS just a marketing campaign…for a LOT of people…it doesn’t even really BOTHER them that much…the appearance is what matters…NOT the substance.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Think of the people that buy the fake rolex or the fake gucci bag…or the people that put things on credit that they can’t really afford because what matters to THEM is SOCIALLY APPEARING a certain way…not ACTUALLY being the person. Think of any example of people wanting to wear the medals but not EARN the medals. It’s not fake it till you make it anymore…faking it IS making it in the society of the spectacle.</p><p class="" style="white-space:pre-wrap;">&nbsp;</p><p class="" style="white-space:pre-wrap;">Think of how our lives are often split between the reality of who we are…and a digital REPRESENTATION of who we are. We create a digital identity…that WE curate and WE decide how it appears, WE choose the SELECT, best pictures that represent our life, WE choose the filters, WE decide the people we want to APPEAR to be…and that starts to matter MORE to some people than ANYTHING ABOUT the reality of who they are.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">When someone REACTS to posts they see from other people…read something sad and click the sadface emoji…there’s a point where you start to wonder…is it REALLY that this person is so SAD about what they just read, are they feeling that…or is it that they wanted to publicly express an appearance of sadness…or an appearance that they’re the kind of person that gives sympathy to others…in the society of the spectacle EVEN OUR EMOTIONS become something commodified, fragmented and more about the APPEARANCE of it all than anything you’re actually feeling in reality.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">How bout the person that curates an image of themselves online where they are an advocate for social issues that matter to them. Where they spend their lives, fighting the good fight on the internet, speaking truth to power to the 50 people that follow them, you gotta start to wonder…do they really CARE so much about these causes? Or do they care MORE about APPEARING as the kind of person that cares about these causes, and the social currency they GET from that? This is an example of an area where ALL THAT ENERGY could REALLY be used effectively to change the world for the better…but it ends up just evaporating into this inert gas of moral grandstanding and feel good tweets. Like the person that donates to charity just so they can put the sticker on their car that shows they donated…like a celebrity that stages a PR stunt where the cameras are rolling as they do something nice.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br><br></p><p class="" style="white-space:pre-wrap;">In a very RELIGIOUS sort of way…you know in Christianity there is a dualistic metaphysics that underlies it, where effectively you have two, different SELVES. You have the flawed, earthly body, you’re navigating this moral obstacle course until you die one day…and then you have your soul which is FAR more important, it will be LIFTED out of your earthly body, FLY UP into heaven and live on for ETERNITY. Have we become something SIMILAR to that? Where we have the self that exists in reality, but it ultimately becomes a vehicle for this HIGHER version of ourselves in the digital world that’s MORE IMPORTANT to us, and it too will live on long after our deaths.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">This is where I think we can start to see how the spectacle ultimately doesn’t just alienate us from our reality, from the society we’re a part of, from the people around us…but the greatest accomplishment OF the spectacle is HOW GOOD IT IS…at EVEN, alienating us from ourselves.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">You know if you’re somebody that doesn’t really know exactly what you want out of life…there’s a million different directions you can go but none of them that you really feel that visceral connection with…well, ONE explanation for that could be that you’re not very good at figuring out what you want…because you’ve never really asked YOURSELF…what…you want.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Your life has NOT been about participation so far…it’s been about contemplating a few different options PRESENTED to you BY the spectacle…and then choosing based on how you want to socially appear after having DONE the thing. You make choices based on how you’ll APPEAR…not ANYTHING to do with the substance of who you are. What you’ve done is what we do with COMMODITIES…you’ve started to think of yourself in terms of your EXCHANGE value in the marketplace instead of your USE value as a person.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">And is this REALLY such a hard reality to come to accept as supposedly religious people? Think about how some people see themselves in the career world…how much can I get paid in relation to how VALUABLE of an asset I am to this company. Think of the dating world…what is MY market value…and how can I find someone where its an equal exchange of that value. You go OUT on a date with that person and what do you talk about? How you contribute to the economic system, be it about work OR your off time. You try to discern their social APPEARANCE. Even the idea for the first date, how did you come UP with that idea? What did you meditate on a rock on the top of a mountain like baby yoda? Or are you EMULATING something that you’ve seen somewhere else? Once you’re INTO the relationship for a while…is there any way, that you’re behaving with this person simply because you saw it on a screen somewhere? Really think about that.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The spectacle ends up consuming EVERYTHING about you if you allow it to. As Debord says being turns into having. Having turns into APPEARING. Meaning that most humans that have ever lived have existed by just being and participating in reality. Post WW2 Europe and the rise in consumerism, he’s worried that HAVING stuff has become more important to people than BEING. And then he’s foreshadowing to a day where simply APPEARING in a certain way will become more important to people than anything else.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The tacit MESSAGE of the spectacle that we slowly start to accept over time, something beaten into our heads through little micro transactions…is that what is visible to us, MUST be important. He says in the book:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">"The spectacle presents itself as something enormously positive, indisputable and inaccessible. It says nothing more than "that which appears is good and that which is good appears"&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">We just sort of come to accept that if I’m seeing something…the appearance that I’m seeing, that must be important. Somebodies on the TV, people are TALKING about them…they must be important…because if they WEREN’T important…why would they be on the TV? It’s circular thinking and the FLIP side of this is that we start to assume that the things that are NOT visible…well they MUST NOT be that important.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">So again for example: the social APPEARANCE of the commodities we buy and the qualities we give them…THAT becomes what is important…and the raw materials of nature that the commodities are made out of, the substance…well that isn’t even something we really think about. Our experience of a table is not that its a bunch of chopped up trees fashioned into a surface by a person somewhere…it’s just a table. Take as ANOTHER example the movement of urbanization where by the year 2050… 90% of people are going to be living in cities at least in MY country of the United States…that’s yet ANOTHER example of how we structure things in a way, that cordones off the HUMAN and NONHUMAN worlds…where one of them is INCREDIBLY VISIBLE to us…and the other serves as the invisible, source of raw materials that becomes fodder for us continuing constant economic and technological progression.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now a fair question someone could ask back to all of this is how much of this is a generational thing? How much of this is grandpa debord saying in my day…we dealt with things in REALITY. Not like these kids today with their televisions and movin’ pictures. Whatever happened to playing with one of them paddles with the rubber ball on the elastic string. THAT was REAL fun.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Well Debord himself didn’t have any problem at all with technological progress. But what he would WANT people to recognize is that as technology changes…it potentially changes human relationships along with it.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Saw an example a few years back. Like if you were lost in a city…right now in 2022…what would you do to find your way back home? I don’t know about you, but I would pull out my phone, and I would map my way back to wherever I wanted to go. Back in the 90’s though…maybe you’d pull out your Thomas Guide to find your way home. Back in the 70’s maybe you’d ask someone for directions. In the 1800’s maybe you’d pull out a compass and a map. 20,000 years ago maybe you’d look at your relative position to the sun and trace your steps back to where you came from. Point is: the technology available to you, CHANGES how you live your life. And if the technology available to you is an elaborate SPECTACLE…that perpetuates a religious obsession with appearances, alienates you from other people, keeps you hypnotized never really knowing what’s going on in reality, commodifies your relationships, personal information, even where your EYES are pointing…if THIS is what technology is DOING to us… we can’t look at this stuff as just disinterested TECHNOLOGY anymore…to Guy Debord this is a clear degradation of human life and relationships.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Not to mention the fact that you face a situation with this technology that NO OTHER human generation has EVER had to deal with. You can’t just choose to ABSTAIN, from the economic system like someone can just walk OUT of a Catholic mass if they think it’s all nonsense. You HAVE to be a part of it in some way. And as you DO that…there are literally TEAMS of people working in CLOSE correlation with&nbsp; algorithms…SUPER SMART PEOPLE…where their ENTIRE JOB…is to look at your tendencies on these screens…and find ANY WAY THEY CAN to get you to spend more time contemplating the spectacle instead of LIVING.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">There is so much more to talk about here. This episode’s already been too long as it is. As always though…this podcast IS a democracy. I will cover whatever the most vocal people decide to ask for on social media, been very clear about that, so if you want some more of this: let me know. Later in his life Guy Debord thought that there was no way OUT of the spectacle…that there was practically nothing in nature OR culture that hadn’t been subsumed by it. He did allude at times however to there not necessarily being a way out…but maybe there was a way THROUGH. Regardless, the goal here today was to entertain a thought experiment. We are all participating in an economic process here to some extent…we have no choice BUT to. And I hope that no matter what level of religious immersion you FIND yourself in…these observations about how we live our lives from an outside perspective…I hope they can at least help someone out there at being more aware, of the substance, that underlies the appearances that are far more visible. Because what if somebody told you that you were a member of a religion that you didn’t even know you were a part of. And what if when you found out about it…it didn’t even really bother you that much?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Thank you for listening. Talk to you next time.&nbsp;</p>
@@ -1570,12 +1570,12 @@
 
 </div></div></div></div></div></div>
 
-        
+          
 
-        
-        
-          <div class="blog-item-author-profile-wrapper" data-content-field="author">
-            <a href="/transcript?author=5ed93d8e981c0869f203a7ea">
+          
+          
+            <div class="blog-item-author-profile-wrapper" data-content-field="author">
+              <a href="/transcript?author=5ed93d8e981c0869f203a7ea">
   
     <span class="author-avatar content-fill" data-tweaks="tweak-show-blog-item-author-profile">
       <img class="author-avatar-image" data-controller="AuthorProfileImageLoader" data-src="https://static1.squarespace.com/static/images/5ed93d8e3f6b28638e51b218" data-image="https://static1.squarespace.com/static/images/5ed93d8e3f6b28638e51b218" data-load="false" alt="" elementtiming="nbf-author-avatar" />
@@ -1586,17 +1586,18 @@
 
 
 
-          </div>
-        
-      </div>
-
-      <section class="blog-item-comments">
-        <div class="blog-item-comments-toggle-wrapper">
-          <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
-            
-          </div>
+            </div>
+          
         </div>
-      </section>
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
+              
+            </div>
+          </div>
+        </section>
+      
     </div>
   
 </article>
@@ -1941,7 +1942,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b502231aaf751bf844c833e9880528bf.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.4df6f348a832dc61e261a099a8ca9b31.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

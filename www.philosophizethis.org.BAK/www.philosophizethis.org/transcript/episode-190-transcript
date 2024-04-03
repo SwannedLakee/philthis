@@ -42,15 +42,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3b3e3fc50f53cca7422e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3b3e3fc50f53cca7422e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-b5da56bfab60c25d87fd-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-b5da56bfab60c25d87fd-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-c20455a09b1fe109400d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2956e20d9a68ca6ae280-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-f176173c568e8717c99b-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-44d9cfb93d344a7446ac-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-5cd4a896962954eaca96-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6f4322f63224e137fb72-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4a222f32bf58327e181b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5f2d4e7ddb02d50723d1-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-210f16f8bec538fbaf2f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-eb72d47f5c6899b293da-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7993e315eeeb0e31e0d1-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-eb731df3d05e856250e3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b99f54f05b3a4f777f55-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c21b9c2f0a1526623416-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-84d5b8a1f1fc4654032c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a6388a789435452d55a7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db82977b390515867439-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-5196e0c68b662ed24a38-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-377a5b12886c446ac5e6-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #190 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"2":true,"7":true,"4":true,"6":true,"8":true,"3":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #190 - Transcript","id":"65664c5343ba840398bfa9c6","fullUrl":"/transcript/episode-190-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["member_areas_feature","commerce_etsy_product_import","commerce_clearpay","campaigns_discount_section_in_blasts","rewrite_transactional_email_from_address","new_stacked_index","nested_categories","commerce_checkout_website_updates_enabled","commerce_etsy_shipping_import","marketing_landing_page","fluid_engine","campaigns_global_uc_ab","pdp_product_add_ons_visitor_site","campaigns_discount_section_in_automations","customer_account_creation_recaptcha","viewer-role-contributor-invites","fluid_engine_clean_up_grid_contextual_change","toggle_preview_new_shortcut","campaigns_thumbnail_layout","send_local_pickup_ready_email","unify_edit_mode_p2","enable_css_variable_tweaks","supports_versioned_template_assets","website_fonts","accounting_orders_sync","background_art_onboarding","website_component_enabled","override_block_styles","site_header_footer","nested_categories_migration_enabled","color_var_rendering_in_v6","commerce_order_status_access","commsplat_forms_visitor_profile","campaigns_import_discounts","visitor_react_forms","is_feature_gate_refresh_enabled","campaigns_new_image_layout_picker","image_component","scripts_defer","order_status_page_checkout_landing_enabled","commerce_site_visitor_metrics","commerce_subscription_renewal_notifications","themes","customer_accounts_email_verification","collection_typename_switching","show_add_to_cart_in_plp","commerce_restock_notifications"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #190 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-190-transcript","datePublished":"2023-11-28T12:24:45-0800","dateModified":"2023-11-28T12:25:07-0800","headline":"Episode #190 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1489/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-42a5fb7dfa01158988e7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-42a5fb7dfa01158988e7-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f1b17328c55249cf16e9-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce3304dbbbc00b0adc2c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-33c1f90c488c55fae579-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7116ec013cb68ccb46b1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-c284904b25c71d02bce8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-6e60a567b55f463b68e7-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-5d1c15b78a92b66bb9c2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-7acbb1abe140de860b8e-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c448735543b55eab799b-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-070905c328c108a2d84a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-59eb5857bbc5733e2d99-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-503cf40eefffe62983b2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-cc29311f395b003af368-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-02d1e0bcb6fc2a7af709-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c425f4bbbcfb78c3f308-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f51f475a757005c26ee7-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e651beeebf0f0d458f3c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd133305dca90ae5ca2f-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5978fce864bf3409cbda-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-ed7446c70dde7b3316d8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b9419dfe48307ccde360-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #190 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"4":true,"1":true,"6":true,"8":true,"2":true,"3":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #190 - Transcript","id":"65664c5343ba840398bfa9c6","fullUrl":"/transcript/episode-190-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["supports_versioned_template_assets","campaigns_global_uc_ab","show_add_to_cart_in_plp","proposals_beta_in_circle_labs","commerce_checkout_website_updates_enabled","async_copy_collection","commsplat_forms_visitor_profile","new_stacked_index","customer_accounts_email_verification","toggle_preview_new_shortcut","commerce_subscription_renewal_notifications","nested_categories","campaigns_import_discounts","marketing_landing_page","campaigns_new_image_layout_picker","fluid_engine","commerce_restock_notifications","accounting_orders_sync","commerce_order_status_access","commerce_etsy_product_import","nested_categories_migration_enabled","viewer-role-contributor-invites","background_art_onboarding","commerce_clearpay","website_fonts","themes","unify_edit_mode_p2","campaigns_discount_section_in_automations","rewrite_transactional_email_from_address","scripts_defer","order_status_page_checkout_landing_enabled","google_consent_v2","send_local_pickup_ready_email","commerce_site_visitor_metrics","customer_account_creation_recaptcha","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_shipping_import","visitor_react_forms","pdp_product_add_ons_visitor_site","member_areas_feature","campaigns_thumbnail_layout","is_feature_gate_refresh_enabled","override_block_styles","collection_typename_switching","campaigns_discount_section_in_blasts","enable_css_variable_tweaks"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #190 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-190-transcript","datePublished":"2023-11-28T12:24:45-0800","dateModified":"2023-11-28T12:25:07-0800","headline":"Episode #190 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1498/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1706811132467-QIR6O63RE5GI9HXI9ESJ/static.css">
@@ -62,13 +62,7 @@
     class="
       primary-button-style-solid primary-button-shape-rounded secondary-button-style-solid secondary-button-shape-rounded tertiary-button-style-solid tertiary-button-shape-rounded  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-dash tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-right tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-hide tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-hide tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-left tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-content-position-center image-block-overlap-text-alignment-opposite image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog-masonry collection-6053dc3a01905600e48be230 view-item collection-layout-default mobile-style-available sqs-seven-one
       
-        plp-config-editor-add-to-cart
-      
-      
         show-pdp-product-add-ons
-      
-      
-         plp-add-to-cart
       
       
         
@@ -139,256 +133,256 @@
   "
   data-controller="Header"
   data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-&quot;customColor&quot;: {
-&quot;hslaValue&quot;: {
-  &quot;hue&quot;: 203.4782608695652,
-  &quot;saturation&quot;: 0.22330097087378645,
-  &quot;lightness&quot;: 0.2019607843137255,
-  &quot;alpha&quot;: 1.0
-},
-&quot;userFormat&quot;: &quot;hex&quot;
-}
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadowOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;borderOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;showPromotedElement&quot;: false,
-&quot;buttonVariant&quot;: &quot;primary&quot;,
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-}
-}"
+                                        &quot;layout&quot;: &quot;navRight&quot;,
+                                        &quot;action&quot;: {
+                                          &quot;href&quot;: &quot;/take-action&quot;,
+                                          &quot;buttonText&quot;: &quot;Take Action&quot;,
+                                          &quot;newWindow&quot;: false
+                                        },
+                                        &quot;showSocial&quot;: true,
+                                        &quot;socialOptions&quot;: {
+                                          &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                          &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                          &quot;socialBorderThickness&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 1.0
+                                          }
+                                        },
+                                        &quot;sectionTheme&quot;: &quot;light&quot;,
+                                        &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                        &quot;cartStyle&quot;: &quot;cart&quot;,
+                                        &quot;cartText&quot;: &quot;Cart&quot;,
+                                        &quot;showEmptyCartState&quot;: true,
+                                        &quot;cartOptions&quot;: {
+                                          &quot;iconType&quot;: &quot;solid-7&quot;,
+                                          &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                          &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                          &quot;cartBorderThickness&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 1.0
+                                          }
+                                        },
+                                        &quot;showButton&quot;: false,
+                                        &quot;showCart&quot;: false,
+                                        &quot;showAccountLogin&quot;: true,
+                                        &quot;headerStyle&quot;: &quot;theme&quot;,
+                                        &quot;languagePicker&quot;: {
+                                          &quot;enabled&quot;: false,
+                                          &quot;iconEnabled&quot;: false,
+                                          &quot;iconType&quot;: &quot;globe&quot;,
+                                          &quot;flagShape&quot;: &quot;shiny&quot;,
+                                          &quot;languageFlags&quot;: [ ]
+                                        },
+                                        &quot;mobileOptions&quot;: {
+                                          &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                                          &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                          &quot;menuIconOptions&quot;: {
+                                            &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                            &quot;thickness&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 1.0
+                                            }
+                                          }
+                                        },
+                                        &quot;dynamicOptions&quot;: {
+                                          &quot;border&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;position&quot;: &quot;bottom&quot;,
+                                            &quot;thickness&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 4.0
+                                            },
+                                            &quot;color&quot;: {
+                                              &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+                                              &quot;customColor&quot;: {
+                                                &quot;hslaValue&quot;: {
+                                                  &quot;hue&quot;: 203.4782608695652,
+                                                  &quot;saturation&quot;: 0.22330097087378645,
+                                                  &quot;lightness&quot;: 0.2019607843137255,
+                                                  &quot;alpha&quot;: 1.0
+                                                },
+                                                &quot;userFormat&quot;: &quot;hex&quot;
+                                              }
+                                            }
+                                          }
+                                        },
+                                        &quot;solidOptions&quot;: {
+                                          &quot;headerOpacity&quot;: {
+                                            &quot;unit&quot;: &quot;%&quot;,
+                                            &quot;value&quot;: 100.0
+                                          },
+                                          &quot;border&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;position&quot;: &quot;bottom&quot;,
+                                            &quot;thickness&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 4.0
+                                            },
+                                            &quot;color&quot;: {
+                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                              &quot;sitePaletteColor&quot;: {
+                                                &quot;colorName&quot;: &quot;black&quot;,
+                                                &quot;alphaModifier&quot;: 1.0
+                                              }
+                                            }
+                                          },
+                                          &quot;dropShadow&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;blur&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 30.0
+                                            },
+                                            &quot;spread&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 0.0
+                                            },
+                                            &quot;distance&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 0.0
+                                            },
+                                            &quot;color&quot;: {
+                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                              &quot;sitePaletteColor&quot;: {
+                                                &quot;colorName&quot;: &quot;black&quot;,
+                                                &quot;alphaModifier&quot;: 1.0
+                                              }
+                                            }
+                                          },
+                                          &quot;blurBackground&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;blurRadius&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 12.0
+                                            }
+                                          },
+                                          &quot;backgroundColor&quot;: {
+                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                            &quot;sitePaletteColor&quot;: {
+                                              &quot;colorName&quot;: &quot;white&quot;,
+                                              &quot;alphaModifier&quot;: 1.0
+                                            }
+                                          },
+                                          &quot;navigationColor&quot;: {
+                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                            &quot;sitePaletteColor&quot;: {
+                                              &quot;colorName&quot;: &quot;black&quot;,
+                                              &quot;alphaModifier&quot;: 1.0
+                                            }
+                                          }
+                                        },
+                                        &quot;gradientOptions&quot;: {
+                                          &quot;gradientType&quot;: &quot;faded&quot;,
+                                          &quot;headerOpacity&quot;: {
+                                            &quot;unit&quot;: &quot;%&quot;,
+                                            &quot;value&quot;: 90.0
+                                          },
+                                          &quot;border&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;position&quot;: &quot;bottom&quot;,
+                                            &quot;thickness&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 4.0
+                                            },
+                                            &quot;color&quot;: {
+                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                              &quot;sitePaletteColor&quot;: {
+                                                &quot;colorName&quot;: &quot;black&quot;,
+                                                &quot;alphaModifier&quot;: 1.0
+                                              }
+                                            }
+                                          },
+                                          &quot;dropShadow&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;blur&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 30.0
+                                            },
+                                            &quot;spread&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 0.0
+                                            },
+                                            &quot;distance&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 0.0
+                                            },
+                                            &quot;color&quot;: {
+                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                              &quot;sitePaletteColor&quot;: {
+                                                &quot;colorName&quot;: &quot;black&quot;,
+                                                &quot;alphaModifier&quot;: 1.0
+                                              }
+                                            }
+                                          },
+                                          &quot;blurBackground&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;blurRadius&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 12.0
+                                            }
+                                          },
+                                          &quot;backgroundColor&quot;: {
+                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                            &quot;sitePaletteColor&quot;: {
+                                              &quot;colorName&quot;: &quot;white&quot;,
+                                              &quot;alphaModifier&quot;: 1.0
+                                            }
+                                          },
+                                          &quot;navigationColor&quot;: {
+                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                            &quot;sitePaletteColor&quot;: {
+                                              &quot;colorName&quot;: &quot;black&quot;,
+                                              &quot;alphaModifier&quot;: 1.0
+                                            }
+                                          }
+                                        },
+                                        &quot;dropShadowOptions&quot;: {
+                                          &quot;enabled&quot;: false,
+                                          &quot;blur&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 12.0
+                                          },
+                                          &quot;spread&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 0.0
+                                          },
+                                          &quot;distance&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 12.0
+                                          }
+                                        },
+                                        &quot;borderOptions&quot;: {
+                                          &quot;enabled&quot;: false,
+                                          &quot;position&quot;: &quot;bottom&quot;,
+                                          &quot;thickness&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 4.0
+                                          }
+                                        },
+                                        &quot;showPromotedElement&quot;: false,
+                                        &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                        &quot;blurBackground&quot;: {
+                                          &quot;enabled&quot;: false,
+                                          &quot;blurRadius&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 12.0
+                                          }
+                                        },
+                                        &quot;headerOpacity&quot;: {
+                                          &quot;unit&quot;: &quot;%&quot;,
+                                          &quot;value&quot;: 100.0
+                                        }
+                                      }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
+                                        &quot;enabled&quot;: false,
+                                        &quot;iconEnabled&quot;: false,
+                                        &quot;iconType&quot;: &quot;globe&quot;,
+                                        &quot;flagShape&quot;: &quot;shiny&quot;,
+                                        &quot;languageFlags&quot;: [ ]
+                                      }"
   
   data-first-focusable-element
   tabindex="-1"
@@ -412,18 +406,18 @@
   "
 >
   
+    
 <div class="sqs-announcement-bar-dropzone"></div>
 
-  <div class="header-announcement-bar-wrapper"
-  > 
-
-    <a
-      href="#page"
-      class="header-skip-link sqs-button-element--primary"
-    >
-      Skip to Content
-    </a>
-    
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
 <style>
@@ -434,13 +428,13 @@
         }
     }
 </style>
-    <div
-      class="header-border"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-border="false"
-      data-test="header-border"
-      style="
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
 
 
 
@@ -454,44 +448,44 @@
 
 
 "
-    ></div>
-    <div
-      class="header-dropshadow"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-dropshadow="false"
-      data-test="header-dropshadow"
-      style="
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
 
 
   
 "
-    ></div>
-    
-    
+      ></div>
+      
+      
 
-    <div class='header-inner container--fluid
-      
-      
-      
-       header-mobile-layout-logo-left-nav-right
-      
-      
-      
-      
-      
-      
-       header-layout-nav-right
-      
-      
-      
-      
-      
-      
-      
-      
-      '
-      style="
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
 
 
 
@@ -501,68 +495,68 @@
 
 
 "
-      data-test="header-inner"
-      >
-      <!-- Background -->
-      <div class="header-background theme-bg--primary"></div>
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+        <div class="header-display-desktop" data-content-field="site-title">
           
-          <!-- Social -->
+
+          
+
+          
+
+          
+
+          
+
+          
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -661,64 +655,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -748,59 +742,59 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
-
-      </div>
-      <div class="header-display-mobile" data-content-field="site-title">
-        
           
-          <!-- Social -->
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -899,64 +893,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -986,14 +980,15 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+          
+          
+          
+          
+          
+        </div>
       </div>
     </div>
-  </div>
+  
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     
@@ -1003,245 +998,245 @@
     
     "
     data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;href&quot;: &quot;/take-action&quot;,
-&quot;buttonText&quot;: &quot;Take Action&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;theme&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-&quot;customColor&quot;: {
-&quot;hslaValue&quot;: {
-  &quot;hue&quot;: 203.4782608695652,
-  &quot;saturation&quot;: 0.22330097087378645,
-  &quot;lightness&quot;: 0.2019607843137255,
-  &quot;alpha&quot;: 1.0
-},
-&quot;userFormat&quot;: &quot;hex&quot;
-}
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadowOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;borderOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;bottom&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;showPromotedElement&quot;: false,
-&quot;buttonVariant&quot;: &quot;primary&quot;,
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-}
-}"
+                                        &quot;layout&quot;: &quot;navRight&quot;,
+                                        &quot;action&quot;: {
+                                          &quot;href&quot;: &quot;/take-action&quot;,
+                                          &quot;buttonText&quot;: &quot;Take Action&quot;,
+                                          &quot;newWindow&quot;: false
+                                        },
+                                        &quot;showSocial&quot;: true,
+                                        &quot;socialOptions&quot;: {
+                                          &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                          &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                          &quot;socialBorderThickness&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 1.0
+                                          }
+                                        },
+                                        &quot;sectionTheme&quot;: &quot;light&quot;,
+                                        &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                        &quot;cartStyle&quot;: &quot;cart&quot;,
+                                        &quot;cartText&quot;: &quot;Cart&quot;,
+                                        &quot;showEmptyCartState&quot;: true,
+                                        &quot;cartOptions&quot;: {
+                                          &quot;iconType&quot;: &quot;solid-7&quot;,
+                                          &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                          &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                          &quot;cartBorderThickness&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 1.0
+                                          }
+                                        },
+                                        &quot;showButton&quot;: false,
+                                        &quot;showCart&quot;: false,
+                                        &quot;showAccountLogin&quot;: true,
+                                        &quot;headerStyle&quot;: &quot;theme&quot;,
+                                        &quot;languagePicker&quot;: {
+                                          &quot;enabled&quot;: false,
+                                          &quot;iconEnabled&quot;: false,
+                                          &quot;iconType&quot;: &quot;globe&quot;,
+                                          &quot;flagShape&quot;: &quot;shiny&quot;,
+                                          &quot;languageFlags&quot;: [ ]
+                                        },
+                                        &quot;mobileOptions&quot;: {
+                                          &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                                          &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                          &quot;menuIconOptions&quot;: {
+                                            &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                            &quot;thickness&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 1.0
+                                            }
+                                          }
+                                        },
+                                        &quot;dynamicOptions&quot;: {
+                                          &quot;border&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;position&quot;: &quot;bottom&quot;,
+                                            &quot;thickness&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 4.0
+                                            },
+                                            &quot;color&quot;: {
+                                              &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+                                              &quot;customColor&quot;: {
+                                                &quot;hslaValue&quot;: {
+                                                  &quot;hue&quot;: 203.4782608695652,
+                                                  &quot;saturation&quot;: 0.22330097087378645,
+                                                  &quot;lightness&quot;: 0.2019607843137255,
+                                                  &quot;alpha&quot;: 1.0
+                                                },
+                                                &quot;userFormat&quot;: &quot;hex&quot;
+                                              }
+                                            }
+                                          }
+                                        },
+                                        &quot;solidOptions&quot;: {
+                                          &quot;headerOpacity&quot;: {
+                                            &quot;unit&quot;: &quot;%&quot;,
+                                            &quot;value&quot;: 100.0
+                                          },
+                                          &quot;border&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;position&quot;: &quot;bottom&quot;,
+                                            &quot;thickness&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 4.0
+                                            },
+                                            &quot;color&quot;: {
+                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                              &quot;sitePaletteColor&quot;: {
+                                                &quot;colorName&quot;: &quot;black&quot;,
+                                                &quot;alphaModifier&quot;: 1.0
+                                              }
+                                            }
+                                          },
+                                          &quot;dropShadow&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;blur&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 30.0
+                                            },
+                                            &quot;spread&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 0.0
+                                            },
+                                            &quot;distance&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 0.0
+                                            },
+                                            &quot;color&quot;: {
+                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                              &quot;sitePaletteColor&quot;: {
+                                                &quot;colorName&quot;: &quot;black&quot;,
+                                                &quot;alphaModifier&quot;: 1.0
+                                              }
+                                            }
+                                          },
+                                          &quot;blurBackground&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;blurRadius&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 12.0
+                                            }
+                                          },
+                                          &quot;backgroundColor&quot;: {
+                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                            &quot;sitePaletteColor&quot;: {
+                                              &quot;colorName&quot;: &quot;white&quot;,
+                                              &quot;alphaModifier&quot;: 1.0
+                                            }
+                                          },
+                                          &quot;navigationColor&quot;: {
+                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                            &quot;sitePaletteColor&quot;: {
+                                              &quot;colorName&quot;: &quot;black&quot;,
+                                              &quot;alphaModifier&quot;: 1.0
+                                            }
+                                          }
+                                        },
+                                        &quot;gradientOptions&quot;: {
+                                          &quot;gradientType&quot;: &quot;faded&quot;,
+                                          &quot;headerOpacity&quot;: {
+                                            &quot;unit&quot;: &quot;%&quot;,
+                                            &quot;value&quot;: 90.0
+                                          },
+                                          &quot;border&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;position&quot;: &quot;bottom&quot;,
+                                            &quot;thickness&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 4.0
+                                            },
+                                            &quot;color&quot;: {
+                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                              &quot;sitePaletteColor&quot;: {
+                                                &quot;colorName&quot;: &quot;black&quot;,
+                                                &quot;alphaModifier&quot;: 1.0
+                                              }
+                                            }
+                                          },
+                                          &quot;dropShadow&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;blur&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 30.0
+                                            },
+                                            &quot;spread&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 0.0
+                                            },
+                                            &quot;distance&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 0.0
+                                            },
+                                            &quot;color&quot;: {
+                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                              &quot;sitePaletteColor&quot;: {
+                                                &quot;colorName&quot;: &quot;black&quot;,
+                                                &quot;alphaModifier&quot;: 1.0
+                                              }
+                                            }
+                                          },
+                                          &quot;blurBackground&quot;: {
+                                            &quot;enabled&quot;: false,
+                                            &quot;blurRadius&quot;: {
+                                              &quot;unit&quot;: &quot;px&quot;,
+                                              &quot;value&quot;: 12.0
+                                            }
+                                          },
+                                          &quot;backgroundColor&quot;: {
+                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                            &quot;sitePaletteColor&quot;: {
+                                              &quot;colorName&quot;: &quot;white&quot;,
+                                              &quot;alphaModifier&quot;: 1.0
+                                            }
+                                          },
+                                          &quot;navigationColor&quot;: {
+                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                            &quot;sitePaletteColor&quot;: {
+                                              &quot;colorName&quot;: &quot;black&quot;,
+                                              &quot;alphaModifier&quot;: 1.0
+                                            }
+                                          }
+                                        },
+                                        &quot;dropShadowOptions&quot;: {
+                                          &quot;enabled&quot;: false,
+                                          &quot;blur&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 12.0
+                                          },
+                                          &quot;spread&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 0.0
+                                          },
+                                          &quot;distance&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 12.0
+                                          }
+                                        },
+                                        &quot;borderOptions&quot;: {
+                                          &quot;enabled&quot;: false,
+                                          &quot;position&quot;: &quot;bottom&quot;,
+                                          &quot;thickness&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 4.0
+                                          }
+                                        },
+                                        &quot;showPromotedElement&quot;: false,
+                                        &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                        &quot;blurBackground&quot;: {
+                                          &quot;enabled&quot;: false,
+                                          &quot;blurRadius&quot;: {
+                                            &quot;unit&quot;: &quot;px&quot;,
+                                            &quot;value&quot;: 12.0
+                                          }
+                                        },
+                                        &quot;headerOpacity&quot;: {
+                                          &quot;unit&quot;: &quot;%&quot;,
+                                          &quot;value&quot;: 100.0
+                                        }
+                                      }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1457,31 +1452,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+                                        &quot;imageOverlayOpacity&quot;: 0.15,
+                                        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                                        &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                                        &quot;customSectionHeight&quot;: 10,
+                                        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                                        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                                        &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                                        &quot;customContentWidth&quot;: 50,
+                                        &quot;sectionTheme&quot;: &quot;&quot;,
+                                        &quot;sectionAnimation&quot;: &quot;none&quot;,
+                                        &quot;backgroundMode&quot;: &quot;image&quot;
+                                      }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+                                        &quot;video&quot;: {
+                                          &quot;playbackSpeed&quot;: 0.5,
+                                          &quot;filter&quot;: 1,
+                                          &quot;filterStrength&quot;: 0,
+                                          &quot;zoom&quot;: 0,
+                                          &quot;videoSourceProvider&quot;: &quot;none&quot;
+                                        },
+                                        &quot;backgroundImageId&quot;: null,
+                                        &quot;backgroundMediaEffect&quot;: null,
+                                        &quot;divider&quot;: null,
+                                        &quot;typeName&quot;: &quot;blog-masonry&quot;
+                                      }"
   data-animation="none"
   
    
@@ -1520,6 +1515,9 @@
       <div class="blog-item-wrapper blog-grid-masonry-item-wrapper" data-content-field="main-content" data-item-id="">
   <article id="article-" class="h-entry entry hentry post-type-">
   
+    
+    
+    
     <div class="blog-item-inner-wrapper">
       <div class="blog-item-top-wrapper">
         <div class="blog-item-title">
@@ -1534,11 +1532,13 @@
             </time>
             <div class="blog-meta-item blog-meta-item--author p-author author" data-content-field="author">Written By <a href="/transcript?author=5ed93d8e981c0869f203a7ea" class="blog-author-name">Philosophize This!</a></div>
           </div>
+          
         </div>
       </div>
 
-      <div class="blog-item-content-wrapper">
-        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-65664c5343ba840398bfa9c6"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-e5956a8a749190911b6f"><div class="sqs-block-content">
+      
+        <div class="blog-item-content-wrapper">
+          <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-65664c5343ba840398bfa9c6"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-e5956a8a749190911b6f"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;"><strong><em>So today we’re gonna be talking about a person many consider to be one of the greatest philosophers alive today. We’re gonna be talking about Martha Nussbaum. And I want to START today with a story. It’s a story that’s VERY important to Martha Nussbaum. It’s a story she said earlier on in her career… she’d sometimes be kept UP at night THINKING about it and it’s disturbing implications about what it is to be a person. It’s a story where we won’t fully understand just how relevant it IS to this digital panopticon we’re living in…until about the end of the episode today. The story is a play… written in ancient Greece by the great playwright Euripides…the story we’re talking about today is called Hecuba.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now Hecuba…was the name of the historically famous Queen of Troy. Mother of Hector…you know that guy Brad Pitt killed in 1997. Wife of Agamemnon, but a formidable person in her own right. Now MOST of her story is pretty tragic her kingdom falls, her husband is killed, most of her children are killed, she’s sold into slavery…but through all this bad stuff she had ONE hope that she was holding onto… which was to save at least ONE of her sons, his name was Polydorus.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>So she sends him off to a different kingdom away from the battle with a bunch of gold, she tells him to go talk to the king in the city of Thrace he’s a friend of mine and ask him to protect you until everything dies down with the whole fall of Troy stuff that’s going on.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>So Polydorus leaves, chest full of gold on the back of his cart… and that’s the last she sees of him. Time passes. She finally is able to make it BACK to this kingdom that she sent him to. And as she comes up to the beaches of Thrace… right where the waves hit the sand… she sees a dead body. She looks a little closer and she realizes…it’s her son Polydorus. And IN that moment… Hecuba knew EXACTLY what had happened. Her friend, her SUPPOSED friend the King, seeing the fall of Troy…took advantage of that opportunity and KILLED her son… and stole all of the gold.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now the GRIEF… that overtook her in this moment…QUICKLY turned into vengeance. She rallies some other women she knows… she lures the king into a particular place… and then she proceeds to poke his eyes out and blind him for the rest of his life.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now the Gods… to PUNISH Hecuba for what she did…they transform her… into a dog. In fact the play ends with her just barking, running down the beach going after a frisbee…and at the END of the episode we’ll talk MORE about WHY she may have turned into a dog but for now maybe it should just be said:</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>What an incredibly tragic story. And one it’s pretty cool that thousands of years later…somehow we can still RELATE to a piece of this. I mean you can just feel the agony she must have felt in that moment. It’s worth asking: what would YOU do if a friend betrayed you and murdered your child? Would you poke their eyes out? Maybe some of you in these emails that I read sometimes. But most of you would probably go for a more reasoned approach, I mean two wrongs don’t make a right. Maybe Hecuba in this moment…should’ve managed her feelings a little bit better. Maybe…she should’ve taken a page out of the book… of Stoicism.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now in the last ten years or so…Stoicism…as a way to manage your emotions and feel better about the things you can’t control in the world…has EXPLODED in this digital panopticon. Not a surprise really: in a world where media companies are constantly trying to MANIPULATE your emotions to get you to either vote a particular way or to get you to buy something…it’s practically therapeutic…to have a philosophy like Stoicism that tells you you can’t control ANYTHING that happens external to you in the outside world…ALL you can control is how you REACT to it.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>As many of you know the three big Stoic ethicists are gonna be Epictetus, Seneca and Marcus Aurelius.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>And at the core of Stoicism is the idea that we can BE in control of our emotions. IF we’re vigilant and IF we reason well enough…it is possible to realize the futility of getting MAD at someone when they cut you off in traffic for example. It is POSSIBLE…to not feel the embarrassment or despair when you lose all your money in the stock market. This is possible, because ultimately to the Stoics ALL that an emotion is…is a JUDGMENT you’re making about something that’s happening EXTERNAL to you… that you’re then LINKING to whether it’s good or bad for your OWN personal projects.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>But ultimately, we can’t CONTROL anything that happens outside of us. This is why to the Stoics a LARGE part of your EFFORT if you’re a wise person…should be to spend time recognizing that fact… and then detaching yourself from these worldly outcomes that you can’t control.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>At the root of this idea is a concept that’s existed for thousands of years in western culture. It’s the dichotomy between reason on the one hand…and the emotions on the other. This is something you see ALL throughout the history of human thought.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>And most of the time the way thinkers see it is that REASON…is something that is good, something to be cultivated…and the EMOTIONS are something problematic, something seen as closer to our ANIMAL nature. And it should be said you don’t even need to BE a philosopher to arrive at these kind of insights, a stay at home mom with three kids for example…you know the kids are running around the house doing god knows what…putting syrup all over the family cat…mom’s out of her mind, and the mom might say to herself in that moment you know what? I can’t freak out right now, I have to just stay reasonable. I’m in charge of this house. It’s a very understandable response to push down the emotions and try to be as reasoned as possible, some would just call that maturity.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now again the Stoics FOLLOW this line of thinking and while I think there’s definitely a lot more nuance to their views on emotions than just THIS…they certainly make distinctions between which emotions are worth having and which ones are a waste of time. Despite that: there’s definitely a general sentiment, within Stoicism, that the emotions are something to be skeptical of and that REASON is the direction that ANY wise person should be headed. And ESPECIALLY for people who READ Stoicism and don’t do a very deep reading of them…to the philosopher Martha Nussbaum…a common ATTITUDE that starts to emerge… is that the emotions are things that are essentially USELESS…and that the WISEST person in the WORLD would have the ability to always keep them in control, never feel them for very long, REASON their way to every decision that they make, and be the cliche… of a Stoic. That A STOIC person is a GOOD person. In other words: morality…has no ROOM for the emotions. They just cloud your ability to be REASONABLE, so they’re just a waste of time.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>But is that true?&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Martha Nussbaum has a LOT of respect for Stoicism…especially what she sees as an absolute GENIUS insight that they had about the nature of what an emotion is…all those years ago. Remember it’s a judgment…about something external to you…that you determine whether its good or bad for your own personal projects. Or as SHE puts it emotions are appraisals… of an external object as being IMPORTANT for our needs and well being.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>But does that sound like something that’s entirely USELESS? You know, maybe in the same way fans of Stoicism today reject the SCIENCE that Epictetus and Seneca were referencing…maybe it’s possible… to take the CORE of this great theory of emotions…and make it better. Maybe we can take ALL THAT WE’VE LEARNED over THOUSANDS of years in the natural sciences…APPLY it to Stoic ETHICS…and come out the other side of it with a BETTER and more COMPLETE version of an ethics, or what Martha Nussbaum calls: Neo-Stoicism.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>I mean really WHY should we be beholden to the philosophical bias and scientific ignorance of some dudes that lived over a thousand years ago? THEY never would’ve wanted that. Do you really think if Seneca was alive today he wouldn’t be using the BEST science that was available to him? Of COURSE he would.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>So knowing that, the REAL question becomes: what are the AREAS of Stoicism that need work? Well, you just have to look at the areas of their thinking… that the stoics NEVER could have possibly thought they were overlooking at the time. One of these for Nussbaum is going to be the OBVIOUS connection between people’s emotional responses to external events…and their own individual, unique personal HISTORY. That’s something the stoics didn’t spend much time on at ALL.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Quick setup here that’s very important to understand where Nussbaum is coming from.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>She’s going to say that the emotions are NOT something that we should just be writing off. They’re what she calls geological upheavals of thought a reference to the author Marcel Proust. And FAR FROM being completely irrational acts of self indulgence…she says if you PAY ATTENTION to emotions and the objects emotions are caused by…emotions are always infused with judgments about value, importance, intelligence, discernment…put another way emotions are ABOUT the things that are important to us.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>For Nussbaum not ONLY are emotions NOT these purely bodily, animalistic spasms that we’re having…not ONLY are they important cognitive judgments we’re making…but they are also absolutely NECESSARY for ANY sort of advanced moral thinking. IF ANYBODY… thinks they’re ridding themselves of their emotional reactions to things and then making moral decisions PURELY on the back of REASON…they’re FOOLING themselves.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>See again, we HAVE this history in western thought at least since the Enlightenment where the story is that we’re ALL these individual, autonomous, RATIONAL beings and then we rationalize and we get all rationy and then make rational decisions. We draw a line in the sand when it comes to reason and the emotions. They’re separate. We want to BELIEVE this STORY that we are entirely self-sufficient.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>But what HAPPENS when you accept the emotions as a valid compass to guide your behavior in the world is that you REALIZE how NEEDY human beings really are. Think about it: an emotion to the stoics again is an appraisal about whether something external is important for our needs and well being. So say your car gets stolen. You have a negative appraisal of that event, like hey, I need my car to get around in my life, this is a horrible situation… and you react with feelings of anger, embarrassment, frustration, everything understandable. Now the stoics, say Epictetus, he would tell you you’re a FOOL for reacting that way…that you had no control over whether your car was gonna get stolen, or ANY external event for that matter, and that what YOU gotta do… is REASON better, cultivate a little more wisdom, and eventually you’ll ACCEPT your lack of control over that situation.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>But what Martha Nussbaum would say is uh no. You DO, actually need, a car. This is a frustrating situation. You can’t just drop down into the lotus position and teleport into your cubicle. Look at any disenfranchised group in this world that is suffering right now because they lack resources. Our lives REQUIRE external objects and material resources to be able to function and the emotions are when we make appraisals about that reality: cars yeah, but also food, medical care, how bout PEOPLE.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>See that’s the other thing here…some people would love to believe they can be some kind of stoic dalai lama and just live in complete non-attachment from everything in the world around you…but in reality our lives are ALWAYS contextual. We are ALWAYS LIVING in a network of people and things that MAKE our lives possible at all. We are fundamentally NEEDY creatures to Nussbaum. We NEED external things and we NEED the help of other people to function. Again, the emotions are the judgments we make ABOUT these external states of affairs. This may be why some people RUN from their emotions because it forces them to recognize JUST how needy they really are.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now NO one here is saying that emotions should somehow get a free pass. Nobodies saying that Uncle Murray gets to go off on the whole family… cause they didn’t get him gluten free potatoes last night. What Martha Nussbaum IS saying though is that if we write off the emotions COMPLETELY as useless…we’re gonna be missing out on a LOT of great information that can help the development of ourselves and society…and more than that if we ignore the emotions…we’re NEVER going to have a STOIC ethical theory that does a sufficient examination of the emotions as part of the human experience.&nbsp;&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>So that said, getting back to where we were before…one of the things Martha Nussbaum thinks is MISSING from the classical Stoic analysis of the emotions is how connected they are to an individual’s own personal history. Not the LEAST of which she thinks is how they connect to our psychological development when we are infants.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Again developmental psychology…was just NOT on the radar of the early Stoics. They barely even TALK about children she says. She says children in ancient Greece and Rome mostly spent time with their mothers or other kids. These older philosopher men weren’t even really THINKING about children. And don’t make that joke btw. The one you’re thinking of right now.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Nonetheless SINCE then we’ve made a LOT of progress when it comes to understanding the moments in development when this emotional repertoire is formed. And that’s her term by the way…emotional repertoire.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>For example she says, take psychoanalysis. And by the way you don’t have to take psychoanalysis. If you don’t like Freud…insert any contemporary advanced theory of developmental psychology here and her point remains the same. The POINT is: we can take the core of Stoicism… and USE modern psychology to make it EVEN BETTER. Again this is Neo…Stoicism.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now HER example uses a version of psychoanalysis she says as babies…we are ALL born into the world these little… tyrants. Little dictators. THAT’S how a newborn baby sees the world. It’s ALL about them…they’re VERY narcissistic when they first come out of the womb…and why wouldn’t they be?&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>From the first time they open their eyes EVERYBODY AROUND THEM is just there to take care of them.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>But then what happens is inevitably that day comes in the life of the newborn where they witness their mom tending to somebody ELSE that’s NOT them. And to Nussbaum…this COULD BE the moment…where that child feels the feeling of JEALOUSY, for the very first time…when they’re FORCED to come out of their default narcissism and recognize that they are not the only person in the entire world.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>And this extends into later in life…where we all have individual personal histories that go on to affect our emotional responses…you know maybe you have a relationship in high school that doesn’t go so well…and you bring that experience to bear on every subsequent relationship you have throughout your entire 20s. The POINT is: to Nussbaum, the Stoics weren’t THINKING about the true level of emotional variance that’s possible here, OR about the foundations of emotions in developmental psychology. Wouldn’t a philosophical approach LIKE Stoicism, aimed at helping people deal with emotions…wouldn’t it ONLY stand to get STRONGER if we incorporate our understanding of these things rather than just REJECT the emotions altogether?</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>So that said: let’s TAKE a Neo-Stoic line of thinking and let’s EXAMINE some of the emotions so that maybe we can understand their value better. And one of her absolute FAVORITE emotions to write about…an emotion she says may in fact be INFINITELY VALUABLE if we were to examine it more closely…is the emotion of COMPASSION.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>You know it’s weird because…in today’s day and age…compassion is seen as something that is universally good. Like if someone told you they weren’t a fan of compassion you’d just be like uh okay, I guess. IN TODAY’S WORLD. But in fact throughout most of human history especially among philosophers…compassion hasn’t really been SEEN in that favorable of a light. The Stoics didn’t like compassion, Kant didn’t like compassion, Nietzsche was very skeptical of compassion. And it’s not because they were uncaring people.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>For example the Stoics weren’t big fans of compassion and it wasn’t because they were cruel. They just thought there were other virtues that accomplished what compassion is going for in a better way. The way THEY saw it: WHENEVER YOU ARE compassionate to someone…you are in some way compromising their integrity… as a person. You’re making them weak. You’re robbing them of an opportunity to lift themselves up on their own and be stronger the NEXT time something bad inevitably happens.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Martha Nussbaum defines compassion as a “painful emotion...occasioned by the awareness of another person's (or other creature's) underserved misfortune.” In other words: somebody you see that’s in a really bad spot…and it’s not their fault their IN that spot.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>But as Nussbaum says… to the Stoics…barring rare exceptions…anything BAD that is happening to you in your life is ultimately…ALWAYS your fault in some way. You should ALWAYS internalize it. And even in some hypothetical world where you could get judge judy to come down from her mansion and give a final decree that this was not your fault…then to the Stoics it is STILL your responsibility to react to it in a way that is wise…not just lay there and wait to get rescued by a compassionate person walking by. ANY TIME, a person is compassionate…it WEAKENS the other party. It UNDERMINES their INTEGRITY as a human being. Equality means that we allow people to DO things on their own. So to the Stoics…compassion isn’t the answer…maybe its guidance, maybe it’s mentorship, encouragement…but not compassion.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>To Kant compassion was a problem, because it was too particular or too acute to ever be something that’s useful for moral guidance. Remember Kant’s the guy that among many other things is looking for MORAL ABSOLUTES in his work. If something is truly good…then it should be good in every situation we can possibly imagine, no exceptions. But with compassion…compassion is something that happens between two people, in an EXTREMELY limited situation. One person looks at ANOTHER person and feels compassion for their situation and is compelled to DO something about it…but to Kant it’s just too particular and chaotic to EVER be a proper guide to moral action…once again…he’d say if what you want is justice…there’s just BETTER VIRTUES OUT THERE that get you to that end goal than compassion.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Nietzsche was skeptical of compassion for a different reason. He took a very close look at it, untangled the anatomy of it…and he said if you look closely…what you’ll see is that compassion…is often CLOSELY connected to feelings of hatred or resentment. Reason being is…the more COMPASSION you feel for the person who is being hurt in a situation that is ENTIRELY not their fault…the more hatred and resentment you often feel towards the people who are RESPONSIBLE for them being there. Compassion BREEDS resentment in a way.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Martha Nussbaum is very aware of ALL these criticisms. But she thinks the UPSIDES to compassion FAR OUTWEIGH any of these relatively small downsides. Because COMPASSION to Nussbaum…is NOT JUST an emotion…it’s not a virtue that GUIDES people to a perfect system of morality…in fact for anyone looking for moral principles that apply across every situation…to Nussbaum moral principles are just summaries of good judgment that happened in separate moments…moral life cant be explained in the rigid language that philosophers typically like to use, it’s too situational, too complex. She thinks literature or prose is amuch&nbsp; better place to look for moral guidance, but all that withstanding… compassion is NOT intended to be some end all be all GUIDE for the right thing in every situation…but it IS to Nussbaum…potentially a VEHICLE for EVERYONE…to learn and understand the ESSENCE of morality itself.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Let’s talk about what she means. Think back to her example of the baby. Little tyrant dictator laying in the crib. Wah Wah Feed Me my bottle you pestilent swine. We all start out these NARCISSISTS that can’t see past our crib. But as we get OLDER we start to CARE about the people in our family…we start to appreciate our parents for taking care of us…we start to make close friends that we care about…and a lot of people don’t really go too far past that. Point is: it is VERY EASY for people to care about their immediate friends and family. But the challenge of ANY SOCIETY Nussbaum says is: how do we get people to care about the people they don’t know… and most likely will never meet?&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Well if you want to solve that problem…far from CANCELING all emotions reasoning about it…Nussbaum says allowing ourselves to FEEL compassion and even cultivating it…compassion can serve as a VEHICLE for people to expand their moral horizons…to expand the numbers of people that they care about hopefully to the entire society, maybe even the world.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>More than that compassion is not just good for the individual and the social dynamics of a society…Nussbaum says compassion is potentially good as a compass for the policies of society. What she means is, you know, we used to write these social contracts where we try to come up with rights that apply to people in all situations no matter WHAT. But isn’t it also possible to use compassion as a tool for finding the rights that are still LACKING in the structure of society that maybe we need? Maybe by looking around us, and noticing that we FEEL compassion for a certain group that’s in a situation that’s not their fault, maybe that can point us in the right direction when it comes to developing the next iteration of rights that we’re going to try to get passed.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>The interesting thing… is that the classical stoics are actually not too far off this Neo-Stoicism of Martha Nussbaum. I mean sure, Epictetus went off on compassion. Marcus Aurelius has some choice words for anyone expecting compassion. But in OTHER areas of Stoicism like their concept of Cosmopolitanism…being a citizen of the world…there seems to be a pretty direct line we could draw here if a Stoic’s willing to accept the emotions as a valuable source of information.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>But this DOESN’T just stop with compassion. Let’s continue this Neo-Stoic examination. Take one of my FAVORITES from Martha Nussbaum…the relationship between the emotions shame…and guilt.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now everybody listening to this has felt both shame and guilt at some point in their life…and at first glance…these two emotions actually FEEL pretty similar, just when it comes to the sensations you have in your body. But Martha Nussbaum says if you could CHOOSE which ONE of these you’re going to HAVE…ONE of these emotions…is FAR BETTER, FAR MORE PRODUCTIVE than the other.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Let’s give an example to explain. Say you’re driving down the road…and you’ve never caused a car accident in your life. You’re PROUD of that fact. You often go to parties holding your plastic red cup telling people don’t worry I’m not cringe but I’ve NEVER gotten into a car accident in my whole life. You like that? But say on THIS particular day FATE has a different plan for you. Some crazy confluence of events goes down, you’re speeding down the road you look down at something in the car, you look up and there’s just no way to stop, you rear end the car in front of you that’s stopped at the red light. Now everybody’s okay, that’s not a problem, but the first thought that goes through your head in that moment…is one of SHAME.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>No! This isn’t the driver I am! I’m the kind of person that NEVER gets into an accident. I’m so ashamed. What IS that emotion? If we take a Neo-Stoic line…what PRECISELY is going on there? Martha Nussbaum says whenever you hold yourself to any sort of IDEAL…any sort of standard of perfection…then SHAME…instantly becomes a PERMANENT possibility. That’s what does it. If you could accept that you make mistakes sometimes then you wouldn’t be so thrown off by not being perfect.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>More than that…at the CORE of that feeling of shame…is a narcissistic mindset. It’s someone still trapped in that baby mode where you’re not thinking of anything but yourself…in this case your own driving reputation. Shame… is ALL about you. It’s all about this IMAGE you have of yourself…and OMG it got THREATENED here…what am I going to do? This is why the ANTIDOTE to shame Nussbaum says is just to RESTORE the kingdom of narcissism that you USED to be in where you have these impossible standards for yourself and you convince yourself you’re perfect again.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now picture that EXACT SAME CAR accident situation…but now imagine you rear end them you get out of the car everyone’s fine…but THIS time…the feeling you have is that you feel GUILTY…for making a mistake that messed with someone else’s life and could’ve hurt them.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>That’s a VERY different FEELING to Martha Nussbaum. Because while shame is ENTIRELY self-focused…GUILT…has a BUILT IN acknowledgment of another person’s rights. If the way you fix shame is to convince yourself you’re perfect again…the way you fix guilt is often by paying reparations…by DOING something that makes things right between you and whoever it was that you hurt.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now NEITHER of these emotions are fun. Of course no one wishes it upon anyone to have to walk around either with shame OR guilt…and I hope…that all of you out there NEVER have to feel guilt or shame EVER again in your life. But odds are you’re GOING to. And if you HAD to pick one of these…Martha Nussbaum says guilt is just a far better emotion to feel when it comes to building a society, where people are thinking of each other and not just themselves.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>In fact, next time you feel shame about something…if you remember… try to reframe it in that moment in terms of guilt. Try to think about the person you affected…rather than your own personal reputation with yourself. Again this is a Neo-Stoic sort of switch you can make that we NEVER would’ve had access to if we weren’t open to examining the relationship between emotions in a way that just doesn’t make sense in classical Stoicism.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>So this SAME line of thinking…that we shouldn’t view emotions in a univariate way…you know this older idea of THESE ARE THE EMOTIONS OF MAN…and you should use REASON to QUELL the universal feeling of SADNESS you’re having right now…when in reality no… everybody has a different personal history and that’s going to play into how you should be RESPONDING to your emotions…this SAME line of thinking though…for Nussbaum is going to get taken from the individual…and it’s going to be applied to the political.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Martha Nussbaum thinks there are BIG problems in the way modern western culture at least in the United States is thinking about political philosophy. See our ENTIRE way of thinking is built on social contract theory from the 17th and 18th centuries.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now SHE says the great social contract philosophers, Hobbes, Locke and Rousseau…they’re DOING their work very shortly after the Feudalism of the middle ages…and this moment in history DEEPLY biases the direction their thinking goes in. Because the middle ages is FILLED with people being BORN into positions of power or a lack of power…one of the chief priorities of these guys was to come up with a political philosophy that STRIPPED EVERYONE of their advantages that are given at birth, plop them down into a state of nature, and philosophize about what kind of agreements these people would’ve come up with. And they arrive at are usually arrangements where a bunch of individual, autonomous people come together out of mutual benefit.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>What this creates though, she says, is a dynamic where the GOOD CITIZEN…is someone who produces…someone who produces in a way that benefits everyone out of mutual advantage. And that’s GREAT if you’re only talking about healthy people that are roughly equal in physical and mental power. But that’s not the world we live in. There are a LOT of people with very serious physical and mental disabilities. Not the LEAST of which she says…is YOU eventually. When you were a child you needed to be protected by maternal care. When you get OLD you’re gonna need a greater level of protection as well.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>To Nussbaum, we can’t structure our theory of justice around the assumption that everyone is a healthy, relatively intelligent person. We can’t educate CHILDREN as though all of them are the same. We can’t build CITIES in a way where the disabled can’t even hope to flourish. What we NEED she says is a strategy more centered around maximizing human capability. Or what she calls her Capabilities Approach.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>The idea comes from the politics of Aristotle. Aristotle believed that a well designed political situation is one where it provides each and every person with what they need to become capable of living a rich and flourishing life. So what does that look like?&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Nussbaum gives several examples all of which have their own explanations but to put it briefly she says we need to give people the ability to love and care for a family, THAT’S part of a flourishing life…the ability to get an education, to think well…the ability to be moral and choose well. The ability to have play or recreation. The ability to develop the senses, to not be stuck inside all the time, to have a relationship with nature. And not the least of which what we’ve been talking about for most of the episode…an important part of a flourishing life for Martha Nussbaum…is the ability to develop emotional capabilities without just having to deny them or medicate them away.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Now nobody here is saying let’s have the government DO THESE THINGS FOR people. She’s just saying let's structure society in a way where people have the CAPABILITY to make these things happen. A good metaphor is maybe a person in a wheelchair and they have to go into the bank to try to get a loan for a house…but the entrance to the bank is just a set of 30 stairs up to the front door. What are they supposed to do?</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>To Nussbaum…not everyone is equally smart or physically healthy. And if you just IGNORE these facts and stick to your social contract and say okay, okay we set the rules…now everybody go out there and FLOURISH! You’ll be setting society up in a way that’s much more difficult for people that DON’T fit that homogenized picture of a productive citizen.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Anyway, so now let’s return back to Hecuba…the story we started the episode with. Why did the gods…turn Hecuba into a dog after she sought vengeance and blinded the king that killed her son?&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Well see up until that point in the story… Hecuba had gone through a lot of hardship. Husband died, most of her children died, she’s no longer queen…but up until that point she stayed a&nbsp; moral person who was more or less stable when facing adversity. But IN the moment that she realizes her friend had killed her son just to be able to take the gold…something CHANGED inside of her. All of a sudden…everything and everyone was untrustworthy.</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Her moral life as Nussbaum says ,was based on being able to trust people and things that were NOT under her own control. If she can’t even trust her FRIEND to not murder her son for some money…then NOTHING can be trusted anymore and her life TRANSFORMS into something where she RETREATS into vengeance. When she takes out the eyes of the king and the Gods turn her into a dog…it’s a metaphor in the play and the meaning of it is that she’s a DOG now because she’s sacrificed some important piece of what it is to be a person by retreating into the simplicity of vengeance. Martha Nussbaum explains it best here, quote:&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>“I think it’s clear that this comes about not because she’s a bad person, but in a sense because she’s a good person. Because she has had deep friendships on which she’s staked her moral life. And so what this play says that’s so disturbing is that the condition of being good is that it should always be possible for you to be morally destroyed by something that you couldn’t prevent. To be a good human being is to have a kind of openness to the world; an ability to trust uncertain things beyond your own control that can lead you to be shattered in very extreme circumstances. In circumstances for which you are not yourself to blame.”</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Maybe you have intense feelings like Hecuba. Maybe there’s something in your life that’s bothering you. But there’s a sense in which what the play is saying is that part of being a good person…part of life as a human being on this planet if you’re not a scum bag…part of it…is going to be dealing with those feelings, continuing to trust and not retreating into something that’s more simple or comfortable.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>For Hecuba it was vengeance. Made her life real simple. But it could be anything you could retreat into apathy. You could retreat into drugs, alcohol. You could retreat into video games. Any of the siren songs that the digital panopticon gives people to keep them sleepwalking. Doesn’t really matter what it is. But sometimes we DO these things because it allows us to tap out of life for a bit. So that we don’t have to face the true tragedy of it all.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Consider this applied to the political realm. How easy is it to look at what’s going on in the world, feel helpless and then retreat into cynicism? To come up with some LINE you tell people at parties, oh the people in power are the people that would need to police their power so there’s nothing you can really do. Then other cynical people nod their head because it takes the responsibility off of them too.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Whether it’s denying the emotions and retreating into reason. Or whether it’s denying vulnerability and retreating into distraction. Much like our friend Byung Chul Han talks about if there is ANYTHING that is going to improve your situation as a person living in a digital panopticon…it’s not a religion of reason. It’s not a religion of cynicism. It’s Vida Contemplativa. The contemplative life. To look fearlessly at everything around you, to contemplate it all, even when it comes…to your own emotions.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong><em>Thank you for listening. Talk to you next time.&nbsp;</em></strong></p><p class="" style="white-space:pre-wrap;"><br></p>
@@ -1570,12 +1570,12 @@
 
 </div></div></div></div></div></div>
 
-        
+          
 
-        
-        
-          <div class="blog-item-author-profile-wrapper" data-content-field="author">
-            <a href="/transcript?author=5ed93d8e981c0869f203a7ea">
+          
+          
+            <div class="blog-item-author-profile-wrapper" data-content-field="author">
+              <a href="/transcript?author=5ed93d8e981c0869f203a7ea">
   
     <span class="author-avatar content-fill" data-tweaks="tweak-show-blog-item-author-profile">
       <img class="author-avatar-image" data-controller="AuthorProfileImageLoader" data-src="https://static1.squarespace.com/static/images/5ed93d8e3f6b28638e51b218" data-image="https://static1.squarespace.com/static/images/5ed93d8e3f6b28638e51b218" data-load="false" alt="" elementtiming="nbf-author-avatar" />
@@ -1586,17 +1586,18 @@
 
 
 
-          </div>
-        
-      </div>
-
-      <section class="blog-item-comments">
-        <div class="blog-item-comments-toggle-wrapper">
-          <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
-            
-          </div>
+            </div>
+          
         </div>
-      </section>
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
+              
+            </div>
+          </div>
+        </section>
+      
     </div>
   
 </article>
@@ -1724,30 +1725,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 100,
-&quot;sectionTheme&quot;: &quot;dark&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+                                        &quot;imageOverlayOpacity&quot;: 0.15,
+                                        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                                        &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+                                        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                                        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                                        &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                                        &quot;customContentWidth&quot;: 100,
+                                        &quot;sectionTheme&quot;: &quot;dark&quot;,
+                                        &quot;sectionAnimation&quot;: &quot;none&quot;,
+                                        &quot;backgroundMode&quot;: &quot;image&quot;
+                                      }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;blog-masonry&quot;
-}"
+                                        &quot;video&quot;: {
+                                          &quot;playbackSpeed&quot;: 0.5,
+                                          &quot;filter&quot;: 1,
+                                          &quot;filterStrength&quot;: 0,
+                                          &quot;zoom&quot;: 0,
+                                          &quot;videoSourceProvider&quot;: &quot;none&quot;
+                                        },
+                                        &quot;backgroundImageId&quot;: null,
+                                        &quot;backgroundMediaEffect&quot;: null,
+                                        &quot;divider&quot;: null,
+                                        &quot;typeName&quot;: &quot;blog-masonry&quot;
+                                      }"
   data-animation="none"
   
    
@@ -1941,7 +1942,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b502231aaf751bf844c833e9880528bf.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.50b4de10587967c63a6c38385a95664b.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

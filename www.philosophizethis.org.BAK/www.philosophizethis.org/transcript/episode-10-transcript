@@ -41,15 +41,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-bf8e7bcab975328f4709-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-bf8e7bcab975328f4709-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-ec1398cb0812a32f62d8-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-ec1398cb0812a32f62d8-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-c20455a09b1fe109400d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2956e20d9a68ca6ae280-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-f176173c568e8717c99b-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-44d9cfb93d344a7446ac-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-5cd4a896962954eaca96-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6f4322f63224e137fb72-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4a222f32bf58327e181b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5f2d4e7ddb02d50723d1-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-210f16f8bec538fbaf2f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-eb72d47f5c6899b293da-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7993e315eeeb0e31e0d1-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-eb731df3d05e856250e3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b99f54f05b3a4f777f55-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c21b9c2f0a1526623416-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-84d5b8a1f1fc4654032c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a6388a789435452d55a7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db82977b390515867439-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-5196e0c68b662ed24a38-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-377a5b12886c446ac5e6-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #010 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"8":true,"7":true,"3":true,"1":true,"6":true,"4":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #010 -  Transcript","id":"5eec168d09afd80facd70dfb","fullUrl":"/transcript/episode-10-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["collection_typename_switching","site_header_footer","fluid_engine","send_local_pickup_ready_email","enable_css_variable_tweaks","commsplat_forms_visitor_profile","website_component_enabled","nested_categories_migration_enabled","show_add_to_cart_in_plp","scripts_defer","rewrite_transactional_email_from_address","commerce_checkout_website_updates_enabled","supports_versioned_template_assets","order_status_page_checkout_landing_enabled","website_fonts","toggle_preview_new_shortcut","accounting_orders_sync","commerce_clearpay","campaigns_global_uc_ab","marketing_landing_page","is_feature_gate_refresh_enabled","commerce_restock_notifications","commerce_etsy_shipping_import","campaigns_import_discounts","campaigns_discount_section_in_blasts","themes","visitor_react_forms","unify_edit_mode_p2","commerce_site_visitor_metrics","campaigns_thumbnail_layout","commerce_subscription_renewal_notifications","viewer-role-contributor-invites","background_art_onboarding","commerce_etsy_product_import","color_var_rendering_in_v6","pdp_product_add_ons_visitor_site","override_block_styles","fluid_engine_clean_up_grid_contextual_change","new_stacked_index","nested_categories","campaigns_new_image_layout_picker","customer_account_creation_recaptcha","image_component","customer_accounts_email_verification","campaigns_discount_section_in_automations","member_areas_feature","commerce_order_status_access"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #010 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-10-transcript","datePublished":"2013-11-23T23:59:00-0800","dateModified":"2022-07-06T15:12:08-0700","headline":"Episode #010 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1489/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-22a3877c6773548a7f00-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-22a3877c6773548a7f00-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-a6a52a3e45a26623da1b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-a6a52a3e45a26623da1b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f1b17328c55249cf16e9-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce3304dbbbc00b0adc2c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-33c1f90c488c55fae579-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7116ec013cb68ccb46b1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-c284904b25c71d02bce8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-f024c98ca7700424e476-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-8bce2b9d88aceb373cdf-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-bfb66a035b04f2e6f87b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-7f236d6e33b49e67b709-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-070905c328c108a2d84a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-dab20fce7c5de7ebe5cd-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-503cf40eefffe62983b2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-02d1e0bcb6fc2a7af709-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c425f4bbbcfb78c3f308-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f26a14c5e478c6c72476-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e651beeebf0f0d458f3c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd133305dca90ae5ca2f-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5978fce864bf3409cbda-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-ed7446c70dde7b3316d8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b9419dfe48307ccde360-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #010 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"2":true,"1":true,"4":true,"6":true,"3":true,"8":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #010 -  Transcript","id":"5eec168d09afd80facd70dfb","fullUrl":"/transcript/episode-10-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["send_local_pickup_ready_email","commerce_restock_notifications","campaigns_discount_section_in_automations","scripts_defer","commerce_order_status_access","campaigns_new_image_layout_picker","campaigns_import_discounts","pdp_product_add_ons_visitor_site","fluid_engine","toggle_preview_new_shortcut","member_areas_feature","themes","background_art_onboarding","enable_css_variable_tweaks","customer_accounts_email_verification","new_stacked_index","nested_categories_migration_enabled","commsplat_forms_visitor_profile","campaigns_thumbnail_layout","marketing_landing_page","commerce_clearpay","accounting_orders_sync","is_feature_gate_refresh_enabled","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_shipping_import","order_status_page_checkout_landing_enabled","nested_categories","campaigns_global_uc_ab","commerce_checkout_website_updates_enabled","commerce_site_visitor_metrics","async_copy_collection","unify_edit_mode_p2","google_consent_v2","viewer-role-contributor-invites","override_block_styles","collection_typename_switching","website_fonts","rewrite_transactional_email_from_address","commerce_etsy_product_import","commerce_subscription_renewal_notifications","visitor_react_forms","show_add_to_cart_in_plp","customer_account_creation_recaptcha","supports_versioned_template_assets","campaigns_discount_section_in_blasts"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #010 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-10-transcript","datePublished":"2013-11-23T23:59:00-0800","dateModified":"2022-07-06T15:12:08-0700","headline":"Episode #010 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1498/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1706811132467-QIR6O63RE5GI9HXI9ESJ/static.css">
@@ -61,13 +61,7 @@
     class="
       primary-button-style-solid primary-button-shape-rounded secondary-button-style-solid secondary-button-shape-rounded tertiary-button-style-solid tertiary-button-shape-rounded  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-dash tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-right tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-hide tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-hide tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-left tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-content-position-center image-block-overlap-text-alignment-opposite image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog-masonry collection-6053dc3a01905600e48be230 view-item collection-layout-default mobile-style-available sqs-seven-one
       
-        plp-config-editor-add-to-cart
-      
-      
         show-pdp-product-add-ons
-      
-      
-         plp-add-to-cart
       
       
         
@@ -138,256 +132,256 @@
   "
   data-controller="Header"
   data-current-styles="{
-                                                            &quot;layout&quot;: &quot;navRight&quot;,
-                                                            &quot;action&quot;: {
-                                                              &quot;href&quot;: &quot;/take-action&quot;,
-                                                              &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                                              &quot;newWindow&quot;: false
-                                                            },
-                                                            &quot;showSocial&quot;: true,
-                                                            &quot;socialOptions&quot;: {
-                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                              &quot;socialBorderThickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 1.0
-                                                              }
-                                                            },
-                                                            &quot;sectionTheme&quot;: &quot;light&quot;,
-                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                            &quot;cartText&quot;: &quot;Cart&quot;,
-                                                            &quot;showEmptyCartState&quot;: true,
-                                                            &quot;cartOptions&quot;: {
-                                                              &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                              &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                              &quot;cartBorderThickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 1.0
-                                                              }
-                                                            },
-                                                            &quot;showButton&quot;: false,
-                                                            &quot;showCart&quot;: false,
-                                                            &quot;showAccountLogin&quot;: true,
-                                                            &quot;headerStyle&quot;: &quot;theme&quot;,
-                                                            &quot;languagePicker&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;iconEnabled&quot;: false,
-                                                              &quot;iconType&quot;: &quot;globe&quot;,
-                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                              &quot;languageFlags&quot;: [ ]
-                                                            },
-                                                            &quot;mobileOptions&quot;: {
-                                                              &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                              &quot;menuIconOptions&quot;: {
-                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;dynamicOptions&quot;: {
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;bottom&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-                                                                  &quot;customColor&quot;: {
-                                                                    &quot;hslaValue&quot;: {
-                                                                      &quot;hue&quot;: 203.4782608695652,
-                                                                      &quot;saturation&quot;: 0.22330097087378645,
-                                                                      &quot;lightness&quot;: 0.2019607843137255,
-                                                                      &quot;alpha&quot;: 1.0
-                                                                    },
-                                                                    &quot;userFormat&quot;: &quot;hex&quot;
-                                                                  }
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;solidOptions&quot;: {
-                                                              &quot;headerOpacity&quot;: {
-                                                                &quot;unit&quot;: &quot;%&quot;,
-                                                                &quot;value&quot;: 100.0
-                                                              },
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;bottom&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;dropShadow&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blur&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 30.0
-                                                                },
-                                                                &quot;spread&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;distance&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;blurBackground&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blurRadius&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                }
-                                                              },
-                                                              &quot;backgroundColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;white&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              },
-                                                              &quot;navigationColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;black&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;gradientOptions&quot;: {
-                                                              &quot;gradientType&quot;: &quot;faded&quot;,
-                                                              &quot;headerOpacity&quot;: {
-                                                                &quot;unit&quot;: &quot;%&quot;,
-                                                                &quot;value&quot;: 90.0
-                                                              },
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;bottom&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;dropShadow&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blur&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 30.0
-                                                                },
-                                                                &quot;spread&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;distance&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;blurBackground&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blurRadius&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                }
-                                                              },
-                                                              &quot;backgroundColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;white&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              },
-                                                              &quot;navigationColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;black&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;dropShadowOptions&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;blur&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0
-                                                              },
-                                                              &quot;spread&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 0.0
-                                                              },
-                                                              &quot;distance&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0
-                                                              }
-                                                            },
-                                                            &quot;borderOptions&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;position&quot;: &quot;bottom&quot;,
-                                                              &quot;thickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 4.0
-                                                              }
-                                                            },
-                                                            &quot;showPromotedElement&quot;: false,
-                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
-                                                            &quot;blurBackground&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;blurRadius&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0
-                                                              }
-                                                            },
-                                                            &quot;headerOpacity&quot;: {
-                                                              &quot;unit&quot;: &quot;%&quot;,
-                                                              &quot;value&quot;: 100.0
-                                                            }
-                                                          }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+&quot;customColor&quot;: {
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                                                            &quot;enabled&quot;: false,
-                                                            &quot;iconEnabled&quot;: false,
-                                                            &quot;iconType&quot;: &quot;globe&quot;,
-                                                            &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                            &quot;languageFlags&quot;: [ ]
-                                                          }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -411,18 +405,18 @@
   "
 >
   
+    
 <div class="sqs-announcement-bar-dropzone"></div>
 
-  <div class="header-announcement-bar-wrapper"
-  > 
-
-    <a
-      href="#page"
-      class="header-skip-link sqs-button-element--primary"
-    >
-      Skip to Content
-    </a>
-    
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
 <style>
@@ -433,13 +427,13 @@
         }
     }
 </style>
-    <div
-      class="header-border"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-border="false"
-      data-test="header-border"
-      style="
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
 
 
 
@@ -453,44 +447,44 @@
 
 
 "
-    ></div>
-    <div
-      class="header-dropshadow"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-dropshadow="false"
-      data-test="header-dropshadow"
-      style="
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
 
 
   
 "
-    ></div>
-    
-    
+      ></div>
+      
+      
 
-    <div class='header-inner container--fluid
-      
-      
-      
-       header-mobile-layout-logo-left-nav-right
-      
-      
-      
-      
-      
-      
-       header-layout-nav-right
-      
-      
-      
-      
-      
-      
-      
-      
-      '
-      style="
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
 
 
 
@@ -500,68 +494,68 @@
 
 
 "
-      data-test="header-inner"
-      >
-      <!-- Background -->
-      <div class="header-background theme-bg--primary"></div>
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+        <div class="header-display-desktop" data-content-field="site-title">
           
-          <!-- Social -->
+
+          
+
+          
+
+          
+
+          
+
+          
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -660,64 +654,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -747,59 +741,59 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
-
-      </div>
-      <div class="header-display-mobile" data-content-field="site-title">
-        
           
-          <!-- Social -->
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -898,64 +892,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -985,14 +979,15 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+          
+          
+          
+          
+          
+        </div>
       </div>
     </div>
-  </div>
+  
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     
@@ -1002,245 +997,245 @@
     
     "
     data-current-styles="{
-                                                            &quot;layout&quot;: &quot;navRight&quot;,
-                                                            &quot;action&quot;: {
-                                                              &quot;href&quot;: &quot;/take-action&quot;,
-                                                              &quot;buttonText&quot;: &quot;Take Action&quot;,
-                                                              &quot;newWindow&quot;: false
-                                                            },
-                                                            &quot;showSocial&quot;: true,
-                                                            &quot;socialOptions&quot;: {
-                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                              &quot;socialBorderThickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 1.0
-                                                              }
-                                                            },
-                                                            &quot;sectionTheme&quot;: &quot;light&quot;,
-                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                            &quot;cartText&quot;: &quot;Cart&quot;,
-                                                            &quot;showEmptyCartState&quot;: true,
-                                                            &quot;cartOptions&quot;: {
-                                                              &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                              &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                              &quot;cartBorderThickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 1.0
-                                                              }
-                                                            },
-                                                            &quot;showButton&quot;: false,
-                                                            &quot;showCart&quot;: false,
-                                                            &quot;showAccountLogin&quot;: true,
-                                                            &quot;headerStyle&quot;: &quot;theme&quot;,
-                                                            &quot;languagePicker&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;iconEnabled&quot;: false,
-                                                              &quot;iconType&quot;: &quot;globe&quot;,
-                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                              &quot;languageFlags&quot;: [ ]
-                                                            },
-                                                            &quot;mobileOptions&quot;: {
-                                                              &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                              &quot;menuIconOptions&quot;: {
-                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;dynamicOptions&quot;: {
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;bottom&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-                                                                  &quot;customColor&quot;: {
-                                                                    &quot;hslaValue&quot;: {
-                                                                      &quot;hue&quot;: 203.4782608695652,
-                                                                      &quot;saturation&quot;: 0.22330097087378645,
-                                                                      &quot;lightness&quot;: 0.2019607843137255,
-                                                                      &quot;alpha&quot;: 1.0
-                                                                    },
-                                                                    &quot;userFormat&quot;: &quot;hex&quot;
-                                                                  }
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;solidOptions&quot;: {
-                                                              &quot;headerOpacity&quot;: {
-                                                                &quot;unit&quot;: &quot;%&quot;,
-                                                                &quot;value&quot;: 100.0
-                                                              },
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;bottom&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;dropShadow&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blur&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 30.0
-                                                                },
-                                                                &quot;spread&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;distance&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;blurBackground&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blurRadius&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                }
-                                                              },
-                                                              &quot;backgroundColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;white&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              },
-                                                              &quot;navigationColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;black&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;gradientOptions&quot;: {
-                                                              &quot;gradientType&quot;: &quot;faded&quot;,
-                                                              &quot;headerOpacity&quot;: {
-                                                                &quot;unit&quot;: &quot;%&quot;,
-                                                                &quot;value&quot;: 90.0
-                                                              },
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;bottom&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;dropShadow&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blur&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 30.0
-                                                                },
-                                                                &quot;spread&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;distance&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;blurBackground&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blurRadius&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                }
-                                                              },
-                                                              &quot;backgroundColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;white&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              },
-                                                              &quot;navigationColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;black&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;dropShadowOptions&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;blur&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0
-                                                              },
-                                                              &quot;spread&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 0.0
-                                                              },
-                                                              &quot;distance&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0
-                                                              }
-                                                            },
-                                                            &quot;borderOptions&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;position&quot;: &quot;bottom&quot;,
-                                                              &quot;thickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 4.0
-                                                              }
-                                                            },
-                                                            &quot;showPromotedElement&quot;: false,
-                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
-                                                            &quot;blurBackground&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;blurRadius&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0
-                                                              }
-                                                            },
-                                                            &quot;headerOpacity&quot;: {
-                                                              &quot;unit&quot;: &quot;%&quot;,
-                                                              &quot;value&quot;: 100.0
-                                                            }
-                                                          }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+&quot;customColor&quot;: {
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1456,31 +1451,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                            &quot;imageOverlayOpacity&quot;: 0.15,
-                                                            &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                            &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                                                            &quot;customSectionHeight&quot;: 10,
-                                                            &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                            &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                            &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                            &quot;customContentWidth&quot;: 50,
-                                                            &quot;sectionTheme&quot;: &quot;&quot;,
-                                                            &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                            &quot;backgroundMode&quot;: &quot;image&quot;
-                                                          }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                                            &quot;video&quot;: {
-                                                              &quot;playbackSpeed&quot;: 0.5,
-                                                              &quot;filter&quot;: 1,
-                                                              &quot;filterStrength&quot;: 0,
-                                                              &quot;zoom&quot;: 0,
-                                                              &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                            },
-                                                            &quot;backgroundImageId&quot;: null,
-                                                            &quot;backgroundMediaEffect&quot;: null,
-                                                            &quot;divider&quot;: null,
-                                                            &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                                          }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1519,6 +1514,9 @@
       <div class="blog-item-wrapper blog-grid-masonry-item-wrapper" data-content-field="main-content" data-item-id="">
   <article id="article-" class="h-entry entry hentry post-type-">
   
+    
+    
+    
     <div class="blog-item-inner-wrapper">
       <div class="blog-item-top-wrapper">
         <div class="blog-item-title">
@@ -1537,11 +1535,13 @@
             </time>
             <div class="blog-meta-item blog-meta-item--author p-author author" data-content-field="author">Written By <a href="/transcript?author=5eec15fc09afd80facd6edf3" class="blog-author-name"></a></div>
           </div>
+          
         </div>
       </div>
 
-      <div class="blog-item-content-wrapper">
-        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec168d09afd80facd70dfb"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1657145479241_1115"><div class="sqs-block-content">
+      
+        <div class="blog-item-content-wrapper">
+          <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec168d09afd80facd70dfb"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1657145479241_1115"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">Thank you for wanting to know more today than you did yesterday, and I hope you love the show.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Have you guys ever heard of a stoa? A stoa was a common structure in ancient Greek architecture that served a wide variety of purposes. But most of the time it was just a place that people gathered. Just imagine two huge lines of big, Doric or Ionian columns holding up a massive roof usually hundreds of feet long and positioned right in the middle of town, offering people a little shelter from the elements while they do their business. In a stoa, sometimes merchants would set up shop. Sometimes artists would lay out their artwork for people to see. Sometimes people would just hold a gathering in honor of some local prestigious war hero.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But in the second century AD there was a guy named Diogenes, and he was incredibly rich, the richest man in his town of Oenoanda—the Mitt Romney of his town of Oenoanda. He was so rich and believed so much in the philosophy of a guy named Epicurus who lived almost 500 years before him that he paid to have a giant wall built onto this stoa that was right in the middle of town. He built it where he knew everyone would be walking past it, and they’d all have no choice but to look at it all day long. And on this wall, he carved in 25,000 words. That’s about 260 square meters of text. And the text he chose to carve into this wall was the philosophy of Epicurus. Metaphysics, epistemology, ethics—just imagine going about your daily business and constantly having to look at some antiquated view of how to be a happier person written by a guy that never knew you and lived hundreds of years ago. And he’s telling you you’re doing everything completely wrong. It must have seemed pretty pretentious at the time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">On one of the sections of the wall though, at the very beginning, there was sort of a prologue written by Diogenes explaining why he even put up the wall in the first place. He writes about being extremely troubled in his youth, and that by studying Epicurus and his philosophy he turned his life around. He achieved a level of tranquility he didn’t even know was possible. He writes that the older he got, the more gratitude he had for the teachings of Epicurus. And it was this gratitude that drove him to put up this wall. He said he did it “to help also those who come after us” and “to place therefore the remedies of salvation by means of this porch,”—because the wall he built was adjacent to a portico of this stoa, which is like a porch. He said that if there were only one or two people who were lost or had been led astray in this human existence, then he’d just find them himself and talk to them personally about Epicurus. Instead, he built a giant wall in the middle of a public place. Because as far as he saw it, most people were lost.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Hello, everyone. I’m Stephen West. This is <em>Philosophize This!</em> And today we return to Western philosophy, at least for a little while. And this episode is part one of a miniseries that months from now people will look back on and see it all as one block. So, let’s go. Part one of the Hellenistic Age, Epicureanism.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Ten episodes ago we started talking about the Presocratic philosophers, this group of really strange guys with a lot of really strange ideas even by today’s standards. None of them really knew what to think of the whole philosophy thing that was emerging. Nobody really had anything figured out that well. You had all different kinds of approaches, some of them like Thales who just taught people informally. You had Pythagoras who started a cult and his super-restrictive lifestyle. Look, Heraclitus buried himself up to his neck in manure for god’s sakes. But despite all their different methods of philosophizing and the different results they arrived at, they were all, generally speaking, talking about the same stuff—the building blocks of metaphysics and epistemology.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Then Socrates was born. And for the first time in the West you had someone using this tool of philosophy to try to discern what the most effective way to live life was. Then came Plato and Aristotle, two polymath geniuses diametrically opposite in most ways, but similar in the sense that philosophy as they pursued it was nearly impossible for the layman to relate to. I mean, there wasn’t much salvation from your everyday problems in Plato telling you that there’s a magical world of forms where a perfect form of everything exists. I mean, some ruthless dictator may have just ridden into town and sold you and your family into slavery. But hey, don’t worry! Somewhere up in the sky in the magical world of forms, there’s a perfect form of that shovel you’re going to be using for the rest of your life. Don’t worry.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Keep in mind, it really helped the longevity of your philosophy as well as its ability to even get off the ground in the first place if it had a popular following, and not just popularity among aspiring philosophers of the day but of the average person. And really, part of what makes Plato and Aristotle so remarkable today is just how foreign the things they talked about were from the average thought process. I mean, both of them had schools you needed to attend for years to fully grasp some of these concepts they’re talking about. When it came to philosophy being useful to the average person, it must have seemed at the time like it skipped a couple generations.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I mean, so goes the famous quote by Cicero that “Socrates however was the first who called philosophy down from heaven, and placed it in cities, and introduced it even in homes, and drove it to inquire about life and customs and things good and evil.” But when Aristotle died in 322 BC, he wasn’t the only supremely important figure to keel over and die recently. Just one year earlier, Alexander the Great died. And that ended an uncharacteristically stable time in the life of the average citizen of Athens. The life of the average citizen was changing. Philosophy was changing. And the Hellenistic Age was beginning.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The death of Alexander the Great is one of those moments in history where it’s crazy to think about what history would look like today if things went down differently. He died very mysteriously and unexpectedly. And apparently Alexander the Great wasn’t watching much daytime television in his day, or he definitely would have seen the hundreds of commercials from insurance companies and law firms telling him one day you’re going to fall off a ladder and die, so make sure your family’s protected. Nope. It was actually quite the contrary. He died so suddenly, he hadn’t even named a successor, and nobody knew what to do.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In the year 323 BC, suddenly the largest and most powerful empire known to man at the time was just up for grabs. Suddenly everyone was scrambling just to try to hold onto this really good thing they had going. Opinion was divided on what to do. Some people thought, as far as a successor goes, Alexander’s half-brother was the best way to go. Then a whole other group of people thought that they should wait around for his unborn child to come of age. Long story short, some people got murdered. Chaos ensued. Constant war. Four giant dynasties made up of many kingdoms each, many of which just grasping at straws in this battle for succession. Even 200 years later people were still reeling from the death of Alexander and jockeying for their own geopolitical position.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The life of the average person during this time period changed dramatically with the death of Alexander. Because depending on where you lived, you might have some guy ride into town, tell you that he’s your ruler now. “You guys are all subservient to me, now. And now I’m going to go off and try to conquer more territory.” Everyone goes, “Okay, that’s our new king.” Then that guy goes off. Two weeks later, some other guy comes in, says he just killed that guy and, “Now I’m your ruler.” And everyone’s like, “Okay...”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Things were very uncertain, and uncertainty breeds fear. I mean, people were scared. They didn’t know what their future was going to look like. And when this paradigm of the average life changed, so too did philosophy. This whole period is known as the Hellenistic Age. Philosophy was shifting from a focus on metaphysics and epistemology to a focus on ethics. Philosophy was changing from something that resembled the works of Plato and Aristotle to something that more resembled the work of Socrates.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Remember, Socrates was the guy that didn’t have time for all these pointless, abstract questions about what the universe is made of. He was more concerned with finding what the best way to live life was or how to be happy. And with all the stress of the political climate of the time, it’s no wonder why all these new schools of philosophy that were cropping up were much more heavily influenced by Socrates than they were by Plato or Aristotle.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There were three main schools but also a fourth which is worthy of note. These were stoicism, Epicureanism, skepticism, and later on cynicism. Much like the four dynasties of the political landscape, these four schools were constantly battling with each other trying to assert their dominance. And throughout this Hellenistic Age series, we’re going to be talking a lot about the relationships and battles between these schools. And in the end, when we’re left with the winner—the king of the Hellenistic Age hill—we’ll realize just how important the politics of the day are in determining which philosophical schools emerge victorious and which fail—a concept which will be crucial in understanding the next 1,500 years or so.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There aren’t many people throughout history that can claim to be as misunderstood as Epicurus. I think most people think of Epicureanism as being synonymous with a life of indulgence, but this is actually very far from the truth. The entire goal of his philosophy as well as many of the other philosophies of the time was to increase your ataraxia. It was a word at the time that meant tranquility, or more specifically, a complete freedom from pain. For Epicurus, it was a very literal struggle against pain. Apparently he spent most of his life with chronic, severe pain in his stomach and gut. And it’s commonly thought that he died of very bad kidney stones. I mean, he writes a letter on his death bed where he tells his friend that he knows he’s going to die and that he’s unable to urinate, and he’s in extreme pain. It’s terrible.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But the freedom of pain that he talks about in his philosophy, the freedom of pain that someone could relate to very well in the Hellenistic Age, was a completely different kind of pain. Seven years after the death of Plato, Epicurus was born—341 BC. Now, every account seems to agree that he was born and raised by poor parents on a small island in the Mediterranean Sea that would have been considered a relatively insignificant colony of Athens at the time. So, it’s important to note that for all of his childhood, for all of his formative years, Epicurus lived a maybe not constant poverty-stricken existence, but definitely a very modest and humbling existence.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And much like Siddhartha Gautama, both spend their malleable years in a place that would offer an invaluable insight into what happiness truly is when developing their philosophy later. Both had access to an extreme end of the spectrum that they could contrast their future, more realistic lives with, so as not to fall victim to the common delusions about what people think they’re lacking that’s making them unhappy. Palaces and riches for Siddhartha, abject poverty for Epicurus.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And when he finally left the island he spent all those years on, it’s interesting to consider that he studied under philosophers who were direct students of two people: Plato and Democritus. When you compare the two as philosophers, they’re not even in the same galaxy. If you compared the task of innovating philosophy to the task of getting off of a deserted island, Plato would be Tom Hanks in castaway, and Democritus would be his volleyball friend Wilson. I mean, Plato did everything, and Democritus just kind of floated there with that creepy smile. But for Epicurus it was the opposite. Democritus was the guy that he really attached himself to. He laid the groundwork for all of his metaphysics.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, just to recap, Democritus is the guy that believed that everything we see in the world consists of atoms and void. Epicurus agreed with him. They both believed that because things we see are able to move around, they must be moving into empty space, right? Or else they wouldn’t be able to move. So they call this empty space void. They also both believe that the things we see around us are composites. They’re made up of many things smaller than the thing itself. Because if they weren’t, then we wouldn’t be able to break them into smaller pieces or cut them down to size. But on that same note, they both don’t think that the process of cutting things in half can go on forever and that there must be some fundamental, unchanging, eternal building block of stuff that can explain the uniformity of the world and everything in it. That building block is the atom.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, these guys love each other. I mean, they agree on many things, but obviously not everything. And the differences between the metaphysics of Epicurus and Democritus, as far as atoms go, lie in three main areas. The first one is that Epicurus believes atoms have a weight and naturally move downward. Now, there’s all sorts of multi-generational drama at work here. Let me bring you up to speed though. “Previously on <em>General Hospital</em>…” Democritus said that all atomic motion, all movement of atoms throughout the void is the result of previous atoms collisions. Like, this atom got hit by that atom over there and they collided and hit this atom and went flying, etc.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Then years later, Aristotle threw Democritus a major curveball and said, well, that’s great and all. Cool story, bro. But how did they begin moving in the first place? Then Epicurus responds to Aristotle by saying that atoms have a weight and therefore, in this pre-Sir Isaac Newton world they’re living in, atoms would naturally travel downward. So this explains why they started moving at the beginning of time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But then you got to be thinking—and I’m sure Aristotle would have been thinking this—well, why didn’t the atoms just move perfectly downward from the beginning? How do you explain them running into each other in the first place? Well, the answer to this is the second of three differences between Epicurean metaphysics and Democritean metaphysics—the swerve. Simply put, the swerve is Epicurus’ way of explaining how atoms originally collided with each other. And it’s just that every so often, at random times in random intervals, an atom will just kind of swerve to the side a bit. That’s it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, everyone tries to compare this to modern quantum physics and how there’s some infinitely small percentage chance of an atom shifting position on its own. I think it’s safe to say Epicurus didn’t stumble across this in 300 BC. But that’s not to say there’s nothing profound about this idea. The implications behind the swerve theory fueled a philosophical debate that still exists to this day. Here’s what I mean. Democritus believed in a sort of cosmic determinism. He thought that based on his theory of the universe, if you found an atom somewhere in the universe right now and you followed that atom around, eventually that atom is going to run into another atom and combine with it. And then maybe those two atoms will run into a rock or something.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Basically what I’m saying is, the universe is so constant and predictable that you could have known the future of that atom from the get go. You could have known that it was going to combine with the rock way back when you first found it. And for that matter, you could know everything it was ever going to do if you were willing to do the calculations far enough out. Humans, like rocks and planets, are also made up of just atoms. So everything, including human action, to Democritus, were just atoms colliding and moving around in space, and in that sense that everything is already predetermined.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Epicurus didn’t agree. He agreed that our bodies are made up of the same atoms that celestial bodies are made up of, but he didn’t like the determinism. If this determinism was true, we would all be hopeless spectators to our bodies and their actions, passengers, not in control at all. I mean, you’d just be hopelessly watching your atoms go to the bathroom and forget to put the toilet seat down. Millions of men around the world would instantly have an excuse. And you can’t really be held accountable. And it’s not just that. This would make morality absolutely pointless because you could never hold anyone accountable for any of their actions. It was just an unfortunate sequence and collision of atoms. He agreed with most of what Democritus said, but he held that there must be at least some small amount of free will at work here. And that’s how he rationalizes the swerve doctrine.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Years later, a Roman poet and staunch Epicurean named Lucretius puts it well in his poem “De rerum natura.” “Again, if all movement is always interconnected, the new arising from the old in a determinate order—if the atoms never swerve so as to originate some new movement that will snap the bonds of fate, the everlasting sequence of cause and effect—what is the source of the free will possessed by living things throughout the earth?”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The third difference between their theories of atoms involves Epicurus’ thought that the causes of our sensations come from something outside of the sensations themselves. But I think it’ll make the most sense and be the most memorable if we cover it in a future episode. Let me just say though, the first half of his philosophy is natural philosophy, or what in modern times we would probably just call science. And even though he got a lot of things wrong, he really didn’t do too badly, considering. But make no mistake, his aim was to find a rational way of understanding the world that had nothing to do with gods or supernatural forces. This was extremely important to him, because if he didn’t have one, all the rest of his philosophy becomes much less effective.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Throughout the years, Epicureans railed against any sort of magical or supernatural or fate-driven account for some phenomena happening. And sometimes they got a little carried away. Just how you can stagnate scientific progress by blindly accepting that a supernatural force is behind something that you don’t understand, you can also stagnate scientific progress by prematurely accepting a rational account for why something happened without any evidence simply because you want some explanation that’s not supernatural. And the Epicureans were definitely guilty of this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Just one more time to make this clear, the two halves of Epicurus’ philosophy fit together beautifully, but in order for the second half to work properly, Epicurus thought you needed this rational explanation of the world without gods. So, it’s no surprise that he approached it a little more comprehensively than just making a few updates to Democritus and his theory of atoms. He was an empiricist. On one hand, he had to refute the rationalist descendants of Plato. And on the other hand, he had to refute one of the major rival philosophical schools of the time, the skeptics. So, in other words, not only did he have to make a case for why information gathered through the senses is the best way to arrive at truth, but he also had to make a case that truth was something that could be obtained at all. Not exactly an easy task.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But he came up with some pretty interesting ideas. He believed that we could arrive at truth, but in order for us to get there, we needed three things: sensations, preconceptions, and feelings. He thought when we see any object, that object is constantly sending off a layer of atoms, one atom thick. Think ripples in a pond except the ripples are atoms and they’re moving in every possible direction. And those atoms slam up against our eyes and into our body. And our sense organs read this layer of atoms and create a picture in our minds of what the world around us is.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But he made it very clear that we need to proceed with caution from this point. He heard the arguments from people. He heard when they said the senses lie to us and our crude, biological instruments that deceive us all the time. Why should we trust them? Well Epicurus thought it wasn’t the senses that were deceiving us. Our minds were deceiving us. And this is where the preconceptions and feelings come into play. The way Epicurus saw it, how can we blame the sense organs? The eyes or ears or nose are just transmitting information. These things are purely mechanical. The eyes aren’t making judgments that the world is a certain way or isn’t a certain way. That’s you doing that. That’s your mind.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And at the same time, he recognized that the senses weren’t perfect. He just thought it was dumb to go against everything the senses tell us. Because if you went extreme and discounted everything the senses told you, you’d have no reference point to relate other information to. He says it in number 23 of his Principal Doctrines. “If you fight against all your sensations, you will have no standard to which to refer, and thus no means of judging even those sensations which you claim are false.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He gives a great example about seeing a tower in the distance. He talks about, if you were half a mile away from a tower and it looked round, you would assume based on that input that the tower was round in shape. But then if you walk towards the tower and it slowly started to change and eventually when you were only a couple hundred yards away the tower looked square, at which point were your senses lying to you? Well, he actually gives us an atomic explanation for distortions between your senses and the waves of atoms coming off of an object. And he gives us a general rule of thumb that the closer you are to something, the more accurate of a representation you’re getting. But that’s probably delving too far into it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The important rung on the ladder of epistemology is that, yeah, the senses are far from perfect. But he thought they’re the best and most reliable thing we have. So, really what you should do is realize the faults and limitations of them and the things that they’re good at. Because no matter what the senses tell us, there’s at least some basis in reality. They’re never completely lying to us. And this is the nexus of Epicurean philosophy. This is the junction station of the two halves of his philosophy that we were talking about earlier.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">We perceive the world in a flawed way because of our mind—our mind’s flawed way of interpreting what the senses tell us. In the same exact way, we perceive our happiness in a flawed way because of our mind—our mind’s flawed way of interpreting the situations we live in. It’s not the input, it’s the mind’s interpretation of that input. And if you ask me, this is what Epicurus should truly be remembered for. I mean, people have this misconception that Epicurus was a guy that preached constant indulgence and vice. These people have this idea that the guy was walking around telling everyone drink a thermos full of clam chowder every day. Become 900 pounds like me. I mean, come on. Really?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It couldn’t be further from the truth. But it’s something that we’ve seen before. He suffered the same fate of rampant gossip that Pythagoras did years earlier. Because after Epicurus studied under Nausiphanes and wasn’t really happy with the way he was teaching, he set up his own philosophical schools in Mytilene and then in Lampsacus before finally settling back down in Athens at the age of 34, where he bought a house on the outskirts of Athens and started the school he would become famous for, the Garden.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, the Garden was very special. It accepted women and slaves as members and advocated a very communal, simple life—a collection of friends all reveling in the production of Epicurus’ teachings, leaving behind all the politics and ambitions that come with being a citizen living in the busy city that lead to nothing but disappointment or dissatisfaction. The only problem was it was precisely that, a commune. The secretive, cult-like atmosphere where they secluded themselves from the population led to tons of gossip and oversimplifications about what Epicurus taught.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It was kind of a perfect storm of several things all coming together. People love to draw comparisons between Epicureanism and hedonism. They love to attach the two. Hedonism is a school of thought where pleasure is seen as the only intrinsic good. And not only was it not created by Epicurus; it would have been well-known by the time of Epicurus. I mean, hedonism goes all the way back to even ancient Samaria and the <em>Epic of Gilgamesh</em>. You know, it says, fill your belly day and night. Make merry. Let days be full of joy. Dance and make music day and night. These things alone are the concern of men. The problem is that the definition of pleasure varies between all the hedonist philosophers. So it’s unfair to classify Epicurus with people like the Cyrenaics and think of them as all the same. But years later, the hedonism of Roman times when they were conquering and looting the world would have been associated with Epicureanism.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Epicurus wasn’t an advocate of just any pleasure or anything anyone could possibly perceive to be pleasure. He thought it was obvious that pleasure was the goal of life. I mean, we all start from birth with the knowledge that pleasure is a positive experience and pain is one we should avoid. But the important distinction he makes is that there were two kinds of pleasure, kinetic pleasure and static pleasure. Kinetic pleasure is also known as moving pleasure, and it’s what most people think of when they think of pleasure. An example of kinetic pleasure would be like eating a half gallon of ice cream when you’re hungry. You experience kinetic pleasure when you are actively in the process of satisfying a desire, like hunger in this case. Your senses are stimulated in a pleasurable way. Most people see this as pleasure.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But once you’ve actually ladled the half gallon of rocky road into your stomach, you aren’t hungry anymore. Once your desire has been fulfilled, a certain state of being overcomes you. You’re satisfied. You’re no longer desiring that thing anymore. Epicurus says that this state of tranquility is also a type of pleasure, a static pleasure. And whether we realize it or not, it’s the best kind of pleasure and the kind we should strive for. So, in other words, pleasure in its purest form is just the absence of pain. And when we desire something, we see ourselves as lacking in some way, which also counts as a form of pain. And as humans, we’re constantly thrown back and forth on a crazy ride between these two states.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He talks about it in number eight of his Principal Doctrine. He says, “No pleasure is a bad thing in itself. But the things which produce certain pleasures entail disturbances many times greater than the pleasures themselves.” Now, on this same note, he thought a lot of people wrongly believe that once they’ve reached this tranquility, this static pleasure, that by treating themselves to a kinetic pleasure, that will increase their level of happiness. For example, let’s say it’s really cold outside and you want a jacket. You desire warmth. What Epicurus is saying is that once that warmth is satisfied—let’s say you satisfy it with a $20 jacket from Target—there’s not much difference in pleasure between that $20 jacket from Target keeping you warm and a $3,000 jacket from Nordstrom’s keeping you warm. There’s a point of diminishing returns. And for Epicurus, it was that point of static pleasure, the absence of pain.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, if for some reason you don’t agree with the jacket example, if you’re thinking it’s not true, just think of how ridiculous it would seem if you tried to increase your pleasure with a kinetic pleasure while you were in pain. Imagine if you were going on a bike ride, a car hits you and breaks your leg in six places. You’re just lying on the ground, writing in pain, screaming for help. And then the ambulance comes. The EMT comes up to you on the ground, looks at your leg, and says, “I know what you need. Here’s a nice vanilla ice cream cone, little guy. There you go.” And he pats you on the head, and he walks over to the ambulance. “No! No, that’s not what I need. I want to go to the hospital. I want this pain to go away.” In the same way the kinetic pleasure is useless when it comes to actually increasing your level of pleasure in that context, Epicurus thinks it’s equally as useless at actually increasing your pleasure when nothing is wrong at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He expands on which desires are good and bad in number 26 of his Principal Doctrines. “All desires that do not lead to pain when they remain unsatisfied are unnecessary, but the desire is easily got rid of, when the thing desired is difficult to obtain or the desires seem likely to produce harm.” So, pleasure really is just about removing things that cause pain. And we have to be careful about choosing what we think will bring us pleasure that might in the long run bring us pain. And besides, all these physical pleasures and pains are secondary, anyway. The really important part is achieving a state of mental static pleasure or mental tranquility. It’s the more powerful, more useful, and ultimate form of pleasure—the goal of life.<br> </p><p class="" style="white-space:pre-wrap;">Now, when we have the broken leg, it’s very obvious to us which pain needs to go away. But how do we figure out what’s preventing us from mental tranquility? Well, Epicurus thought that people live in a constant state of irrational fear, anxiety, and superstition. The biggest causes of these fears are the fear of death or the fear of being trapped in some really terrible afterlife for all eternity—a fear of the gods.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But Epicurus wasn’t too worried about the gods. I mean, as far as he saw it, for some reason everyone thinks of these gods as existing in some blissful, tranquil state of being, but they also believe that they are perpetually concerning themselves with all the troubles and woes of humans living on planet earth. He thought that the gods must exist, but they just don’t want anything to do with humans. I mean, it’s too much trouble. And it certainly explains why they’re working so hard to conceal themselves from everyone all the time. We should view the lore surrounding them as a lifestyle to emulate, not as something to fear after death.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, great! We don’t have to fear the gods anymore. That’s a weight lifted off our shoulders. But what about death? Certainly we’re justified in being anxious and scared about death, right? Well, no. And this is why understanding his metaphysics and epistemology is so important. Because having that knowledge—the rational explanation for the mechanics of the world—goes hand in hand with his ethics and his view on what is the best way to live life. According to Principal Doctrine number two of Epicurus, “Death is nothing to us; for that which has been dissolved into its elements experiences no sensations, and that which has no sensation is nothing to us.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Death is nothing to us. Human beings consist only of atoms. The human mind or soul is just another component of a human and must also consist only of atoms. So, therefore, when you die, the atoms that make up your mind, just like the ones that make up your body, will disperse and all go their separate ways. And you have no sense organs, so you’re incapable of sensing anything. See, people got it all wrong the way Epicurus saw it. The state of death isn’t unpleasant. Maybe the process of dying will be, but once we’re dead we don’t exist anymore. Death is nothing to us.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Later the Roman poet Lucretius would say, “The mind must be made of matter and suffer the same fate as the body.” Epicurus says in his Principal Doctrine number ten that “If the things that produce the pleasures of profligate men really freed them from fears of the mind concerning celestial or atmospheric phenomena, the fear of death, and the fear of pain; if, further, they taught them to limit their desires, we should never have any fault to find with such persons, for they would then be filled with pleasures from every source and would never have pain of body or mind, which is what is bad.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Remember, the goal of life is pleasure, but the only way you can achieve true pleasure, or ataraxia, is by first understanding the nature of things, the rational explanation for the physical structure of the universe. Then once you realize you’re just atoms and void like everything else and you’re not constantly going through some obstacle course to earn your spot in Andy’s toy box up in the sky—like <em>Toy Story</em>, right? His toy box because the gods now have new toys to play with—all the people alive on planet earth—and you’re just a relic of the past living in his toy box. You know, when I said it I thought it was clever, but let’s keep going.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Once you understand all that, then you can actually set out to achieve happiness in this life. We don’t need immortality to have a good life. In fact, constantly worrying about it just wastes time in the short stint we do have on this planet. It’s really interesting how as humans we agonize over the quantity of our life so much.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">A long time ago I was talking to a woman from France, and she told me that Americans and French people see food in two completely different ways. In France, it’s about having just a couple bites of the most high-quality, delicious, most excellently prepared food possible. And she said in America it’s about eating as much low-quality, overly salted, fat-filled stuff we can. We love to feel stuffed in America. Now, obviously both are generalizations. But in the same way a wise person would want a couple bites of really high-quality food as opposed to a mountain of french fries, Epicurus thinks that a wise person would want a couple bites of super high-quality life as opposed to an eternity of dissatisfaction.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Elimination of all these mental fears is the ultimate form of pleasure, and thus the goal to life. And to experience these fears and superstitions is a form of pain. The medication for this pain was philosophy. When we think about anxiety and fear, we don’t really see it as a form of pain, but Epicurus did. He almost approached his philosophy as though it were medicine. He famously said, “Empty is the word of that philosopher by whom no affliction of men is cured. For as there is no benefit in medicine if it does not treat the diseases of the body, so with philosophy, if it does not drive out the affliction of the soul.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">His medical-themed approach to ending pain and achieving a state of tranquility completely devoid of fear and anxiety was called Tetrapharmakos, which directly translated means the four-fold remedy. And please don’t pay attention at all to the similarities between his plan to end pain and achieve tranquility by following his four-fold remedy and Siddhartha Gautama’s plan to end suffering and achieve tranquility by following his eight-fold path. He thought philosophy was medicine for the soul. He thought that if we can understand four things, it would dramatically help us on our quest towards a happy life. These four things were: God holds no fear; death holds no worries; good can easily be attained; and evil can be endured.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The first one, God holds no fears—we’ve talked about this one. Once you realize the nature of the universe, you realize that no god living in a state of bliss would ever be worried about you as a mere human. The second one, death holds no worries. Again, we already touched on this. The soul is made of atoms and, just like the body, will find itself eventually in a state of dissolution. Death is nothing to us. The third one, good can easily be attained. If the only intrinsic good is pleasure, and pleasure is just the absence of pain and the satisfied feeling you get when your basic, natural desires are met, then it seems pleasure is pretty easy to attain.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The last one is that evil can be endured or, more specifically, pain can be endured. Remember I said the state of death isn’t terrible? The process of dying might be terrible, but it’s not the state of death which is terrible. Well, this is the contingency plan if that’s the situation you find yourself in. There are a few different strategies that Epicurus lays out. Some involve just reliving all the good times in your past, but the more foolproof one is to realize that the more severe the pain is, the less time it’s going to last. Basically he’s saying, that stabbing pain in your chest? Yeah, don’t worry about it. Because if it’s bad enough, it’s going to kill you soon anyway. You’re going to die. How’s that for some solace?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, I want you to imagine yourself as an Epicurean. Your life would be a simple one, living in the commune on the outskirts of Athens, away from the hustle and business of the city, with no ambitions other than to remove your desire of ambitions and increase your ataraxia. It was Athenian culture to have aspirations of one day making a bunch of money or gaining military prestige or succeeding in politics and making a difference. Really it was all about being a citizen and contributing to society. I mean, that’s just what you did. But as an Epicurean, you wouldn’t care about any of that stuff. You would focus on the complete removal of pain. And all you really needed for that were your basic needs met.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">He says in Principal Doctrine number 15, “The wealth required by nature is limited and easy to procure; but the wealth required by vain ideals extends to infinity.” Remember the example from before? If you’ve already had dinner and you aren’t hungry and you decide to have a bowl of ice cream, it doesn’t increase your level of pleasure much at all. Well, just like that example, Epicureans would focus on meeting their basic needs and not worry about changing the world or making tons of money. Because all that stuff is really just like a bowl of ice cream. It’s not increasing your pleasure much at all.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It’s actually really consistent with the way statistics seem to be heading in modern times. Have you guys ever seen those studies where it’s like a happiness index and the difference between the level of happiness people experience in relation to their income? The ones I’ve seen always show the difference in happiness between $0 in income per year and something like $50,000 a year in income is massive. Like, no comparison between the two. But the difference in happiness between $50,000 a year and $50,000,000 a year is basically nothing. The point of the study is that once people make enough money to pay for their basic needs, it really doesn’t matter how many cigars you’re lighting with hundred-dollar bills. You don’t get that much happier. This seems to be the idea that Epicurus had when he set up the Garden.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, as an Epicurean, politics and prestige were not important. In fact, Epicurus often said things like, withdraw from public life and focus on a private group. And this private group he was referring to were the fellow members of the commune, your friends. If meditation was the way to cultivate happiness in Buddhism, then in Epicureanism, friendship was the way you can cultivate the steady and long-lasting joys that counter the inevitable pain of life. He famously said, “Before you eat or drink anything, carefully consider with whom you eat or drink rather than what you eat or drink: because eating without a friend is the life of the lion or a wolf.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">As I’ve said six times, pleasure was the goal of life, and he thought that friendship is one of the greatest ways to gain pleasure. Friends contribute in a number of ways to the complete removal of pain from our lives. Firstly, they make us feel secure, not just emotionally secure, but they always have your back. I remember when I was thinking about getting married. I was going around—I was scared. And I was going around, and I was asking everybody the same question: in today’s modern society, in a world where we don’t have a church that labels us as social pariahs for not getting married, in a world where women are perfectly capable of being self-sufficient, in a world where there’s no risk of dying of typhoid fever at the age of 25, besides the slightly increased tax return, why would anyone ever get married?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And all the people that I talked to gave me the same exact answer. It’s just nice to know that no matter what happens, no matter how bad things get or seem, you can always count on someone being there for you. It seems clear that Epicurus saw that level of security as one of the major perks of having friends.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, another way friends help to remove pain from your life is that they help you to reason properly. Throughout your day-to-day life when you become emotionally attached to things, it’s really easy sometimes to deceive yourself and convince yourself that something is true that isn’t. I think that if Epicurus was alive today and he saw the show <em>American Idol</em>, he would definitely think that the first few weeks of the show—the audition phase—were full of people that have no friends.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">One of the biggest mysteries known to the universe, right next to finding a link between quantum physics and string theory—one that I’m sure Stephen Hawking is working on right now—is how these people can go from singing in the shower to singing on national television completely unscathed. I mean, does anyone love these people? Do these people not have mothers looking out for them? These people are a good example of when friends in the Epicurean sense could help out. They’ve somehow convinced themselves that they can sing. And a true friend in Epicurus’ eyes would have shone light on their delusions and helped to remove or prevent the future pain of Simon Cowell saying, “That was absolutely dreadful.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Friends in this way provide an objective interpretation of ourselves. In Buddhism it was a life full of constant self-reflection, removing yourself from your own ego, and thus removing the delusions we cloud ourselves with, or at least finding which ones were destructive. But in Epicureanism, our friends act as a neutral third party that calls us out when we’re fooling ourselves. But the type of friendship Epicurus is talking about is not the type of friendship we’re accustomed to in modern times. He thought in order to truly benefit from your friends, you couldn’t just passively send them a text every now and then or see them sporadically. You needed to live with them, be with them all the time. And that was the life you would have lived in the commune.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Friendship was about trust. And you needed to consider the wellbeing of your friends as equal to your own wellbeing. Because after all, sometimes being a good friend means sacrificing yourself in some small way so that your friend can receive some benefits. And this is one of the most controversial points of Epicurus’ philosophy, and one that I’m sure countless academics over the years have wished they had more of his work to dissect to find authoritatively his true feelings on the matter.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">It all centers around an interpretation of one quote, Principal Doctrine number five. “It is impossible to live a pleasant life without living wisely and honorably and justly, and it is impossible to live wisely and honorably and justly without living pleasantly. Whenever any one of these is lacking, when, for instance, the man is not able to live wisely, though he lives honorably and justly, it is impossible for him to live a pleasant life.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">On one side of the fence, you have people that say that Epicurus was completely amoral, meaning that there are no good things or bad things in themselves, just things that add to or detract from your level of pleasure or ataraxia. So, in this case, the idea of altruism wasn’t his favorite thing. Because if you’re making sacrifices or foregoing potential pleasure so that someone else, even your friends, can be better off for it, then you are by definition, at least in some small way, in pain. And based on his egoist, hedonistic philosophy, if you’re in pain, you’re doing the wrong thing. And I’d like to direct your attention back to the quote by Dr. Epicurus. It is impossible to live a pleasant life without living wisely.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">On the other side of the fence, you have people that respond to this with Principal Doctrine number eight. We said it earlier. “No pleasure is a bad thing in itself, but the things which produce certain pleasures entail disturbances many times greater than the pleasures themselves.” You can smoke a cigarette now. And maybe it will relieve stress and make you look super cool in the short term. But eventually, years from now, you’re going to get lung cancer and die. Epicurus would not condone this behavior because the pain you receive in the long term completely overrides the pleasure you get in the short term.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Conversely, the sum total of all the benefits that having close friends give you in the long term completely override whatever insignificant amount of pleasure you would get in the short term from not acting altruistically. These people argue that Epicurus really thought that acting altruistically is a self-serving venture and that the benefits of having friends actually increases your net pleasure overall. For Epicurus, all the different forms of virtues that other philosophers laid out are actually all forms of prudence, or expertly choosing what is best for you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And now it’s time for the big question. There’s a chick flick movie starring John Cusack called <em>Serendipity</em> that I’m ashamed to say I’ve seen multiple times. There’s a scene in the movie where they bring up the concept of fate. Some people believe in the idea that there’s a one-and-only someone for everybody, a soulmate. And whether it’s the power of the universe or the power of God, you’re destined to be with this person. Now, in the movie, a therapist is trying to reason with one of the main characters, saying that this fate thing is really just a human construct trying to force the onus external to themselves, because by saying your relationships are failed because you guys just weren’t destined to be together—really that’s just a cop out. You’re just trying to get out of all the hard work that being in a successful long-term relationship really requires.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Next episode we’re going to be looking into stoicism, the biggest rival of Epicureanism. And one of the major tenants of stoic thought is the concept of fate. Forget relationships. Philosophize this: do you believe in fate?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Talk to you guys soon.</p>
@@ -1573,29 +1573,30 @@
 
 </div></div></div></div></div></div>
 
-        
+          
 
-        
-        
-          <div class="blog-item-author-profile-wrapper" data-content-field="author">
-            <a href="/transcript?author=5eec15fc09afd80facd6edf3">
+          
+          
+            <div class="blog-item-author-profile-wrapper" data-content-field="author">
+              <a href="/transcript?author=5eec15fc09afd80facd6edf3">
   
   <span class="author-name"></span>
 </a>
 
 
 
-          </div>
-        
-      </div>
-
-      <section class="blog-item-comments">
-        <div class="blog-item-comments-toggle-wrapper">
-          <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
-            
-          </div>
+            </div>
+          
         </div>
-      </section>
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
+              
+            </div>
+          </div>
+        </section>
+      
     </div>
   
 </article>
@@ -1723,30 +1724,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                            &quot;imageOverlayOpacity&quot;: 0.15,
-                                                            &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                            &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                                                            &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                            &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                            &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                            &quot;customContentWidth&quot;: 100,
-                                                            &quot;sectionTheme&quot;: &quot;dark&quot;,
-                                                            &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                            &quot;backgroundMode&quot;: &quot;image&quot;
-                                                          }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                                                            &quot;video&quot;: {
-                                                              &quot;playbackSpeed&quot;: 0.5,
-                                                              &quot;filter&quot;: 1,
-                                                              &quot;filterStrength&quot;: 0,
-                                                              &quot;zoom&quot;: 0,
-                                                              &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                            },
-                                                            &quot;backgroundImageId&quot;: null,
-                                                            &quot;backgroundMediaEffect&quot;: null,
-                                                            &quot;divider&quot;: null,
-                                                            &quot;typeName&quot;: &quot;blog-masonry&quot;
-                                                          }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1940,7 +1941,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b502231aaf751bf844c833e9880528bf.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.50b4de10587967c63a6c38385a95664b.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

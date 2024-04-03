@@ -42,15 +42,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3b3e3fc50f53cca7422e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3b3e3fc50f53cca7422e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-c20455a09b1fe109400d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2956e20d9a68ca6ae280-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-f176173c568e8717c99b-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-44d9cfb93d344a7446ac-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-5cd4a896962954eaca96-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6f4322f63224e137fb72-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4a222f32bf58327e181b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5f2d4e7ddb02d50723d1-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-210f16f8bec538fbaf2f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-eb72d47f5c6899b293da-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7993e315eeeb0e31e0d1-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-eb731df3d05e856250e3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b99f54f05b3a4f777f55-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c21b9c2f0a1526623416-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-84d5b8a1f1fc4654032c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a6388a789435452d55a7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db82977b390515867439-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-5196e0c68b662ed24a38-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-377a5b12886c446ac5e6-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #163 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"1":true,"6":true,"8":true,"3":true,"2":true,"7":true,"4":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #163 - Transcript","id":"62647f4aed55324ce9d9ef7c","fullUrl":"/transcript/episode-163-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["campaigns_import_discounts","commerce_subscription_renewal_notifications","override_block_styles","send_local_pickup_ready_email","commerce_site_visitor_metrics","nested_categories","collection_typename_switching","fluid_engine","show_add_to_cart_in_plp","commerce_etsy_shipping_import","commerce_checkout_website_updates_enabled","commerce_clearpay","commerce_restock_notifications","background_art_onboarding","commsplat_forms_visitor_profile","campaigns_discount_section_in_automations","toggle_preview_new_shortcut","supports_versioned_template_assets","unify_edit_mode_p2","site_header_footer","pdp_product_add_ons_visitor_site","member_areas_feature","is_feature_gate_refresh_enabled","viewer-role-contributor-invites","rewrite_transactional_email_from_address","campaigns_discount_section_in_blasts","themes","order_status_page_checkout_landing_enabled","color_var_rendering_in_v6","customer_accounts_email_verification","commerce_etsy_product_import","new_stacked_index","website_fonts","campaigns_new_image_layout_picker","accounting_orders_sync","marketing_landing_page","campaigns_thumbnail_layout","scripts_defer","website_component_enabled","commerce_order_status_access","visitor_react_forms","enable_css_variable_tweaks","customer_account_creation_recaptcha","image_component","nested_categories_migration_enabled","fluid_engine_clean_up_grid_contextual_change","campaigns_global_uc_ab"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #163 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-163-transcript","datePublished":"2022-04-23T15:36:18-0700","dateModified":"2022-04-23T15:36:20-0700","headline":"Episode #163 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1489/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f1b17328c55249cf16e9-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce3304dbbbc00b0adc2c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-33c1f90c488c55fae579-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7116ec013cb68ccb46b1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-c284904b25c71d02bce8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-6e60a567b55f463b68e7-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-5d1c15b78a92b66bb9c2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-7acbb1abe140de860b8e-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c448735543b55eab799b-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-070905c328c108a2d84a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-206ef2320c2cea5a2878-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-503cf40eefffe62983b2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-cc29311f395b003af368-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-02d1e0bcb6fc2a7af709-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c425f4bbbcfb78c3f308-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f51f475a757005c26ee7-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e651beeebf0f0d458f3c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd133305dca90ae5ca2f-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5978fce864bf3409cbda-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-ed7446c70dde7b3316d8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b9419dfe48307ccde360-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #163 - Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"4":true,"8":true,"7":true,"2":true,"1":true,"6":true,"3":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #163 - Transcript","id":"62647f4aed55324ce9d9ef7c","fullUrl":"/transcript/episode-163-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["override_block_styles","nested_categories_migration_enabled","commerce_etsy_shipping_import","google_consent_v2","marketing_landing_page","pdp_product_add_ons_visitor_site","send_local_pickup_ready_email","commerce_etsy_product_import","commerce_site_visitor_metrics","collection_typename_switching","fluid_engine_clean_up_grid_contextual_change","commerce_clearpay","background_art_onboarding","campaigns_discount_section_in_automations","supports_versioned_template_assets","commerce_restock_notifications","campaigns_global_uc_ab","campaigns_import_discounts","accounting_orders_sync","campaigns_new_image_layout_picker","nested_categories","website_fonts","proposals_beta_in_circle_labs","toggle_preview_new_shortcut","enable_css_variable_tweaks","show_add_to_cart_in_plp","unify_edit_mode_p2","is_feature_gate_refresh_enabled","new_stacked_index","commsplat_forms_visitor_profile","campaigns_discount_section_in_blasts","visitor_react_forms","campaigns_thumbnail_layout","rewrite_transactional_email_from_address","customer_accounts_email_verification","commerce_subscription_renewal_notifications","themes","member_areas_feature","order_status_page_checkout_landing_enabled","customer_account_creation_recaptcha","async_copy_collection","viewer-role-contributor-invites","fluid_engine","commerce_order_status_access","scripts_defer","commerce_checkout_website_updates_enabled"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #163 - Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-163-transcript","datePublished":"2022-04-23T15:36:18-0700","dateModified":"2022-04-23T15:36:20-0700","headline":"Episode #163 - Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1500/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1706811132467-QIR6O63RE5GI9HXI9ESJ/static.css">
@@ -62,13 +62,7 @@
     class="
       primary-button-style-solid primary-button-shape-rounded secondary-button-style-solid secondary-button-shape-rounded tertiary-button-style-solid tertiary-button-shape-rounded  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-dash tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-right tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-hide tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-hide tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-left tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-content-position-center image-block-overlap-text-alignment-opposite image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog-masonry collection-6053dc3a01905600e48be230 view-item collection-layout-default mobile-style-available sqs-seven-one
       
-        plp-config-editor-add-to-cart
-      
-      
         show-pdp-product-add-ons
-      
-      
-         plp-add-to-cart
       
       
         
@@ -139,255 +133,255 @@
   "
   data-controller="Header"
   data-current-styles="{
-  &quot;layout&quot;: &quot;navRight&quot;,
-  &quot;action&quot;: {
-    &quot;href&quot;: &quot;/take-action&quot;,
-    &quot;buttonText&quot;: &quot;Take Action&quot;,
-    &quot;newWindow&quot;: false
-  },
-  &quot;showSocial&quot;: true,
-  &quot;socialOptions&quot;: {
-    &quot;socialBorderShape&quot;: &quot;none&quot;,
-    &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-    &quot;socialBorderThickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 1.0
-    }
-  },
-  &quot;sectionTheme&quot;: &quot;light&quot;,
-  &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-  &quot;cartStyle&quot;: &quot;cart&quot;,
-  &quot;cartText&quot;: &quot;Cart&quot;,
-  &quot;showEmptyCartState&quot;: true,
-  &quot;cartOptions&quot;: {
-    &quot;iconType&quot;: &quot;solid-7&quot;,
-    &quot;cartBorderShape&quot;: &quot;none&quot;,
-    &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-    &quot;cartBorderThickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 1.0
-    }
-  },
-  &quot;showButton&quot;: false,
-  &quot;showCart&quot;: false,
-  &quot;showAccountLogin&quot;: true,
-  &quot;headerStyle&quot;: &quot;theme&quot;,
-  &quot;languagePicker&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;iconEnabled&quot;: false,
-    &quot;iconType&quot;: &quot;globe&quot;,
-    &quot;flagShape&quot;: &quot;shiny&quot;,
-    &quot;languageFlags&quot;: [ ]
-  },
-  &quot;mobileOptions&quot;: {
-    &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-    &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-    &quot;menuIconOptions&quot;: {
-      &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 1.0
-      }
-    }
-  },
-  &quot;dynamicOptions&quot;: {
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;bottom&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-        &quot;customColor&quot;: {
-          &quot;hslaValue&quot;: {
-            &quot;hue&quot;: 203.4782608695652,
-            &quot;saturation&quot;: 0.22330097087378645,
-            &quot;lightness&quot;: 0.2019607843137255,
-            &quot;alpha&quot;: 1.0
-          },
-          &quot;userFormat&quot;: &quot;hex&quot;
-        }
-      }
-    }
-  },
-  &quot;solidOptions&quot;: {
-    &quot;headerOpacity&quot;: {
-      &quot;unit&quot;: &quot;%&quot;,
-      &quot;value&quot;: 100.0
-    },
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;bottom&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
-        }
-      }
-    },
-    &quot;dropShadow&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blur&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 30.0
-      },
-      &quot;spread&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;distance&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
-        }
-      }
-    },
-    &quot;blurBackground&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blurRadius&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 12.0
-      }
-    },
-    &quot;backgroundColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;white&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    },
-    &quot;navigationColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;black&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    }
-  },
-  &quot;gradientOptions&quot;: {
-    &quot;gradientType&quot;: &quot;faded&quot;,
-    &quot;headerOpacity&quot;: {
-      &quot;unit&quot;: &quot;%&quot;,
-      &quot;value&quot;: 90.0
-    },
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;bottom&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
-        }
-      }
-    },
-    &quot;dropShadow&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blur&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 30.0
-      },
-      &quot;spread&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;distance&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
-        }
-      }
-    },
-    &quot;blurBackground&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blurRadius&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 12.0
-      }
-    },
-    &quot;backgroundColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;white&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    },
-    &quot;navigationColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;black&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    }
-  },
-  &quot;dropShadowOptions&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;blur&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    },
-    &quot;spread&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 0.0
-    },
-    &quot;distance&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    }
-  },
-  &quot;borderOptions&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;position&quot;: &quot;bottom&quot;,
-    &quot;thickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 4.0
-    }
-  },
-  &quot;showPromotedElement&quot;: false,
-  &quot;buttonVariant&quot;: &quot;primary&quot;,
-  &quot;blurBackground&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;blurRadius&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    }
-  },
-  &quot;headerOpacity&quot;: {
-    &quot;unit&quot;: &quot;%&quot;,
-    &quot;value&quot;: 100.0
-  }
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+&quot;customColor&quot;: {
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
 }"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-  &quot;enabled&quot;: false,
-  &quot;iconEnabled&quot;: false,
-  &quot;iconType&quot;: &quot;globe&quot;,
-  &quot;flagShape&quot;: &quot;shiny&quot;,
-  &quot;languageFlags&quot;: [ ]
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
 }"
   
   data-first-focusable-element
@@ -412,18 +406,18 @@
   "
 >
   
+    
 <div class="sqs-announcement-bar-dropzone"></div>
 
-  <div class="header-announcement-bar-wrapper"
-  > 
-
-    <a
-      href="#page"
-      class="header-skip-link sqs-button-element--primary"
-    >
-      Skip to Content
-    </a>
-    
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
 <style>
@@ -434,13 +428,13 @@
         }
     }
 </style>
-    <div
-      class="header-border"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-border="false"
-      data-test="header-border"
-      style="
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
 
 
 
@@ -454,44 +448,44 @@
 
 
 "
-    ></div>
-    <div
-      class="header-dropshadow"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-dropshadow="false"
-      data-test="header-dropshadow"
-      style="
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
 
 
   
 "
-    ></div>
-    
-    
+      ></div>
+      
+      
 
-    <div class='header-inner container--fluid
-      
-      
-      
-       header-mobile-layout-logo-left-nav-right
-      
-      
-      
-      
-      
-      
-       header-layout-nav-right
-      
-      
-      
-      
-      
-      
-      
-      
-      '
-      style="
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
 
 
 
@@ -501,68 +495,68 @@
 
 
 "
-      data-test="header-inner"
-      >
-      <!-- Background -->
-      <div class="header-background theme-bg--primary"></div>
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+        <div class="header-display-desktop" data-content-field="site-title">
           
-          <!-- Social -->
+
+          
+
+          
+
+          
+
+          
+
+          
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -661,64 +655,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -748,59 +742,59 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
-
-      </div>
-      <div class="header-display-mobile" data-content-field="site-title">
-        
           
-          <!-- Social -->
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -899,64 +893,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -986,14 +980,15 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+          
+          
+          
+          
+          
+        </div>
       </div>
     </div>
-  </div>
+  
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     
@@ -1003,244 +998,244 @@
     
     "
     data-current-styles="{
-  &quot;layout&quot;: &quot;navRight&quot;,
-  &quot;action&quot;: {
-    &quot;href&quot;: &quot;/take-action&quot;,
-    &quot;buttonText&quot;: &quot;Take Action&quot;,
-    &quot;newWindow&quot;: false
-  },
-  &quot;showSocial&quot;: true,
-  &quot;socialOptions&quot;: {
-    &quot;socialBorderShape&quot;: &quot;none&quot;,
-    &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-    &quot;socialBorderThickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 1.0
-    }
-  },
-  &quot;sectionTheme&quot;: &quot;light&quot;,
-  &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-  &quot;cartStyle&quot;: &quot;cart&quot;,
-  &quot;cartText&quot;: &quot;Cart&quot;,
-  &quot;showEmptyCartState&quot;: true,
-  &quot;cartOptions&quot;: {
-    &quot;iconType&quot;: &quot;solid-7&quot;,
-    &quot;cartBorderShape&quot;: &quot;none&quot;,
-    &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-    &quot;cartBorderThickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 1.0
-    }
-  },
-  &quot;showButton&quot;: false,
-  &quot;showCart&quot;: false,
-  &quot;showAccountLogin&quot;: true,
-  &quot;headerStyle&quot;: &quot;theme&quot;,
-  &quot;languagePicker&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;iconEnabled&quot;: false,
-    &quot;iconType&quot;: &quot;globe&quot;,
-    &quot;flagShape&quot;: &quot;shiny&quot;,
-    &quot;languageFlags&quot;: [ ]
-  },
-  &quot;mobileOptions&quot;: {
-    &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-    &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-    &quot;menuIconOptions&quot;: {
-      &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 1.0
-      }
-    }
-  },
-  &quot;dynamicOptions&quot;: {
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;bottom&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-        &quot;customColor&quot;: {
-          &quot;hslaValue&quot;: {
-            &quot;hue&quot;: 203.4782608695652,
-            &quot;saturation&quot;: 0.22330097087378645,
-            &quot;lightness&quot;: 0.2019607843137255,
-            &quot;alpha&quot;: 1.0
-          },
-          &quot;userFormat&quot;: &quot;hex&quot;
-        }
-      }
-    }
-  },
-  &quot;solidOptions&quot;: {
-    &quot;headerOpacity&quot;: {
-      &quot;unit&quot;: &quot;%&quot;,
-      &quot;value&quot;: 100.0
-    },
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;bottom&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
-        }
-      }
-    },
-    &quot;dropShadow&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blur&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 30.0
-      },
-      &quot;spread&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;distance&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
-        }
-      }
-    },
-    &quot;blurBackground&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blurRadius&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 12.0
-      }
-    },
-    &quot;backgroundColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;white&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    },
-    &quot;navigationColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;black&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    }
-  },
-  &quot;gradientOptions&quot;: {
-    &quot;gradientType&quot;: &quot;faded&quot;,
-    &quot;headerOpacity&quot;: {
-      &quot;unit&quot;: &quot;%&quot;,
-      &quot;value&quot;: 90.0
-    },
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;bottom&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
-        }
-      }
-    },
-    &quot;dropShadow&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blur&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 30.0
-      },
-      &quot;spread&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;distance&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
-        }
-      }
-    },
-    &quot;blurBackground&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blurRadius&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 12.0
-      }
-    },
-    &quot;backgroundColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;white&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    },
-    &quot;navigationColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;black&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    }
-  },
-  &quot;dropShadowOptions&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;blur&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    },
-    &quot;spread&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 0.0
-    },
-    &quot;distance&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    }
-  },
-  &quot;borderOptions&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;position&quot;: &quot;bottom&quot;,
-    &quot;thickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 4.0
-    }
-  },
-  &quot;showPromotedElement&quot;: false,
-  &quot;buttonVariant&quot;: &quot;primary&quot;,
-  &quot;blurBackground&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;blurRadius&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    }
-  },
-  &quot;headerOpacity&quot;: {
-    &quot;unit&quot;: &quot;%&quot;,
-    &quot;value&quot;: 100.0
-  }
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+&quot;customColor&quot;: {
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
 }"
     data-section-id="overlay-nav"
     data-show-account-login="true"
@@ -1457,30 +1452,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-  &quot;imageOverlayOpacity&quot;: 0.15,
-  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-  &quot;customSectionHeight&quot;: 10,
-  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-  &quot;customContentWidth&quot;: 50,
-  &quot;sectionTheme&quot;: &quot;&quot;,
-  &quot;sectionAnimation&quot;: &quot;none&quot;,
-  &quot;backgroundMode&quot;: &quot;image&quot;
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
 }"
   data-current-context="{
-  &quot;video&quot;: {
-    &quot;playbackSpeed&quot;: 0.5,
-    &quot;filter&quot;: 1,
-    &quot;filterStrength&quot;: 0,
-    &quot;zoom&quot;: 0,
-    &quot;videoSourceProvider&quot;: &quot;none&quot;
-  },
-  &quot;backgroundImageId&quot;: null,
-  &quot;backgroundMediaEffect&quot;: null,
-  &quot;divider&quot;: null,
-  &quot;typeName&quot;: &quot;blog-masonry&quot;
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
 }"
   data-animation="none"
   
@@ -1520,6 +1515,9 @@
       <div class="blog-item-wrapper blog-grid-masonry-item-wrapper" data-content-field="main-content" data-item-id="">
   <article id="article-" class="h-entry entry hentry post-type-">
   
+    
+    
+    
     <div class="blog-item-inner-wrapper">
       <div class="blog-item-top-wrapper">
         <div class="blog-item-title">
@@ -1534,11 +1532,13 @@
             </time>
             <div class="blog-meta-item blog-meta-item--author p-author author" data-content-field="author">Written By <a href="/transcript?author=5ed93d8e981c0869f203a7ea" class="blog-author-name">Philosophize This!</a></div>
           </div>
+          
         </div>
       </div>
 
-      <div class="blog-item-content-wrapper">
-        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-62647f4aed55324ce9d9ef7c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-4d5ccab0b5ba3ae8963e"><div class="sqs-block-content">
+      
+        <div class="blog-item-content-wrapper">
+          <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-62647f4aed55324ce9d9ef7c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-4d5ccab0b5ba3ae8963e"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">So LAST TIME, we ENDED by talking about a key point in Becker’s work.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">He draws our attention to what SEEMS to be… several, striking resemblances that exist between the FUNCTIONS of religion, and culture within society. And it’s interesting because it’s not uncommon to THINK of these two things as completely distinct from one another. You know it’s not UNCOMMON to find on the one hand…someone who believes that RELIGION…is the TRUTH…Religion is the BEDROCK of this reality…and that anything created by culture is, just the best us mere mortals have managed to cobble together so far. Culture is SUBSERVIENT to religion in this worldview.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">On the other hand…not uncommon to FIND someone who believes that CULTURE…culture is all that we have…culture is all that we’ll EVER have…and that RELIGION is a mere OUTPOURING of culture…one single cultural relic, of THOUSANDS. That the function of RELIGION in many ways has been to help keep culture together, in OTHER words…religion is SUBSERVIENT to culture in this worldview.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But as we heard Becker is going to say that BOTH these viewpoints, are illusions. That BOTH religion AND culture serve as an elaborate mechanism, purposefully constructed to help people quell this otherwise CONSTANT state of terror that comes along with the fact that we are a type of creature, that carries with it a conscious awareness of its death, now…</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">There are a LOT of different ways that we DO this…but if you wanted to break it down into two primary classes that the MAJORITY of these death denials fall INTO…you could break it down into ONE: the immortality projects we talked about LAST episode…the set of illusions and cultural ideals that we connect ourselves to…and number two: a class of behaviors that Becker is going to refer to as Transference Objects.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">By using the word transference Becker’s going to be referring to the phenomenon within the field of psychology when someone…who USUALLY has been through some stuff…will TRANSFER…certain INTENSE feelings they carry INSIDE of themselves, ONTO some sort of OBJECT of obsession. A common example people will cite of this is when a patient who is undergoing psychotherapy will FALL in love with their therapist…making the THERAPIST in this case, in Becker’s words: a Transference Object.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But this is NOT the only way people use TRANSFERENCE objects to get rid of intense negative FEELINGS. And you can GUESS which PARTICULAR intense, negative feelings people are trying to get RID of to Becker…death denial…and as HE says people will do this sort of thing in ALL KINDS of interesting, creative ways.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">People make LEADERS into transference objects. That could be the president of your country. Leader of a movement, host of a show, author, your boss, your parents.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">People make careers and LIFESTYLES into transference objects. People will make their lovers into transference objects. People will do this with their online STATUS, you know how many LIKES do I have on my post from earlier…how important do the OTHER scared people of the world think I am today. People will do this with money, or their car…people do this with their SHOE collections. You know those people with 600 pairs of shoes… and like eight pairs of socks?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">It’s funny…what they’re collecting becker would say… is essentially, a bunch of different fruit loop colored reminders OF their fear of death…they strap them onto their feet…make sure they’re looking extra shiny today… and then GALAVANT around town showing off their fear of death to everyone AROUND them…point is: whatever the transference object: the REAL point of it is to deify… some thing or some one…within our own PERSONAL, CULTURAL religion… and then like a struggling sisyphus trying to feel some sort of relief from this weight of conscious death that we are ALL carrying around on our back…we push this object, up on to this, constructed,&nbsp; EXALTED pedestal…where this thing becomes the SOLE DETERMINATE…of our legitimacy.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">For example, if the grand leader… says that I’m acting like a good person today IN THEIR eyes…then I know I’m behaving in the PROPER way a person should be behaving. If my partner… says I’m making them happy today, look how GOOD you’re being today!…then I MUST be. If I’m climbing the ranks in my career…If I’m being a good Vegan…If there’s enough zeroes in my bank account…the point of ALL of these is to TRANSFER… the moment of JUDGMENT that I might OTHERWISE have to have with myself…onto SOME deified object, that serves the same function of a God in a religion, an object that will provide me with an eternal judgment of my worth. I TURN to this object for direction as to how I should be living, so it helps me with my fear of insignificance. I TURN to this object, waiting to be judged as to whether I am WORTHY of immortality within culture, so it helps me with my fear of impermanence.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Becker thinks that all of this MAY ultimately come from tactics we develop as children to help deal with our fears. The idea is that when you’re very little…every problem that comes up can SEEM like the biggest problem that’s ever faced the human species. I mean when you’re five…something being on the counter too high for you to reach can SEEMS like an existential crisis…and for all intents and purposes it IS…but then your parents come along, that 5’4” nearsighted dude in his majestic sweatpants comes along and when he hands you the toy that you wanted off the counter as a five year old kid… it can be hard to tell the difference between THAT man and the messiah who has returned to save us. The Elohim of the kitchen. At a CERTAIN level…THIS IS HOW IT FEELS to us as kids! And so when you get older, you move out of the house, graduate your sixth year of community college and you’re FACED with the terrorizing fear of insignificance and impermanence…what do you do at that point? Becker’s saying maybe you find some OTHER object in your life to transfer these fears onto. Now…</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Another very important concept in the structure of MOST MAJOR religions…is the idea of human evil. Whether that’s a call for people to try to ERADICATE human evil…or from the perspective of the other side…people doing EVIL things on behalf of some religious creed that they’re immersed in. We’ve talked on this show a few times about something that has traditionally been known as a theodicy. Which in THIS context the word THEODICY is going to translate to mean a justification for God. But why would God need a justification for anything…it’s God.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The most common example is that philosophers and theologians over the years have tried to offer a justification for the existence of EVIL in the world. The question is a basic one we’ve all heard before: How could a God that is involved in human affairs allow for such magnitudes of suffering and injustice to go on without choosing to intervene? Now there have been HUNDREDS of answers to this question offered known as theodicies. But when Becker sets out to write one of his greatest works called Escape From Evil…the more ACCURATE term for what he’s trying to accomplish is to write what you could call an anthropodicy.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Meaning that Becker’s not interested in coming up with an explanation for why a God, that he doesn’t believe in, would ever allow this kind of stuff to go on in the first place. And yet he remains FASCINATED…by the existence of human evil. What he’s doing is something that he thought was surprisingly under explored in the sciences during the time that he was doing his work. He’s asking the question… from an anthropological perspective…WHY…do people commit evil against other people? WHY…is it part of our seemingly religious nature to sometimes DO horrible things? But the immediate question… that comes up after that that’s probably FAR MORE IMPORTANT to Becker…is not WHY do we do it…but how is it possible that people often feel so good, WHEN they commit evil acts, against other people?&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The ANSWER as you’ve probably guessed by now is going to be connected to this Denial of Death…but how he GETS there… is going to have LARGER implications in the rest of his work. Remember at the beginning of last episode: human existence to Becker is characterized in terms of a fundamental duality. We have on one hand a biological existence and on the other a symbolic existence. The creation of immortality projects…the transference of this burden ONTO other objects…these are ways that we DENY the fragile biological side of our existence and RETREAT purely into the symbolic side of our existence. In other words… the SYMBOLIC side of your existence more or less becomes the ENTIRE way that you view your identity.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But remember from LAST episode…the whole…symbolic side of your existence AND everyone elses…is just made up OF a set of illusions. That’s ALL your symbolic identity REALLY IS. NOBODY… has a deathgrip on objectivity. So what your life becomes as you interact with other people and you go about your life…is the ongoing process of YOUR set of illusions…coming into contact with OTHER PEOPLE’S sets of illusions. And most of the time your illusions are gonna line up nicely with other people and you guys can coexist and roast marshmallows together and everything is going to be fine.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But SOMETIMES…one person’s set of illusions…becomes MUTUALLY EXCLUSIVE to ANOTHER person’s set of illusions.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Sometimes a person will run into somebody and they’re having a conversation with them and they have this MOMENT of realization… where if WHAT THE OTHER person is saying here is ACTUALLY true…then it calls into question the CORE of my identity. It calls into question the CORE of my existence. If WHAT this other person is saying is true…then my symbolic existence…is no longer legitimate.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But remember the SYMBOLIC existence is ALL THAT WE HAVE LEFT after our Denial of Death, so what Becker is REALLY saying here…is that when someone sufficiently calls into question OUR set of illusions…it FEELS to us as though it’s become a matter of life and death. And this of course EXTENDS beyond just ourselves directly to our in-groups…our families, our countries, our religions, our political groups, ANY entity…that people WORK to MAKE SURE lives on long after they die, and they feel threatened if it doesn’t. Becker says:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“No wonder men go into a rage over the fine points of belief: if your adversary wins the argument about truth, you die. Your immortality system has been shown to be fallible, your life becomes fallible. History, then, can be understood as the succession of ideologies that console for death.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What he’s saying here is an important point to emphasize further…because part of the STRENGTH of Becker’s analysis here is that it is NOT… merely a Theodicy…it’s NOT merely an explanation for why God ALLOWS people to DO evil things sometimes, Becker’s anthropodicy can explain hostility between people, on MANY different levels of severity.&nbsp;&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Because regardless of the stakes…whether it’s a declaration of war…ALL the way down to just a heated disagreement at the dinner table…</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">When one person’s set of illusions is at large against another’s…there is no official due process to mediate that situation. When somebody’s symbolic identity is called into question…their very EXISTENCE is called into question… and THAT could be ANYTHING…that could be two people in the wal mart parking lot arguing over a container of chili mac from the deli…that could be two friends intensely debating important political issues…that could be your parents SCREAMING at each other in the middle of the night. All of these can all SEEM confusing to an outsider… and it can be EASY to misread the situation that’s going on…it can be easy to think that these people who are arguing…they just DISAGREE about the issues here, why are they getting so MAD about everything? But it goes much DEEPER than that. To some people it starts to FEEL like a matter of life and death. To put a gun to the head of my illusions and to pull the trigger, becomes an act of murder. And again, to Becker, NO WONDER we see otherwise PERFECTLY REASONABLE people that are so willing to dehumanize and silence another group of people, whose beliefs THREATEN their symbolic identity. NO WONDER…we see people out of fear allowing themselves to be molded by people in the media who financially benefit from that systematic division.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">NO WONDER…Becker thinks that if you were to sit someone down and you were to ask them to recount the most meaningful moments of their lives, the greatest moments of triumph that they’ve EVER HAD…all too frequently… the moments that they’re gonna mention came about, when they were in some sort of CONFLICT with other people…when their set of illusions triumphed over another set of illusions. Becker’s going to ask: what does that SAY about us as human beings?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Where do these evil acts truly originate from? Are there just evil babies being born out there? Is all evil just some variation of mental illness? Was Socrates right in saying that all evil is borne of ignorance? NONE of these theories, are a sufficient answer to the question to Becker.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The reality about the senseless killing of other people he says... is that we often kill… out of JOY. People kill…like they’re wiping off the counter at their house. They feel SATISFIED after having DONE it.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Point is: not everybody who kills in the name of some set of illusions was born an evil mustachioed baby when they flew out of the birth canal. He says:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“The man who dropped the atomic bomb is the warm gentle boy who grew up next door.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Becker would want us to consider…that sometimes… the things WE think are the most valorous…to another person, in another situation, those exact same acts… are of equal magnitudes heinous and delusional. And once again, it’s important to remember that this dehumanization manifests on many different levels of intensity, sometimes within the very institutions that we hold dear within society.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">For example, there was a group of scientists that did a set of studies setting out to test the theories of Becker’s work. The hypothesis... was simple: if Becker’s theory about evil is correct, then we MIGHT be able to see a difference in people’s judgment levels…when asked about a group that is usually their perceived OTHER in the world… IF they are reminded of their death right before being asked to render a verdict.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">One study was of judges that were asked to set a bond amount for criminals that had committed a crime. The judges reminded of their death DIRECTLY before making a decision set a HIGHER bond amount for the criminals, on average. Another study looked at a group of Christian people and asked them a bunch of questions about people who were Jewish. Once again, the group reminded of their death had significantly more critical things to say, on average. Now of course one study doesn’t PROVE anything at a scientific level…but it IS interesting and it DOES say something about the rest of Becker’s work…and we should probably take a second to pause here and just say a couple things.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Ernest Becker…as interesting as his work as been so far throughout these past two episodes…the dude’s kinda mean. Not mean, but just…you gotta admit what he’s laid out so far…SEEMS to be a pretty pessimistic world view. Like can I get some relief commodore Becker? Can I get a tylenol Dr. Becker for this…existential headache you’ve given me by beating me over the head with your death book.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">In other words what HOPE does Becker offer in his work…well THIS is where we can start to see it! Because even if it MAY be true… that a short term consideration of our death could POSSIBLY cause us to feel greater levels of tribalism protecting ourselves and our in-groups. What may ALSO be true Becker thinks… is that maybe a more thoroughgoing, LONG FORM rumination on our death, could produce the OPPOSITE effect. Maybe…there’s a possibility for what Becker and OTHER thinkers have historically referred to as…transcendence.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">There’s mixed reviews about this concept of transcendence in Becker’s work. Some people see it as a bit of an afterthought, thrown in near the end of his life as something to put a smile on an otherwise grim, helpless picture. But many SCHOLARS of Becker think this idea of transcendence, MAY have ALWAYS been where Becker intended on going with his work, and that if anything they LAMENT the fact that he didn’t live long enough to elaborate on the concept more.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">In ANY case…what I want to do… is give you BECKER’S words on the matter…they were written in the latter half of the twentieth century, so it’s not going to require much exegesis on my part as your philosophy podcast sherpa. Plus I want to have enough respect for the listeners of this show to give people the breathing room, to draw their OWN conclusions sometimes. What I want to do… AS the sherpa of this mountain…and in consideration of the fact that this is ultimately an installment in the creation of meaning series…I want to compare Becker’s idea of transcendence…to some of the OTHER philosophers we’ve talked about: namely Albert Camus and Soren Kierkegaard, because I think ALL THREE thinkers are ultimately treading on similar ground here.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But let’s start with Becker. Referencing the cultural heroism and immortality projects we talked about last time he lays down this famous passage describing self-transcendence. He says:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“Man breaks through the bounds of merely cultural heroism; he destroys the character lie that had him perform as a hero in the everyday social scheme of things; and by doing so he opens himself up to infinity. To the possibility of cosmic heroism...He links his secret inner self, his authentic talent, his deepest feelings of uniqueness...to the very ground of creation. Out of the ruins of the broken cultural self there remains the mystery of the private, invisible, inner self which yearned for the ultimate significance...This invisible mystery at the heart of the creature now attains cosmic significance by affirming its connection with the invisible affirming its connection with the invisible mystery at the heart of creation.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Couple clarifications to help you draw your own conclusions. The primary distinction he’s making in that passage is between the CULTURAL heroism that we’re typically immersed in…and the COSMIC heroism that can be found when you achieve a type of transcendence where you destroy those character lies that culture gives you that we talked about last time.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Also, important to clarify: what does he mean by this invisible mystery at the heart of the creature that connects with the invisible…well, this invisible that we are connecting with through transcendence no doubt is referring to what people sometimes call God…it’s in reference to the idea that we often FIND ourselves LIKE the protagonist of this series, caught up in these earthly affairs where we desperately seek the MEANING to things.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The PROBLEM Becker thinks is that we have this expectation as we go along in that quest…that there can be any sort of coherent, obvious translation OF that ultimate significance, to us, as individuals. But WHY do we just ASSUME that that’s the case?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">See, the fact is to Becker…the Universe DOES have some sort of ultimate significance. You’ll just never know what it is. And no matter how small…your actions DO play a SIGNIFICANT part in whatever sort of operation is playing out on a cosmic level. You’re just never going to know what that significance is.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">You CAN’T know. That ultimate significance doesn’t speak to you. It doesn’t come to you in your dreams. You don’t read it by laying out some tarot cards and lighting some aromatherapy candles in your dining room. It is effectively, INVISIBLE to you, is what he means.&nbsp; But...important to ask: DOES THAT necessarily mean… that you CAN’T connect, with the invisible?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Part of what he’s saying is that it MAY be the case that BY connecting WITH the invisible…it opens up a mode of existence that is otherwise unavailable to the vast majority of human beings on this planet…a mode of existence... where you don’t really SEE yourself as this, all important monkey that is going to live forever because you’ve figured out the ultimate truth of the universe…but instead, just one monkey, of 8 billion monkeys… that are all in this together.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What Becker’s saying is that ironically…. by abandoning the delusional pursuit towards gaining immortality through our personal set of illusions…we can actually find a way to feel CLOSER to one another. ALL equally meaningless…yet together within that dilemma. THAT world of dehumanization and silencing of the other...can potentially turn into a world more interested in empathy and ACTUALLY trying to view things from all sides.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Becker thinks this concept of the “invisible” is an extremely powerful tool to have on your side AS you navigate this chaotic existence. Remember, he’s saying this AFTER making the case that we are fundamentally a RELIGIOUS sort of creature...and he thinks this is why SHIFTING our perspective towards the cosmic, the silent, the invisible…when we DO that this is why something like the archetype of the Christian god in particular HAS BEEN so effective at DEALING with this fear of insignificance and impermanence. He talks about it here:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“Religion answers directly to the problem of transference by expanding awe and terror to the cosmos where they belong. It also takes the problem of self-justification and removes it from the objects near at hand. We no longer have to please those around us, but the very source of creation — the powers that created us, not those into whose lives we accidentally fell. Our life ceases to be a reflexive dialogue with the standards of our wives, husbands, friends, and leaders and becomes instead measured by standards of the highest heroism, ideals truly fit to lead us on and beyond ourselves. In this way we fill ourselves with independent values, can make free decisions, and, most important, can lean on powers that really support us and do not oppose us. The personality can truly begin to emerge in religion because God, as an abstraction, does not oppose the individual as others do, but instead provides the individual with all the powers necessary for independent self-justification. What greater security than to lean confidently on God … If God is hidden and intangible, all the better: that allows man to expand and develop himself.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Ultimately… what Becker is offering here by way of hope in this otherwise grim picture that he’s painting is a path that lies BEYOND cultural heroism...BEYOND self justification. And the REASON the archetype of a God has been so helpful to people throughout human history is because it can get us OUT of that reflexive dialogue with the culture around us, and instead gives us an ABSTRACTION to relate to.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But MORE than that ...what Becker is saying is that in a way...it is ONLY AFTER...you’ve ABANDONED...this otherwise default pursuit towards finding a way to CONNECT to some sort of ULTIMATE MEANING WITHIN human culture...it’s ONLY THEN, that you can ACTUALLY start to live with TRULY independent values...it’s only then that you can start to get a taste of TRUE freedom.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">And THIS...this is going to have some similarities to the later work of Camus! We’ve had a couple episodes of the podcast on Camus...mostly talking about the myth of Sysiphus and his relationship with Sartre. But one thing we DIDN’T talk about is his concept of revolt.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Camus... was an absurdist. So he doesn’t believe that you can sit down in a library...think about stuff a lot...and then arrive at any sort of ultimate enduring meaning that’s going to inform your life no matter what comes your way. No, this universe is fundamentally an absurd universe, to Camus. To try to find meaning is like trying to find Easter Eggs on Christmas. And what I mean by that is that it’s like trying to find some ritualistic, human created delusion within yet ANOTHER ritualistic human created delusion, and then being DISAPPOINTED when you don’t FIND it.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">See, IF you were the protagonist of this series...and you’ve more or less spent your life sifting through human culture, looking for the meaning of life, looking for some GREATER purpose of the universe that is going to get you springing out of bed into your house slippers every morning...only to get to what SEEMS like the end of the road disappointed that there doesn’t seem to BE one...Camus would probably say...uh, congratulations. Here’s your certificate for graduating the FIRST GRADE of human existence...because arriving at that conclusion is FAR FROM the end of the road. In fact, in many ways to Camus...you only JUST found your way to the race and have only JUST made it to the starting line. The BIG question now that you’ve MADE it to the starting line...is what, are you going to do next? His concept of REVOLTING AGAINST this state of affairs is an example of one coherent philosophical response. He says:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“accepting the absurdity of everything around us is one step, a necessary experience: it should not become a dead end. It arouses a revolt that can become fruitful.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now what does he mean by revolt? Well, at the risk of sounding redundant for two sentences in relation to the OTHER episodes we’ve done on him: what he’s contrasting this with in his work are obviously the two OTHER possible responses when faced with the absurdity of things: you can either choose to commit suicide...which doesn’t ACTUALLY solve the problem at ALL to Camus...or you can commit a sort of philosophical suicide by adhering to some transcendent doctrine, two examples HE gives are Christianity and Communism though there are many others. Once again, BOTH of these don’t SOLVE the ACTUAL problem...they just allow the believer to live their lives with a blindfold on to all the true complexity and absurdity of human existence.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The SOLUTION to Camus lies somewhere in the middle. Somewhere that we can FACE the absurdity of existence... without having to CLING to some sort of ultimate system of meaning. He says:&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“One of the only coherent philosophical positions is thus revolt. It is a constant confrontation between man and his own obscurity. It is an insistence upon an impossible transparency. It challenges the world anew every second… It is not aspiration, for it is devoid of hope. That revolt is the certainty of a crushing fate, without the resignation that ought to accompany it.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now one thing that Camus makes VERY clear is that it is WITHIN this state of revolt that you can find a type of freedom in your existence that’s, just not available to the average person immersed in the traditional search for meaning that most of us FIND ourselves in...and NOTICE the similarities to Becker’s work!</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">You could CALL this.. a type of transcendence. In this place to Camus...the FREEDOM that we’re exercising moment to moment is GROUNDED in the absurd...it’s GROUNDED in the certainty of our death. Not some immortality project. Not in a transference object. You know, think of freedom in this way as a sort of absurdist ANCHOR. People say things like there’s nothing certain in life but death and taxes…here’s CAMUS making a SIMILAR claim from an absurdist point of view. Because ironically…THE ONLY THING WE CAN BE SURE OF…is the absurdity of the universe…and again that “crushing fate” as he calls it…our impending demise, and it’s ONLY FROM these two places that we can truly start to live fully. Camus writes:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“…man sees freedom in a new light. Freedom is no longer seen as coming from God or some transcendent being or idea, nor is it freedom to work toward some future goal. Rather, freedom is now seen as founded on the certainty of death and the absurd. With the realization that man has only this present life as a certainty and with the further realization that no transcendent beyond this life is admissible, comes the freedom and release to live the present life fully. This does not negate consideration for the future, but it does not allow the future to rob man of his present.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Herein lies the overlap that can be helpful for our protagonist. That you can spend your WHOLE LIFE AGONIZING over how to create a system of MEANING. To worry about which values you want to bring about, what grounds the legitimacy of one set of values over another. But paradoxically, Camus is saying, the ENTIRE PROCESS of CREATING meaning MAY BE THE VERY THING...that’s preventing you from living fully. That it’s not until you ABANDON ALL HOPE of the DELUSION of human meaning, that you can ever start SEEING the world clearly, without that constant prejudice of always looking for the MEANING of everything…always needing some PROJECT that you’re working on...ruminating on the question WHY does this or that thing matter so much...but as we talked about in the Kierkegaard episode of this series...the lily of the field and bird of the air LIVE in a sort of eternal present...where the questions concerning WHY they do what they do, why does the lily bloom...these questions don’t really even make sense from that perspective...similar to the lily and the bird it’s ONLY the person that learns to see the world in a “why less” sort of way that ever is able to access an extremely important aspect of life that lies OUTSIDE the realm of human concerns and projects. Now...</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">I can obviously go MUCH more into Camus if that is something people make me aware would be cool to listen to...but I don’t want to get too far off task here. The man of the hour is Ernest Becker.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What’s important to realize about Becker’s work I think is that REGARDLESS of whether you AGREE with his anthropological survey OF the human species...REGARDLESS of whether you ever ACHIEVE transcendence or even have the faintest of aspirations in that direction...NONE of this...precludes you from hearing what I think is a LARGER message that’s being transmitted here.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Becker is not saying that we need to be okay with the fact that we’re going to die. He doesn’t think we should learn to live without illusions. The point that we can TAKE from his work is that...maybe...just being aware OF these illusions...can help us learn to contend with them. Maybe by being aware of our very human tendency toward immortality projects of ALL varieties...maybe that can help us recognize where the desire to dehumanize or silence another group is actually coming from.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">And maybe... if we get THERE... maybe we can learn to differentiate.. between which of these illusions we cling onto are life affirming, which ones serve others, which ones are not in fact a direct threat to our existence, which of those promote the freedom, dignity and hope of other people…and then on the other hand which of those illusions are just about us being immortal, a desperate attempt to calm a scared monkey that doesn’t LIKE the idea of not being the most important monkey in the world. Maybe Becker’s analysis is valuable in and of itself...without needing any sort of philosophical antidote prescribed after.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But maybe it’s even more simple than that.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">You know…if you’re the protagonist of this series…living in a disinterested universe…trying to create a system of meaning. Just the mere CONSIDERATION of death…and how present it is in our thoughts and what it has to teach us, that can BE a useful takeaway FROM Becker’s work as well. And of course death teaches us SOME things that are obvious.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What’s the cliche. Death is the great equalizer. That it Doesn’t matter how much power you amass in this life or how many are gonna people show up to your funeral…death is an egalitarian enterprise…and every ONE of us would do well to recognize early how little death really cares about how many certificates you got hanging on your wall.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What else can death teach us? Death teaches us…that life is in NO WAY, EVER ABOUT…the destinations that we plan on as we go through it. Some people live in the past…some people wait to live, you know I’ll do it FIVE YEARS from now that’s when I’ll actually CHOOSE to live. But life is the journey along the way. In many ways, if you think about it... you are living life…right now. Like, look around you…THIS, IS what life is. You’re DOING it right now and I guess death reminds us of how when that journey is over we all have the same wooden box and a hole in the ground to look forward to as a destination. But aside from any death related platitudes…I think death is particularly helpful when it comes to the protagonist of this series…because more so than probably ANY other event that happens to us in our lives…death is something that is capable of INSTANTLY, tying a bow on top of a completed work, your life, and then giving the events of your life… meaning.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What I mean is: you know obviously if you could live forever, then you could do everything in this world…you could actually do every single possible thing that is available to you. But the very fact that we are GOING to die some day…puts an endpoint on the events of your life. It puts a period on the end of the sentence. In other words, we move OUT of the ETERNAL realm of the lily and the bird and instead move into a more temporal realm, where past, present and future actually become relevant concepts. And it is AT THIS POINT, that, all of a sudden…the things we CHOSE to do with our TIME here begin to take shape…the fact that someone took the day off and decided to spend it with you doing something fun…all of a sudden that becomes meaningful. The fact that someone would take what little time they have to find some way to live in service to others…all of a sudden that becomes a sacrifice that we all respect. Death reminds us if NOTHING else, of the FINITE nature of our lives…it reminds us that the clock is always ticking…and that when it comes to ANYTHING MEANINGFUL you want to do with the time that you have left on this planet…death reminds us… that it is probably better to DRINK the draining seconds of your life rather than to sit around and die of thirst waiting.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p>
@@ -1570,12 +1570,12 @@
 
 </div></div></div></div></div></div>
 
-        
+          
 
-        
-        
-          <div class="blog-item-author-profile-wrapper" data-content-field="author">
-            <a href="/transcript?author=5ed93d8e981c0869f203a7ea">
+          
+          
+            <div class="blog-item-author-profile-wrapper" data-content-field="author">
+              <a href="/transcript?author=5ed93d8e981c0869f203a7ea">
   
     <span class="author-avatar content-fill" data-tweaks="tweak-show-blog-item-author-profile">
       <img class="author-avatar-image" data-controller="AuthorProfileImageLoader" data-src="https://static1.squarespace.com/static/images/5ed93d8e3f6b28638e51b218" data-image="https://static1.squarespace.com/static/images/5ed93d8e3f6b28638e51b218" data-load="false" alt="" elementtiming="nbf-author-avatar" />
@@ -1586,17 +1586,18 @@
 
 
 
-          </div>
-        
-      </div>
-
-      <section class="blog-item-comments">
-        <div class="blog-item-comments-toggle-wrapper">
-          <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
-            
-          </div>
+            </div>
+          
         </div>
-      </section>
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
+              
+            </div>
+          </div>
+        </section>
+      
     </div>
   
 </article>
@@ -1724,29 +1725,29 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-  &quot;imageOverlayOpacity&quot;: 0.15,
-  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-  &quot;customContentWidth&quot;: 100,
-  &quot;sectionTheme&quot;: &quot;dark&quot;,
-  &quot;sectionAnimation&quot;: &quot;none&quot;,
-  &quot;backgroundMode&quot;: &quot;image&quot;
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
 }"
   data-current-context="{
-  &quot;video&quot;: {
-    &quot;playbackSpeed&quot;: 0.5,
-    &quot;filter&quot;: 1,
-    &quot;filterStrength&quot;: 0,
-    &quot;zoom&quot;: 0,
-    &quot;videoSourceProvider&quot;: &quot;none&quot;
-  },
-  &quot;backgroundImageId&quot;: null,
-  &quot;backgroundMediaEffect&quot;: null,
-  &quot;divider&quot;: null,
-  &quot;typeName&quot;: &quot;blog-masonry&quot;
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
 }"
   data-animation="none"
   
@@ -1941,7 +1942,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b502231aaf751bf844c833e9880528bf.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.4df6f348a832dc61e261a099a8ca9b31.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

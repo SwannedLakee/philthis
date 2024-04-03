@@ -41,15 +41,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-cb50fca3ba74465479b4-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-cb50fca3ba74465479b4-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-c20455a09b1fe109400d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2956e20d9a68ca6ae280-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-f176173c568e8717c99b-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-44d9cfb93d344a7446ac-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-5cd4a896962954eaca96-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6f4322f63224e137fb72-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4a222f32bf58327e181b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5f2d4e7ddb02d50723d1-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-210f16f8bec538fbaf2f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-eb72d47f5c6899b293da-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7993e315eeeb0e31e0d1-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-eb731df3d05e856250e3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b99f54f05b3a4f777f55-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c21b9c2f0a1526623416-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-84d5b8a1f1fc4654032c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a6388a789435452d55a7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db82977b390515867439-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-5196e0c68b662ed24a38-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-377a5b12886c446ac5e6-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #059 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"3":true,"4":true,"2":true,"7":true,"6":true,"1":true,"8":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #059 -  Transcript","id":"5eec1bd909afd80facd864b1","fullUrl":"/transcript/episode-59-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["campaigns_import_discounts","commerce_subscription_renewal_notifications","send_local_pickup_ready_email","commerce_site_visitor_metrics","fluid_engine","show_add_to_cart_in_plp","themes","commerce_etsy_shipping_import","commerce_checkout_website_updates_enabled","commerce_clearpay","commerce_restock_notifications","background_art_onboarding","commsplat_forms_visitor_profile","campaigns_discount_section_in_automations","nested_categories","toggle_preview_new_shortcut","unify_edit_mode_p2","supports_versioned_template_assets","pdp_product_add_ons_visitor_site","is_feature_gate_refresh_enabled","viewer-role-contributor-invites","rewrite_transactional_email_from_address","campaigns_discount_section_in_blasts","color_var_rendering_in_v6","customer_accounts_email_verification","commerce_etsy_product_import","order_status_page_checkout_landing_enabled","website_fonts","campaigns_new_image_layout_picker","accounting_orders_sync","marketing_landing_page","member_areas_feature","campaigns_thumbnail_layout","scripts_defer","website_component_enabled","commerce_order_status_access","visitor_react_forms","enable_css_variable_tweaks","customer_account_creation_recaptcha","image_component","collection_typename_switching","site_header_footer","new_stacked_index","nested_categories_migration_enabled","fluid_engine_clean_up_grid_contextual_change","campaigns_global_uc_ab","override_block_styles"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #059 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-59-transcript","datePublished":"2015-05-27T23:59:00-0700","dateModified":"2022-07-08T11:14:40-0700","headline":"Episode #059 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1489/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f1b17328c55249cf16e9-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce3304dbbbc00b0adc2c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-33c1f90c488c55fae579-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7116ec013cb68ccb46b1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-c284904b25c71d02bce8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-6e60a567b55f463b68e7-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-5d1c15b78a92b66bb9c2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-7acbb1abe140de860b8e-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c448735543b55eab799b-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-070905c328c108a2d84a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-206ef2320c2cea5a2878-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-503cf40eefffe62983b2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-cc29311f395b003af368-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-02d1e0bcb6fc2a7af709-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c425f4bbbcfb78c3f308-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f51f475a757005c26ee7-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e651beeebf0f0d458f3c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd133305dca90ae5ca2f-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5978fce864bf3409cbda-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-ed7446c70dde7b3316d8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b9419dfe48307ccde360-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #059 -  Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"2":true,"1":true,"7":true,"6":true,"3":true,"4":true,"8":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #059 -  Transcript","id":"5eec1bd909afd80facd864b1","fullUrl":"/transcript/episode-59-transcript","publicCommentCount":0,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["commerce_etsy_shipping_import","supports_versioned_template_assets","website_fonts","commerce_order_status_access","scripts_defer","marketing_landing_page","fluid_engine_clean_up_grid_contextual_change","commerce_clearpay","toggle_preview_new_shortcut","commerce_site_visitor_metrics","send_local_pickup_ready_email","campaigns_discount_section_in_blasts","rewrite_transactional_email_from_address","campaigns_thumbnail_layout","google_consent_v2","commsplat_forms_visitor_profile","commerce_subscription_renewal_notifications","commerce_etsy_product_import","fluid_engine","new_stacked_index","collection_typename_switching","campaigns_global_uc_ab","visitor_react_forms","themes","override_block_styles","commerce_restock_notifications","show_add_to_cart_in_plp","member_areas_feature","proposals_beta_in_circle_labs","background_art_onboarding","customer_accounts_email_verification","is_feature_gate_refresh_enabled","order_status_page_checkout_landing_enabled","accounting_orders_sync","async_copy_collection","nested_categories_migration_enabled","pdp_product_add_ons_visitor_site","enable_css_variable_tweaks","nested_categories","campaigns_discount_section_in_automations","viewer-role-contributor-invites","unify_edit_mode_p2","campaigns_import_discounts","commerce_checkout_website_updates_enabled","customer_account_creation_recaptcha","campaigns_new_image_layout_picker"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #059 -  Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-59-transcript","datePublished":"2015-05-27T23:59:00-0700","dateModified":"2022-07-08T11:14:40-0700","headline":"Episode #059 -  Transcript","author":"","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1500/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1706811132467-QIR6O63RE5GI9HXI9ESJ/static.css">
@@ -61,13 +61,7 @@
     class="
       primary-button-style-solid primary-button-shape-rounded secondary-button-style-solid secondary-button-shape-rounded tertiary-button-style-solid tertiary-button-shape-rounded  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-dash tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-right tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-hide tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-hide tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-left tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-content-position-center image-block-overlap-text-alignment-opposite image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog-masonry collection-6053dc3a01905600e48be230 view-item collection-layout-default mobile-style-available sqs-seven-one
       
-        plp-config-editor-add-to-cart
-      
-      
         show-pdp-product-add-ons
-      
-      
-         plp-add-to-cart
       
       
         
@@ -138,256 +132,256 @@
   "
   data-controller="Header"
   data-current-styles="{
-                    &quot;layout&quot;: &quot;navRight&quot;,
-                    &quot;action&quot;: {
-                      &quot;href&quot;: &quot;/take-action&quot;,
-                      &quot;buttonText&quot;: &quot;Take Action&quot;,
-                      &quot;newWindow&quot;: false
-                    },
-                    &quot;showSocial&quot;: true,
-                    &quot;socialOptions&quot;: {
-                      &quot;socialBorderShape&quot;: &quot;none&quot;,
-                      &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                      &quot;socialBorderThickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 1.0
-                      }
-                    },
-                    &quot;sectionTheme&quot;: &quot;light&quot;,
-                    &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                    &quot;cartStyle&quot;: &quot;cart&quot;,
-                    &quot;cartText&quot;: &quot;Cart&quot;,
-                    &quot;showEmptyCartState&quot;: true,
-                    &quot;cartOptions&quot;: {
-                      &quot;iconType&quot;: &quot;solid-7&quot;,
-                      &quot;cartBorderShape&quot;: &quot;none&quot;,
-                      &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                      &quot;cartBorderThickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 1.0
-                      }
-                    },
-                    &quot;showButton&quot;: false,
-                    &quot;showCart&quot;: false,
-                    &quot;showAccountLogin&quot;: true,
-                    &quot;headerStyle&quot;: &quot;theme&quot;,
-                    &quot;languagePicker&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;iconEnabled&quot;: false,
-                      &quot;iconType&quot;: &quot;globe&quot;,
-                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                      &quot;languageFlags&quot;: [ ]
-                    },
-                    &quot;mobileOptions&quot;: {
-                      &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                      &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                      &quot;menuIconOptions&quot;: {
-                        &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                        &quot;thickness&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 1.0
-                        }
-                      }
-                    },
-                    &quot;dynamicOptions&quot;: {
-                      &quot;border&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;position&quot;: &quot;bottom&quot;,
-                        &quot;thickness&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 4.0
-                        },
-                        &quot;color&quot;: {
-                          &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-                          &quot;customColor&quot;: {
-                            &quot;hslaValue&quot;: {
-                              &quot;hue&quot;: 203.4782608695652,
-                              &quot;saturation&quot;: 0.22330097087378645,
-                              &quot;lightness&quot;: 0.2019607843137255,
-                              &quot;alpha&quot;: 1.0
-                            },
-                            &quot;userFormat&quot;: &quot;hex&quot;
-                          }
-                        }
-                      }
-                    },
-                    &quot;solidOptions&quot;: {
-                      &quot;headerOpacity&quot;: {
-                        &quot;unit&quot;: &quot;%&quot;,
-                        &quot;value&quot;: 100.0
-                      },
-                      &quot;border&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;position&quot;: &quot;bottom&quot;,
-                        &quot;thickness&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 4.0
-                        },
-                        &quot;color&quot;: {
-                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                          &quot;sitePaletteColor&quot;: {
-                            &quot;colorName&quot;: &quot;black&quot;,
-                            &quot;alphaModifier&quot;: 1.0
-                          }
-                        }
-                      },
-                      &quot;dropShadow&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;blur&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 30.0
-                        },
-                        &quot;spread&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 0.0
-                        },
-                        &quot;distance&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 0.0
-                        },
-                        &quot;color&quot;: {
-                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                          &quot;sitePaletteColor&quot;: {
-                            &quot;colorName&quot;: &quot;black&quot;,
-                            &quot;alphaModifier&quot;: 1.0
-                          }
-                        }
-                      },
-                      &quot;blurBackground&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;blurRadius&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 12.0
-                        }
-                      },
-                      &quot;backgroundColor&quot;: {
-                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                        &quot;sitePaletteColor&quot;: {
-                          &quot;colorName&quot;: &quot;white&quot;,
-                          &quot;alphaModifier&quot;: 1.0
-                        }
-                      },
-                      &quot;navigationColor&quot;: {
-                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                        &quot;sitePaletteColor&quot;: {
-                          &quot;colorName&quot;: &quot;black&quot;,
-                          &quot;alphaModifier&quot;: 1.0
-                        }
-                      }
-                    },
-                    &quot;gradientOptions&quot;: {
-                      &quot;gradientType&quot;: &quot;faded&quot;,
-                      &quot;headerOpacity&quot;: {
-                        &quot;unit&quot;: &quot;%&quot;,
-                        &quot;value&quot;: 90.0
-                      },
-                      &quot;border&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;position&quot;: &quot;bottom&quot;,
-                        &quot;thickness&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 4.0
-                        },
-                        &quot;color&quot;: {
-                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                          &quot;sitePaletteColor&quot;: {
-                            &quot;colorName&quot;: &quot;black&quot;,
-                            &quot;alphaModifier&quot;: 1.0
-                          }
-                        }
-                      },
-                      &quot;dropShadow&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;blur&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 30.0
-                        },
-                        &quot;spread&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 0.0
-                        },
-                        &quot;distance&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 0.0
-                        },
-                        &quot;color&quot;: {
-                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                          &quot;sitePaletteColor&quot;: {
-                            &quot;colorName&quot;: &quot;black&quot;,
-                            &quot;alphaModifier&quot;: 1.0
-                          }
-                        }
-                      },
-                      &quot;blurBackground&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;blurRadius&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 12.0
-                        }
-                      },
-                      &quot;backgroundColor&quot;: {
-                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                        &quot;sitePaletteColor&quot;: {
-                          &quot;colorName&quot;: &quot;white&quot;,
-                          &quot;alphaModifier&quot;: 1.0
-                        }
-                      },
-                      &quot;navigationColor&quot;: {
-                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                        &quot;sitePaletteColor&quot;: {
-                          &quot;colorName&quot;: &quot;black&quot;,
-                          &quot;alphaModifier&quot;: 1.0
-                        }
-                      }
-                    },
-                    &quot;dropShadowOptions&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blur&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 12.0
-                      },
-                      &quot;spread&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 0.0
-                      },
-                      &quot;distance&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 12.0
-                      }
-                    },
-                    &quot;borderOptions&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;position&quot;: &quot;bottom&quot;,
-                      &quot;thickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 4.0
-                      }
-                    },
-                    &quot;showPromotedElement&quot;: false,
-                    &quot;buttonVariant&quot;: &quot;primary&quot;,
-                    &quot;blurBackground&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blurRadius&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 12.0
-                      }
-                    },
-                    &quot;headerOpacity&quot;: {
-                      &quot;unit&quot;: &quot;%&quot;,
-                      &quot;value&quot;: 100.0
-                    }
-                  }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+&quot;customColor&quot;: {
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
   data-section-id="header"
   data-header-theme="light"
   data-menu-overlay-theme=""
   data-header-style="theme"
   data-language-picker="{
-                    &quot;enabled&quot;: false,
-                    &quot;iconEnabled&quot;: false,
-                    &quot;iconType&quot;: &quot;globe&quot;,
-                    &quot;flagShape&quot;: &quot;shiny&quot;,
-                    &quot;languageFlags&quot;: [ ]
-                  }"
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
   
   data-first-focusable-element
   tabindex="-1"
@@ -411,18 +405,18 @@
   "
 >
   
+    
 <div class="sqs-announcement-bar-dropzone"></div>
 
-  <div class="header-announcement-bar-wrapper"
-  > 
-
-    <a
-      href="#page"
-      class="header-skip-link sqs-button-element--primary"
-    >
-      Skip to Content
-    </a>
-    
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
 <style>
@@ -433,13 +427,13 @@
         }
     }
 </style>
-    <div
-      class="header-border"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-border="false"
-      data-test="header-border"
-      style="
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
 
 
 
@@ -453,44 +447,44 @@
 
 
 "
-    ></div>
-    <div
-      class="header-dropshadow"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-dropshadow="false"
-      data-test="header-dropshadow"
-      style="
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
 
 
   
 "
-    ></div>
-    
-    
+      ></div>
+      
+      
 
-    <div class='header-inner container--fluid
-      
-      
-      
-       header-mobile-layout-logo-left-nav-right
-      
-      
-      
-      
-      
-      
-       header-layout-nav-right
-      
-      
-      
-      
-      
-      
-      
-      
-      '
-      style="
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
 
 
 
@@ -500,68 +494,68 @@
 
 
 "
-      data-test="header-inner"
-      >
-      <!-- Background -->
-      <div class="header-background theme-bg--primary"></div>
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+        <div class="header-display-desktop" data-content-field="site-title">
           
-          <!-- Social -->
+
+          
+
+          
+
+          
+
+          
+
+          
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -660,64 +654,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -747,59 +741,59 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
-
-      </div>
-      <div class="header-display-mobile" data-content-field="site-title">
-        
           
-          <!-- Social -->
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -898,64 +892,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -985,14 +979,15 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+          
+          
+          
+          
+          
+        </div>
       </div>
     </div>
-  </div>
+  
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     
@@ -1002,245 +997,245 @@
     
     "
     data-current-styles="{
-                    &quot;layout&quot;: &quot;navRight&quot;,
-                    &quot;action&quot;: {
-                      &quot;href&quot;: &quot;/take-action&quot;,
-                      &quot;buttonText&quot;: &quot;Take Action&quot;,
-                      &quot;newWindow&quot;: false
-                    },
-                    &quot;showSocial&quot;: true,
-                    &quot;socialOptions&quot;: {
-                      &quot;socialBorderShape&quot;: &quot;none&quot;,
-                      &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                      &quot;socialBorderThickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 1.0
-                      }
-                    },
-                    &quot;sectionTheme&quot;: &quot;light&quot;,
-                    &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                    &quot;cartStyle&quot;: &quot;cart&quot;,
-                    &quot;cartText&quot;: &quot;Cart&quot;,
-                    &quot;showEmptyCartState&quot;: true,
-                    &quot;cartOptions&quot;: {
-                      &quot;iconType&quot;: &quot;solid-7&quot;,
-                      &quot;cartBorderShape&quot;: &quot;none&quot;,
-                      &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                      &quot;cartBorderThickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 1.0
-                      }
-                    },
-                    &quot;showButton&quot;: false,
-                    &quot;showCart&quot;: false,
-                    &quot;showAccountLogin&quot;: true,
-                    &quot;headerStyle&quot;: &quot;theme&quot;,
-                    &quot;languagePicker&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;iconEnabled&quot;: false,
-                      &quot;iconType&quot;: &quot;globe&quot;,
-                      &quot;flagShape&quot;: &quot;shiny&quot;,
-                      &quot;languageFlags&quot;: [ ]
-                    },
-                    &quot;mobileOptions&quot;: {
-                      &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                      &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                      &quot;menuIconOptions&quot;: {
-                        &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                        &quot;thickness&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 1.0
-                        }
-                      }
-                    },
-                    &quot;dynamicOptions&quot;: {
-                      &quot;border&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;position&quot;: &quot;bottom&quot;,
-                        &quot;thickness&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 4.0
-                        },
-                        &quot;color&quot;: {
-                          &quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
-                          &quot;customColor&quot;: {
-                            &quot;hslaValue&quot;: {
-                              &quot;hue&quot;: 203.4782608695652,
-                              &quot;saturation&quot;: 0.22330097087378645,
-                              &quot;lightness&quot;: 0.2019607843137255,
-                              &quot;alpha&quot;: 1.0
-                            },
-                            &quot;userFormat&quot;: &quot;hex&quot;
-                          }
-                        }
-                      }
-                    },
-                    &quot;solidOptions&quot;: {
-                      &quot;headerOpacity&quot;: {
-                        &quot;unit&quot;: &quot;%&quot;,
-                        &quot;value&quot;: 100.0
-                      },
-                      &quot;border&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;position&quot;: &quot;bottom&quot;,
-                        &quot;thickness&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 4.0
-                        },
-                        &quot;color&quot;: {
-                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                          &quot;sitePaletteColor&quot;: {
-                            &quot;colorName&quot;: &quot;black&quot;,
-                            &quot;alphaModifier&quot;: 1.0
-                          }
-                        }
-                      },
-                      &quot;dropShadow&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;blur&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 30.0
-                        },
-                        &quot;spread&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 0.0
-                        },
-                        &quot;distance&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 0.0
-                        },
-                        &quot;color&quot;: {
-                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                          &quot;sitePaletteColor&quot;: {
-                            &quot;colorName&quot;: &quot;black&quot;,
-                            &quot;alphaModifier&quot;: 1.0
-                          }
-                        }
-                      },
-                      &quot;blurBackground&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;blurRadius&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 12.0
-                        }
-                      },
-                      &quot;backgroundColor&quot;: {
-                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                        &quot;sitePaletteColor&quot;: {
-                          &quot;colorName&quot;: &quot;white&quot;,
-                          &quot;alphaModifier&quot;: 1.0
-                        }
-                      },
-                      &quot;navigationColor&quot;: {
-                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                        &quot;sitePaletteColor&quot;: {
-                          &quot;colorName&quot;: &quot;black&quot;,
-                          &quot;alphaModifier&quot;: 1.0
-                        }
-                      }
-                    },
-                    &quot;gradientOptions&quot;: {
-                      &quot;gradientType&quot;: &quot;faded&quot;,
-                      &quot;headerOpacity&quot;: {
-                        &quot;unit&quot;: &quot;%&quot;,
-                        &quot;value&quot;: 90.0
-                      },
-                      &quot;border&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;position&quot;: &quot;bottom&quot;,
-                        &quot;thickness&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 4.0
-                        },
-                        &quot;color&quot;: {
-                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                          &quot;sitePaletteColor&quot;: {
-                            &quot;colorName&quot;: &quot;black&quot;,
-                            &quot;alphaModifier&quot;: 1.0
-                          }
-                        }
-                      },
-                      &quot;dropShadow&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;blur&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 30.0
-                        },
-                        &quot;spread&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 0.0
-                        },
-                        &quot;distance&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 0.0
-                        },
-                        &quot;color&quot;: {
-                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                          &quot;sitePaletteColor&quot;: {
-                            &quot;colorName&quot;: &quot;black&quot;,
-                            &quot;alphaModifier&quot;: 1.0
-                          }
-                        }
-                      },
-                      &quot;blurBackground&quot;: {
-                        &quot;enabled&quot;: false,
-                        &quot;blurRadius&quot;: {
-                          &quot;unit&quot;: &quot;px&quot;,
-                          &quot;value&quot;: 12.0
-                        }
-                      },
-                      &quot;backgroundColor&quot;: {
-                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                        &quot;sitePaletteColor&quot;: {
-                          &quot;colorName&quot;: &quot;white&quot;,
-                          &quot;alphaModifier&quot;: 1.0
-                        }
-                      },
-                      &quot;navigationColor&quot;: {
-                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                        &quot;sitePaletteColor&quot;: {
-                          &quot;colorName&quot;: &quot;black&quot;,
-                          &quot;alphaModifier&quot;: 1.0
-                        }
-                      }
-                    },
-                    &quot;dropShadowOptions&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blur&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 12.0
-                      },
-                      &quot;spread&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 0.0
-                      },
-                      &quot;distance&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 12.0
-                      }
-                    },
-                    &quot;borderOptions&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;position&quot;: &quot;bottom&quot;,
-                      &quot;thickness&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 4.0
-                      }
-                    },
-                    &quot;showPromotedElement&quot;: false,
-                    &quot;buttonVariant&quot;: &quot;primary&quot;,
-                    &quot;blurBackground&quot;: {
-                      &quot;enabled&quot;: false,
-                      &quot;blurRadius&quot;: {
-                        &quot;unit&quot;: &quot;px&quot;,
-                        &quot;value&quot;: 12.0
-                      }
-                    },
-                    &quot;headerOpacity&quot;: {
-                      &quot;unit&quot;: &quot;%&quot;,
-                      &quot;value&quot;: 100.0
-                    }
-                  }"
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/take-action&quot;,
+&quot;buttonText&quot;: &quot;Take Action&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: true,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;CUSTOM_COLOR&quot;,
+&quot;customColor&quot;: {
+&quot;hslaValue&quot;: {
+&quot;hue&quot;: 203.4782608695652,
+&quot;saturation&quot;: 0.22330097087378645,
+&quot;lightness&quot;: 0.2019607843137255,
+&quot;alpha&quot;: 1.0
+},
+&quot;userFormat&quot;: &quot;hex&quot;
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
     data-section-id="overlay-nav"
     data-show-account-login="true"
     data-test="header-menu">
@@ -1456,31 +1451,31 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                    &quot;imageOverlayOpacity&quot;: 0.15,
-                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                    &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                    &quot;customSectionHeight&quot;: 10,
-                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                    &quot;customContentWidth&quot;: 50,
-                    &quot;sectionTheme&quot;: &quot;&quot;,
-                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                    &quot;backgroundMode&quot;: &quot;image&quot;
-                  }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                    &quot;video&quot;: {
-                      &quot;playbackSpeed&quot;: 0.5,
-                      &quot;filter&quot;: 1,
-                      &quot;filterStrength&quot;: 0,
-                      &quot;zoom&quot;: 0,
-                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                    },
-                    &quot;backgroundImageId&quot;: null,
-                    &quot;backgroundMediaEffect&quot;: null,
-                    &quot;divider&quot;: null,
-                    &quot;typeName&quot;: &quot;blog-masonry&quot;
-                  }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1519,6 +1514,9 @@
       <div class="blog-item-wrapper blog-grid-masonry-item-wrapper" data-content-field="main-content" data-item-id="">
   <article id="article-" class="h-entry entry hentry post-type-">
   
+    
+    
+    
     <div class="blog-item-inner-wrapper">
       <div class="blog-item-top-wrapper">
         <div class="blog-item-title">
@@ -1537,11 +1535,13 @@
             </time>
             <div class="blog-meta-item blog-meta-item--author p-author author" data-content-field="author">Written By <a href="/transcript?author=5eec15fc09afd80facd6edf3" class="blog-author-name"></a></div>
           </div>
+          
         </div>
       </div>
 
-      <div class="blog-item-content-wrapper">
-        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1bd909afd80facd864b1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1657303997911_1139"><div class="sqs-block-content">
+      
+        <div class="blog-item-content-wrapper">
+          <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-5eec1bd909afd80facd864b1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1657303997911_1139"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">Thank you for wanting to know more today than you did yesterday, and I hope you love the show.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, if you’ve been listening to this show for at least a descent amount of time, you’ve probably noticed something about philosophers in general by this point. These people just love their thought experiments, don’t they? Thought experiments are an important part of philosophy. See, as you know, philosophy oftentimes tries to get us to think about ourselves and the world in a slightly different way than we typically would, the goal being that hopefully after doing these things, we can hack past the absolute jungle of social conventions and prejudices and all these things that have been meticulously programmed into us since birth to hopefully get a more honest depiction of reality, not just a depiction of reality that has our particular culture and time period’s stamp of approval branded into it. And whenever somebody asks us to consider ourselves in the middle of one of these thought experiments, it’s so easy to be dismissive of the entire process, isn’t it? It’s so easy to not take a thought experiment seriously in the moment because, well, they’re not real.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is something I’ve encountered quite a bit when it comes to ethical dilemmas in particular like the axe murderer example from last episode or the kind of things we’re going to be talking about today. People will say things like, “What’s the point? Like, what’s the point of considering these things? What’s the point of being whisked away into your little fantasy world? I’m a serious person. I got both my feet on the ground here. I don’t need to understand the fundamental reasons behind why I make the moral judgments I do. I live my life. I take all the information available to me in the moment. And I just use common sense, simple as that.” But in the words of the great Abraham Lincoln, the great philosopher Abraham Lincoln, common sense is just a collection of prejudices that you’ve arrived at before the age of 18.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Fact is, people make decisions for specific reasons, not because they’re appealing to this elusive thing that they call common sense that’s just somehow the right answer in every situation. No, when you cite things like common sense or sound moral reasoning as the justification for why you made a decision that you did, you still are making that decision based on something. You still may be making a decision based on deontology or consequentialism or anything for that matter; you’re just using this term “common sense” as a catch-all euphemism. And you know, that’s the other side of this. Last episode I went on a bit of a nerd tangent where I talked about all the perks of arriving at a satisfying definition for all this stuff. I talked about the potential fruits of laboring away in these ethical dilemmas and how you might over time eventually arrive at some clarity about why you personally deem certain things to be right or wrong.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But just be warned from this point forward. The exact opposite might happen as well. Because if you’re anything like me, I mean, I started thinking about this stuff, and I thought I had it all figured out. I mean, I thought I had an iron-clad understanding of what makes something right or wrong. But what ended up happening with me is the more I read, the more I started thinking about all the contingencies, all the different individual circumstances; instead of gaining clarity, I started questioning myself more. I started finding exceptions to all my so-called iron-clad rules. I started to get confused. I started to realize that this thing that we call morality, this process that we call ethics—not as cut and dry as I once thought. Sometimes things are not as simple as just “This decision was right, and this decision was wrong.” It’s sometimes not as simple as just “This guy was a saint for doing what he did, and this guy over here was a complete monster for doing what he did.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In fact—and it was a very unexpected byproduct of this whole process when it happened. I didn’t realize it was going to happen—after thinking about these things long enough, for some reason I stopped thinking about people as saints and monsters altogether. I just stopped. And it was weird. It felt like the same sort of mental graduation that a four-year-old might have when they stop believing in monsters under their bed. I stopped believing in monsters. Maybe this is why I take issue with the people that talk about morality as though it’s this definitive collection of adjectives that you can hang on the wall somewhere. Those people have not been through the baptism by fire. It’s just so obvious when you talk to them. These people have never run their beliefs through the rigors of these ethical dilemmas. These people are not confused enough.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">And I guess to tie this all together, what I will say is that if there’s one thing philosophy has taught me over the years it’s that confusion on a given subject is not always a step backwards. The point is, even if you’re one of these people, even if you’re super confident about why you make the moral judgments you do, oftentimes you learn a lot about yourself when putting yourself through these ethical dilemmas. Oftentimes you quickly realize that just by asking a few very simple questions that whatever this thing is that you use to make your moral judgments, whatever this thing is that you’re super confident in, it can be very difficult to define.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, that said, if you consider yourself a fan of philosophy, there are certain infamous thought experiments that you’ve just heard before. These are thought experiments that everybody’s heard about. If you’re at some sort of hoity-toity philosophy party and you walk up to some guy with a monocle and you start talking to him about it, that guy’s going to know what you’re talking about. And let’s continue to learn more about ourselves and more about where we stand ethically when talking about this period in time by putting ourselves through one of the most famous of all the famous thought experiments of philosophy. It’s known as the trolley car problem, and it goes like this.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I want you to imagine you’re the conductor of a trolley car. Now, hold on, before you go getting all excited about your new prestigious career as a trolley car conductor, I want you to imagine you’re the conductor of a broken trolley car. That’s right. Back down a couple of pegs. Anyway, you’re conducting this thing down the tracks one day, and the breaks stop working. It’s now a runaway trolley car—runaway trolley car. Hm, I said that like I was British. Now, to make matters worse, when you’re in this broken, brakeless trolley car, you look ahead of you a few hundred feet, and to your horror, you see five people standing on the tracks, completely unaware that this runaway trolley car is hurling towards them at 60 miles an hour. In the moment, it seems like there’s nothing you can do. You can’t stop the trolley car. It has no brakes. It seems like no matter what you do, it’s going to run into the five people. It will kill them all most certainly. What a horrible tragedy it will be.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But then you realize something. You realize that you can switch the trolley car onto a different track, an adjacent track. You know those little junctions that they have, the lever that you can pull, and it switches the trolley onto a different track? One of those. But just as soon as you realize that you can switch tracks and save these five people, you realize that on that new track that you’re about to switch to is just one person who is also completely unaware of what’s going on. And they will inevitably get turned into a trolley pancake if you so decide to switch the tracks.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">What do you do? What do you do? Do you allow the trolley to kill the five people? Or do you switch the tracks, pull the lever, and opt to kill just one person? What decision would you make in that moment? And look, just for the record, given the audience of this show, just given who’s listening to this right now, I have full confidence that you guys came up with some sort of diabolical plan where you don’t got to kill anyone here. But if we’re just talking statistically, the layman, statistically speaking, most people say that in this moment what they would do is they would pull the lever, switch the tracks, and favor killing the one person over the five. And this is totally understandable, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">In fact, come to think of it, I think I can get on board with that. In fact, I would pull that lever. You guys, I am not confused about morality anymore. I’m not afraid anymore! I mean, after all, one person dying is a much better outcome than five people dying. I mean, to me, this seems really straightforward. If you have the opportunity to, why wouldn’t you save the five? I’m sure you remember from last episode. What I’m doing here is I’m looking at the situation through the eyes of a consequentialist. And if you wanted to go a step further than that, I might be looking at this through the eyes of a utilitarian. Utilitarianism is a specific type of consequentialism developed by a guy named Jeremy Bentham, refined by a guy named John Stuart Mill. But the fundamental idea at its core is something that we’ve talked about on this podcast going all the way back to the Hellenistic period with the Epicureans: the idea being that what is right or what is good is always the action where the consequences of that action maximizes utility; hence the name utilitarianism.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">“What is utility?” you may ask. Well, utility can be a lot of different things. It can be emotional wellbeing. It could be economic wellbeing. It could be the limitation of suffering. But most of the time people just define it as pleasure. This is a very simple idea that on the surface sounds absolutely incredible. Jeremy Bentham looked at nature around him, much like the Epicureans did, and he realized that, “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.” That’s the famous line by him. Anyway, human action can be distilled down into two things: an avoidance of pain and the pursuit of pleasure. To a utilitarian, the right decision in any situation is just the one where the consequences ensure the greatest about of utility to the greatest number of people. The right thing to do is the thing that maximizes happiness for the greatest number of people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Back to the trolley car example. Sounds like I’m a utilitarian now. After all, it seems very straightforward what the right decision is here. I would pull the lever, kill the one person in favor of killing the five people. If we’re judging the right or wrong decision in terms of it bringing the greatest utility to the greatest number of people, then killing one to save five, I mean, that’s as easy as it gets. That’s a no-brainer. Man, I got to be honest with you guys. It feels good to be confident in why you’re making moral decisions. I can see why this is addictive. It feels great. Can I just tell you guys something? It feels great to just be able to pull levers and kill people with impunity. But as great as this feels—my cruel mistress philosophy—it always manages to throw a monkey wrench in the equation, right?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">That’s not where the trolley car problem ends. At that point, the trolley car takes a turn—no pun intended—and it asks you to consider a slightly different scenario than the first one. This time, imagine you’re still in the general vicinity of the trolley tracks, but now you’re up on a bridge, a bridge that overlooks the tracks. So, now you’re an observer. Now, while looking down and observing the train track area, you notice a very similar situation to the first one unfolding, except this time there’s only one track. There’s five oblivious people standing on the train tracks, not paying attention, a couple hundred feet away from a runaway trolley hurling towards them. And it seems like in the moment there’s nothing you can do to save these people from certain death, when all of a sudden you look over to your right, and you notice something. There’s a fat guy standing next to you, leaning over the side of the bridge, trying to get a look at what’s going on below, much like you are.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, I realize this may seem slightly ridiculous, but in the thought experiment we’re supposed to imagine that this guy is not just your run-of-the-mill, garden-variety fat guy. This guy’s grotesquely fat, so fat that you could push him over the side of the bridge, and when he hit the ground and died, it would create some sort of shock-wave situation where the five people would be alerted to his presence. They would see the train coming; they would jump off the tracks. His sheer girth would slow down the train long enough to make sure that all of them got out of the way. Either way, you kill one person to save five. What do you do?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Do you push the guy over the bridge to save the five innocent people? Well, I got to be honest with you guys. Right now, I’m not having too much fun going through the whole process of this thought experiment. I mean, I’m not sure how aware of my situation you guys are, but I just converted to utilitarianism recently, and I’m having a little bit of a crisis of faith right now. See, as a good utilitarian, if I’m just looking at the consequences of my actions and whether they bring the greatest amount of utility to the greatest number of people, well, the answer seems to be very cut and dry here. I need to push my new sizeable friend over the bridge, kill him inevitably, but save the five. But it just feels wrong to me for some reason.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, statistically speaking, most people after being advocates of pulling the lever in the first scenario would never even think about pushing the fat guy over the bridge. And I think I seem to fall into the same category here. Why do I feel different about this scenario than the first one? What really is the difference between the two situations? Now, obviously there are differences between the two. I mean, you wouldn’t be able to ask, “What’s the difference between these two things?” if there weren’t actually differences between those two things. Kind of confusing whenever people say, “What’s the difference between these two…”—anyway, in both cases, your behavior remains remarkably similar. You are actively sentencing one innocent person to death in the name of saving five innocent people.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, here it’s very tempting to give all sorts of rebuttals. “Yeah, I was down for pulling the lever before—before, when my actions only involved people who were already on the tracks to begin with. Ah, that’s what’s different. These people were in harm’s way. To push the guy over the bridge is to bring an innocent bystander into harm’s way. How could I ever do that just to save five people? That’s not fair to him.” But is that true? In the original example, was the one person that you opted to kill by pulling the lever in harm’s way before you pulled the lever? They had no reason to assume the train would take some unexpected diversion at the last second onto their track that was otherwise completely safe. They were completely out of harm’s way until you decided to pull the lever and put them into harm’s way. If it weren’t for your decision to pull the lever, that track was equally as benign as standing on a bridge overlooking the tracks.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, another rebuttal might be, “Well, pushing someone over the side of a bridge is much, much different than merely pulling a lever. In one case you’re just pulling a lever, and something happens after you pull that lever. In the other case, well, now you’re physically putting your hands on the guy. You’re forcing him over the side of a bridge. That is murder. That physical contact makes it much different.” But is it really the physical contact that makes it different? I would argue that it’s not. I mean, what if instead of pushing the guy over the side, you could do something else? What if you could pull a lever, and the fat man would be launched out of some sort of medieval trebuchet, and he would land on the tracks, and the same exact thing would happen? Would you feel morally justified to do that?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Personally, I wouldn’t. And I think if this illustrates anything, and the point of this, is that there must be something else at work here, something other than just the physical contact that makes us think that this action is wrong and the other one is right. I think most people would say that regardless of the consequences, there’s something unique about pushing the fat guy over the bridge that’s just wrong, something that isn’t present in the lever-pulling example. Now, the really fascinating thing here that we should all take from this is not that we make different decisions given different individual situations. That’s obvious. The interesting thing is that at the beginning of this thought experiment I started out pretty darn confident—didn’t I?—pretty confident in my decision-making about pulling that lever. I cited very clear reasons for why what I did was perfectly okay in that situation. And then with just a few minor tweaks to the circumstances, all of a sudden, I started to revise my entire moral foundation. I started giving different reasons, which either makes me ignorant, a liar, a hypocrite, or more likely it implies that the reason I gave for why I made the first decision to pull the lever was not the real reason why I did it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">There’s something more complicated at work here. What is that thing? There have been many attempts to answer this question over the years. As we talked about last time, the deontologist would say that regardless of what the consequences of our actions will be—or in this case, inaction—although the consequences are bad, some things are just wrong, like, for instance, pushing an innocent fat guy over the side of a bridge. Look, let’s get one thing clear. In both scenarios if we do nothing, five people die. There’s no getting around that. And just you knowing the certain outcome in either situation instantly implicates you. It leaves you in a place where you need to make a choice. Doing nothing in these cases does not absolve you from any guilt.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Consequentialists would say that the ends justify the means, but a deontologist, someone like Immanuel Kant, would say that you should never use people as a means to some end. When you push the innocent fat man over the side of a bridge to save the five people, you are using that guy as a means to some end that you aim to achieve, and that is wrong. Immanuel Kant talks about the ideal society that we could live in as what he calls a kingdom of ends where every person is viewed not as a means to some end or a pawn in someone else’s game that they’re playing where they can say, “Oh, this guy’s just a means to an end.” Every person is an end in themselves, as Kant says.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, we’ll talk in a second more fully about why this point that Kant’s making here is important. But first, let’s talk about how Kant may have responded here, alright? How would he have responded to the apparent contradiction between me thinking it’s okay to pull the lever to kill the person but it’s wrong to push the guy off the bridge to kill the person? See, Kant was smart. Well, to say the least, he was smart. He recognized that it would be very easy for us to mistake whatever cultural norms we were born into for a good, solid moral foundation. Not many people would think that chopping the hands off of somebody that just stole a Snickers bar would be a fair punishment. But if Snickers bars existed back in Babylonia, well, you might find quite a few people that disagreed with you at the time.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, to circumvent this transient, subjective moral trap that we might otherwise fall into, as we talked about last episode, Kant thinks that just like our objective conception of reality itself is based on a priori concepts of reason, our morals too can be based on a priori concepts of reason. Now, let’s slow down and think about what this means for a second. This doesn’t just mean that these moral principles that we’re going to arrive at need to be appropriate for every human in every time period and in every circumstance, but for these things to be truly valid, they need to be done purely from a place of being moral. For example, from the last episode, the kid that only cleans his room because his mom says he’s going to get an ice cream cone if he does it—that’s not good enough for Kant.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, given these criteria, these criteria that Kant’s laid out for what a moral action can be, let’s try to come up with a few. What are some moral principles that fit all these criteria that we just talked about? Can you think of any? Because I can’t. I mean, this is a pretty intense set of restrictions to put on the process. Kant’s obviously taking these moral principles very seriously. See, Kant argues that if you’re ever doing anything in this world, any action you take is going to be done with certain things in mind. It’s going to be done at a particular place in time. It’s going to be yielding to a particular set of circumstances. It’s going to be considering a particular history given your own particular personality. Think about this point he’s making. These elements of any action that we ever take are inescapable. They’re inescapable aspects of our existence.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">This is the reason why he looks to things that are prior to experience, prior to tradition, prior to circumstances, prior to your personality. It’s for this reason that Kant says that the only things that would ever fit into this rigorous set of criteria are a priori. The moral principles that I should adhere to in determining whether to push the fat guy over the bridge or not—they have to be a priori in nature. Remember, moral action is determined by reason for Kant. Reason is the same in all rational beings regardless of time period or culture. So, because reason is universal, morality too should be universal.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, once you arrive here, if you’re Kant, you still have a pretty difficult task ahead of you. Well, where Kant goes from here—his solution to the problem—is what he calls his categorical imperative. Categorical imperative—I know, two really cool sounding words that if you break them down individually, they actually do a pretty good job at explaining what Kant’s talking about with his categorical imperative: categorical meaning explicit or applying across all categories, and imperative meaning essential or necessary. An essential rule of morality that applies across every situation, culture, time period, set of experiences, you name it.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Now, Kant gives multiple formulations of his categorical imperative, but by far the most famous one is this. “There is only a single categorical imperative, and it is this: act only on that maxim through which you can at the same time will that it should become a universal law.” Now, what Kant’s saying here is that before you do anything, anything, consider something for a second. Consider for a second what the world would look like if literally every other person in the entire world acted just as you did in that situation. Really imagine it. And if that world that you imagine is not something that you’re willing to deal with, if it’s a direct contradiction for that world to exist or if that world would be filled with chaos, then you shouldn’t do whatever it is you were considering doing.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Let’s think of a few examples of what he’s talking about. Someone cuts you off in traffic. What do you do? Well, if you decide to chase the guy down and kill him, Kant would want you to ask, how would the world look if every time someone got cut off in traffic just as I did, the person that got cut off chased the other person down and killed them? That world would be absolute chaos, wouldn’t it? People would be terrified of driving. That’s for sure. Productivity would go way down. And heaven forbid you just lose focus on the road for one second and accidentally cut someone off. You would be dead. You wouldn’t want to live in that world.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">But how about something less extreme? Let’s say you’re standing outside of a supermarket, and you’re drinking a Coke. You’re waiting for a ride or something. You finish your bottle, and you decide instead of walking all the way to the trashcan, you’re just going to leave it on the ground by where you were standing. Someone will get it eventually, right? Well, if we apply Kant’s categorical imperative to this example, the world would be an ocean of Coke bottles everywhere. Think if seven billion people, just whenever they got done with their trash, they just left it wherever they were when they got done using it. Just think of how that world would look. Aside from us all existing in a perpetual revolving trashcan, think of the burden to the average taxpayer, including you, by the way. We’d have to spend millions and millions of your hard-earned dollars on teams of people constantly patrolling around just picking up people’s garbage. It would be madness.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Do you understand what he’s saying? See, this is the sort of thinking behind why Kant thinks it’s a bad idea to lie. It’s just downright illogical, because if we existed in a world where all anyone ever did was lie, then everyone would always know that they were being lied to. So, they could never be deceived. But that’s kind of the point of a lie, to deceive people. So, logically, it would be pointless. Now, you contrast that with a world when everybody always told the truth, and there’s no logical contradiction.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, right now I want to tie this all together into a neat package because it’s kind of been spread across two episodes. Let’s bring it all together here. To Kant, when considering whether to push the innocent fat guy off the bridge in order to save the five people, or when considering any sort of ethical dilemma for that matter, he would want us to consider these five things. Number one, reason. Our actions need to be guided by our own reason, not our senses, not our experiences, not our cultural norms or anything like that. Number two, it needs to be autonomous. We need to be acting freely. In order for us to be acting freely, we can’t be enslaved to something. We can’t be enslaved to some overseer that has decreed a moral code for us to follow. We can’t be enslaved to an ice cream cone that our mom told us we’ll get if we do something moral.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Three, we need to treat ourselves and others as ends in themselves, not as means to some end that we want to achieve. In other words, we can’t manipulate people. We can’t lie to people. Because when we do that, we are by definition withholding valuable information from them, and we’re doing it so that they will make a decision that they might otherwise not make if they had all the facts. In this way, Kant thinks that you’re robbing them of something. You’re robbing them of their ability to make a fully rational choice. And if you’re robbing them of their ability to reason, you’re robbing them of a piece of their humanity.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Four, we should act only in accordance with moral principles where we’d be satisfied if they were made into a universal maxim. I.e., if everyone did this thing, how would the world look? It’s what we just talked about. Number five, we should strive to live in the kingdom of ends which, now that I think about it, is too complicated for this five-bullet-point format that I just created on the fly. But it has to do with the political implications of all this stuff that we’ve been talking about.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">So, to wrap it up, it’s very easy to be dismissive of thought experiments. It’s very easy to be dismissive of asking ourselves questions about why we make the moral judgments we do. But the advantages of putting yourself through these thought experiments are more than just understanding yourself better or living a more fulfilling life. These things inevitably extend to practically every decision we make as a society about what’s right or wrong. See, it’s so tempting to say things like, “Murder is just wrong. Case closed.” “Stealing is just wrong.” “I’m just going to pull the lever, kill the one person instead of the five. That’s just common sense. No need to consider any other alternatives. No need to understand why I make the moral judgments I do.”</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Well, maybe that’s good enough for you. But the reality is that the world at large is not always that black and white. Things like murder trials and economic policy and whether to become involved in a war or what a just war is at all or foreign policy or civil rights—the ethical decisions at the root of these massive issues that we face as a society—these aren’t things that you can just adhere to moral commandments about. These things aren’t as simple as just, “Oh, a guy stole an ox from his neighbor. We need to punish him. Let’s consult our rules that we have.” The world is filled with millions of these nuanced gray areas that need to be accounted for.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Yes, sometimes the only thing that’s at stake is your time. Yes, sometimes it’s just a dumb podcast asking you to be whisked away into a fantasy world. But in other cases, it’s only by considering these details that we can get a more accurate understanding of what we really value as a species, to understand why we really pulled that lever. It’s for the times when literally millions of lives might hang in the balance, including yours.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Thank you for listening. I'll talk to you next time.</p>
@@ -1573,29 +1573,30 @@
 
 </div></div></div></div></div></div>
 
-        
+          
 
-        
-        
-          <div class="blog-item-author-profile-wrapper" data-content-field="author">
-            <a href="/transcript?author=5eec15fc09afd80facd6edf3">
+          
+          
+            <div class="blog-item-author-profile-wrapper" data-content-field="author">
+              <a href="/transcript?author=5eec15fc09afd80facd6edf3">
   
   <span class="author-name"></span>
 </a>
 
 
 
-          </div>
-        
-      </div>
-
-      <section class="blog-item-comments">
-        <div class="blog-item-comments-toggle-wrapper">
-          <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
-            
-          </div>
+            </div>
+          
         </div>
-      </section>
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
+              
+            </div>
+          </div>
+        </section>
+      
     </div>
   
 </article>
@@ -1723,30 +1724,30 @@
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                    &quot;imageOverlayOpacity&quot;: 0.15,
-                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                    &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                    &quot;customContentWidth&quot;: 100,
-                    &quot;sectionTheme&quot;: &quot;dark&quot;,
-                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                    &quot;backgroundMode&quot;: &quot;image&quot;
-                  }"
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 100,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
   data-current-context="{
-                    &quot;video&quot;: {
-                      &quot;playbackSpeed&quot;: 0.5,
-                      &quot;filter&quot;: 1,
-                      &quot;filterStrength&quot;: 0,
-                      &quot;zoom&quot;: 0,
-                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                    },
-                    &quot;backgroundImageId&quot;: null,
-                    &quot;backgroundMediaEffect&quot;: null,
-                    &quot;divider&quot;: null,
-                    &quot;typeName&quot;: &quot;blog-masonry&quot;
-                  }"
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;blog-masonry&quot;
+}"
   data-animation="none"
   
    
@@ -1940,7 +1941,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b502231aaf751bf844c833e9880528bf.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.4df6f348a832dc61e261a099a8ca9b31.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>

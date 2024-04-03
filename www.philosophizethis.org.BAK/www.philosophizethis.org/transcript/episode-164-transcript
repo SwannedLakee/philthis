@@ -42,15 +42,15 @@
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3b3e3fc50f53cca7422e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3b3e3fc50f53cca7422e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-c9ea572624ccd4964c26-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-675f9459672cf966ca51-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-f9df4447a2af25df5875-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-eecad2af0a4a98e2d12e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1ffffee5c0767c852d38-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-73a5853a910137f1baf1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-c20455a09b1fe109400d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2956e20d9a68ca6ae280-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-f176173c568e8717c99b-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-44d9cfb93d344a7446ac-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-6800f146d3c87a3960c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-5cd4a896962954eaca96-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6f4322f63224e137fb72-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4a222f32bf58327e181b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5f2d4e7ddb02d50723d1-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-210f16f8bec538fbaf2f-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-eb72d47f5c6899b293da-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-7993e315eeeb0e31e0d1-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-3d6a0bb8046b2005bf08-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-eb731df3d05e856250e3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-b99f54f05b3a4f777f55-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c21b9c2f0a1526623416-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-84d5b8a1f1fc4654032c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a6388a789435452d55a7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db82977b390515867439-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-5196e0c68b662ed24a38-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-377a5b12886c446ac5e6-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #164 -Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"4":true,"3":true,"1":true,"2":true,"8":true,"7":true,"6":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #164 -Transcript","id":"62647f6b791c1f70313cdf33","fullUrl":"/transcript/episode-164-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["marketing_landing_page","rewrite_transactional_email_from_address","nested_categories","campaigns_global_uc_ab","commerce_order_status_access","collection_typename_switching","customer_accounts_email_verification","accounting_orders_sync","site_header_footer","viewer-role-contributor-invites","supports_versioned_template_assets","commerce_subscription_renewal_notifications","override_block_styles","color_var_rendering_in_v6","show_add_to_cart_in_plp","scripts_defer","new_stacked_index","visitor_react_forms","commerce_checkout_website_updates_enabled","commsplat_forms_visitor_profile","is_feature_gate_refresh_enabled","toggle_preview_new_shortcut","fluid_engine_clean_up_grid_contextual_change","commerce_restock_notifications","commerce_site_visitor_metrics","nested_categories_migration_enabled","commerce_etsy_shipping_import","order_status_page_checkout_landing_enabled","campaigns_discount_section_in_blasts","campaigns_import_discounts","website_fonts","campaigns_thumbnail_layout","background_art_onboarding","campaigns_new_image_layout_picker","unify_edit_mode_p2","customer_account_creation_recaptcha","commerce_etsy_product_import","send_local_pickup_ready_email","image_component","pdp_product_add_ons_visitor_site","website_component_enabled","enable_css_variable_tweaks","themes","campaigns_discount_section_in_automations","member_areas_feature","fluid_engine","commerce_clearpay"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
-<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #164 -Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-164-transcript","datePublished":"2022-04-23T15:37:21-0700","dateModified":"2022-04-23T15:37:23-0700","headline":"Episode #164 -Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1489/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a682f7ad337741eb05d6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-73b8e232ffd5b43ca99e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-e3dba6f4bd49760d9a75-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-0ec4208d26f4da126f22-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-595641e15dc2776e5ea1-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f1b17328c55249cf16e9-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-68f0d70f87aaddb33c87-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce3304dbbbc00b0adc2c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ec9ba70c561f4417993-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-33c1f90c488c55fae579-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-d3ebe653c1c873022724-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-7116ec013cb68ccb46b1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-c284904b25c71d02bce8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-6e60a567b55f463b68e7-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-5d1c15b78a92b66bb9c2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-7acbb1abe140de860b8e-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9349bf4b96d773b4fc4a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c448735543b55eab799b-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-17dca3f66c4211bf16d1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-070905c328c108a2d84a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-206ef2320c2cea5a2878-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-e6610e528d6f92fd5031-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-503cf40eefffe62983b2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-cc29311f395b003af368-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-88078df9f58614d82665-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-02d1e0bcb6fc2a7af709-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-667fa2c6bd659fe9a639-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c425f4bbbcfb78c3f308-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-f2c5750b07447cd0e8c5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f51f475a757005c26ee7-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-43d31ab46f5dc95b0c84-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-93bc5328ce08f99b4278-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-622dbcc4356d75bd674a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e651beeebf0f0d458f3c-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fd133305dca90ae5ca2f-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-3a1fa618b156b16f9a32-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4ef11503ebc255d049e5-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-5ccc4fc16300710a0a68-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5978fce864bf3409cbda-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-1e4496937ccd55da84b7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-ed7446c70dde7b3316d8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-03eed1717232cc37078d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b9419dfe48307ccde360-min.en-US.js"}},"pageType":50,"website":{"id":"5ed93e72d9d43b5bb06c8f18","identifier":"koi-minnow-dmk8","websiteType":1,"contentModifiedOn":1703522089915,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Philosophize This!","fullSiteTitle":"Episode #164 -Transcript \u2014 Philosophize This!","siteDescription":"","logoImageId":"5ee13e23960137332a48989a","socialLogoImageId":"5ef27b5a381d414fa209c919","shareButtonOptions":{"7":true,"6":true,"8":true,"2":true,"1":true,"3":true,"4":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1592949594437-463NFXT02J1KSA4BAYT4/cropped-cropped-philosophize-this_header-1.png","authenticUrl":"https://www.philosophizethis.org","internalUrl":"https://koi-minnow-dmk8.squarespace.com","baseUrl":"https://www.philosophizethis.org","primaryDomain":"www.philosophizethis.org","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1592571186306,"profileUrl":"https://www.facebook.com/Philosophizethisshow/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1592658582760,"profileUrl":"https://twitter.com/iamstephenwest","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1610155668001,"profileUrl":"https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5ed93e72d9d43b5bb06c8f1a","websiteId":"5ed93e72d9d43b5bb06c8f18","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Transcript","id":"6053dc3a01905600e48be230","fullUrl":"/transcript","type":1,"permissionType":1},"item":{"title":"Episode #164 -Transcript","id":"62647f6b791c1f70313cdf33","fullUrl":"/transcript/episode-164-transcript","publicCommentCount":0,"commentState":2,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"115px","header-mobile-logo-max-height":"65px","header-vert-padding":"2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"10px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"4px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["customer_account_creation_recaptcha","background_art_onboarding","async_copy_collection","campaigns_discount_section_in_blasts","customer_accounts_email_verification","themes","member_areas_feature","toggle_preview_new_shortcut","google_consent_v2","campaigns_import_discounts","commerce_etsy_shipping_import","campaigns_global_uc_ab","campaigns_new_image_layout_picker","proposals_beta_in_circle_labs","commerce_subscription_renewal_notifications","commerce_etsy_product_import","send_local_pickup_ready_email","fluid_engine","override_block_styles","nested_categories","commerce_site_visitor_metrics","new_stacked_index","accounting_orders_sync","unify_edit_mode_p2","viewer-role-contributor-invites","is_feature_gate_refresh_enabled","rewrite_transactional_email_from_address","campaigns_thumbnail_layout","fluid_engine_clean_up_grid_contextual_change","website_fonts","order_status_page_checkout_landing_enabled","marketing_landing_page","collection_typename_switching","enable_css_variable_tweaks","commerce_restock_notifications","commsplat_forms_visitor_profile","visitor_react_forms","show_add_to_cart_in_plp","commerce_checkout_website_updates_enabled","commerce_clearpay","commerce_order_status_access","supports_versioned_template_assets","pdp_product_add_ons_visitor_site","scripts_defer","nested_categories_migration_enabled","campaigns_discount_section_in_automations"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}}};</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.philosophizethis.org/transcript?format=rss" />
+<script type="application/ld+json">{"url":"https://www.philosophizethis.org","name":"Philosophize This!","description":"","image":"//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Episode #164 -Transcript \u2014 Philosophize This!","url":"https://www.philosophizethis.org/transcript/episode-164-transcript","datePublished":"2022-04-23T15:37:21-0700","dateModified":"2022-04-23T15:37:23-0700","headline":"Episode #164 -Transcript","author":"Philosophize This!","publisher":{"name":"Philosophize This!","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ee13e23960137332a48989a/1703522089915/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/5ed93e72d9d43b5bb06c8f18/t/5ef27b5a381d414fa209c919/1592949595625/cropped-cropped-philosophize-this_header-1.png?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/5ed93e72d9d43b5bb06c8f18/69/5c5a519771c10ba3470d8101/5ed93e72d9d43b5bb06c8f31/1500/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
       <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1706811132467-QIR6O63RE5GI9HXI9ESJ/static.css">
@@ -62,13 +62,7 @@
     class="
       primary-button-style-solid primary-button-shape-rounded secondary-button-style-solid secondary-button-shape-rounded tertiary-button-style-solid tertiary-button-shape-rounded  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-dash tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-right tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-hide tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-hide tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-left tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-content-position-center image-block-overlap-text-alignment-opposite image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog-masonry collection-6053dc3a01905600e48be230 view-item collection-layout-default mobile-style-available sqs-seven-one
       
-        plp-config-editor-add-to-cart
-      
-      
         show-pdp-product-add-ons
-      
-      
-         plp-add-to-cart
       
       
         
@@ -412,18 +406,18 @@
   "
 >
   
+    
 <div class="sqs-announcement-bar-dropzone"></div>
 
-  <div class="header-announcement-bar-wrapper"
-  > 
-
-    <a
-      href="#page"
-      class="header-skip-link sqs-button-element--primary"
-    >
-      Skip to Content
-    </a>
-    
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
 <style>
@@ -434,13 +428,13 @@
         }
     }
 </style>
-    <div
-      class="header-border"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-border="false"
-      data-test="header-border"
-      style="
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
 
 
 
@@ -454,44 +448,44 @@
 
 
 "
-    ></div>
-    <div
-      class="header-dropshadow"
-      data-header-style="theme"
-      data-header-usability-enabled="true"
-      data-header-dropshadow="false"
-      data-test="header-dropshadow"
-      style="
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
 
 
   
 "
-    ></div>
-    
-    
+      ></div>
+      
+      
 
-    <div class='header-inner container--fluid
-      
-      
-      
-       header-mobile-layout-logo-left-nav-right
-      
-      
-      
-      
-      
-      
-       header-layout-nav-right
-      
-      
-      
-      
-      
-      
-      
-      
-      '
-      style="
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
 
 
 
@@ -501,68 +495,68 @@
 
 
 "
-      data-test="header-inner"
-      >
-      <!-- Background -->
-      <div class="header-background theme-bg--primary"></div>
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+        <div class="header-display-desktop" data-content-field="site-title">
           
-          <!-- Social -->
+
+          
+
+          
+
+          
+
+          
+
+          
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -661,64 +655,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -748,59 +742,59 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
-
-      </div>
-      <div class="header-display-mobile" data-content-field="site-title">
-        
           
-          <!-- Social -->
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
           
             
-          
-        
-          
-          <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
+            <!-- Social -->
             
               
-              <!-- Title -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
               
-                <div
-                  class="
-                    header-title
-                    
-                  "
-                  data-animation-role="header-element"
-                >
-                  
-                    <div class="header-title-logo">
-                      <a href="/" data-animation-role="header-element">
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
                       
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/5ed93e72d9d43b5bb06c8f18/1591819811995-EQ9XXGBKFWY0XOA6A1BF/cropped-cropped-philosophize-this_header-1-300x77.png?format=1500w" alt="Philosophize This!" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
-                      </a>
-                    </div>
+                        </a>
+                      </div>
 
-                  
-                  
-                </div>
-              
-            
-              
-              <!-- Nav -->
-              <div class="header-nav">
-                <div class="header-nav-wrapper">
-                  <nav class="header-nav-list">
                     
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
 
   
@@ -899,64 +893,64 @@
 
 
 
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+                
+                  <div class="header-actions-action header-actions-action--social">
+                    
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      
+                    
+                  </div>
+                
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
               </div>
-            
-            
-          </div>
-        
-          
-          <!-- Actions -->
-          <div class="header-actions header-actions--right">
-            
-            
+
               
-                <div class="header-actions-action header-actions-action--social">
-                  
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.facebook.com/Philosophizethisshow/" target="_blank" aria-label="Facebook">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://twitter.com/iamstephenwest" target="_blank" aria-label="Twitter">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                      <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag" target="_blank" aria-label="YouTube">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    
-                  
-                </div>
-              
-            
+              <div class="showOnDesktop">
+                
+              </div>
 
-            
-
-          
-          
-
-            
-            <div class="showOnMobile">
               
             </div>
-
-            
-            <div class="showOnDesktop">
-              
-            </div>
-
-            
-          </div>
-        
           
+            
 
 
 <style>
@@ -986,14 +980,15 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+          
+          
+          
+          
+          
+        </div>
       </div>
     </div>
-  </div>
+  
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     
@@ -1520,6 +1515,9 @@
       <div class="blog-item-wrapper blog-grid-masonry-item-wrapper" data-content-field="main-content" data-item-id="">
   <article id="article-" class="h-entry entry hentry post-type-">
   
+    
+    
+    
     <div class="blog-item-inner-wrapper">
       <div class="blog-item-top-wrapper">
         <div class="blog-item-title">
@@ -1534,11 +1532,13 @@
             </time>
             <div class="blog-meta-item blog-meta-item--author p-author author" data-content-field="author">Written By <a href="/transcript?author=5ed93d8e981c0869f203a7ea" class="blog-author-name">Philosophize This!</a></div>
           </div>
+          
         </div>
       </div>
 
-      <div class="blog-item-content-wrapper">
-        <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-62647f6b791c1f70313cdf33"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-2f80188efbef06f7434f"><div class="sqs-block-content">
+      
+        <div class="blog-item-content-wrapper">
+          <div class="blog-item-content e-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-62647f6b791c1f70313cdf33"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-2f80188efbef06f7434f"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="" style="white-space:pre-wrap;">So something that’s been hammered home on this show pretty regularly in the past, maybe a little bit TOO much…is something that at this point seems like its become a bit of a philosophical truism…the realization… that you can never really know anything, for certain. Now who REALLY cares when anybody says something like this? Like what are they even saying? Are they certain we CAN’T know anything for certain? This is a line…that when it’s said in polite conversation can SEEM to some people…like this sort of dusty, old undergraduate credo…an idea that at best is pointless because it’s really not saying anything and at worst, completely deletes the possibility of a discussion right at the outset.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Then again there are other people out there would see this statement as something that is undeniably true…something that’s NECESSARY for ANY LEVEL of nuanced thinking, and that IF there’s a mistake being MADE here the mistake lies in the person who HEARS that you can’t know anything for certain…and then decides to sit around and do nothing because hey, you can’t know anything for certain anyway. Guess I’ll grab me a bag of skeptical cheetos and call it a life.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">See, there’s a lot of discussion among fans of philosophy about what the VALUE of philosophy is in today’s day and age. WHY is philosophy even important in modern times? And there’s a LOT of answers to this but one of the ones that is the most popular is that philosophy…is a bit of a baptism by fire. Philosophy…is not about slowly discovering the TRUTH about existence by reading what wise people said 600 years ago. Philosophy is MORE…about taking you down a peg or two. Humbling you. You know…that classic philosophy meme…the never ending cycle between you think things and then you’re wrong. You think things and then you’re wrong. In other words philosophy is kind of an intellectual bootcamp where if you can survive the discomfort of having your beliefs challenged…if you can stay open to the exercise… despite knowing that there’s a long road ahead of you that won’t be very easy…if you can survive that… you can potentially come out the other side of it more developed as a person.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now one thing you’ll possess if you can get through the 10 years of being wrong about everything is HOPEFULLY a healthy amount of self-doubt. And as is the case with ANYTHING people put in the time to MASTER in this life…the Dunning Kreuger effect eventually starts to kick in. What I mean is: there comes a point where reminding everyone that you can’t ever know anything for certain…ONLY starts to cannibalize our responsibility to make things better in this world. There comes a point when philosophy is less about humility… and more about inspiration…a point where you definitely know that you NEED to proceed with caution…but nonetheless we STILL gotta PROCEED… as people invested in the progress of team human being on this planet.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br><br></p><p class="" style="white-space:pre-wrap;">The creation of meaning series can be seen as an example of finding a way PAST this Dunning Kruger effect…an attempt grounding a cautious approach forward while still always remaining open to new ideas. Well similarly…the guy we’re talking about today, Ralph Waldo Emerson…he can be seen as ANOTHER example of this…an attempt at finding that foundational, leverage point, from which we can navigate the universe with at least SOME conception of truth connected to our actions, and for Ralph Waldo Emerson…that leverage point… is going to be grounded in, the individual.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">See, while OTHER philosophers out there don’t TRUST the individual…they try their HARDEST to appeal to externalities as the ultimate source of truth or meaning…Emerson is going to say that the way to gain access to the truth is ACTUALLY to turn inward…that the external things we TACK ON to our individual perspectives are REALLY a source of corruption…and that the deepest connection available between people and the transcendent, immaterial aspects of the universe is through the most primary thing we have access to…our own individual human experience. Now…</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">This is going to take a couple three episodes to unpack the various points he’s MAKING there…this first episode is going to be on what I think is the most intuitive entry point into his work…his famous essay titled Self-Reliance. But first… little bit of historical context that is going to help us throughout the rest of the series.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Ralph Waldo Emerson…was a citizen of the united states. He publishes this essay in the year 1841…which places him in between the revolutionary war that united the country and the civil war that divided the country. He publishes this essay 53 years AFTER the constitution was ratified…so what’s important to understand is that he is WRITING this essay… as a citizen of a country that REALLY is a baby.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">This was a country that had a LOT OF PROBLEMS that needed to be worked out internally. Citizens are arguing with each other about issues that mattered to THEM at the time…couple examples here…the existence of slavery, the rights of women, the treatment of native americans, the treatment of industrial workers and workers rights more generally, the treatment of immigrants that were coming into the country. In other words, nothing ANY of us can POSSIBLY relate to today, right.&nbsp;&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The chief criticism at the time is that the United States was great on paper…we got all these beautiful words written on fancy parchment about what the country stands for…you know, everyone’s created equal, life liberty and the pursuit of happiness, we got it all!…but what does the country ACTUALLY look like in practice? Nothing like that. Feeling at the time is…how do we FIX that? Which path forward are we going to CHOOSE for this nation?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Because for as much as the original settlers came to north america to ESCAPE what they saw as BAD IDEAS that were GOVERNING the societies of Europe…we sure do TALK a lot about creating a brave new world…but in practice we just seem to be importing all the bad ideas into our NEW neighborhood. FURTHER criticism at the time…can somebody even really CALL the United States a country…with its own culture, at that point? Or, is it just a patchwork of a bunch of European ideas dressed up in an uncle sam costume? Ralph Waldo Emerson believed that we needed to solve these big problems that faced the country and part of DOING so was going to involve creating a distinct culture UNIQUE TO the united states.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">And the only way you’re gonna do THAT he thought…is if the CITIZENS of the United States, started thinking for themselves, creating the solutions to the problems…instead of sitting around passively waiting on some external body or idea to solve all the problems FOR them. Self-Reliance was an essay that, among other things at its core, was a call to action TO American citizens…and its with THIS in mind that he BEGINS the essay by asking an important question of his fellow citizens who might be reading.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">He starts off the essay and asks what has now become a famous question in transcendentalist literature. How often…do people sit around… thinking about some issue that faces their country or their community…come up with what SEEMS like a really good idea, SEEMS like it’s making a great point about whatever the prevailing discussion is on the matter…and then after they arrive at this good idea…they throw the idea away…don’t ever talk about it…people ASK them about social issues and they NEVER even bring it up if for NO other reason… than because THEY, themselves were the ones that came up with it.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The thinking being…that I CAME UP with this idea…so this is PROBABLY just a stupid point. I mean, who am I to come up with ANY sort of interesting counter-point to the discussion of my age? I’m just an ordinary person…I’m not some genius… I’m not a thought leader of some sort. Yeah sure, this idea is TRULY a reflection of how I feel about the situation…but if I SAY this in public conversation…I’m probably just going to embarrass myself…I must be missing something INCREDIBLY obvious here that the smart people already know.&nbsp;&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Ralph Waldo Emerson thinks this is an absolutely TOXIC way of thinking about yourself. And he says so often what naturally goes ALONG with this type of attitude is the FURTHER assumption…that if you’re a thinking person and you want to know more about the world around you…</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">That the path to becoming a really smart person with well thought out beliefs…comes from reading a bunch of OTHER, really smart people, that are quote unquote experts in whatever area you want to educate youself about.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">In other words, to get smarter what you gotta do is turn to a philosopher, a religion, artists, thought leaders, in other words: EXTERNAL sources of truth… you READ these really smart people and, essentially, just say…whatever THEY said. Somebody asks you what you think about something you just recite the pre-approved smart person answer that you memorized last week. That’s basically what becoming a smart person even is. Where ELSE would I learn how to think intelligently OTHER THAN by listening to smart people?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Well, Ralph Waldo Emerson thinks this is EXACTLY where people go WRONG… when trying to learn how to think intelligently. See, if Emerson was anything… he was an enemy of dogma of ALL varieties. He didn’t think that you should just imitate someone else’s opinions if you wanted to be a smarter person. As HE says, Imitation is suicide. And what he MEANT by that is that when you trade your unique personal development for a ready-made dogma, spoon fed to you by a third party…</p><p class="" style="white-space:pre-wrap;">you are effectively sacrificing your life…sacrificing your own unique contribution that YOU and ONLY YOU can offer to society. Early in the essay… Emerson makes it clear that one of the most important realizations that ANY human being can EVER arrive at in this life…is to trust thyself. This is going to be a theme throughout the rest of the essay, hence the title, Self-reliance.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now…don’t get him wrong here…he’s NOT saying don’t EDUCATE yourself. By all means…listen all you want to as many sources as you can and get as much information as is available to you.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But he would say the SECOND the source changes from telling you the facts of the matter…to telling you how you should be feeling about those facts…that’s the second it turns from education to indoctrination.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">He says it’s pretty alarming when you TRULY consider how uncommon it is for someone to trust THEMSELVES and their OWN ABILITY to formulate an opinion… about anything. He asks why is this such a rare quality for people to have?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Quick pause here in the essay because I think it’s important to illustrate what Emerson’s trying to do in a philosophical context. He’s calling into question the most common, traditional ways that people view morality. See instead of deifying cultural figures and saying that people should look to them to figure out how to navigate their life…Emerson’s offering up an ALTERNATIVE morality…one centered around the perspective of the thinking, individual person.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">So to further illustrate this point in the essay…the NEXT move for Emerson is naturally going to be… to explain WHY these external sources of wisdom…the religions, the political leaders all aspects of society...he needs to explain WHY these are NOT in fact forms of Enlightenment as many people see them…but more accurately are dogmas that corrupt the more natural, individual intuition and conscience that we are all born with.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Because THAT’S the big question here for Ralph Waldo Emerson. We all START OFF as individuals. You can see examples of self reliance in nature all around us…look at certain animals, look at plants, look at CHILDREN of our OWN species! A child…is NATURALLY a non-conformist to ANYTHING their parents or society tells them is the right way to be feeling. When a five year old walks into a room of adults…she’s not worried about her reputation…she’s not worried about losing her job…she’s not worried about offending the delicate sensibilities of the group and whatever narrative of the world makes them feel the most comfortable. My daughter the other day straight up told someone that llamas are not real. She aint buying it. I showed her pictures of llamas. I took her to see a llama in person…she’s like naw daddy that’s a sheep. And you know what? I was proud of her.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">And you know why? She doesn’t CARE if she’s reciting the socially agreed upon norm. Right or wrong she is marching to the beat of her OWN drum there. And it’s not like Emerson is defending people independently making unfounded claims…he’s defending the spirit in play there…the spirit… of self-reliance. He’s pointing out that there is a distinct difference between children…whose opinions about a situation are not bought, or finessed in any way and what he calls the “cautious adult”...people who are so scared about their reputation… their group-identity, not offending anyone too much that they can never actually be fully THEMSELVES. When you’re a cautious adult you care far more about saying something polite than what is right. So when do people turn IN to cautious adults? When do the children of our species get beat into submission by society at all levels?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Well if you want to solve a problem...probably pretty useful to figure out how it happened in the first place so that you don’t run into the problem again…and this is EXACTLY what Emerson spends the majority of the essay doing. There are three MAJOR traps that people fall into that cause them to LOSE this initial ability to BE self reliant…and the FIRST one we’re gonna talk about today is called conformity.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now, this is far from a mysterious philosophical term…simply put, fact is to Emerson…most people conform…to the demands, of society. We go out into the world, we become adults, and society puts pressure on us to BE a virtuous person…and what IS, being a virtuous person? Conforming to the normalized ways of thinking APPROVED by society.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">In fact, to Emerson one of the primary goals OF society is to GET you to stop thinking for yourself. So much so, he says, that when you fall in line and play the game demanded of you by society…SHOCKINGLY…this is when, people will often start referring to you as, a “mature” person. Oh, you’ve really matured in the last couple years. You’re doing great! Really living your best life. Some people may call that the process of maturing… but to Emerson in reality it is much more of a systematic anesthesia. Some people may call it becoming a more moral person …others might call it blindly conforming to what some external source told you to do. But the question remains for Emerson…why not listen to what YOU want to do instead? Why always YIELD to some external source?</p><p class="" style="white-space:pre-wrap;"><br><br></p><p class="" style="white-space:pre-wrap;">Now someone could respond to this and say hold on a second Emerson. Is that REALLY such a bad thing that’s going on?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Because don’t we WANT society to be a governing influence on SOME people’s behavior? And for the record EVERYTHING is included in there when he says the word “society”…Conforming to a religion. Conforming to a philosophy. Conforming to a political ideology…don’t we WANT these things to help direct the thinking of SOME people? I mean for one…valid question: does every person on this planet have to reinvent the wheel when it comes to their moral approach towards life? Couldn’t we say that society provides a necessary service to people in that way?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But more than just alleviating confusion though…doesn’t society allow us to avoid a certain level of disaster that is gonna come if we base our morality on the intuitions of the individual? Like if you DON’T follow some sort of external moral code…what if I’m sitting at the dinner table and someone takes the last piece of chicken…and my “moral intuition” in that moment is to stab them in the head with a fork. Is my individual, moral approach BETTER than following some collective moral approach dictated by society?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Well, Ralph Waldo Emerson as it turns out is NOT an advocate of stabbing people in the head with a fork…but he WOULD say that if that is REALLY your moral intuition…better to act honestly and have a chance to LEARN from your mistakes, recalibrate and grow…than to lie, fall in line with what everyone else tells you is a proper response just so that you can get people’s approval. You can’t morally grow if you’re not being morally honest. Now the stabbing in the head is OBVIOUSLY an extreme example here, but you can imagine this same line of thought applying to less extreme examples…say, standing up for what you believe is right when your opinion might not be the most popular with the mob mentalities of the world.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The bigger point here for Emerson is that if you’re an advocate for conformity in ANY capacity…then you HAVE TO ALSO to be able to answer the question: how much conformity… is too much conformity? Because maybe SOME things are easy to agree on, right…maybe we can all agree we shouldn’t be able to murder each other, things like that…but how about conformity when it comes to which POLITICAL viewpoints people should be able to hold? Should society govern that? How about which job society thinks you’d be the best at? Should you conform to that? How about who society thinks your spouse should be?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">At a certain point…blindly following society, not thinking for yourself…and instead just conforming to somebody else’s opinions…at a certain point that becomes an act of cowardice, to Emerson.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But again hold on THERE, Ralph! Nother objection. What am I supposed to never agree with anything anyone says about the world? What if I am listening to someone talk about the way the world should be…and it just genuinely resonates with me. My individual personality agrees with THEIR individual personality. Is that so hard to imagine?&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">I think Emerson would say it’s NOT hard to imagine. The point here is to remain true to yourself. To not NEED society or other people to tell you HOW you should be acting, to be able to arrive at feelings on your own. And only YOU can know if that’s what’s going on in your head in each particular instance there. But just consider this…IF you’re somebody that falls strongly into one particular social camp or another…I think he’d say just beware of the CONVENIENCE of staying in that position.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">How CONVENIENT that all of your moral intuitions correspond with Christianity if you’re a Christian. How CONVENIENT that your politics matches up PERFECTLY with a certain group of people that have a certain letter next to their name. How CONVENIENT that every time you listen to a certain show you find yourself agreeing with EVERYTHING that person is saying. I think he’d say don’t underestimate people’s willingness to conform to the ideas of others, just so that they don’t have to live in the often DIFFICULT place of TRUE non-conformity.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The FEEL of Emerson’s writing during this section of the essay is that… he really does see it as a bit of a tragedy, when people conform to outside opinions…and he says it’s a tragedy for TWO reasons: The FIRST reason…is that when you conform to a way of thinking…</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Your friends, your family, everybody that you care about…never actually get to witness… who you truly are. He says this person who doesn’t think for themselves… is so terrified of thinking the wrong thing, embarrassing themselves, upsetting the people around them that the only person their friends and family EVER get to know… is just some collection of pre-approved talking points. Think of the cost a person has to pay simply for the privilege of feeling accepted by the mob.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The SECOND reason it’s a tragedy to conform to society…is because, as he says…just THINK OF ALL THE WASTED TIME there.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">For every second…you spend proselytizing a religion, a philosophy, a political ideology…for every second you volunteer to be an unpaid mercenary on behalf of someone else…that is a second WASTED towards the cause of actually CREATING something valuable with your time here…where you can truly make a contribution to society with your own unique skill set, experience and expertise.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">This was one of the mistakes of the American citizens during the time of Emerson. Most of them are sitting around, really angry about the issues that bothered them, the social injustice, wanting things to change but just sitting around waiting for some external force or dogma to come along to solve all the problems FOR them. But Emerson would ask how many of those people were being individuals, using their unique talents to CREATE something that ACTUALLY tries to move things in the right direction?&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">There’s a lesson here that Emerson can offer to people living in modern times. You know, there’s a lot of people out there who consider themselves to be non-conformists because they strongly oppose some way that things are structured within society. But what is the difference between TRUE non-conformity and the type of non-conformity that just looks good on social media. Lot of people superimposing flags on their profile pictures as a symbol of their solidarity. Lot of people screaming into the yawning abyss of twitter to people that more or less already agree with each other or ANY example of activism where you have zero skin in the game and NOTHING to lose. Regardless of the good intent behind it it’s interesting to ask: can merely symbolic support of a cause be a convenient disguise for that cowardice that Emerson was talking about before? Because if you’re not actually changing hearts and minds or making meaningful progress…and to Emerson’s point if you’re just appealing to some third party that GAVE you all the talking points that you’re screaming at people…what are you at that point? Well certainly NOT a self-reliant individual that is interested in CREATING something that may serve others. In many ways you are JUST as complicit as somebody doing nothing at all. Is this just a covert, modern version of conforming to the way that things are, content with NOTHING changing?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Fact is: society needs a lot of people dedicated to the cause of the status quo. And to Emerson the needs of society and the needs of the individual don’t always necessarily align. And this is one of the real DANGERS of conformity…it causes otherwise super passionate people to waste so much time that they could otherwise spend offering their own unique talents towards arriving at a solution.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">It’s in this spirit that Emerson thinks that the solution to conformity is obvious. It’s non-conformity. And if conformity comes about by looking OUTSIDE of ourselves for how we should be feeling about the world…then TRUE non-conformity is only going to come from a turn inward. That said, even if you realize this…even if you can avoid falling into the trap of ALL these different types of EXTERNAL dogmas…you’re still not out of the woods yet. The SECOND major trap that people fall into that sabotages their ability to be a self-reliant person can be thought of as a sort of INTERNAL dogma…what Emerson calls the trap of consistency.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">See because so far all this talk by Emerson of staying true to yourself and relying on your individual perspective may SOUND good in theory. But it definitely HAS its fair share of critics. One of the most COMMON rebuttals to what we’ve been talking about so far HAS to be that we cannot rely on individual perspectives to BE a reliable source of legitimacy…because individuals THEMSELVES are not reliable.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">People change all the time. People think one thing one day and completely change their mind the next. The volatility of the individual insures that we CANNOT build our society around them. And this way of thinking ABOUT the individual manifests itself in our everyday lives in what Emerson calls a strange obsession, or a fixation that society has on the CONSISTENCY of our beliefs.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">There are many examples of this but one of the most obvious to start with is with the positions people hold that are running for political office. Try running for public office in the united states and changing your mind about ANYTHING regarding the issues. You will INSTANTLY be labeled a flip flopper. Unprincipled. Inconsistent. How can I even know who I’m voting for if you’re changing your mind about things? I don’t even know who I’m LOOKING at right now.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">There’s this idea that if you’re going to run for political office you should’ve been five years old on the playground, slid down the slide and had some sort of EPIPHANY moment, “hmm…Keynesian economics…I like it! And then NEVER changed your mind about anything ever again. Heaven forbid you grow and change as an individual over the years, develop yourself as a person. There’s this idea that you should feel ASHAMED if you don’t know exactly where you stand on something. That if you’re publicly WRONG about something that you should carry a scarlet letter forever. Or that throughout the process of educating yourself if you feel one way…then hear something that changes your mind the next day…and then something ELSE that changes you the day after that…there’s this idea that THAT makes you an intellectually weak person. Maybe you’re just dumb. Maybe you just AGREE with whoever is arguing the point in front of you and that your brain is incapable of differentiating between good or bad points. OR MAYBE. This fetish we have about the consistency of our beliefs has ABSOLUTELY NOTHING to do with being a well thought out person.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Another bit of philosophical context about what Emerson is up to during this particular portion of the essay. There’s this long standing Enlightenment era confidence in reason, order and consistency. That the LEGITIMACY of an idea…is DIRECTLY connected to how CONSISTENT that idea is. You can understand why…the thinking is that if something is true…it’s going to be JUST AS TRUE true tomorrow as it is true today. That if an idea is proven to be false at some point…then we had been formerly living in error as a society.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Now this is certainly a noble cause, right? And you can see how it directly connects to this lack of confidence in the whims of the individual as the marker of legitimacy. You can see why people might try to make someone feel dumb who changes their mind or contradicts themself from one week to the next. But Ralph Waldo Emerson…making the case for the individual…is going to call ALL of this into question. In reality… as HE says… consistency…is the hobgoblin of little minds. One of his most FAMOUS quotes, now why would he SAY something like that?</p><p class="" style="white-space:pre-wrap;"><br><br></p><p class="" style="white-space:pre-wrap;">To Ralph Waldo Emerson, the truth of the universe is NOT something that you GRASP one day and then spend the rest of your life defending. The fact that you believe the exact same stuff you did 20 years ago has nothing to do with the legitimacy of what you’re believing.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">When a person seems inconsistent or contradictory…a cautious adult, that spends their days embroiled in society repeating what other people TOLD them to say, might see that person as stupid or confused…but inconsistency and contradicting yourself is NOT the mark of a stupid or confused person…to Emerson it is often the mark of someone committed to TRULY thinking for themselves…someone TRULY in touch with how disordered, unreasonable and inconsistent the truth of things often is. The cautious adult, from their perspective, is utterly INCAPABLE of SEEING that this person may ACTUALLY be MORE connected to the truth than THEY are.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">He compares this process to sailing a ship into a headwind. How do you get to a particular destination on a sailboat if the wind is blowing in the opposite direction? Well NOT in a rigid, absolute, consistent straight line. If you TRIED to go in a straight line you’d just stand still or go backwards. You have to go from side to side…zigging and zagging using the winds to move towards the GENERAL direction that you wanted to end up in…and it SHOULD BE SAID…people sitting on the beach watching you from the sidelines are gonna be like dang, they’re all OVER the place, they SEEM to have one too many iced teas on that boat…call the police…call the vatican…call a philosopher…call someone to FIX them, because this person MUST be CRAZY or STUPID if they’re sailing this way! But for all that movement back and forth the person sailing the boat was all the while, slowly but surely, moving CLOSER to their destination.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">He would ask this person that’s standing on the beach, the cautious adult looking at the person changing their minds all the time:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“Why drag around the corpse of your memory?”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What he MEANS is: WHY continue to hold on to ideas that are being challenged, SIMPLY BECAUSE you happened to have BELIEVED them in the past? Why not live in the present? Why spend your life always poised, waiting to DEFEND what you already believe? Why be so defensive? The burden and the futility of that… is REALLY LIKE dragging around a corpse with you everywhere that you go in life.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Ralph Waldo Emerson asks the people living during his time to DARE TO BE, inconsistent. CONSIDER the fact he says…that NO GREAT THINKER who has EVER LIVED…has EVER been considered a great thinker because they consistently adhered to the status quo…“when it comes to never changing your mind and believing what everyone else believes…they’re just the greatest of all time. Write their name down in the history books!” No! The greatest thinkers of ALL TIME seemed TOTALLY contradictory, inconsistent and misunderstood! He says:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“‘Ah, so you shall be sure to be misunderstood.’ — Is it so bad, then, to be misunderstood? Pythagoras was misunderstood, and Socrates, and Jesus, and Luther, and Copernicus, and Galileo, and Newton, and every pure and wise spirit that ever took flesh. To be great is to be misunderstood.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The cost of greatness…sometimes requires you to BE a misunderstood person, living in a state of TRUE non-conformity with the mobs of society constantly breathing down your neck.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">You know…one thing he NEVER promises in self-reliance is that this is going to be an EASY life. He says easy to be a non-conformist while sitting in your basement never talking to ANYONE…but try doing it in public where you’re being attacked by a mob of conformists screaming somebody else’s ideas at you. MUCH more difficult.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">BUT he says…true change…the kind of change americans needed during his time that would bring about the abolition of slavery, womens rights, the rights of workers and all the other issues that mattered to them…true change was ONLY going to come about from ACTUAL individuals stepping up and daring to exist OUTSIDE of that mob. And again, it is a disgusting idea to Emerson to think that YOU are somehow not capable of BEING that individual.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Just… think of that whole idea for a second…that it takes a GREAT PERSON, to THINK of an idea that can change the world for the better. Emerson would want to ask…what REALLY is the difference BETWEEN the so called great person and the so called ordinary person?&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Because here’s what REALLY happens. Most people THINK about the world and have their OWN intelligent feelings about things. Most people…through the humility of social conditioning don’t DARE to speak up about their ideas for fear of looking stupid or the social backlash of it all. Then one day…somebody with…something…with enough childhood trauma to believe that THEY ACTUALLY HAVE SOMETHING IMPORTANT TO SAY…that person STEPS UP…has the COURAGE to voice their opinion…and then MAGICALLY…they start to gain supporters and followers. And why? Because they’re voicing something…that RESONATES with people. In other words, they’re voicing something that a lot of OTHER people were ALREADY thinking anyway. So where does this magic kick in? When does this person become somebody that’s anointed by God to feed us wisdom? In reality Emerson would ask…what REALLY was the difference between the great person and the ordinary…other THAN the fact that the great person when they were needed in a moment, didn’t take the safe and easy path of mimicry? EVERY thinking person is capable of being one of these so called great people.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">And it’s at THIS point in the essay that Emerson STOPS talking about how we SHOULDN’T be thinking…and starts shaping a plan for how we SHOULD be thinking. If you want to access the TRUTH of the universe, Emerson says…one good place to start is NOT going to be OUTSIDE of you in society…but the most inward, local, primary access point that WE have available to us…and THAT is… our own individual intuition.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">See if society can be thought of as an abstract collection of what he calls TUITIVE knowledge…then what WE can gain by accessing the universe through our individual perspective is what he calls INTUITIVE knowledge, and he places the latter on a much different level than the former. But it’s worth asking: where is all this coming from…why does the INDIVIDUAL specifically, GET such a privileged spot IN Emerson’s worldview?&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Well in some transcendentalist lore there is this concept of the Oversoul. Sometimes directly interchanged with the word, God.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But understand that Emerson’s far from some bible thumpin guy trying to save you from the devil. Once again, he’s a staunch opponent of ANY sort of dogma religious OR otherwise…that’s one of the main points of his work! No, our buddy Ralph… would be considered more of a Deist. He’s the type of person that believes in a God, believes in a creator and some sort of guaranteed unifying order to the universe…but DOESN’T believe that that God involves itself in human affairs whatsoever. I mean why would ya if you’re Emerson. The belief in this TYPE of a God frees him from the chains of religious fundamentalism, but also doesn’t relegate him to a hardline, purely materialistic view of the universe that might limit someone who is trying to explain things just through science. To Emerson, there ARE immaterial, transcendent aspects of reality…they just manifest themselves to us often times THROUGH the material world. More on this next episode but the important part here now is to understand this oversoul in his work and how it in part, represents a connection that the individual has to the universe in its totality.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">The idea in transcendentalism is that every part of the universe…is connected to every OTHER part of the universe. Including US, as self-reliant individuals, uncorrupted by society. He says:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“We lie in the lap of immense intelligence, which makes us receivers of its truth and organs of its activity.”</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">That immense intelligence he’s talking about is the oversoul…and as self reliant individuals we can BECOME receivers of its truth and organs of it’s activity. In other words…</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">People willing to pay attention, and watch the universe at work…will gain ACCESS to the truth. People unwilling to do the work who take the uninspired path of regurgitating talking points…will NEVER gain access to the truth. Wisdom gained from intuition… which he sometimes called spontaneity, he sometimes calls it instinct…wisdom gained from HERE…has a profound added benefit to Emerson…because NOT ONLY can this sort of wisdom inform our every day decisions…but then through the practice, of getting better at connecting with this oversoul, with the universe…we ALSO, inexorably, feel more connected with the universe and our relationship TO it. So being a truly self reliant individual…REMOVES THE NEED for some, third party text or group to make you actually feel connected to something.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Ralph Waldo Emerson closes out the essay talking about ways we can apply self-reliance to specific areas of society. For example religion asks us to conform…self reliance could improve that. The arts ask us to just imitate the artists that came before us, we could USE more self reliant artists. It’s an interesting closeout to the essay and its going to be relevant, to NEXT episode when we talk about his essay on nature, and how we can rethink the historical CONCEPT of nature, what that means, THROUGH this transcendentalist lens.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">But if I KNOW MY LISTENERS… then I KNOW there’s QUITE a bit of you out there all wondering the exact same thing right about now:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">So emerson’s saying that I shouldn’t follow society as a guide to tell me how I should be living, philosophers included…but he just spent the ENTIRE ESSAY…telling me…how I…should be…living. Wouldn’t you say that’s a bit inconsistent, and not in a good way?</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">And I think he would say YES. But I think he’d ALSO want to clarify heading into next episode…that he didn’t CLAIM TO BE or want to be THOUGHT of as a philosopher in the FIRST place. He thought of himself, it seems, as much more of a POET than a philosopher.&nbsp;</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">He thought philosophers had been missing the mark for a really long time…and to help frame ALL of the ideas presented in the episode today I’ll leave you with HIS words from ANOTHER section of his writing where he reimagines the entire way that philosophy might be done in the future. He writes:</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">“The analytic process is cold and bereaving and, shall I say it? Somewhat mean, as spying. There is something surgical in metaphysics as we treat it. Were not an ode a better form? The poet sees wholes and avoids analysis; the metaphysician, dealing as it were with the mathematics of the mind, puts himself out of the way of the inspiration; loses that which is the miracle and creates the worship. I think that philosophy is still rude and elementary. It will one day be taught by poets. The poet is in the natural attitude; he is believing; the philosopher, after some struggle, having only reasons for believing.”</p><p class="" style="white-space:pre-wrap;"><br></p>
@@ -1570,12 +1570,12 @@
 
 </div></div></div></div></div></div>
 
-        
+          
 
-        
-        
-          <div class="blog-item-author-profile-wrapper" data-content-field="author">
-            <a href="/transcript?author=5ed93d8e981c0869f203a7ea">
+          
+          
+            <div class="blog-item-author-profile-wrapper" data-content-field="author">
+              <a href="/transcript?author=5ed93d8e981c0869f203a7ea">
   
     <span class="author-avatar content-fill" data-tweaks="tweak-show-blog-item-author-profile">
       <img class="author-avatar-image" data-controller="AuthorProfileImageLoader" data-src="https://static1.squarespace.com/static/images/5ed93d8e3f6b28638e51b218" data-image="https://static1.squarespace.com/static/images/5ed93d8e3f6b28638e51b218" data-load="false" alt="" elementtiming="nbf-author-avatar" />
@@ -1586,17 +1586,18 @@
 
 
 
-          </div>
-        
-      </div>
-
-      <section class="blog-item-comments">
-        <div class="blog-item-comments-toggle-wrapper">
-          <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
-            
-          </div>
+            </div>
+          
         </div>
-      </section>
+
+        <section class="blog-item-comments">
+          <div class="blog-item-comments-toggle-wrapper">
+            <div id="blogItemCommentsContent" class="blog-item-comments-content" data-content-field="comments">
+              
+            </div>
+          </div>
+        </section>
+      
     </div>
   
 </article>
@@ -1941,7 +1942,7 @@
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b502231aaf751bf844c833e9880528bf.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.4df6f348a832dc61e261a099a8ca9b31.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
 
   </body>
